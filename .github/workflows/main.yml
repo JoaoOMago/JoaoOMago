@@ -24,8 +24,7 @@ jobs:
     - name: Install Dependencies if not cached
       if: steps.cache-pip-dependencies.outputs.cache-hit != 'true'
       run: |-
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r nekos
       
     - name: Run Python interface
       run: python main.py
