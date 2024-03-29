@@ -1,4 +1,4 @@
-name: Update Readme
+name: Update README
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
     - cron: "* 10 * * *" # -3 BR
 
 jobs:
-  update-readme:
+  update-README:
     runs-on: ubuntu-latest
     steps:
       - name: Setup repository
@@ -42,11 +42,11 @@ jobs:
 
       - name: Commit and Push
         run: |-
-          readme_file="readme.md"
-          if [ $(git status $readme_file --porcelain=v1 2>/dev/null | wc -l) != "0" ] ; then
+          README_file="README.md"
+          if [ $(git status $README_file --porcelain=v1 2>/dev/null | wc -l) != "0" ] ; then
             git config user.name "Github Actions" 
             git config user.email noreply@github.com
-            git add $readme_file
-            git commit -m "chore: updated $readme_file"
+            git add $README_file
+            git commit -m "chore: updated $README_file"
             git push origin master --force
           fi
