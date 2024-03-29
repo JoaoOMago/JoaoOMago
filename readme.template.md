@@ -1,7 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/joão-pedro-gozzoli-b95641301/) &bull;
 [Email](joaopedrogozzoli@gmail.com)
 
-# Welcome <img src="Git\assets1\wave.gif" height="32px" />
+# Welcome <img src="wave.gif" height="32px" />
 
 I am João, a  **control and automation engineering student** and **mechatronic technician** based in Brazil Br.
 
