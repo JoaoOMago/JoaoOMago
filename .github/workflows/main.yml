@@ -1,3 +1,7 @@
+
+
+
+
 name: Update README
 
 on:
@@ -16,9 +20,12 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.x
-        
-    - name: Install dependencies
-      run: pip install nekos
+
+    - name: Install Dependencies if not cached
+      if: steps.cache-pip-dependencies.outputs.cache-hit != 'true'
+      run: |-
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
       
     - name: Run Python interface
       run: python main.py
