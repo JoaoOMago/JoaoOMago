@@ -4,8 +4,9 @@
 name: Python application
 
 on:
-  workflow_dispatch:
-
+  schedule:
+    - cron: "* 11 * * *"
+    
 permissions:
   write-all
 
