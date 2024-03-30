@@ -1,3 +1,4 @@
+import os
 import io
 import nekos
 from datetime import datetime
