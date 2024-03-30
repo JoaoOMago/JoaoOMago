@@ -50,5 +50,5 @@ def main():
     create_readme()
 
 
-if __name__ == '__main__':
-    main()
+
+main()
