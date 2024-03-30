@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random stat about me - I have been on this planet for **7397 days**.
 
-And here is a just a random fact -  **In one day, a queen bee can lay up to 1500 eggs in one day**.
+And here is a just a random fact -  **The reason why hair turns gray as we age is because the pigment cells in the hair follicle start to die, which is responsible for producing "melanin" which gives the hair colour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
