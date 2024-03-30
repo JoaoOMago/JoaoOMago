@@ -51,5 +51,5 @@ def main():
     create_readme()
 
 
-os.remove("README.md")
-#main()
+#os.remove("README.md")
+main()
