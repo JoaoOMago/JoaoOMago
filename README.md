@@ -9,10 +9,10 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7401 days**.
+Here is a random fact about me - I have been on this planet for **7402 days**.
 
-And here is a just a random fact -  **The most popular pickle is the Dill pickle**.
+And here is a just a random fact -  **The name Jeep came from the abbreviation used in the army for the "General Purpose" vehicle, G.P**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 Apr, 2024.</sub>
+<sub>Last updated by Github Actions on 04 Apr, 2024.</sub>
