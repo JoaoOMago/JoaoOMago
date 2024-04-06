@@ -9,10 +9,10 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7403 days**.
+Here is a random fact about me - I have been on this planet for **7404 days**.
 
-And here is a just a random fact -  **Each day, anywhere from 35-150 species of life go extinct**.
+And here is a just a random fact -  **Only one person in two billion will live to be 116 or older**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Apr, 2024.</sub>
+<sub>Last updated by Github Actions on 06 Apr, 2024.</sub>
