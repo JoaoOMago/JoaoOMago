@@ -9,10 +9,10 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7406 days**.
+Here is a random fact about me - I have been on this planet for **7407 days**.
 
-And here is a just a random fact -  **Emilio Marco Palma was the first person born in Antarctica in 1978**.
+And here is a just a random fact -  **The word "laser" stands for "Light Amplification by Stimulated Emission by radiation."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 08 Apr, 2024.</sub>
+<sub>Last updated by Github Actions on 09 Apr, 2024.</sub>
