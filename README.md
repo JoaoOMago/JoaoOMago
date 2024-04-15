@@ -9,10 +9,10 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7412 days**.
+Here is a random fact about me - I have been on this planet for **7413 days**.
 
-And here is a just a random fact -  **Five Jell-O flavors that flopped: celery, coffee, cola, apple, andchocolate.**.
+And here is a just a random fact -  **Both Thomas Jefferson and Jimmy Carter, U.S. presidents, were peanut farmers at one time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 14 Apr, 2024.</sub>
+<sub>Last updated by Github Actions on 15 Apr, 2024.</sub>
