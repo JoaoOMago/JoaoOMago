@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7414 days**.
 
-And here is a just a random fact -  **Percentage of Americans who have visited Disneyland/Disney World: 70%**.
+And here is a just a random fact -  **Actress Debra Winger helped to perform the voice of E.T. in the movie ?E.T. The Extra Terrestrial (1982)."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
