@@ -31,14 +31,15 @@ def get_age(dob):
     now = datetime.now()
     dob = datetime.strptime(dob, '%Y-%m-%d')
     age = (now - dob)
+    print(now,"aaaaa",dob,"aaaaa",age)
+    
     current_hour = now.hour
     value = 10
     result = current_hour - value
-    if result < 0:
+    if result > 0:
         age -= timedelta(days=1)
-    age = age.days
-    
-    return str(age)
+        
+    return str(age.days)
 
 
 def get_last_updated():
