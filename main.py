@@ -36,7 +36,7 @@ def get_age(dob):
     current_hour = now.hour
     value = 10
     result = current_hour - value
-    if result > 0:
+    if result < 0:
         age -= timedelta(days=1)
         
     return str(age.days)
