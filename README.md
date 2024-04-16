@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7413 days**.
+Here is a random fact about me - I have been on this planet for **7414 days**.
 
-And here is a just a random fact -  **Parts of the Dead Sea Scrolls appeared for sale in the June 1, 1954 issue of the Wall Street Journal**.
+And here is a just a random fact -  **Average life span of a major league baseball: 7 pitches.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
