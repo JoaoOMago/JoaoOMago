@@ -30,7 +30,7 @@ def get_age(dob):
 
     now = datetime.now()
     dob = datetime.strptime(dob, '%Y-%m-%d')
-    age = (now - dob).days
+    age = (now - dob)
     current_hour = now.hour
     value = 10
     result = current_hour - value
