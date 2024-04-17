@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7414 days**.
+Here is a random fact about me - I have been on this planet for **7415 days**.
 
-And here is a just a random fact -  **To make one pound of whole milk cheese, 10 pounds of whole milk is needed**.
+And here is a just a random fact -  **The act of stretching and yawning is referred to as pandiculation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
