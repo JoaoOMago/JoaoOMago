@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7416 days**.
+Here is a random fact about me - I have been on this planet for **7417 days**.
 
-And here is a just a random fact -  **In 1905, Chapman and Skinner in San Francisco invented the first portable electric vacuum.**.
+And here is a just a random fact -  **Many hamsters only blink one eye at a time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
