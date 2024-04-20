@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7418 days**.
 
-And here is a just a random fact -  **January is named for the Roman god Janus. Janus was a temple god who could look forward and backward at the same time**.
+And here is a just a random fact -  **Soldiers disease is a term for morphine addiction. The Civil War produced over 400,000 morphine addicts**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
