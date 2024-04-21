@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7419 days**.
 
-And here is a just a random fact -  **Botanically a rhubarb is a vegetable. It was changed to a fruit in 1947 by a U.S. Custom Court**.
+And here is a just a random fact -  **A species of earthworm, "Megascolides australis," in Australia can grow up to fifteen feet in length**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
