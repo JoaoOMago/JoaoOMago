@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7418 days**.
 
-And here is a just a random fact -  **The New York Yankees have appeared in the World Series a league leading 38 times and won 26 titles**.
+And here is a just a random fact -  **The Koala bear is not really a bear, but is really related to the kangaroo and the wombat.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
