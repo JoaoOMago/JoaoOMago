@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7419 days**.
 
-And here is a just a random fact -  **A house cat spends 70% of its time sleeping**.
+And here is a just a random fact -  **The amount of Kit Kat chocolate bars that are made at the York factory every 15 minutes are enough to outstack the Eiffel Tower**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 21 Apr, 2024.</sub>
+<sub>Last updated by Github Actions on 22 Apr, 2024.</sub>
