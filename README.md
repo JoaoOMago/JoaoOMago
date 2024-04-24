@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7421 days**.
 
-And here is a just a random fact -  **It would take 29 million years for a car travelling 100 miles per hour to reach the nearest star**.
+And here is a just a random fact -  **The reason firehouses have circular stairways is from the days of yorewhen the engines were pulled by horses. The horses were stabled on theground floor and figured out how to walk up straight staircases.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
