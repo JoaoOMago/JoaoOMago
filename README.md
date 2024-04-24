@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7422 days**.
 
-And here is a just a random fact -  **If all the insects in the world were put on a scale, they would out weigh all creatures**.
+And here is a just a random fact -  **Over 600,000 people died as a result of the Spanish influenza epidemic**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
