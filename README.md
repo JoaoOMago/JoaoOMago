@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7422 days**.
+Here is a random fact about me - I have been on this planet for **7423 days**.
 
-And here is a just a random fact -  **The reason why locusts swarm are because when they are in groups, a "hot-spot" behind their hind legs is stimulated, which in turn causes their destructive nature. A large swarm of locusts can eat eighty thousand tons of corn in a day**.
+And here is a just a random fact -  **The Baltimore Orioles opened the 1988 baseball season by losing the first 21 games and 107 altogether for the entire season**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
