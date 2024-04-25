@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7423 days**.
 
-And here is a just a random fact -  **The word breakfast was coined due to the fact that after sleeping for hours, we are "breaking our fast."**.
+And here is a just a random fact -  **May babies are on average 200 grams heavier than babies born in other months**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
