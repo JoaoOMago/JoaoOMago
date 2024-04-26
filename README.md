@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7424 days**.
 
-And here is a just a random fact -  **The designated instrument for the city of Detroit is the accordion**.
+And here is a just a random fact -  **In the movie "The Exorcist" the vomit that (Regan) Linda Blair hurls at Father Damien Karras is thick pea soup**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
