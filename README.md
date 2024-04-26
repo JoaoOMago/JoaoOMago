@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7423 days**.
+Here is a random fact about me - I have been on this planet for **7424 days**.
 
-And here is a just a random fact -  **On average, Americans spend $1300 on utility bills annually**.
+And here is a just a random fact -  **The world record for time without sleep is 264 hours (11 days) by Randy Gardner in 1965**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
