@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7424 days**.
 
-And here is a just a random fact -  **In the Pacific Islands when people get burns they often use a banana leaf as treatment**.
+And here is a just a random fact -  **The incidents of immune system diseases has increased over 200% in the last five years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
