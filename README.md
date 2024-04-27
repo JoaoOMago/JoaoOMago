@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7424 days**.
 
-And here is a just a random fact -  **The full name of the Titanic ship is R.M.S. Titanic, which stands for Royal Mail Steamship**.
+And here is a just a random fact -  **The Australian box-jellyfish has eight eyes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Apr, 2024.</sub>
+<sub>Last updated by Github Actions on 27 Apr, 2024.</sub>
