@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7425 days**.
 
-And here is a just a random fact -  **No other animal gives us more by-products than the hog. These by-products include pig suede, buttons, glass, paint brushes, crayons, chalk, and insulation to name a few**.
+And here is a just a random fact -  **People whose mouth has a narrow roof are more likely to snore. This is because they have less oxygen going through their nose**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
