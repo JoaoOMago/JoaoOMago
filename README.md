@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7425 days**.
 
-And here is a just a random fact -  **Amazingly, goalies in the National Hockey League played without masks until the year 1959**.
+And here is a just a random fact -  **The Great Wall stretches for about 4,500 miles across North China**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 27 Apr, 2024.</sub>
+<sub>Last updated by Github Actions on 28 Apr, 2024.</sub>
