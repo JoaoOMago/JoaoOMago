@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7425 days**.
 
-And here is a just a random fact -  **More people die from eating sharks then from being eaten by them. This is due to a poison in shark meat**.
+And here is a just a random fact -  **A Singapore singing group by the name of "The Oriental Singers," sang non-stop for 74 hours and five minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
