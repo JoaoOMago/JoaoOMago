@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7426 days**.
 
-And here is a just a random fact -  **Cimeti?re du P?re Lachaise located in Paris is the most visited cemetery in the world. The cemetery opened in 1805 and has over one million people buried there, including rock star Jim Morrison**.
+And here is a just a random fact -  **Mr. Butts invented the game SCRABBLE. The game was originally called "Criss Cross Words."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
