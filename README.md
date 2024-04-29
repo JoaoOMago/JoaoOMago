@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7427 days**.
 
-And here is a just a random fact -  **Alexandre Gustave Eiffel, the man who designed the Eiffel Tower, also designed the inner structure of the Statue of Liberty in New York Harbour**.
+And here is a just a random fact -  **Colgate faced a big obstacle marketing toothpaste in Spanish speaking countries. Colgate translates into the command "go hang yourself."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
