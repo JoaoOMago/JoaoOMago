@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7427 days**.
 
-And here is a just a random fact -  **To produce a dozen eggs, a hen has to eat about four pounds of feed**.
+And here is a just a random fact -  **Elvis Presley had a twin brother named Jesse Garon Presley who died at birth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
