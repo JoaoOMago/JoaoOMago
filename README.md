@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7426 days**.
 
-And here is a just a random fact -  **The stapler was invented in Spring Valley, Minnesota.**.
+And here is a just a random fact -  **The largest hamburger cooked in the world weighed in at 6,040 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 28 Apr, 2024.</sub>
+<sub>Last updated by Github Actions on 29 Apr, 2024.</sub>
