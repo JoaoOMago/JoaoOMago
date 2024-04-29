@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7427 days**.
 
-And here is a just a random fact -  **A giraffe is able to clean its ears with its own tongue**.
+And here is a just a random fact -  **It is estimated that 93% of American children will go out trick or treating for Halloween**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
