@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7427 days**.
 
-And here is a just a random fact -  **It takes eight and a half minutes for light to get from the sun to earth.**.
+And here is a just a random fact -  **Pearls are rarely found in North American oysters**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
