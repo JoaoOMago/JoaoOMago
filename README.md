@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7428 days**.
 
-And here is a just a random fact -  **In a study conducted regarding toilet paper usage, Americans are said to use the most toilet paper per trip to the bathroom, which was seven sheets of toilet paper per trip**.
+And here is a just a random fact -  **Bhutan issued a stamp in 1973 that looked like a record and actually would play the Bhutanese national anthem if placed on a record player**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
