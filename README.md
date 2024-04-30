@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7427 days**.
 
-And here is a just a random fact -  **Celtic warriors sometimes fought their battles naked, their bodies dyed blue from head to toe**.
+And here is a just a random fact -  **Before soccer referees started using whistles in 1878, they used to rely on waving a handkerchief**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 29 Apr, 2024.</sub>
+<sub>Last updated by Github Actions on 30 Apr, 2024.</sub>
