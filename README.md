@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7428 days**.
 
-And here is a just a random fact -  **In his youth, United States president George W. Bush used to play for the Midland (Texas) Central Little League. He played the position of the catcher**.
+And here is a just a random fact -  **The spider used in the 2002 movie Spider-Man was a Steatoda spider, not a black widow. The spider was given anaesthesia, and was then painted blue and red**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
