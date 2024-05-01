@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7428 days**.
 
-And here is a just a random fact -  **The size of a red blood cell is 708 microns. This is equivalent to one millionth of a meter**.
+And here is a just a random fact -  **The palms of your hands and the soles of your feet cannot tan, or grow hair**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
