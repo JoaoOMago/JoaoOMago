@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7429 days**.
 
-And here is a just a random fact -  **English sailors were referred to as "limeys" because sailors added lime juice to their diet to combat scurvy**.
+And here is a just a random fact -  **Mr. Butts invented the game SCRABBLE. The game was originally called "Criss Cross Words."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
