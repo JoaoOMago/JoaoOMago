@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7429 days**.
 
-And here is a just a random fact -  **If you spray an antiseptic spray on a polar bear, its fur will turn purple**.
+And here is a just a random fact -  **In 10 minutes, a hurricane releases more energy than all the world'snuclear weapons combined.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
