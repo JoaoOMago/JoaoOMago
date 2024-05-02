@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7430 days**.
 
-And here is a just a random fact -  **Approximately 87% of dog owners say that when they watch T.V. their dog curls up beside them or at their feet**.
+And here is a just a random fact -  **Uranus is the only planet that rotates on its side**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
