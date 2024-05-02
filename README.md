@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7429 days**.
 
-And here is a just a random fact -  **The first toilet tank ever seen on television was on Leave it to Beaver**.
+And here is a just a random fact -  **An American chews an average of 300 sticks of gum in a year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 May, 2024.</sub>
+<sub>Last updated by Github Actions on 02 May, 2024.</sub>
