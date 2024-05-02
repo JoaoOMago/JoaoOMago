@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7429 days**.
 
-And here is a just a random fact -  **Florida has twice as many lightning injuries and deaths than any other state**.
+And here is a just a random fact -  **From all the vegetables, beets contain the most sugar**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
