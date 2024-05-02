@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7429 days**.
+Here is a random fact about me - I have been on this planet for **7430 days**.
 
-And here is a just a random fact -  **Next to bone marrow, hair is the fastest growing tissue in the human body**.
+And here is a just a random fact -  **Beluga whales which are also called "white whales" are not born white. They are born grey in color, and by the age of six become completely white**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
