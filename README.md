@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7429 days**.
 
-And here is a just a random fact -  **The first African-American to receive a Nobel Peace Prize was Ralph J. Bunche in 1950**.
+And here is a just a random fact -  **The letter J does not appear anywhere on the periodic table of the elements**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
