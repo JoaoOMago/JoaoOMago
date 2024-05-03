@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7431 days**.
 
-And here is a just a random fact -  **The airplane Buddy Holly died in was the "American Pie." (Thus the nameof the Don McLean song.)**.
+And here is a just a random fact -  **Warner Brothers Corset Company created the bra cup sizing system, which is now used universally used by manufacturers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
