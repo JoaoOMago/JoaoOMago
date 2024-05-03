@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7430 days**.
 
-And here is a just a random fact -  **In a lifetime, an average driver will release approximately 912 pints of wind inside a car**.
+And here is a just a random fact -  **A British term for slot machine is "fruit machine" or "one-armed bandit."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
