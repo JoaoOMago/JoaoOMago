@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7431 days**.
 
-And here is a just a random fact -  **In 1693, the postage rate of a letter was determined by how much light went through the letter. The less the light went through the letter the more expensive the rate would be. This technique was referred to as candling**.
+And here is a just a random fact -  **Enamel is hardest substance in the human body**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
