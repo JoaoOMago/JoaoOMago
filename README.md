@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7430 days**.
+Here is a random fact about me - I have been on this planet for **7431 days**.
 
-And here is a just a random fact -  **Taipan snakes have 50 times more toxic than a cobra snake**.
+And here is a just a random fact -  **A house cat spends 70% of its time sleeping**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
