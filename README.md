@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7430 days**.
 
-And here is a just a random fact -  **Energy is being wasted if a toaster is left plugged in after use**.
+And here is a just a random fact -  **In the United States, approximately 25,000 eye injuries occur that result in the person becoming totally blind**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 02 May, 2024.</sub>
+<sub>Last updated by Github Actions on 03 May, 2024.</sub>
