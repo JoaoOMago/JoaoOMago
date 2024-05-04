@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7432 days**.
 
-And here is a just a random fact -  **There are approximately 75,000,000 horses in the world**.
+And here is a just a random fact -  **The smoke that is produced by a fire kills more people than a burn does because of carbon monoxide and other dangerous gases**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
