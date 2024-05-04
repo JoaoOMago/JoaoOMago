@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7431 days**.
 
-And here is a just a random fact -  **After the Eiffel Tower was built, one person was killed during the installation of the lifts. No one was killed during the actual construction of the tower**.
+And here is a just a random fact -  **The most common injury caused by cosmetics is to the eye by a mascara wand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 May, 2024.</sub>
+<sub>Last updated by Github Actions on 04 May, 2024.</sub>
