@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7433 days**.
 
-And here is a just a random fact -  **High Priests in ancient Egypt were the only ones who were allowed to wear garments made from cotton**.
+And here is a just a random fact -  **Elvis had a twin brother named Jesse Garon, who died at birth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
