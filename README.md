@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7433 days**.
 
-And here is a just a random fact -  **The two top toys in 1950 were Silly Putty which sold for $1, and Crayola crayons which sold for 50 cents**.
+And here is a just a random fact -  **Milton Bradley originally wanted to name the game Twister, Pretzel; but he could not since the name was copyrighted**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
