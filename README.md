@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7434 days**.
 
-And here is a just a random fact -  **96% of people put the peanut butter on first when making a peanut butter and jelly sandwich**.
+And here is a just a random fact -  **After the "Popeye" comic strip was launched in 1931, spinach consumption went up by thirty-three percent in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
