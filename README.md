@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7433 days**.
+Here is a random fact about me - I have been on this planet for **7434 days**.
 
-And here is a just a random fact -  **Ramses II, a pharaoh of Egypt died in 1225 B.C. At the time of his death, he had fathered 96 sons and 60 daughters**.
+And here is a just a random fact -  **The origin of apples traces back to the Middle East over 4,000 years ago**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
