@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7434 days**.
 
-And here is a just a random fact -  **In one day, 230 marriage licenses are issued in Las Vegas**.
+And here is a just a random fact -  **The sperm count of an average American male compared to thirty years ago is down thirty percent**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
