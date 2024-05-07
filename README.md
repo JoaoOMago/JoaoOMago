@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7435 days**.
 
-And here is a just a random fact -  **There were 13 couples celebrating their honeymoon on the Titanic**.
+And here is a just a random fact -  **Dalmatian puppies do not have any spots on them when they are born. They actually develop them as they get older**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
