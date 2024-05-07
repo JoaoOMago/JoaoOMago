@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7434 days**.
 
-And here is a just a random fact -  **Dolphins hear by having sound waves transmit through their skull to their inner ear region**.
+And here is a just a random fact -  **Adolf Hitler loved chocolate cake**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
