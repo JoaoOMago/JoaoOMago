@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7435 days**.
 
-And here is a just a random fact -  **Humans are born with 300 bones in their body, however when a person reaches adulthood they only have 206 bones. This occurs because many of them join together to make a single bone**.
+And here is a just a random fact -  **Leather skin does not have any smell. The leather smell that you sense is actually derived from the materials used in the tanning process**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
