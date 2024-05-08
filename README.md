@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7435 days**.
+Here is a random fact about me - I have been on this planet for **7436 days**.
 
-And here is a just a random fact -  **Arabic numerals were not invented by Arabs, but were invented in India by the Hindus**.
+And here is a just a random fact -  **A ear trumpet was used before the hearing aid was invented by people who had difficulty hearing**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
