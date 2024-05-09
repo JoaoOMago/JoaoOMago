@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7436 days**.
 
-And here is a just a random fact -  **To make one glass of orange juice, 50 glasses of water are needed to grow enough oranges to make the juice**.
+And here is a just a random fact -  **In a year, the average Americans eats approximately 18 pounds of Turkey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
