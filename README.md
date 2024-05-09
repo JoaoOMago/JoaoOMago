@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7436 days**.
 
-And here is a just a random fact -  **An estimated 690 million people live in Africa**.
+And here is a just a random fact -  **The town of Churchill, Manitoba, located in Canada, is known as the "Polar Bear Capital of the World"**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
