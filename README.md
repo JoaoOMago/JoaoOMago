@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7437 days**.
 
-And here is a just a random fact -  **The small intestine in the human body is about 2 inches around, and 22 feet long**.
+And here is a just a random fact -  **Leonardo Da Vinci never signed or dated his most famous painting, the Mona Lisa**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
