@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7438 days**.
 
-And here is a just a random fact -  **Percentage of Americans who have visited Disneyland/Disney World: 70%**.
+And here is a just a random fact -  **1 out of every 4 kids in the USA is overweight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 May, 2024.</sub>
+<sub>Last updated by Github Actions on 11 May, 2024.</sub>
