@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7439 days**.
 
-And here is a just a random fact -  **It is very common for babies in New Zealand to sleep on sheepskins. This is to help them gain weight faster, and retain their body heat**.
+And here is a just a random fact -  **Bees can communicate with other bees by dancing. Their dance can alert other bees as to which direction and the distance nectar and pollen is located**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
