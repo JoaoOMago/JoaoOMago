@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7440 days**.
 
-And here is a just a random fact -  **In 1980, a Las Vegas hospital suspended workers for betting on when patients would die**.
+And here is a just a random fact -  **The Food and Drug Administration says the most common injury from cosmetics comes from scratching the eye with a mascara wand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
