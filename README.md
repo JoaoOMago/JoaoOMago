@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7440 days**.
 
-And here is a just a random fact -  **In 1902, the game table tennis was brought to the U.S. from Europe by Parker Brothers**.
+And here is a just a random fact -  **When the Statue of Liberty was moved from France to the United States, 214 crates were used to transport it. The Statue was also reduced to 350 pieces**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
