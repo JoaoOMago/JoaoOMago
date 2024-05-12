@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7440 days**.
 
-And here is a just a random fact -  **A study indicates that smokers are likely to die on average six and a half years earlier than non-smokers**.
+And here is a just a random fact -  **All of Chrysler's PT Cruisers are built in Mexico.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
