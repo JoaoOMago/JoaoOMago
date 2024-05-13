@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7440 days**.
 
-And here is a just a random fact -  **The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building**.
+And here is a just a random fact -  **It only takes a male horse 14 seconds to copulate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 May, 2024.</sub>
+<sub>Last updated by Github Actions on 13 May, 2024.</sub>
