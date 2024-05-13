@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7440 days**.
 
-And here is a just a random fact -  **Actress Meryl Streep holds the record for the most Oscar nominated actress, with a record of 13 nominations**.
+And here is a just a random fact -  **The most popular name for a pet in the United States is Max**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
