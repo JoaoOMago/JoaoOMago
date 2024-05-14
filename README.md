@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7441 days**.
 
-And here is a just a random fact -  **The longest town name in the world has 167 letters**.
+And here is a just a random fact -  **In Quebec, Canada, an old law states that margarine must be a different colour than butter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 13 May, 2024.</sub>
+<sub>Last updated by Github Actions on 14 May, 2024.</sub>
