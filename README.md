@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7442 days**.
 
-And here is a just a random fact -  **The most popular American city for Kool-Aid sales is St. Louis, Missouri**.
+And here is a just a random fact -  **An artificial Christmas tree last up to six years in a home**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
