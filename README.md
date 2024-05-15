@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7442 days**.
 
-And here is a just a random fact -  **Cost of raising a medium-size dog to the age of eleven: $6,400**.
+And here is a just a random fact -  **When Sony introduced the walkman, it had a variety of different names in different countries. It was called "Soundabout" in the U.S., "Stowaway" in the U.K., and "Freestyle" in Australia**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
