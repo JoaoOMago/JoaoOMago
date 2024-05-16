@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7444 days**.
 
-And here is a just a random fact -  **Some toothpastes and deodorants contain the same chemicals found in antifreeze**.
+And here is a just a random fact -  **The Eisenhower interstate system requires that one-mile in every five must be straight. These straight sections are usable as airstrips in times of war or other emergencies**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
