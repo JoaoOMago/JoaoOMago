@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7443 days**.
 
-And here is a just a random fact -  **Thomas Edison designed a helicopter that would work with gunpowder. It ended up blowing up and also blew up his factory.**.
+And here is a just a random fact -  **Platypuses mate in the water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
