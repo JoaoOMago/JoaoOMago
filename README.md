@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7445 days**.
 
-And here is a just a random fact -  **A common custom in Spain is to eat one grape for each of the last 12 seconds of every year for good luck**.
+And here is a just a random fact -  **The first fashion house to be set up was in 1858 by Charles Worth. He opened his store in Paris with the idea of having pre-made gowns presented on models to his customers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
