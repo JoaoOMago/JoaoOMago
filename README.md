@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7445 days**.
 
-And here is a just a random fact -  **On average, 150 couples get married in Las Vegas each day**.
+And here is a just a random fact -  **Edward VIII did not officially become the King of England as he abdicated the throne to marry an American divorcee**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
