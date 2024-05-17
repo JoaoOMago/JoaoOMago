@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7444 days**.
+Here is a random fact about me - I have been on this planet for **7445 days**.
 
-And here is a just a random fact -  **In ancient Rome, lead poisoning was a prevalent disease amongst the wealthy because of their extensive use of lead. Many Roman women died because of lead poisoning caused by the use of make-up that contained lead**.
+And here is a just a random fact -  **It is not possible to tickle yourself. The cerebellum, a part of the brain, warns the rest of the brain that you are about to tickle yourself. Since your brain knows this, it ignores the resulting sensation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
