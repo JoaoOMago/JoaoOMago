@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7446 days**.
 
-And here is a just a random fact -  **The honey badger can withstand hundreds of bee stings that would otherwise kill another animal**.
+And here is a just a random fact -  **An adult sheep can eat between 1 to 4 kg of food per day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
