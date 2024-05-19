@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7446 days**.
+Here is a random fact about me - I have been on this planet for **7447 days**.
 
-And here is a just a random fact -  **Canadians eat more Kraft Dinner (Macaroni and Cheese) per capita than any other country in the world**.
+And here is a just a random fact -  **In Israel, religious law forbids picking your nose on Sabbath**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
