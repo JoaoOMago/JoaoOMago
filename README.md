@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7447 days**.
 
-And here is a just a random fact -  **Women who are romance novel readers are reported to make love 74% more often with their partners than women who do not read romance novels.**.
+And here is a just a random fact -  **On December 17 1991, the Cleveland Cavaliers beat the Miami Heat 148-80, the largest margin of victory in an NBA game**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
