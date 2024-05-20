@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7447 days**.
 
-And here is a just a random fact -  **Polar bear livers contain so much Vitamin A that it can be fatal if eaten by a human**.
+And here is a just a random fact -  **1 out of every 4 kids in the USA is overweight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
