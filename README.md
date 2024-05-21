@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7448 days**.
 
-And here is a just a random fact -  **In 1996, toy company Mattel released a "Harley Davidson" Barbie. This dolls distinctive feature is a birth mark on her face that changes position with every new release of the doll**.
+And here is a just a random fact -  **The destruction of the Berlin Wall began when private citizens began to demolish entire sections of the Wall without interference from government officials on November 9, 1989**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
