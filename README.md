@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7449 days**.
 
-And here is a just a random fact -  **Burger King restaurants serve over 400 million ounces of orange juice annually**.
+And here is a just a random fact -  **Every year, kids in North America spend close to half a billion dollars on chewing gum**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
