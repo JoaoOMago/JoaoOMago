@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7450 days**.
+Here is a random fact about me - I have been on this planet for **7451 days**.
 
-And here is a just a random fact -  **The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building**.
+And here is a just a random fact -  **As an iceberg melts, it makes a fizzing sound because of the compressed air bubbles popping in the ice**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
