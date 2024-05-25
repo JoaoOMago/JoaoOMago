@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7453 days**.
 
-And here is a just a random fact -  **Hundreds of years ago, only the wealthy people used to wear underwear**.
+And here is a just a random fact -  **Ironically, when doctors in Los Angeles, California went on strike in 1976, the daily number of deaths in the city dropped 18%**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
