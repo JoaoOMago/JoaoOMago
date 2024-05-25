@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7453 days**.
 
-And here is a just a random fact -  **Former U.S. President Ronald Reagan once wore a Nazi uniform while acting in a film during his Hollywood days. The name of the movie was "Desperate Journey," which was filmed in 1942**.
+And here is a just a random fact -  **7-Eleven was the first convenience store to have television advertising. The animated commercial ran in 1949 and had a singing rooster and owl**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
