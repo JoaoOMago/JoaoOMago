@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7453 days**.
 
-And here is a just a random fact -  **Humans and cows have the same gestation period, which is about nine months**.
+And here is a just a random fact -  **Enamel is hardest substance in the human body**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
