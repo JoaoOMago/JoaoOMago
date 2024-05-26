@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7453 days**.
 
-And here is a just a random fact -  **Eating dandelions can make you urinate more**.
+And here is a just a random fact -  **There are 293 ways to make change for a dollar**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
