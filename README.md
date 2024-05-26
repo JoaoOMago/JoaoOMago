@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7453 days**.
 
-And here is a just a random fact -  **At the equator the Earth spins at about 1,038 miles per hour**.
+And here is a just a random fact -  **2.5 cans of Spam are consumed every second in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 May, 2024.</sub>
+<sub>Last updated by Github Actions on 26 May, 2024.</sub>
