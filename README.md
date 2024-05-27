@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7454 days**.
+Here is a random fact about me - I have been on this planet for **7455 days**.
 
-And here is a just a random fact -  **The Taj Mahal, located in Agra, India, was actually built for use as a tomb by Mogul ruler Shah Jehan for his wife, Arjuman Banu Begum**.
+And here is a just a random fact -  **Kellogg?s started selling their most famous product, Corn Flakes, in 1906**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
