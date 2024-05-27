@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7454 days**.
 
-And here is a just a random fact -  **The YKK on the zipper of your Levis stands for Yoshida Kogyo Kabushibibaisha, the worlds largest zipper manufacturer**.
+And here is a just a random fact -  **Feb 1865 and Feb 1999 are the only months in recorded history not to have a full moon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 May, 2024.</sub>
+<sub>Last updated by Github Actions on 27 May, 2024.</sub>
