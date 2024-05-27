@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7454 days**.
 
-And here is a just a random fact -  **In an episode of the 1962 cartoon The Jestons, Jane Jetson is talking through a video phone. The phone number of The Jetsons was VENUS-1234**.
+And here is a just a random fact -  **In Russia, when flowers are given for a romantic occasions, flowers are given in odds numbers as even number of flowers is given at funerals only**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
