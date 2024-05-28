@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7455 days**.
 
-And here is a just a random fact -  **The only poisonous birds in the world are the three species of Pitohui. The Hooded Pitohui from Papua New Guinea is the most deadliest out of the three**.
+And here is a just a random fact -  **The first theatre to show motion pictures was the Nickelodeon on June 19, 1905 in Pittsburgh, Pennsylvania. It was opened by Harry Davis on Smithfield Street**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
