@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7455 days**.
 
-And here is a just a random fact -  **Edward VIII did not officially become the King of England as he abdicated the throne to marry an American divorcee**.
+And here is a just a random fact -  **People whose mouth has a narrow roof are more likely to snore. This is because they have less oxygen going through their nose**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
