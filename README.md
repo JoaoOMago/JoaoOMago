@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7456 days**.
 
-And here is a just a random fact -  **The first commercial chewing gum was sold in 1848 by John B. Curtis, who also made the gum. He called the gum "State of Maine Pure Spruce Gum."**.
+And here is a just a random fact -  **If all the cars from the U.S. were taken and lined up from bumper to bumper, there would be enough cars to go to the moon from earth and back.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
