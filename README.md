@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7456 days**.
+Here is a random fact about me - I have been on this planet for **7457 days**.
 
-And here is a just a random fact -  **In a year, about 90 million jars of Skippy Peanut Butter are sold. This works out to three jars sold every second**.
+And here is a just a random fact -  **In Japan, the number four is considered to be unlucky because the Japanese word for four sounds very similar to the word death**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
