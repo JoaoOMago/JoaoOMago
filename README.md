@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7459 days**.
 
-And here is a just a random fact -  **A common custom in Spain is to eat one grape for each of the last 12 seconds of every year for good luck**.
+And here is a just a random fact -  **In the United States, every year about 15 people die from dog bites**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
