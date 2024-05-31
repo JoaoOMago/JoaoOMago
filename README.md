@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7458 days**.
 
-And here is a just a random fact -  **Research indicates that plants grow healthier when they are stroked.**.
+And here is a just a random fact -  **The first fruit eaten on the moon was a peach**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
