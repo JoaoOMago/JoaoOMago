@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7458 days**.
 
-And here is a just a random fact -  **In 1976, a Los Angeles secretary named Jannene Swift officially married a fifty pound rock. More than twenty people witnessed the ceremony**.
+And here is a just a random fact -  **The majority of burglaries occur during the daytime when people are not home**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 May, 2024.</sub>
+<sub>Last updated by Github Actions on 31 May, 2024.</sub>
