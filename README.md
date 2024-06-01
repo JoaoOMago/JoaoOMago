@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7460 days**.
 
-And here is a just a random fact -  **The name "Snickers" for the popular candy bar was named after a horse that the Mars family owned**.
+And here is a just a random fact -  **The Liberty Bell was the first mechanical slot machine, which was invented by Charles Fey, a car mechanic in 1895.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
