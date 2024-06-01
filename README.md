@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7460 days**.
 
-And here is a just a random fact -  **The deepest underwater penguin dive is 1,772 feet by an Emperor Penguin**.
+And here is a just a random fact -  **Orcas (killer whales), when traveling in groups, breathe in unison**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
