@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7459 days**.
 
-And here is a just a random fact -  **When opossums are playing 'possum, they are not "playing." Theyactually pass out from sheer terror.**.
+And here is a just a random fact -  **The longest word in the English language is 1909 letters long and it refers to a distinct part of DNA**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 31 May, 2024.</sub>
+<sub>Last updated by Github Actions on 01 Jun, 2024.</sub>
