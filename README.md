@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7461 days**.
 
-And here is a just a random fact -  **Oral-B is a combination of oral hygiene and the letter B, which stands for the word better**.
+And here is a just a random fact -  **Since 1978, at least 37 people have died as a result of shaking vending machines, in an attempt to get free merchandise. More than 100 people have been injured**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 02 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 03 Jun, 2024.</sub>
