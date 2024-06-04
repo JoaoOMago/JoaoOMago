@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7462 days**.
 
-And here is a just a random fact -  **The human heart weighs less than a pound**.
+And here is a just a random fact -  **Approximately 50% of Americans admit they have ran a red light**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
