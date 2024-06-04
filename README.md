@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7462 days**.
+Here is a random fact about me - I have been on this planet for **7463 days**.
 
-And here is a just a random fact -  **Two out of five people end up marrying their first love**.
+And here is a just a random fact -  **The act of stretching and yawning is referred to as pandiculation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
