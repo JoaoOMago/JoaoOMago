@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7462 days**.
 
-And here is a just a random fact -  **In the 1920's, Q-Tips were invented by Leo Gerstenzang who got the idea after watching his wife clean their baby's ears with cotton stuck onto a toothpick.**.
+And here is a just a random fact -  **It takes about three hours for food to be broken down in the human stomach**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
