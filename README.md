@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7464 days**.
 
-And here is a just a random fact -  **97% of all paper money in the US contains traces of cocaine**.
+And here is a just a random fact -  **Pumpkins contain potassium and vitamin A**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
