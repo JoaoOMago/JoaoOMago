@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7463 days**.
 
-And here is a just a random fact -  **The liquid inside young coconuts can be used as substitute for blood plasma**.
+And here is a just a random fact -  **In a pack of Skittles candy, there is an equal 20% distribution of each flavour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
