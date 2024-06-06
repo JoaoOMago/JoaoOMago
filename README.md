@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7464 days**.
 
-And here is a just a random fact -  **In one gram of soil, about ten million bacteria live in it**.
+And here is a just a random fact -  **Copper is the second most used metal in the world.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 06 Jun, 2024.</sub>
