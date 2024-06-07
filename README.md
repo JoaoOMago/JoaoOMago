@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7465 days**.
+Here is a random fact about me - I have been on this planet for **7466 days**.
 
-And here is a just a random fact -  **No other animal gives us more by-products than the hog. These by-products include pig suede, buttons, glass, paint brushes, crayons, chalk, and insulation to name a few**.
+And here is a just a random fact -  **The name Aspirin was invented from "A" in acetyl chloride. The "spir" comes from spiraea ulmaria which is the plant that they got the salicylic acid from, and the "in" was used because back then it was popular to end the name of medicines with "in."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
