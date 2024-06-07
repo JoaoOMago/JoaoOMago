@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7466 days**.
 
-And here is a just a random fact -  **Pretzel that have no salt on them are called "baldies."**.
+And here is a just a random fact -  **Only 23% of New Zealand families have more than two children**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
