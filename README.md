@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7466 days**.
 
-And here is a just a random fact -  **1 out of 350,000 Americans get electrocuted in their life**.
+And here is a just a random fact -  **The Nike swoosh was invented by Caroline Davidson back in 1971. She received $35 for making the swoosh. The first shoe with the swoosh was introduced in 1972**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
