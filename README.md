@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7466 days**.
 
-And here is a just a random fact -  **The first jigsaw puzzle was created by map maker John Splisbury who mounted one of his maps on a sheet of hardwood. He proceeded to cut around the borders of each country use a fine saw**.
+And here is a just a random fact -  **The Roman emperor Commodus was at one time going to change the name of Rome to Colonia Commodiana**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
