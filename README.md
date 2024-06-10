@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7468 days**.
 
-And here is a just a random fact -  **There is now an ATM at McMurdo Station in Antarctica, which has a winter population of two hundred people**.
+And here is a just a random fact -  **The American Automobile association was formed in 1905 for the sole purpose of warning motorists of police speed traps**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
