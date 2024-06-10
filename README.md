@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7468 days**.
 
-And here is a just a random fact -  **Tomatos were once referred to as "love apples." This is because their was a superstition that people would fall in love by eating them**.
+And here is a just a random fact -  **The Central African raffia palm is known to have the longest leaves. The leaves can measure up to 82.5 feet long.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
