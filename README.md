@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7468 days**.
 
-And here is a just a random fact -  **The Hollywood sign was first erected in 1923. It was first erected as "Hollywoodland."**.
+And here is a just a random fact -  **The word Thailand means "land of the free."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 09 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 10 Jun, 2024.</sub>
