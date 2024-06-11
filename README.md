@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7469 days**.
 
-And here is a just a random fact -  **Russian I.M. Chisov survived a 21,980 plunge out of a plane with no parachute. He landed on the steep side of a snow-covered mountain with only a fractured pelvis and slight concussion**.
+And here is a just a random fact -  **More people are killed by donkeys annually than are killed in plane crashes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 11 Jun, 2024.</sub>
