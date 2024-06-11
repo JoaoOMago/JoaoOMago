@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7470 days**.
 
-And here is a just a random fact -  **Women who are romance novel readers are reported to make love 74% more often with their partners than women who do not read romance novels.**.
+And here is a just a random fact -  **Edwin Armstrong invented FM radio in 1933. The first men to use FM radio to communicate with Earth from the moon's surface were named Edwin Aldrin and Neil Armstrong.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
