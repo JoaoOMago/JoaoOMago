@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7469 days**.
 
-And here is a just a random fact -  **The Mexican version of the Tooth Fairy is known as the Tooth Mouse, which takes the tooth and leaves treasures in its place**.
+And here is a just a random fact -  **The right lung of a human is larger than the left one. This is because of the space and placement of the heart**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
