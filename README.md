@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7470 days**.
 
-And here is a just a random fact -  **Pluto is the only planet in our solar system that has not been visited by a spacecraft**.
+And here is a just a random fact -  **In a survey conducted in 2000 by Kimberly-Clark, it was found that men prefer to fold their toilet paper, and women like to wad it**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 12 Jun, 2024.</sub>
