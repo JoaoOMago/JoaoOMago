@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7471 days**.
 
-And here is a just a random fact -  **The United States produces enough plastic film annually to cover the entire state of Texas**.
+And here is a just a random fact -  **The word "moose" comes from the native Algonquian Indian word meaning "twig eater."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 13 Jun, 2024.</sub>
