@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7472 days**.
 
-And here is a just a random fact -  **In America, one out of every two marriages ends up in divorce**.
+And here is a just a random fact -  **U.S. Postal Service processes 38 million address changes each year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
