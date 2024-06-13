@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7471 days**.
+Here is a random fact about me - I have been on this planet for **7472 days**.
 
-And here is a just a random fact -  **Mummy powder was once thought to be a cure for all remedies. English men used to carry the powder with them in a tiny bag wherever they went**.
+And here is a just a random fact -  **On average, Guinness sells 7 million glasses of beer a day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
