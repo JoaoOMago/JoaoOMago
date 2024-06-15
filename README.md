@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7473 days**.
 
-And here is a just a random fact -  **There are 122 pebbles per square inch on a Spalding basketball**.
+And here is a just a random fact -  **In the U.S., over 35 million people have used some sort of illegal drug in the last year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
