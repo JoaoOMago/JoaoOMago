@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7473 days**.
 
-And here is a just a random fact -  **State with the highest percentage of people who walk to work: Alaska**.
+And here is a just a random fact -  **There is a city called Smackover located in Arkansas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 14 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 15 Jun, 2024.</sub>
