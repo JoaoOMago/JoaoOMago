@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7473 days**.
 
-And here is a just a random fact -  **The name Santa Claus came from Saint Nicholas who was a bishop in the town of Myra, and was known to be very nice to children**.
+And here is a just a random fact -  **Baby donkeys or baby mules are also known as "Foals."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
