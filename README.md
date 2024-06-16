@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7475 days**.
 
-And here is a just a random fact -  **The largest spider ever was the Megarachne which had a diameter of 50 cm. The fossil was found in Argentina**.
+And here is a just a random fact -  **The biggest religious building in the world is a Hindu Temple, Angkor Wat, located in Cambodia. It was built at the end of the 11th century**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
