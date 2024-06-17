@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7475 days**.
 
-And here is a just a random fact -  **The smallest stamp in the world was issued in 1863 by the Columbian state of Bolivar and measured 9.5 x 8mm**.
+And here is a just a random fact -  **Camel is considered unclean meat in the Bible**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 16 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 17 Jun, 2024.</sub>
