@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7478 days**.
 
-And here is a just a random fact -  **The longer white infants from low-income families are breast-fed, the less likely they will be overweight as young children, researchers said on Monday**.
+And here is a just a random fact -  **In Japan, by the time man reaches the age of 60, he is commemorated with a special ceremony. This ceremony features the man wearing a red kimono, which denotes that he no longer has the responsibilities of being a mature adult**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
