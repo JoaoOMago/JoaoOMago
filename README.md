@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7477 days**.
 
-And here is a just a random fact -  **There are over 600 different pasta shapes**.
+And here is a just a random fact -  **The mother of famous astronomer Johannes Kepler was accused of being a witch**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
