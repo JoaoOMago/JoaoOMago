@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7479 days**.
 
-And here is a just a random fact -  **The first museum in Moscow that was set up in 1791 was the Natural History Laboratory at Moscow University. This later was changed to the Zoological Museum**.
+And here is a just a random fact -  **The heart of an adult giraffe weighs on average 26 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
