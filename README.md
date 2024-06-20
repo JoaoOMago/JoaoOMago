@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7479 days**.
 
-And here is a just a random fact -  **Tobacco kills more Americans each year than alcohol, cocaine, crack, heroin, homicide, suicide, car accidents, fire and AIDS combined**.
+And here is a just a random fact -  **The thing that hangs from the top of the beak of a turkey is called the snood**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
