@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7478 days**.
 
-And here is a just a random fact -  **Most cows give more milk when they listen to music**.
+And here is a just a random fact -  **It is common in Israel and Egypt to eat watermelon with feta cheese**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
