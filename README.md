@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7479 days**.
 
-And here is a just a random fact -  **111,111,111 x 111,111,111 = 12,345,678,987,654,321**.
+And here is a just a random fact -  **In 1902, the game table tennis was brought to the U.S. from Europe by Parker Brothers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
