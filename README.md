@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7480 days**.
 
-And here is a just a random fact -  **The longest distance a deepwater lobster has been recorded to travel is 225 miles**.
+And here is a just a random fact -  **People of Salt Lake City eat the most lime-flavoured gelatin Jell-O in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
