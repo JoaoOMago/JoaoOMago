@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7480 days**.
 
-And here is a just a random fact -  **Dolphins can swim and sleep at the same time**.
+And here is a just a random fact -  **A rainbow can occur only when the sun is 40 degrees or less above the horizon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
