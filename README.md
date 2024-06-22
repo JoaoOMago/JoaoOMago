@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7480 days**.
 
-And here is a just a random fact -  **7-Eleven is the largest retail chain in the world. Click Here For More Details**.
+And here is a just a random fact -  **There are over 2,000 different types of cheese in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
