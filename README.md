@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7480 days**.
+Here is a random fact about me - I have been on this planet for **7481 days**.
 
-And here is a just a random fact -  **Daytime dramas are called Soap Operas because they were originally used to advertise soap powder. In America in the early days of TV, advertisers would write stories around the use of their soap powder**.
+And here is a just a random fact -  **Only 4% of babies are born on their actual due date**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
