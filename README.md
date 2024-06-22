@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7480 days**.
 
-And here is a just a random fact -  **The first company to mass produce teddy bears was the Ideal Toy Company**.
+And here is a just a random fact -  **Leaving the water running while brushing your teeth can waste four gallons of water in a minute**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
