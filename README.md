@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7481 days**.
 
-And here is a just a random fact -  **The United States has paved enough roads to circle the Earth over 150 times.**.
+And here is a just a random fact -  **The tallest woman that ever lived was Zeng Jinlian who was 8 feet 2 inches tall of China. Shed died at the age of 17**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
