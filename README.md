@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7481 days**.
 
-And here is a just a random fact -  **From 1939 to 1942, there was a undersea post office in the Bahamas**.
+And here is a just a random fact -  **Ukrainian monk, Dionysius Exiguus, created the modern day Christian calendar**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 22 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 23 Jun, 2024.</sub>
