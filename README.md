@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7481 days**.
 
-And here is a just a random fact -  **The male howler monkey of Central and South America is the noisiest land animal, which can be heard clearly from a distance of ten miles away**.
+And here is a just a random fact -  **In 1917, Margaret Sanger was jailed for one month for establishing the first birth control clinic**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
