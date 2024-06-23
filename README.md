@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7481 days**.
 
-And here is a just a random fact -  **American women, on average, spend 55 minutes per day getting showered, dressed, and groomed**.
+And here is a just a random fact -  **The only 15 letter word that can be spelled without repeating a letter is "uncopyrightable."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
