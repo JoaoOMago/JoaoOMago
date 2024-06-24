@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7482 days**.
 
-And here is a just a random fact -  **Deliberately infecting people with malaria has been used to cure different viral infections. The high fever will strengthen the immune system and fight the virus. In recent times this has been considered as a treatment to HIV**.
+And here is a just a random fact -  **The first toilet stall in a public washroom is the least likely to be used. It is also the cleanest**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
