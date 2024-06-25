@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7484 days**.
 
-And here is a just a random fact -  **Namco, who are the manufacturers of Pac Man the video game, has estimated that the original arcade game has been played over 10 billion times by individuals**.
+And here is a just a random fact -  **A world record 328 pound ovarian cyst was removed from a woman in Galveston, Texas, in 1905. updated**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
