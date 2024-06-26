@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7484 days**.
 
-And here is a just a random fact -  **41% of women apply body or hand moisturizer a minimum three times a day**.
+And here is a just a random fact -  **There are species of fish that can walk on land in search of water when its water source dries up. Some can survive as long as three days on land such as the snakehead fish**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
