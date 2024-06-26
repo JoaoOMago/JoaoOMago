@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7484 days**.
 
-And here is a just a random fact -  **Fourteen people die each day from asthma in the United States**.
+And here is a just a random fact -  **Before 1859, baseball umpires were seated in padded chairs behind home plate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 26 Jun, 2024.</sub>
