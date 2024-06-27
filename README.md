@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7485 days**.
 
-And here is a just a random fact -  **Majority of brides plan their wedding for approximately 7 to 12 months**.
+And here is a just a random fact -  **There is a restaurant in Stockholm that only offers all-garlic products. They even have a garlic cheesecake**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
