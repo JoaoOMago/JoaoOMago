@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7486 days**.
 
-And here is a just a random fact -  **Researchers have developed odourless socks. The sock fabric is made by attaching molecules that contain chlorine called halamines to textile fibers**.
+And here is a just a random fact -  **According to legend, tea originated in China when tea leaves accidentally blew into a pot of boiling water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
