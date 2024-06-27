@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7485 days**.
 
-And here is a just a random fact -  **The first domain name ever registered was Symbolics.com on March 15, 1985.**.
+And here is a just a random fact -  **It would take twenty new mid-size cars to generate the same amount of pollution that a mid-size 1960's car did.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
