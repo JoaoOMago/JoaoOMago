@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7487 days**.
 
-And here is a just a random fact -  **On average, Americans move to a new place eleven times in their lifetime**.
+And here is a just a random fact -  **It takes 12 honeybees to make one teaspoon of honey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
