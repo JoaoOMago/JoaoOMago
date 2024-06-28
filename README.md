@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7487 days**.
 
-And here is a just a random fact -  **Tohru Iwatani, the inventor of the video game Pac-Man, came up with the idea when he saw a pizza with a slice missing at a dinner party**.
+And here is a just a random fact -  **People from the United States eat the most chicken per person than anywhere else in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
