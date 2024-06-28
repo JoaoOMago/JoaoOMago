@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7486 days**.
 
-And here is a just a random fact -  **Totally Hair Barbie is the best selling Barbie of all time. It sold over ten million units**.
+And here is a just a random fact -  **Every 25 miles a car produces one pound of pollution.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
