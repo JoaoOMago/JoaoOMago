@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7486 days**.
 
-And here is a just a random fact -  **It is estimated that over fifty-four million people died in World War II, which was the bloodiest war in history**.
+And here is a just a random fact -  **Smartest dogs: 1) Scottish border collie; 2) Poodle; 3) Golden retriever**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
