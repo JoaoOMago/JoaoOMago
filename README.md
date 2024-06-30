@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7489 days**.
 
-And here is a just a random fact -  **The tallest woman that ever lived was Zeng Jinlian who was 8 feet 2 inches tall of China. Shed died at the age of 17**.
+And here is a just a random fact -  **An average city dog lives approximately three years longer than an average country dog**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
