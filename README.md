@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7488 days**.
+Here is a random fact about me - I have been on this planet for **7489 days**.
 
-And here is a just a random fact -  **Although white wine can be produced from both red and white grapes, red wine can only be created from red grapes**.
+And here is a just a random fact -  **The tallest woman that ever lived was Zeng Jinlian who was 8 feet 2 inches tall of China. Shed died at the age of 17**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
