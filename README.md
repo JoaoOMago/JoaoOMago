@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7488 days**.
 
-And here is a just a random fact -  **The first domain name ever registered was Symbolics.com on March 15, 1985.**.
+And here is a just a random fact -  **The reason why some people get a cowlick is because the growth of their hair is in a spiral pattern, which causes the hair to either stand straight up, or goes to a certain angle**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 29 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 30 Jun, 2024.</sub>
