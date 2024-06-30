@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7488 days**.
 
-And here is a just a random fact -  **In 1747, the first American mention of the Christmas tree occurred. However, it was a not a tree but instead a pyramid made out of wood and decorated with apples and evergreen boughs**.
+And here is a just a random fact -  **A Connecticut Toy maker, Herobuilders, sells action figures of President George W. Bush, Islamic militant Osama bin Laden, New York Mayor Rudolph Giuliani and British Prime Minister Tony Blair, which are all major figures tied to the September 11, 2001 WTC attacks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
