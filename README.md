@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7489 days**.
 
-And here is a just a random fact -  **The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is one of the few places in the world where a boat can sail under a train driving under a car driving under an airplane**.
+And here is a just a random fact -  **Halifax, Nova Scotia, Canada has the largest bar per capita than anywhere else in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 Jun, 2024.</sub>
+<sub>Last updated by Github Actions on 01 Jul, 2024.</sub>
