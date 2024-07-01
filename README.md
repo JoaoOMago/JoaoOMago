@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7489 days**.
 
-And here is a just a random fact -  **A U.S. company came out with a toilet night-light that sends out a green warning beacon when the seat is up**.
+And here is a just a random fact -  **The rhinoceros beetle can carry up to 850 times its weight on its back. This is equivalent to a person carrying over 50 mini-vans on their back**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
