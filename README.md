@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7489 days**.
 
-And here is a just a random fact -  **China has more English speakers than the United States**.
+And here is a just a random fact -  **Manicuring the nails has been done by people for more than 4,000 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
