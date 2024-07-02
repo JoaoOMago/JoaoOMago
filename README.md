@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7491 days**.
 
-And here is a just a random fact -  **Coca-cola used to use the slogan "Good to the last drop," in 1908. This slogan was later used by Maxwell House**.
+And here is a just a random fact -  **The steepest street in the world is Baldwin Street located in Dunedin, New Zealand. It has an incline of 38%**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
