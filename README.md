@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7491 days**.
 
-And here is a just a random fact -  **Over 200 varieties of watermelons are grown in the U.S**.
+And here is a just a random fact -  **The small intestine in the human body is about 2 inches around, and 22 feet long**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 02 Jul, 2024.</sub>
+<sub>Last updated by Github Actions on 03 Jul, 2024.</sub>
