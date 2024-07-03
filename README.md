@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7491 days**.
 
-And here is a just a random fact -  **Former U.S. president Ronald Reagan worked as a lifeguard in his youth at a beach near Dixon, Illinois and saved over 77 lives**.
+And here is a just a random fact -  **The sentence "the quick brown fox jumps over the lazy dog" uses every letter in the english language**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
