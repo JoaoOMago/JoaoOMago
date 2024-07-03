@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7492 days**.
 
-And here is a just a random fact -  **Cheetahs are the fastest land animal and can reach speeds up to 72mph**.
+And here is a just a random fact -  **In the United States, more than 4.2 million couples live together that are not married**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
