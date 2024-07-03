@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7491 days**.
 
-And here is a just a random fact -  **Frank Wathernam was the last prisoner to leave Alcatraz prison on March 21, 1963**.
+And here is a just a random fact -  **Rice is thrown at weddings as a symbol of fertility**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
