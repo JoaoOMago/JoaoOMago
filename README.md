@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7491 days**.
 
-And here is a just a random fact -  **The company "Sony" was originally called "Totsuken." They felt the name "Sony" would be easier to pronounce. The name was invented by a cross between the name "sonus" and "sonny." The name sound and sonic are derived. Sonny was used to represent a young man or boy, which would show a energetic young company**.
+And here is a just a random fact -  **In the United States, the first cookbook was published in 1796 and it contained a recipes for watermelon rind pickles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
