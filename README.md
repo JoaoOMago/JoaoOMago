@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7493 days**.
 
-And here is a just a random fact -  **Wherever a person is standing in the state of Michigan in the United States, they are within 85 miles of one of the Great Lakes**.
+And here is a just a random fact -  **A glockenspiel is a musical instrument that is like a xylophone. It has a series of metal bars and is played with two hammers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
