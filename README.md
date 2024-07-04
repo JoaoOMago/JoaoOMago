@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7492 days**.
+Here is a random fact about me - I have been on this planet for **7493 days**.
 
-And here is a just a random fact -  **The Welwitschia plant can live up to 1,000 years**.
+And here is a just a random fact -  **Stalks of sugar cane can reach up to 30 feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
