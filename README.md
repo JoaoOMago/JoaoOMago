@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7492 days**.
 
-And here is a just a random fact -  **A flea can jump 150 times its size. That is the same as a person able to jump up 1,000 feet in the air**.
+And here is a just a random fact -  **The loudest insect in the world is the male cicadas, which are like crickets. When they rub their abdomens, the sound made can be heard from 1300 feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 Jul, 2024.</sub>
+<sub>Last updated by Github Actions on 04 Jul, 2024.</sub>
