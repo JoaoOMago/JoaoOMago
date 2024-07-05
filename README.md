@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7494 days**.
 
-And here is a just a random fact -  **Corals take a long time to grow. Some corals only grow one centimeter in one year**.
+And here is a just a random fact -  **A crocodile can open and close its jaw but cannot move it side to side**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
