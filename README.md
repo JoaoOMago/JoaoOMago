@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7494 days**.
 
-And here is a just a random fact -  **People who have eaten beetles say that it tastes like apples**.
+And here is a just a random fact -  **Annually 7 million tons of textiles and clothing is thrown out. Out of this, only 12% is used again or recycled**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
