@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7495 days**.
 
-And here is a just a random fact -  **The postage rate for a letter in 1693 was determined through how much light could pass through the letter. The postage rate would be more expensive if less light went through, and this process was called candling**.
+And here is a just a random fact -  **The term "the whole 9 yards" came from WWII fighter pilots in thePacific. When arming their airplanes on the ground, the .50 calibermachine gunammo belts measured exactly 27 feet, before being loaded into thefuselage. If the pilots fired all their ammo at a target, it got "the whole 9yards."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
