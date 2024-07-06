@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7495 days**.
 
-And here is a just a random fact -  **The honey badger can withstand hundreds of bee stings that would otherwise kill another animal**.
+And here is a just a random fact -  **Before air conditioning was invented, white cotton slipcovers were put on furniture to keep the air cool.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
