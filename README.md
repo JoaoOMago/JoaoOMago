@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7496 days**.
 
-And here is a just a random fact -  **Only female mosquitoes bite humans. Male mosquitoes live on natural liquids from plants and other resources**.
+And here is a just a random fact -  **Approximately 40% of the U.S. paper currency in circulation was counterfeit by the end of the Civil War**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
