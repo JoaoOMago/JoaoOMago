@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7495 days**.
 
-And here is a just a random fact -  **Men can read smaller print than women; women can hear better**.
+And here is a just a random fact -  **The Taj Mahal, located in Agra, India, was actually built for use as a tomb by Mogul ruler Shah Jehan for his wife, Arjuman Banu Begum**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
