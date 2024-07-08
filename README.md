@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7496 days**.
+Here is a random fact about me - I have been on this planet for **7497 days**.
 
-And here is a just a random fact -  **During the era of Louis XIV, women used lemons to redden their lips**.
+And here is a just a random fact -  **The first Life Saver flavour, which was peppermint, was invented in 1912 and it was called Pep-O-Mint**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
