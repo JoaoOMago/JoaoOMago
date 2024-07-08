@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7496 days**.
 
-And here is a just a random fact -  **In 1905, Chapman and Skinner in San Francisco invented the first portable electric vacuum.**.
+And here is a just a random fact -  **Polar bears have been known to swim more than 60 miles without resting**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 07 Jul, 2024.</sub>
+<sub>Last updated by Github Actions on 08 Jul, 2024.</sub>
