@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7498 days**.
 
-And here is a just a random fact -  **Humans are the only primates that don't have pigment in the palms oftheir hands.**.
+And here is a just a random fact -  **One of the Bond girls in the James Bond movie, "For Your Eyes Only," used to be a man**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
