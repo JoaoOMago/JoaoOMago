@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7498 days**.
 
-And here is a just a random fact -  **The highest bridge in the world is located in the Himalyan mountains. It was built by the Indian Army, in 1982, and is about 5,600 metres above sea level**.
+And here is a just a random fact -  **In 1888, Hollywood was founded by Harvey and Daeida Wilcox, who named the city after their summer home in Chicago**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
