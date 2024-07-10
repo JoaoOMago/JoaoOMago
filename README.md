@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7499 days**.
 
-And here is a just a random fact -  **The original meaning of the word grocer was referring to a person who traded food in wholesale. These people would usually sell in large quantities, or by the "gross."**.
+And here is a just a random fact -  **The name "Grey Poupon" used for mustard comes from two people: Maurice Grey and Auguste Poupon. Grey was the inventor of a machine that mass produced fine textured mustard, and Poupon was an already established maker of mustard. In 1886 the Grey-Poupon firm was formed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
