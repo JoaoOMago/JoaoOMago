@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7498 days**.
 
-And here is a just a random fact -  **Each year approximately half of billions dollars is spent on bubble gum by the kids in North America**.
+And here is a just a random fact -  **In 1923, the first neon sign was introduced in the U.S. Two neon signs were sold to a Packard car dealership for $24,000 which read, "Packard."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
