@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7498 days**.
 
-And here is a just a random fact -  **Hydrogen solid is the most dense substance in the world, at 70.6g/cc**.
+And here is a just a random fact -  **Close to 80% of people who watch the Super Bowl on television, only do so to view the commercials**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 09 Jul, 2024.</sub>
+<sub>Last updated by Github Actions on 10 Jul, 2024.</sub>
