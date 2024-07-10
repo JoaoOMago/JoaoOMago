@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7499 days**.
 
-And here is a just a random fact -  **In a survey conducted in 2000 by Kimberly-Clark, it was found that men prefer to fold their toilet paper, and women like to wad it**.
+And here is a just a random fact -  **The original meaning of the word grocer was referring to a person who traded food in wholesale. These people would usually sell in large quantities, or by the "gross."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
