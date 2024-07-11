@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7499 days**.
 
-And here is a just a random fact -  **One acre of wheat can produce enough bread to feed a family of four people for about ten years**.
+And here is a just a random fact -  **The first email was sent out by Ray Tomlinson in 1971**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
