@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7499 days**.
 
-And here is a just a random fact -  **Only one out of every three people wash their hands when leaving a public bathroom**.
+And here is a just a random fact -  **Brain damage will only occur if a fever goes above 107.6 degrees farenheit**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
