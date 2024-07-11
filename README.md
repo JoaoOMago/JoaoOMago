@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7500 days**.
 
-And here is a just a random fact -  **Over 436,000 U.S. Troops were exposed to depleted uranium during the first Gulf war**.
+And here is a just a random fact -  **There are mirrors on the moon. Astronauts left them so that laser beams could be bounced off of them from Earth. These beams help give us the distance to the moon give or take a few metres.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
