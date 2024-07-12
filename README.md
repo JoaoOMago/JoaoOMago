@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7500 days**.
+Here is a random fact about me - I have been on this planet for **7501 days**.
 
-And here is a just a random fact -  **When opossums are playing 'possum, they are not "playing." Theyactually pass out from sheer terror.**.
+And here is a just a random fact -  **An estimated 690 million people live in Africa**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
