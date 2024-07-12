@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7501 days**.
 
-And here is a just a random fact -  **On average, an American family sends and receives 28 Christmas cards each year**.
+And here is a just a random fact -  **Babies who wear disposable diapers are five times more likely to develop diaper rash than those that wear cotton diapers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
