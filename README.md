@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7500 days**.
 
-And here is a just a random fact -  **It only takes a male horse 14 seconds to copulate**.
+And here is a just a random fact -  **Moscow was founded in 1147 by Yury Dolgoruky**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Jul, 2024.</sub>
+<sub>Last updated by Github Actions on 12 Jul, 2024.</sub>
