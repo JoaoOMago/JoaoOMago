@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7501 days**.
 
-And here is a just a random fact -  **Forty percent of Americans iron their clothes while wearing their underwear or being completely naked**.
+And here is a just a random fact -  **The TV show "Saturday Night Live" made its debut on October 11, 1975**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
