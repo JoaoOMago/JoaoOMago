@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7503 days**.
 
-And here is a just a random fact -  **The United Parcel Service shipped the killer whale Keiko (star of Disney movie "Free Willy") from Mexico City to Newport, Oregon in 1998**.
+And here is a just a random fact -  **The Sears Tower located in Chicago, Illinois is made up 76,000 tons of steel**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
