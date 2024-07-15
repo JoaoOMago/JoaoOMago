@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7504 days**.
 
-And here is a just a random fact -  **Left-handed people are better at sports that require good spatial judgment and fast reaction, compared to right-handed individuals**.
+And here is a just a random fact -  **The official state tree of Illinois is The White Oak**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
