@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7503 days**.
 
-And here is a just a random fact -  **3000 children die every day in Africa because of malaria**.
+And here is a just a random fact -  **It is very common for babies in New Zealand to sleep on sheepskins. This is to help them gain weight faster, and retain their body heat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
