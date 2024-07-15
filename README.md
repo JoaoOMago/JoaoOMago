@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7503 days**.
 
-And here is a just a random fact -  **The labels for Crayola crayons come in 18 different colors**.
+And here is a just a random fact -  **Painting a house yellow or having a yellow trim helps in selling a house faster**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 14 Jul, 2024.</sub>
+<sub>Last updated by Github Actions on 15 Jul, 2024.</sub>
