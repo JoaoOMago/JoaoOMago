@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7504 days**.
 
-And here is a just a random fact -  **Uranus? winter and summer seasons last the equivalent of 21 Earth years**.
+And here is a just a random fact -  **For the movie "Tootsie" actor Dustin Hoffman thought of the title. His mother used to call him that as a child**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
