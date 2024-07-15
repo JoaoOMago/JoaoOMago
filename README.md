@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7503 days**.
+Here is a random fact about me - I have been on this planet for **7504 days**.
 
-And here is a just a random fact -  **About 1 in 5,000 North Atlantic lobsters are born bright blue**.
+And here is a just a random fact -  **The Dutch people are known to be the tallest people in Europe**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
