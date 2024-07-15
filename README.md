@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7504 days**.
 
-And here is a just a random fact -  **A honey bee strokes its wings about 11,500 times a minute**.
+And here is a just a random fact -  **The study of the iris of the eye is called iridology**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
