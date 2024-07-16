@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7504 days**.
 
-And here is a just a random fact -  **Close to 73% of girls in Bangladesh are married by age 18**.
+And here is a just a random fact -  **There are about 125 million multiples (twins, triplets, etc.) worldwide**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
