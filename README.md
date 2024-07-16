@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7504 days**.
 
-And here is a just a random fact -  **The city of Nottingham in England was the first city to have Braille signs (signs for the blind) in its shopping malls for the blind**.
+And here is a just a random fact -  **The parents of Albert Einstein were worried that he was mentally slow because it took him a long time to learn how to speak**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
