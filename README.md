@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7505 days**.
 
-And here is a just a random fact -  **In Johannesburg, the average car will be involved in an accident once every four years.**.
+And here is a just a random fact -  **Slinkys were invented by an airplane mechanic; he was playing with engine parts and realized the possible secondary use of one of the springs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
