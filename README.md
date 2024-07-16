@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7504 days**.
 
-And here is a just a random fact -  **In China, there is a species of yam that is used to make a dye**.
+And here is a just a random fact -  **The most popular chocolate bar in the United Kingdom for the last 15 years has been Kit Kat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 15 Jul, 2024.</sub>
+<sub>Last updated by Github Actions on 16 Jul, 2024.</sub>
