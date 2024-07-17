@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7505 days**.
+Here is a random fact about me - I have been on this planet for **7506 days**.
 
-And here is a just a random fact -  **Most cows give more milk when they listen to music**.
+And here is a just a random fact -  **3000 children die every day in Africa because of malaria**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
