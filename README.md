@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7506 days**.
 
-And here is a just a random fact -  **The aorta, which is largest artery located in the body, is about the diameter of a garden hose**.
+And here is a just a random fact -  **In the wild, the poinsettia flower can reach a height of 12 feet, and have leaves that are eight inches across.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
