@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7506 days**.
 
-And here is a just a random fact -  **Each year 96 billion pounds of food is wasted in the U.S**.
+And here is a just a random fact -  **From all the oxygen that a human breathes, twenty percent goes to the brain**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
