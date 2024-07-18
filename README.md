@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7506 days**.
 
-And here is a just a random fact -  **Since 1978, at least 37 people have died as a result of shaking vending machines, in an attempt to get free merchandise. More than 100 people have been injured**.
+And here is a just a random fact -  **Neptune was the first planet in our solar system to be discovered by mathematics**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
