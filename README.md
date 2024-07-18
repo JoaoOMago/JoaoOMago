@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7506 days**.
 
-And here is a just a random fact -  **Ian Fleming named his character "James Bond" after real-life ornithologist and author**.
+And here is a just a random fact -  **When Alexander Graham Bell invented the telephone back in 1876, only six phones were sold in the first month.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
