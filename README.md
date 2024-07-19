@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7507 days**.
 
-And here is a just a random fact -  **Unlike a frog a toad cannot jump**.
+And here is a just a random fact -  **The stringy thing that is seen in egg whites is called "chalazae."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 18 Jul, 2024.</sub>
+<sub>Last updated by Github Actions on 19 Jul, 2024.</sub>
