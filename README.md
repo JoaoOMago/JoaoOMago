@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7509 days**.
 
-And here is a just a random fact -  **96% of candles that are purchased are by women**.
+And here is a just a random fact -  **The King Cobra has enough venom in its bite that it can kill up to 13 adults**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
