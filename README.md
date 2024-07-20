@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7509 days**.
 
-And here is a just a random fact -  **In 1929, the Coca-Cola slogan was "The Pause That Refreshes."**.
+And here is a just a random fact -  **The king of hearts is the only king without a mustache**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
