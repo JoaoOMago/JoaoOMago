@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7509 days**.
 
-And here is a just a random fact -  **Chopsticks originated from China approximately 4,000 years ago**.
+And here is a just a random fact -  **The idea of Christmas cards was invented by Englishman Henry Cole in 1843**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
