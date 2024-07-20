@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7508 days**.
 
-And here is a just a random fact -  **The Roman emperor Domitian took great pleasure in being secluded in his room for hours and catching flies and stabbing them with pens**.
+And here is a just a random fact -  **Valentina Tereshkova was the first woman to enter space. She spent three days in space and completed forty-eight orbits of Earth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
