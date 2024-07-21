@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7509 days**.
 
-And here is a just a random fact -  **96% of people put the peanut butter on first when making a peanut butter and jelly sandwich**.
+And here is a just a random fact -  **Armadillos breed in July, but get pregnant in November after delaying implantation. This allows the young to be born during the spring when there is an abundance of food**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
