@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7511 days**.
 
-And here is a just a random fact -  **In Canada, the $1 and $2 come in the form of coins. The $1 is nicknamed a "loonie" because it contains a loon on it and the $2 is nicknamed the "twonie" because it is the equivalent of two "loonies."**.
+And here is a just a random fact -  **The only animals that are capable of turning their heads 180 degrees are from the genus Galago, such as the Tarsier**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
