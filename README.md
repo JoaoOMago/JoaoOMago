@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7512 days**.
 
-And here is a just a random fact -  **A glockenspiel is a musical instrument that is like a xylophone. It has a series of metal bars and is played with two hammers**.
+And here is a just a random fact -  **In October 1973, Swedish sweet maker Roland Ohisson of Falkenberg was buried in a coffin made of nothing but chocolate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
