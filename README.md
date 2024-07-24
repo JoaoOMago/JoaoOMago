@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7512 days**.
 
-And here is a just a random fact -  **In 1923, the first neon sign was introduced in the U.S. Two neon signs were sold to a Packard car dealership for $24,000 which read, "Packard."**.
+And here is a just a random fact -  **In the U.S., approximately 46% of the chicken that is eaten by people comes from restaurants or other food outlets**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
