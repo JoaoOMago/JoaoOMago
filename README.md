@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7514 days**.
 
-And here is a just a random fact -  **No word in the English language rhymes with month, orange, silver, and purple**.
+And here is a just a random fact -  **Armadillos have four babies at a time, and they are always the same sex**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
