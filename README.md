@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7515 days**.
 
-And here is a just a random fact -  **Finland is also known as "the land of of the thousand lakes," because of the over 188,000 lakes found in this country**.
+And here is a just a random fact -  **St. Patrick never really drove out any snakes from Ireland. This story was an analogy of how he drove paganism out of Ireland**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
