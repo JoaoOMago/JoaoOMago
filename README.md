@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7515 days**.
 
-And here is a just a random fact -  **The dragonfly has not changed over the last 300 million years**.
+And here is a just a random fact -  **An average adult produces about half a litre of flatulent gas per day, resulting in an average of about fourteen occurrences of flatulence a day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
