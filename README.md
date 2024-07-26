@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7514 days**.
+Here is a random fact about me - I have been on this planet for **7515 days**.
 
-And here is a just a random fact -  **The most popular Hot Wheels vehicle sold is the Corvette**.
+And here is a just a random fact -  **The human heart beast roughly 35 million times a year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
