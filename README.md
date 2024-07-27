@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7516 days**.
 
-And here is a just a random fact -  **Braces were first invented by Pierre Fauchard in 1728. The braces were made by a flat strip of metal, which was connected to the teeth by thread.**.
+And here is a just a random fact -  **The longest hiccups on record was by an American pig farmer whose hiccups persisted from 1922 to 1987**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
