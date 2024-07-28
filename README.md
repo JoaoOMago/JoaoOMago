@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7516 days**.
 
-And here is a just a random fact -  **Q-Tip Cotton Swabs were originally called Baby Gays**.
+And here is a just a random fact -  **A women from Berlin Germany has had 3,110 gallstones taken out of her gall bladder**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
