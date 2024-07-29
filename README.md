@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7518 days**.
 
-And here is a just a random fact -  **There are an equivalent number of cows and people in Friesland, Netherlands**.
+And here is a just a random fact -  **An average person consumes the equivalent of 26 gallons of milk a year, including almost 28 pounds of cheese**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
