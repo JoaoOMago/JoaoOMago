@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7517 days**.
 
-And here is a just a random fact -  **By law, information collected in a U.S. census must remain confidential for seventy-two years**.
+And here is a just a random fact -  **The tuatara lizard of New Zealand has three eyes, two in the center of its head and one on the top of its head**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
