@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7519 days**.
 
-And here is a just a random fact -  **The concept of Boxing Day, which is on December 26th, was to give boxes of food and clothing to the poor. It is now viewed in some countries as a time to get merchandise from stores at reduced prices**.
+And here is a just a random fact -  **Before soccer referees started using whistles in 1878, they used to rely on waving a handkerchief**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
