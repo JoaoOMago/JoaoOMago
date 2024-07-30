@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7519 days**.
 
-And here is a just a random fact -  **No one in Greece has memorized all 158 verses**.
+And here is a just a random fact -  **In 1994, 7-Eleven coined the term "brain freeze." The word was developed to explain the feeling people get when drinking a Slurpee.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
