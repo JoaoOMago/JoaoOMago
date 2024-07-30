@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7519 days**.
 
-And here is a just a random fact -  **The game Monopoly has been played by approximately 500 million people in the world, and the game is available in 26 languages**.
+And here is a just a random fact -  **Buckingham Palace has over six hundred rooms**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
