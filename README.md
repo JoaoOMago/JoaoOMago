@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7520 days**.
 
-And here is a just a random fact -  **Goat meat contains up to 45 percent less saturated fat than chicken meat**.
+And here is a just a random fact -  **There are over 500 different types of bananas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
