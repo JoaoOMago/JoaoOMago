@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7519 days**.
+Here is a random fact about me - I have been on this planet for **7520 days**.
 
-And here is a just a random fact -  **Studies show that divorced women have more trouble starting new relationships than divorced men**.
+And here is a just a random fact -  **Male sea horses are the ones that get impregnated rather than the females. Males have a pouch on their belly that provides incubation for the female?s eggs and they can have up to 1500 babies at one time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
