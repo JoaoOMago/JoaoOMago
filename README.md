@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7519 days**.
 
-And here is a just a random fact -  **Detroit, Michigan has more registered bowlers than any other city in the USA**.
+And here is a just a random fact -  **The blind cavefish is born with eyes, but they fall off as the fish grows**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
