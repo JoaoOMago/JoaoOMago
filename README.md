@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7519 days**.
 
-And here is a just a random fact -  **The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket**.
+And here is a just a random fact -  **7-Eleven was the first convenience store to have television advertising. The animated commercial ran in 1949 and had a singing rooster and owl**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 Jul, 2024.</sub>
+<sub>Last updated by Github Actions on 31 Jul, 2024.</sub>
