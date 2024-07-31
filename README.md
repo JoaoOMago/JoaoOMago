@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7519 days**.
 
-And here is a just a random fact -  **The USA bought Alaska from Russia for 2 cents an acre**.
+And here is a just a random fact -  **Many people in parts of China eat insects. Some common insects are bean worms, scoprions, and locusts**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
