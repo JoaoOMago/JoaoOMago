@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7519 days**.
 
-And here is a just a random fact -  **In 1991, during an attempted political coup on Russian President Boris Yelstin, food supplies had dwindled down at the parliament buildings so they ordered Pizza Hut to deliver pizzas**.
+And here is a just a random fact -  **The reason why the Canadian Arctic is called the "Land of the Midnight Sun" is because during the summer many communities have light 24 hours of the day. Many people have to cover their windows with tin foil to keep the light out when they sleep**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
