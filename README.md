@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7521 days**.
 
-And here is a just a random fact -  **According to legend, tea originated in China when tea leaves accidentally blew into a pot of boiling water**.
+And here is a just a random fact -  **Alexander the Great made his troops eat onions as he believed it would prove their vitality**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
