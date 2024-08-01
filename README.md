@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7520 days**.
 
-And here is a just a random fact -  **Actor John Ritter was the voice of Clifford, from "Clifford The Big Red Dog."**.
+And here is a just a random fact -  **Montreal is the second largest French speaking city after Paris**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
