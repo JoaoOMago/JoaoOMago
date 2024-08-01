@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7521 days**.
 
-And here is a just a random fact -  **The scarlet tanager, a songbird native to Illinois, can eat as many as 2,100 gypsy-moth caterpillars in one hour**.
+And here is a just a random fact -  **The first recipe for a lasagna type dish was found to be from a British cookbook in the 14th century. Therefore, Italians were not the first ones to come up with the popular dish as believed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
