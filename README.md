@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7521 days**.
 
-And here is a just a random fact -  **Leonardo Da Vinci never signed or dated his most famous painting, the Mona Lisa**.
+And here is a just a random fact -  **About 10% of the 100,000 thunderstorms that occur in the USA every year are classified as severe.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
