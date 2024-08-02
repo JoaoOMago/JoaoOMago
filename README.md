@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7522 days**.
 
-And here is a just a random fact -  **In the 19th century, it was common practice for a Japanese woman to dye their teeth black. They believed that this enhanced sex appeal and maintained healthier teeth**.
+And here is a just a random fact -  **Mice will nurse babies that are not their own**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
