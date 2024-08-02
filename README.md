@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7521 days**.
 
-And here is a just a random fact -  **It takes the Hubble telescope about 97 minutes to complete an orbit of the Earth. On average, the Hubble uses the equivilent amount of energy as 30 household lightbulbs to complete an orbit.**.
+And here is a just a random fact -  **Some African tribes refer to themselves as "motherhoods" instead of families**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Aug, 2024.</sub>
+<sub>Last updated by Github Actions on 02 Aug, 2024.</sub>
