@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7523 days**.
 
-And here is a just a random fact -  **Braces were first invented by Pierre Fauchard in 1728. The braces were made by a flat strip of metal, which was connected to the teeth by thread.**.
+And here is a just a random fact -  **Whooping cranes are born with blue eyes that change to bright gold by the time they six months old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
