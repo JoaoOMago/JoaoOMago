@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7523 days**.
 
-And here is a just a random fact -  **In 2000, there were 1,579,566 drug arrests in the United States. Of those, close to half were for marijuana**.
+And here is a just a random fact -  **There are 293 steps to the top of the Leaning Tower of Pisa**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
