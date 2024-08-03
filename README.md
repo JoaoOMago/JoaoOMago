@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7523 days**.
 
-And here is a just a random fact -  **In ancient Greece, throwing an apple to a girl was a way to propose for marriage.. If the girl caught it, that would mean she accepts**.
+And here is a just a random fact -  **Author Dr. Seuss wrote the book "Green Eggs and Ham" because the editor made him a bet that he could not write a book, which contained less than fifty words**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
