@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7523 days**.
 
-And here is a just a random fact -  **There is enough concrete in the Hoover Dam to pave a two lane highway from San Francisco to New York**.
+And here is a just a random fact -  **In 1905, the first pizzeria in the U.S. opened in New York City**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
