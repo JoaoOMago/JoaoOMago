@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7524 days**.
 
-And here is a just a random fact -  **When Scott Paper Co. first started manufacturing toilet paper they did not put their name on the product because of embarrassment**.
+And here is a just a random fact -  **On September 3, 1970, a hailstone was found in Coffeyville, Kansas that was eight inches in diameter and weighed 1.67 pounds.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
