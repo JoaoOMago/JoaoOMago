@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7524 days**.
 
-And here is a just a random fact -  **About 10% of the 100,000 thunderstorms that occur in the USA every year are classified as severe.**.
+And here is a just a random fact -  **Early hockey games allowed as many as 30 players a side on the ice**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
