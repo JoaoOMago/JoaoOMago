@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7525 days**.
 
-And here is a just a random fact -  **Richard Millhouse Nixon was the first US president whose name contains all the letters from the word "criminal." The second? William Jefferson Clinton**.
+And here is a just a random fact -  **There is no tipping in Iceland**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
