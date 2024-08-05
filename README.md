@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7524 days**.
 
-And here is a just a random fact -  **African heart-nosed bats can have such a keen sense of sound that they can hear the footsteps of a beetle walking on sand from six feet away**.
+And here is a just a random fact -  **111,111,111 x 111,111,111 = 12,345,678,987,654,321**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
