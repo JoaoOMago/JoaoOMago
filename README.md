@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7525 days**.
 
-And here is a just a random fact -  **During World War II, condoms were used to cover rifle barrels from being damaged by salt water as the soldiers swam to shore**.
+And here is a just a random fact -  **The Atlantic Ocean is saltier than the Pacific Ocean**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
