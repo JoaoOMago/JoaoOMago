@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7525 days**.
 
-And here is a just a random fact -  **Slugs have 4 noses**.
+And here is a just a random fact -  **The difference between horns and antlers is that horns never stop growing and antlers shed and grow every year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
