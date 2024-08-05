@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7524 days**.
 
-And here is a just a random fact -  **A baby octopus is about the size of a flea when it is born**.
+And here is a just a random fact -  **The tallest freestanding sculpture in the world is Chief Crazy Horse in South Dakota, USA**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
