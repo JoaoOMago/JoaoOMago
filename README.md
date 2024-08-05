@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7524 days**.
+Here is a random fact about me - I have been on this planet for **7525 days**.
 
-And here is a just a random fact -  **It's possible to lead a cow upstairs...but not downstairs.**.
+And here is a just a random fact -  **Spotted skunks do handstands before they spray**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
