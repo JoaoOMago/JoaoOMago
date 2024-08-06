@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7525 days**.
 
-And here is a just a random fact -  **The longest punt return for a touchdown was 103 yards**.
+And here is a just a random fact -  **Bill Gates began programming computers at age 13**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Aug, 2024.</sub>
+<sub>Last updated by Github Actions on 06 Aug, 2024.</sub>
