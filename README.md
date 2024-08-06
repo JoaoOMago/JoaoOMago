@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7526 days**.
 
-And here is a just a random fact -  **Parma ham is only Parma ham if it is made in the Parma region of Italy. The British chain supermarket Asda, made and packaged its own "Parma ham" and was successfully sued by the real Parma ham people (Parma Ham Trade Association)**.
+And here is a just a random fact -  **The two top toys in 1950 were Silly Putty which sold for $1, and Crayola crayons which sold for 50 cents**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
