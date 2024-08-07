@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7527 days**.
 
-And here is a just a random fact -  **Abdul Kassam Ismael, Grand Vizier of Persia in the tenth century, carried his library with him wherever he went. Four hundred camels carried the 117,000 volumes**.
+And here is a just a random fact -  **To manufacture a new car approximately 148,000 liters of water is needed.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
