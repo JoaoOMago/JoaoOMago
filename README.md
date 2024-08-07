@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7526 days**.
 
-And here is a just a random fact -  **Every continent has a city called Rome**.
+And here is a just a random fact -  **In 2002, dogs have killed more people in the U.S. than the Great White shark has killed in the past 100 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 06 Aug, 2024.</sub>
+<sub>Last updated by Github Actions on 07 Aug, 2024.</sub>
