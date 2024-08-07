@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7527 days**.
 
-And here is a just a random fact -  **There are 10 million bacteria at the place where you rest your hands at a desk**.
+And here is a just a random fact -  **Robert Wadlow is the tallest man recorded in history. He grew to be eight feet and eleven inches and weighed 490 pounds when he died**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
