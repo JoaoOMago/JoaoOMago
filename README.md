@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7530 days**.
 
-And here is a just a random fact -  **95% of the entire lemon crop produced in the U.S. is from California and Arizona**.
+And here is a just a random fact -  **Bile produced by the liver is responsible for making your feces a brownish, green colour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
