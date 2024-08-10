@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7529 days**.
+Here is a random fact about me - I have been on this planet for **7530 days**.
 
-And here is a just a random fact -  **The risk of cardiovascular disease is twice as high in women that snore regularly compared to women who do not snore. updated**.
+And here is a just a random fact -  **The average price for a major league baseball game in 2004 is $19.82**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
