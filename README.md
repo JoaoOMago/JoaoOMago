@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7531 days**.
 
-And here is a just a random fact -  **Frank Wathernam was the last prisoner to leave Alcatraz prison on March 21, 1963**.
+And here is a just a random fact -  **People of Salt Lake City eat the most lime-flavoured gelatin Jell-O in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
