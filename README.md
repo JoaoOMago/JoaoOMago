@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7531 days**.
 
-And here is a just a random fact -  **There are 10 million bacteria at the place where you rest your hands at a desk**.
+And here is a just a random fact -  **Feb 1865 and Feb 1999 are the only months in recorded history not to have a full moon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
