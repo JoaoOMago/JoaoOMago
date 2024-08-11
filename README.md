@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7531 days**.
 
-And here is a just a random fact -  **The Tonle Sap River in Cambodia flows north for almost half the year and then south for the rest of the year**.
+And here is a just a random fact -  **The largest spider ever was the Megarachne which had a diameter of 50 cm. The fossil was found in Argentina**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
