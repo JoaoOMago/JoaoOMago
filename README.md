@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7530 days**.
 
-And here is a just a random fact -  **By law, information collected in a U.S. census must remain confidential for seventy-two years**.
+And here is a just a random fact -  **Spiders usually have eight eyes, but still they cannot see that well**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Aug, 2024.</sub>
+<sub>Last updated by Github Actions on 11 Aug, 2024.</sub>
