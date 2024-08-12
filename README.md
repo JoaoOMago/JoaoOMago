@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7531 days**.
 
-And here is a just a random fact -  **The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet**.
+And here is a just a random fact -  **Ellen Macarthur, yachtswoman, had a total of 891 naps in 94 days that were each 36 minutes long while on her Vendee Round the Globe yacht race**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
