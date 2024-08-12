@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7531 days**.
 
-And here is a just a random fact -  **The accent that Mike Myers used for the character Shrek came from the accent that his mother would use when she was telling him bedtime stories when he was a child**.
+And here is a just a random fact -  **A galactic year is 250 million Earth-years. This is the time it takes for our solar system to make one revolution around the Milky Way Galaxy.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
