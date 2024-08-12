@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7531 days**.
 
-And here is a just a random fact -  **The Bible was written by over 40 authors over a period of 1500 years**.
+And here is a just a random fact -  **Canada has more donut shops per capita than the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
