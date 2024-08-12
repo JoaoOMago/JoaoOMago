@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7532 days**.
 
-And here is a just a random fact -  **Mummy powder was once thought to be a cure for all remedies. English men used to carry the powder with them in a tiny bag wherever they went**.
+And here is a just a random fact -  **An average person laughs about 15 times a day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
