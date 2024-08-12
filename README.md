@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7532 days**.
 
-And here is a just a random fact -  **An airplane mechanic invented Slinky while he was playing with engine parts and realized the possible secondary use for the springs. Barbie was invented by Ruth Handler after watching her daughter play with baby dolls imagining then in grown up roles**.
+And here is a just a random fact -  **Less than 1% of the women in the world will ever be able to wear a diamond that is the size of a carat or more**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
