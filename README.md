@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7531 days**.
 
-And here is a just a random fact -  **Ancient Egyptians used the spice Thyme to help preserve mummies**.
+And here is a just a random fact -  **One out of four American households own a cat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Aug, 2024.</sub>
+<sub>Last updated by Github Actions on 12 Aug, 2024.</sub>
