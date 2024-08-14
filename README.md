@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7533 days**.
 
-And here is a just a random fact -  **There was an army general during the Liberia Civil War who used to lead his army into battle naked. His nickname was "General Butt Naked." Joshua Milton Blahyi (his real name) is now an evangelical preacher in Monrovia**.
+And here is a just a random fact -  **When Black Jack Ketchum was hung back in 1901 in Clayton New Mexico, the noose actually ended up taking his head off. The head had to be sewn back on so Black Jack could be buried properly**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
