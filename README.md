@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7533 days**.
 
-And here is a just a random fact -  **Gloucestershire airport in England used to blast Tina Turner songs on its runways to scare birds away**.
+And here is a just a random fact -  **There is cyanide in apple pips**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
