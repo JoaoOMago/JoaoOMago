@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7534 days**.
 
-And here is a just a random fact -  **Kit Kat chocolate bar was introduced to the market in 1935**.
+And here is a just a random fact -  **Albert Einstein was cremated and his ashes were spread over a river located in New Jersey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
