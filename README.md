@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7534 days**.
 
-And here is a just a random fact -  **The state that has the most diners in the world is New Jersey, which is referred to as the "Diner Capital of the World."**.
+And here is a just a random fact -  **The titan arum flower is the largest flower in the world and gives off a horrible odor that smells like rotting flesh when it blooms**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
