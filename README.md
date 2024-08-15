@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7535 days**.
 
-And here is a just a random fact -  **The USSR launched the world's first artificial satellite, Sputnik 1, in 1957.**.
+And here is a just a random fact -  **The state of Tennessee was known as Franklin before 1796**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
