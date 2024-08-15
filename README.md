@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7535 days**.
 
-And here is a just a random fact -  **Only 5 to 10 percent of cheetah cubs make it to adulthood**.
+And here is a just a random fact -  **The Food and Drug Administration says the most common injury from cosmetics comes from scratching the eye with a mascara wand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
