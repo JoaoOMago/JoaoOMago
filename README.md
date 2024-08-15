@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7535 days**.
 
-And here is a just a random fact -  **Approximately two gallons of water are used to brush your teeth**.
+And here is a just a random fact -  **Bananas contain a natural chemical which can make a person happy. This same chemical is found in Prozac**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
