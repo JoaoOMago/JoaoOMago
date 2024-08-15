@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7534 days**.
+Here is a random fact about me - I have been on this planet for **7535 days**.
 
-And here is a just a random fact -  **British scientists have found evidence that heart attacks increase significantly for people who watch soccer penalty shoot-outs**.
+And here is a just a random fact -  **The most common injury caused by cosmetics is to the eye by a mascara wand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
