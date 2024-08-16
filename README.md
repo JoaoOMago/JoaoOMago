@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7536 days**.
 
-And here is a just a random fact -  **When a predator is chasing an impala, a type of antelope, it runs in a zig zag formation jumping as high as three metres**.
+And here is a just a random fact -  **The speed at which honey bees fly is at 15 miles per hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
