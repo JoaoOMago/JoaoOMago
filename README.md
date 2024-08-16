@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7536 days**.
 
-And here is a just a random fact -  **In the summer of 1858, the smell of the sewage in the Thames River in London was so bad that the Members of Parliament had to leave from the chamber of the House of Commons. This was a result of two million people dumping all their sewage into the river**.
+And here is a just a random fact -  **On an American one-dollar bill, there is an owl in the upper right-hand corner of the "1" encased in the "shield" and a spider hidden in the front upper right-hand corner**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
