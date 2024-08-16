@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7536 days**.
 
-And here is a just a random fact -  **On average, a beaver can cut down two hundred trees a year.**.
+And here is a just a random fact -  **Back in 1953, it took 27 hours to make one Marshmallow Peep. Now it takes only six minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
