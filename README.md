@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7535 days**.
 
-And here is a just a random fact -  **On average redheads have 90,000 hairs. People with black hair have about 110,000 hairs**.
+And here is a just a random fact -  **DC-10, the name of an airplane stands for "Douglas Commercial."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
