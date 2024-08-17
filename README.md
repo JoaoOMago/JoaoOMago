@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7537 days**.
 
-And here is a just a random fact -  **Some dolphins can swim up to 40 kilometers an hour**.
+And here is a just a random fact -  **The ant can lift 50 times its own weight, can pull 30 times its own weight, and always falls over on its right side when intoxicated**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
