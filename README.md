@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7537 days**.
 
-And here is a just a random fact -  **In a lifetime, the average driver will honk 15,250 times**.
+And here is a just a random fact -  **The trunk of an elephant can hold up to two gallons of water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
