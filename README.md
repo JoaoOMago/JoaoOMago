@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7537 days**.
 
-And here is a just a random fact -  **Both Thomas Jefferson and Jimmy Carter, U.S. presidents, were peanut farmers at one time**.
+And here is a just a random fact -  **Five thousandths of a millimeter is the tolerance of accuracy at the LEGO mould factories**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
