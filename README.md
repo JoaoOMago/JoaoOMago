@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7537 days**.
+Here is a random fact about me - I have been on this planet for **7538 days**.
 
-And here is a just a random fact -  **People have the tendency to chew the food on the side that they most often use their hand**.
+And here is a just a random fact -  **An adult esophagus can range from 10 to 14 inches in length and is one inch in diameter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
