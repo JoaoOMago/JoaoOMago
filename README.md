@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7538 days**.
 
-And here is a just a random fact -  **The rhinoceros beetle can carry up to 850 times its weight on its back. This is equivalent to a person carrying over 50 mini-vans on their back**.
+And here is a just a random fact -  **On December 17 1991, the Cleveland Cavaliers beat the Miami Heat 148-80, the largest margin of victory in an NBA game**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
