@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7537 days**.
 
-And here is a just a random fact -  **In the movie "The Matrix Reloaded" a 17 minute battle scene cost over $40 million to produce**.
+And here is a just a random fact -  **Donkeys can live between 30 to 50 years in captivity**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 17 Aug, 2024.</sub>
+<sub>Last updated by Github Actions on 18 Aug, 2024.</sub>
