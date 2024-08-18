@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7538 days**.
 
-And here is a just a random fact -  **In Quebec, Canada, an old law states that margarine must be a different colour than butter**.
+And here is a just a random fact -  **Construction on the Leaning Tower of Pisa began on August 9th, 1173**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
