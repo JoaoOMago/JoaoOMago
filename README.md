@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7537 days**.
 
-And here is a just a random fact -  **The sloth moves so slowly that green algae grows in the grooves of their hair**.
+And here is a just a random fact -  **On average, 90% of the people that have the disease Lupus are female**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
