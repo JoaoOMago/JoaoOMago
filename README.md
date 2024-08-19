@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7538 days**.
 
-And here is a just a random fact -  **Families who do turn off the television during meals tend to eat healthier. This was regardless of family income, or education**.
+And here is a just a random fact -  **In 1969, the American side of Niagara Falls was stopped completely for several months**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
