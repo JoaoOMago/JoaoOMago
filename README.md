@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7538 days**.
 
-And here is a just a random fact -  **Bile produced by the liver is responsible for making your feces a brownish, green colour**.
+And here is a just a random fact -  **Franklin Pierce was the first U.S. President to have a Christmas tree in the White House**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
