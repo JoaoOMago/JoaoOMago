@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7538 days**.
 
-And here is a just a random fact -  **There are some species of snails that are venomous. Their venom can be fatal to humans**.
+And here is a just a random fact -  **The temperature of lightning bolts is sometimes hotter than the surface of the sun.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 18 Aug, 2024.</sub>
+<sub>Last updated by Github Actions on 19 Aug, 2024.</sub>
