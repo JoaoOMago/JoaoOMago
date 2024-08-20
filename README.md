@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7539 days**.
+Here is a random fact about me - I have been on this planet for **7540 days**.
 
-And here is a just a random fact -  **Birds do not sweat, as they do not have sweat glands**.
+And here is a just a random fact -  **The largest chicken egg ever laid weighed a pound and had a double yolk and shell**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
