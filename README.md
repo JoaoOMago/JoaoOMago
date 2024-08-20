@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7540 days**.
 
-And here is a just a random fact -  **When Kleenex was first introduced to the market in 1924, it was marketed as a make up or cold cream remover**.
+And here is a just a random fact -  **The reason firehouses have circular stairways is from the days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
