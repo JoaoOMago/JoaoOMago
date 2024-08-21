@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7541 days**.
 
-And here is a just a random fact -  **The Baltimore Orioles opened the 1988 baseball season by losing the first 21 games and 107 altogether for the entire season**.
+And here is a just a random fact -  **The world camel population is close to 19 million**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
