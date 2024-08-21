@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7540 days**.
 
-And here is a just a random fact -  **The chances of getting a cavity is higher if candy is eaten slowly throughout the day compared to eating it all at once and then brushing your teeth**.
+And here is a just a random fact -  **The mating call of a male toadfish, who are underwater, is so loud that it can be heard by humans above water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
