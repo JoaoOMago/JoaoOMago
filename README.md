@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7541 days**.
 
-And here is a just a random fact -  **The most diners per capita in the world are located in the U.S. state New Jersey**.
+And here is a just a random fact -  **After the U.S Civil War, about 33%-50% of all U.S. paper currency in circulation was counterfeit**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
