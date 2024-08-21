@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7541 days**.
 
-And here is a just a random fact -  **All racehorses in the U.S. celebrate their birthday on January 1st**.
+And here is a just a random fact -  **The most diners per capita in the world are located in the U.S. state New Jersey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
