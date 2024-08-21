@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7541 days**.
 
-And here is a just a random fact -  **The most popular chocolate bar in the United Kingdom for the last 15 years has been Kit Kat**.
+And here is a just a random fact -  **Cost of raising a medium-size dog to the age of eleven: $6,400**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
