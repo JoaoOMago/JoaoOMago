@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7541 days**.
 
-And here is a just a random fact -  **The word "dexterity", to do with skill is related to the right hand. The opposite of the word "deter" is "sinister", to do with evil, it is related to the left hand**.
+And here is a just a random fact -  **The desert tortoise can live without having to drink any water. It extracts the water it needs from the vegetation it eats**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
