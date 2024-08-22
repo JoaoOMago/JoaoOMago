@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7541 days**.
 
-And here is a just a random fact -  **Sheep can survive for up to two weeks buried in snow drifts.Click Here For More Details**.
+And here is a just a random fact -  **There are more Barbie dolls in Italy than there are Canadians in Canada**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
