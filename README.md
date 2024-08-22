@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7542 days**.
 
-And here is a just a random fact -  **It is said that grapefruit got its name because it grows like grapes in clusters. One cluster can have up to 25 grapefruits**.
+And here is a just a random fact -  **The average human has about 20 square feet of skin weighing about 6 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
