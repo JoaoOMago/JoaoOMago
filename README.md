@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7543 days**.
 
-And here is a just a random fact -  **The planet Venus spins opposite to the other planets in the solar system**.
+And here is a just a random fact -  **Birds do not sweat, as they do not have sweat glands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
