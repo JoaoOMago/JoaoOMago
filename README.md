@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7543 days**.
 
-And here is a just a random fact -  **People generally read 25% slower from a computer screen compared to paper**.
+And here is a just a random fact -  **Polar bears can eat as much as ten percent of their body weight in less than one hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
