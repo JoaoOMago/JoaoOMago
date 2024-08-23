@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7543 days**.
 
-And here is a just a random fact -  **Due to eating habits in the USA, one in three children born in the year 2000 have a chance of getting type II diabetes**.
+And here is a just a random fact -  **The American Airlines Center in Dallas has more toilets per capita than any other sports and entertainment venue in the country**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
