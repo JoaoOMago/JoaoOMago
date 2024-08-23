@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7542 days**.
 
-And here is a just a random fact -  **The citric acid found in lemon juice is said to be able to dissolve a pearl**.
+And here is a just a random fact -  **Polar bears can smell seals who are 20 miles away**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
