@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7544 days**.
 
-And here is a just a random fact -  **The tridacna clam can grow up to four feet long and weigh up to 500 pounds**.
+And here is a just a random fact -  **A small drip from a faucet can waste up to 50 gallons of water daily, which is enough water to run a dishwasher twice on a full cycle**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
