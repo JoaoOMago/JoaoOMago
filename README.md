@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7543 days**.
 
-And here is a just a random fact -  **The most popular recipient of Valentine cards are school teachers**.
+And here is a just a random fact -  **Bruce Lee was so fast, that they actually had to slow a film down so you could see his moves. That is the opposite of the norm**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
