@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7544 days**.
 
-And here is a just a random fact -  **From 1939 to 1942, there was a undersea post office in the Bahamas**.
+And here is a just a random fact -  **In 1953, racecar driver Tim Flock raced at Nascar with a monkey in the seat beside him**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
