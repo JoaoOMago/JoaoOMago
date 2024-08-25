@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7545 days**.
 
-And here is a just a random fact -  **The national sport of Japan is sumo wrestling**.
+And here is a just a random fact -  **About 25 percent of all the energy consumed in the US is from natural gas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
