@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7544 days**.
 
-And here is a just a random fact -  **The Popsicle was invented by 11 year-old Frank Epperson in 1905. He left his drink outside with a stir stick in it and he noticed that it had frozen. He applied for a patent in 1923 and named it "Epsicle." The name was later changed to Popsicle**.
+And here is a just a random fact -  **The first museum in Moscow that was set up in 1791 was the Natural History Laboratory at Moscow University. This later was changed to the Zoological Museum**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
