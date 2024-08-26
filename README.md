@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7546 days**.
 
-And here is a just a random fact -  **The water inside of a coconut is identical to human blood plasma. Many lives in third world countries have been saved from coconut water fed through an IV**.
+And here is a just a random fact -  **The reason why the Canadian Arctic is called the "Land of the Midnight Sun" is because during the summer many communities have light 24 hours of the day. Many people have to cover their windows with tin foil to keep the light out when they sleep**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
