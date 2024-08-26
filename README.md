@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7545 days**.
+Here is a random fact about me - I have been on this planet for **7546 days**.
 
-And here is a just a random fact -  **Approximately 1 billion stamps are produced in Australia annually**.
+And here is a just a random fact -  **Montreal is the second largest French speaking city after Paris**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
