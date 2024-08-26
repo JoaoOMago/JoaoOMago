@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7545 days**.
 
-And here is a just a random fact -  **In the movie Psycho by Alfred Hitchcock, chocolate syrup was used for blood in the shower scene**.
+And here is a just a random fact -  **Soy crayons have been invented to replace wax crayons and one acre of soybeans can produce over 80,000 crayons**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Aug, 2024.</sub>
+<sub>Last updated by Github Actions on 26 Aug, 2024.</sub>
