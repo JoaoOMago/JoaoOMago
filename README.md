@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7545 days**.
 
-And here is a just a random fact -  **The book "Little Red Riding Hood" was banned in 1990 by two school districts in California. They did this because in the book there was a picture of a basket that had a bottle of wine in it**.
+And here is a just a random fact -  **The male praying mantis cannot copulate while its head is attached to its body. The female initiates sex by ripping the males head off**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
