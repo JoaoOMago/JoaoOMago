@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7547 days**.
 
-And here is a just a random fact -  **Krispy Kreme make five million doughnut a day**.
+And here is a just a random fact -  **Every day 2,700 people die of heart disease**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
