@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7546 days**.
 
-And here is a just a random fact -  **Honorificabilitudinitatibus is the longest English word that consists strictly of alternating consonants and vowels**.
+And here is a just a random fact -  **Over 200 varieties of watermelons are grown in the U.S**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
