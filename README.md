@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7547 days**.
 
-And here is a just a random fact -  **Manicuring the nails has been done by people for more than 4,000 years**.
+And here is a just a random fact -  **In Los Angeles, there are fewer people than there are automobiles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
