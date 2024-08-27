@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7547 days**.
 
-And here is a just a random fact -  **The word "comet" comes from the Greek word "kometes" meaning long hair and referring to the tail**.
+And here is a just a random fact -  **A ear trumpet was used before the hearing aid was invented by people who had difficulty hearing**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
