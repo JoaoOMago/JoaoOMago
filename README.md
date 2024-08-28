@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7548 days**.
 
-And here is a just a random fact -  **The life expectancy of a garbage disposal is about 5 to 10 years**.
+And here is a just a random fact -  **The game of squash originated in the United Kingdom. It came about after a few boys, who were waiting for their turn to play racquets, knocked a ball around in a confined area adjoining the racquets court**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
