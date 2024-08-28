@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7547 days**.
 
-And here is a just a random fact -  **Scientists say that babies that are breastfed are more likely to be slimmer as adults than those that are not breastfed**.
+And here is a just a random fact -  **Seventy-one percent of households report they have at least one snorer. Forty-five percent of those surveyed admit they snore, 35% said their partner snores, 12% said their child snores and 9% reported their pet snores**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
