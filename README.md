@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7547 days**.
+Here is a random fact about me - I have been on this planet for **7548 days**.
 
-And here is a just a random fact -  **Castaways Travel, a Houston-area travel agency, offers an all-nude flight to Cancun Mexico. Once the plane reaches cruising altitude, you are allowed to take off all your clothes and roam about the cabin**.
+And here is a just a random fact -  **The 1960 Summer Olympics were the first Olympics to be aired on television by CBS**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
