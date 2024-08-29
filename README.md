@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7548 days**.
+Here is a random fact about me - I have been on this planet for **7549 days**.
 
-And here is a just a random fact -  **According to legend, tea originated in China when tea leaves accidentally blew into a pot of boiling water**.
+And here is a just a random fact -  **It only takes a male horse 14 seconds to copulate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
