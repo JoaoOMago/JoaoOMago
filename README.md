@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7550 days**.
 
-And here is a just a random fact -  **Tobacco contains over 50 chemicals that can cause cancer**.
+And here is a just a random fact -  **There is a substance in the skin of the African clawed frog that helps in fighting infection**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
