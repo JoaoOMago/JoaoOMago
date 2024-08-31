@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7550 days**.
+Here is a random fact about me - I have been on this planet for **7551 days**.
 
-And here is a just a random fact -  **When a polar bear cub is born, it can not see or hear. It takes approximately a month for the cub to start to see and hear**.
+And here is a just a random fact -  **A seven year old boy was the first person to survive the Horeshoe Falls (Niagara Falls) in just a life jacket**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
