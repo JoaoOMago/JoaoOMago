@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7550 days**.
 
-And here is a just a random fact -  **When the female grasshopper lays eggs, she covers her eggs with a pasty liquid that protects the eggs throughout the winter**.
+And here is a just a random fact -  **The most popular show amongst baby boomers is Star Trek.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 Aug, 2024.</sub>
+<sub>Last updated by Github Actions on 31 Aug, 2024.</sub>
