@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7551 days**.
+Here is a random fact about me - I have been on this planet for **7552 days**.
 
-And here is a just a random fact -  **The labels for Crayola crayons come in 18 different colors**.
+And here is a just a random fact -  **Every 40,000 children are killed by fires**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
