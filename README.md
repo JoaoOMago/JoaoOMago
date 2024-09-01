@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7551 days**.
 
-And here is a just a random fact -  **While still in college, Bill Gates and Paul Allen once built a special purpose machine called "Traff-O-Data." It was a machine that would analyze information gathered by traffic monitors. They never found any buyers.**.
+And here is a just a random fact -  **Every year, surgical tools are left in approximately 1,500 patients in the USA. Fatter patients are more prone to having a surgical tool left inside of them due to the additional amount of space in their bodies**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 31 Aug, 2024.</sub>
+<sub>Last updated by Github Actions on 01 Sep, 2024.</sub>
