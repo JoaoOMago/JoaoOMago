@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7553 days**.
 
-And here is a just a random fact -  **Some birds have been know to put ants into their feathers because the ants squirt formic acid, which kills parasites**.
+And here is a just a random fact -  **During World War II, the 2nd Polish Corps had a brown bear named Wojtek, who helped move boxes of ammunition during the battle of Monte Cassino**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
