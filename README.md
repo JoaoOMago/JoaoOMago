@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7552 days**.
 
-And here is a just a random fact -  **The New York Yankees have appeared in the World Series a league leading 38 times and won 26 titles**.
+And here is a just a random fact -  **In a lifetime, an average human produces 10,000 gallons of saliva**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
