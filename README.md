@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7552 days**.
+Here is a random fact about me - I have been on this planet for **7553 days**.
 
-And here is a just a random fact -  **An orca whale can hold its breath for up to 15 minutes**.
+And here is a just a random fact -  **Milk and cheese can aid in the reduction of tooth decay**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
