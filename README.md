@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7554 days**.
 
-And here is a just a random fact -  **Quality standards for pasta were set in the 13th century by the Pope**.
+And here is a just a random fact -  **Duracell, the battery-maker, built parts of its new international headquarters using materials from its own waste**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
