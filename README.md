@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7554 days**.
 
-And here is a just a random fact -  **Tohru Iwatani, the inventor of the video game Pac-Man, came up with the idea when he saw a pizza with a slice missing at a dinner party**.
+And here is a just a random fact -  **In 1902, the coat hanger was invented Albert Parkhouse who was frustrated at the lack of hooks available to hang up his coat at work. His company thought it was a good idea and patented the invention and unfortunately, Parkhouse never received any money for his idea**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 Sep, 2024.</sub>
+<sub>Last updated by Github Actions on 04 Sep, 2024.</sub>
