@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7556 days**.
 
-And here is a just a random fact -  **In 1958, the United States Coast Guard off western Greenland measured the tallest known iceberg at five hundred and fifty feet**.
+And here is a just a random fact -  **The strongest gust of wind was recorded at the Mount Washington Observatory on April 12th, 1934, and measured 231 miles per hour.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
