@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7556 days**.
 
-And here is a just a random fact -  **People from the United States eat the most chicken per person than anywhere else in the world**.
+And here is a just a random fact -  **There are approximately fifty Bibles sold each minute across the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
