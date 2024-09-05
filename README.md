@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7555 days**.
 
-And here is a just a random fact -  **Minnows have teeth located on a bone in their throat**.
+And here is a just a random fact -  **Brazil produces the most oranges in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 04 Sep, 2024.</sub>
+<sub>Last updated by Github Actions on 05 Sep, 2024.</sub>
