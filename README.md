@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7557 days**.
 
-And here is a just a random fact -  **A common custom in Spain is to eat one grape for each of the last 12 seconds of every year for good luck**.
+And here is a just a random fact -  **If all the insects in the world were put on a scale, they would out weigh all creatures**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
