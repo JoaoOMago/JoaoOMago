@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7557 days**.
 
-And here is a just a random fact -  **Keeping Warm With an Axe, is the title of a real how-to book. Click Here For More Details**.
+And here is a just a random fact -  **The first automobile racetrack in America was the 'Indianapolis Motor Speedway,' which had 3 million cobblestones.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
