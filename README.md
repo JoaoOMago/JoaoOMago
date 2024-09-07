@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7557 days**.
 
-And here is a just a random fact -  **On August 21st, 1911, someone stole the Mona Lisa, the most famous painting in the world, from the Louvre Museum. It was recovered two years later**.
+And here is a just a random fact -  **The story of Rudolph the Red-Nosed Reindeer was written in 1939 for a store promotion by an advertising employee of the department store Montgomery Ward**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
