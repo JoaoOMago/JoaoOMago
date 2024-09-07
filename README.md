@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7557 days**.
+Here is a random fact about me - I have been on this planet for **7558 days**.
 
-And here is a just a random fact -  **A maple tree is usually tapped when the tree is at least 45 years old and has a diameter of 12 inches**.
+And here is a just a random fact -  **One of the reasons marijuana is illegal today because cotton growers in the 30s lobbied against hemp farmers -- they saw it as competition. It is not chemically addictive as is nicotine, alcohol, or caffeine**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
