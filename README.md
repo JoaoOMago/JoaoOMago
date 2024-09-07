@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7557 days**.
 
-And here is a just a random fact -  **The story of Rudolph the Red-Nosed Reindeer was written in 1939 for a store promotion by an advertising employee of the department store Montgomery Ward**.
+And here is a just a random fact -  **A dog by the name of Laika was launched into space aboard the Russian spacecraft Sputnik 2 in 1957**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
