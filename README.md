@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7559 days**.
 
-And here is a just a random fact -  **The game of squash originated in the United Kingdom. It came about after a few boys, who were waiting for their turn to play racquets, knocked a ball around in a confined area adjoining the racquets court**.
+And here is a just a random fact -  **The Food and Drug Administration says the most common injury from cosmetics comes from scratching the eye with a mascara wand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
