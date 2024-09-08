@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7559 days**.
 
-And here is a just a random fact -  **The first fashion house to be set up was in 1858 by Charles Worth. He opened his store in Paris with the idea of having pre-made gowns presented on models to his customers**.
+And here is a just a random fact -  **In 2002, dogs have killed more people in the U.S. than the Great White shark has killed in the past 100 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
