@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7559 days**.
 
-And here is a just a random fact -  **In a year, an average person uses the toilet 2500 times a year**.
+And here is a just a random fact -  **97% of all paper money in the US contains traces of cocaine**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
