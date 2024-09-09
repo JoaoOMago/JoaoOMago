@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7559 days**.
 
-And here is a just a random fact -  **In a year approximately 900 million trees are cut down to make the raw materials needed for American pulp mills and paper**.
+And here is a just a random fact -  **The most common injury caused by cosmetics is to the eye by a mascara wand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
