@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7559 days**.
+Here is a random fact about me - I have been on this planet for **7560 days**.
 
-And here is a just a random fact -  **There are approximately 1300 species of scorpion but only 25 of them are deadly**.
+And here is a just a random fact -  **Lady Bugs really are not bugs. They are actually beetles and their correct name is The Ladybird Beetle**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
