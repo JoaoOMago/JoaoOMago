@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7560 days**.
 
-And here is a just a random fact -  **Central Park located in New York has 125 drinking fountains**.
+And here is a just a random fact -  **Studies show that divorced women have more trouble starting new relationships than divorced men**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
