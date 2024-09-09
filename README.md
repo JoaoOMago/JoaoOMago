@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7560 days**.
 
-And here is a just a random fact -  **Kermit the Frog was named after Kermit Scott, a childhood friend of creator Jim Henson, who became a professor of philosophy at Purdue University**.
+And here is a just a random fact -  **A top freestyle swimmer achieves a speed of only 4 miles per hour. Fish, in contrast, have been clocked at 68 mph**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
