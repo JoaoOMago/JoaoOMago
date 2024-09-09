@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7560 days**.
 
-And here is a just a random fact -  **TWIX Caramel Cookie Bars were first introduced in 1979**.
+And here is a just a random fact -  **The YKK that you see on zippers stands for Yoshida Kogyo Kabushiki Kaisha which is the name of the founder of the zipper manufacturing company in Japan**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
