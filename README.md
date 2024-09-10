@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7560 days**.
 
-And here is a just a random fact -  **The formula for Coca-cola has never been patented**.
+And here is a just a random fact -  **Humans and cows have the same gestation period, which is about nine months**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 09 Sep, 2024.</sub>
+<sub>Last updated by Github Actions on 10 Sep, 2024.</sub>
