@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7561 days**.
 
-And here is a just a random fact -  **The King Cobra has enough venom in its bite that it can kill up to 13 adults**.
+And here is a just a random fact -  **75% of all raisins eaten by people in the United States are eaten at breakfast**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
