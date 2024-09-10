@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7560 days**.
 
-And here is a just a random fact -  **The skeleton of a spider is located on the outside of the body. The name for this is exoskelton**.
+And here is a just a random fact -  **The human heart can create enough pressure that it could squirt blood at a distance of thirty feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
