@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7560 days**.
+Here is a random fact about me - I have been on this planet for **7561 days**.
 
-And here is a just a random fact -  **A swordfish can live as long as 25 years and weigh up to 1,200 pounds**.
+And here is a just a random fact -  **In 1984, Ronald Reagan declared the month of July to be "National Ice Cream Month."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
