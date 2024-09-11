@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7562 days**.
 
-And here is a just a random fact -  **In Japan, the number four is considered to be unlucky because the Japanese word for four sounds very similar to the word death**.
+And here is a just a random fact -  **The hippopotamus has the capability to remain underwater for as long as twenty-five minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
