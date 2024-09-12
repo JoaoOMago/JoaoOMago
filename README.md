@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7563 days**.
 
-And here is a just a random fact -  **Shirley Temple was considered to play the role of Dorothy in "The Wizard of Oz."**.
+And here is a just a random fact -  **Levan, which is located in Utah, got its name from "navel" which is levan spelt backwards. It was named this because it is in the center of Utah**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
