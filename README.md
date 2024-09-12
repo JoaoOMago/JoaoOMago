@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7563 days**.
 
-And here is a just a random fact -  **Every second, 630 steel cans are recycled**.
+And here is a just a random fact -  **The longest one-syllable word in the English language is "screeched."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
