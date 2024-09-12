@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7563 days**.
 
-And here is a just a random fact -  **There are dolphins that live in the Amazon River that are the colour pink**.
+And here is a just a random fact -  **A sneeze zooms out of your mouth at over 600 m.p.h**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
