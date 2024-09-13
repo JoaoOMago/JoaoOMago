@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7564 days**.
 
-And here is a just a random fact -  **The citric acid found in lemon juice is said to be able to dissolve a pearl**.
+And here is a just a random fact -  **There were 13 couples celebrating their honeymoon on the Titanic**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
