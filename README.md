@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7564 days**.
 
-And here is a just a random fact -  **Americans, on average, spend 18% of his or her income on transportation as compared to only 13% spent on food**.
+And here is a just a random fact -  **The first episode of the popular television sitcom Happy Days was titled "All The Way."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
