@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7564 days**.
 
-And here is a just a random fact -  **The nut "filbert" got its name from St. Philbert which is celebrated on August 22nd, which is also when the nut matures**.
+And here is a just a random fact -  **Americans collectively eat one hundred pounds of chocolate every second**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
