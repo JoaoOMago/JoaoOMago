@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7564 days**.
 
-And here is a just a random fact -  **Between 1902 and 1907, the same tiger killed 434 people in India**.
+And here is a just a random fact -  **The reason why golf balls have dimples on them is because it helps in the ball to move a farther distance by reducing drag**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
