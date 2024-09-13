@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7563 days**.
 
-And here is a just a random fact -  **Octopus and squid are thought to be the most intelligent of all invertebrates**.
+And here is a just a random fact -  **Even though red roses looks the same, there are over 900 different types of red roses**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
