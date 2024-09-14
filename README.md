@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7564 days**.
 
-And here is a just a random fact -  **About 30% of American admit to talking to their dogs or leaving messages on their answering machines for their dogs while they are away**.
+And here is a just a random fact -  **The steepest street in the world is Baldwin Street located in Dunedin, New Zealand. It has an incline of 38%**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
