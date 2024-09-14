@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7565 days**.
 
-And here is a just a random fact -  **In ancient Greece, throwing an apple to a girl was a way to propose for marriage.. If the girl caught it, that would mean she accepts**.
+And here is a just a random fact -  **The fastest running bird is the Ostrich, which has been clocked at 97.5 kilometres per hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
