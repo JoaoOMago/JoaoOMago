@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7565 days**.
 
-And here is a just a random fact -  **Columbia University is the second largest landowner in New York City, after the Catholic Church**.
+And here is a just a random fact -  **Over one million Pet Rocks were sold in 1975, makine Gary Dahl, of Los Gatos, California, a millionaire. He got the idea while joking with friends about his pet that was easy to take care of, which was a rock**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
