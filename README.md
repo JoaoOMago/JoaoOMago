@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7564 days**.
 
-And here is a just a random fact -  **The average stay for a prisoner on Alcatraz, when it was used as a prison, was five years**.
+And here is a just a random fact -  **Badminton originates from a sport in India called "poona."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
