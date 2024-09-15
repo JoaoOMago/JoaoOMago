@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7565 days**.
 
-And here is a just a random fact -  **O.J. Simpson had a severe case of rickets and wore leg braces when he was a child**.
+And here is a just a random fact -  **The "Star Spangled Banner" did not become a national anthem until 1931. It was designated by an Act of Congress**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
