@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7566 days**.
 
-And here is a just a random fact -  **In 1693, the postage rate of a letter was determined by how much light went through the letter. The less the light went through the letter the more expensive the rate would be. This technique was referred to as candling**.
+And here is a just a random fact -  **On an American one-dollar bill, there is an owl in the upper right-hand corner of the "1" encased in the "shield" and a spider hidden in the front upper right-hand corner**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
