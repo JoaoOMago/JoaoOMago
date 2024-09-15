@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7565 days**.
 
-And here is a just a random fact -  **If all the cars from the U.S. were taken and lined up from bumper to bumper, there would be enough cars to go to the moon from earth and back.**.
+And here is a just a random fact -  **Found in Argentina, the ornate horned frog can eat an entire mouse with one swallow**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
