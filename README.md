@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7566 days**.
 
-And here is a just a random fact -  **Studies indicate that listening to music is good for digestion**.
+And here is a just a random fact -  **Most toilets flush in E flat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
