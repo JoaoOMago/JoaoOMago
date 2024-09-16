@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7567 days**.
 
-And here is a just a random fact -  **The Olympic Flame was introduced in 1928 in Amsterdam**.
+And here is a just a random fact -  **Lemon juice can aid in reducing the swelling caused by insect bites**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
