@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7567 days**.
 
-And here is a just a random fact -  **Central air conditioners use 98% more energy than ceiling fans.**.
+And here is a just a random fact -  **Approximately 200 pets are buried in a pet cemetery out of the thousands of pets that die each day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
