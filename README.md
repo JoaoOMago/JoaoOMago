@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7567 days**.
 
-And here is a just a random fact -  **111,111,111 x 111,111,111 = 12,345,678,987,654,321**.
+And here is a just a random fact -  **The state that has the most diners in the world is New Jersey, which is referred to as the "Diner Capital of the World."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
