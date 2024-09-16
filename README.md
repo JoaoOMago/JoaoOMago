@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7567 days**.
 
-And here is a just a random fact -  **A sneeze can travel as fast as one hundred miles per hour**.
+And here is a just a random fact -  **Although white wine can be produced from both red and white grapes, red wine can only be created from red grapes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
