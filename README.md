@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7567 days**.
 
-And here is a just a random fact -  **There are over one hundred billion galaxies with each galaxy having billions of stars**.
+And here is a just a random fact -  **Central air conditioners use 98% more energy than ceiling fans.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
