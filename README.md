@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7567 days**.
 
-And here is a just a random fact -  **A tree in metropolitan area will survive for approximately eight years**.
+And here is a just a random fact -  **On average, the rainfall across the Amazon is 7 feet annually.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
