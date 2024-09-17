@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7567 days**.
 
-And here is a just a random fact -  **Instead of a birthday cake, many children in Russia are given a birthday pie**.
+And here is a just a random fact -  **The Flintstones cartoon was the first thirty-minute cartoon to be aired during prime time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
