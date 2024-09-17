@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7567 days**.
 
-And here is a just a random fact -  **The word Lethologica describes the state of not remembering the word you want to say**.
+And here is a just a random fact -  **The average person can live about a month without eating any food, but can only live about a week without water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
