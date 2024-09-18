@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7568 days**.
 
-And here is a just a random fact -  **The reason why milk is white is because it contains a protein called Casein, which is white. Milk also contains fat, which is also white**.
+And here is a just a random fact -  **The plastic things on the end of shoelaces are called aglets**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
