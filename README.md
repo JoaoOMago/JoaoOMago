@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7569 days**.
 
-And here is a just a random fact -  **Americans are responsible for generating roughly 20% percent of the garbage in the world**.
+And here is a just a random fact -  **The oldest inhabited house in Scotland is the Traquair Castle. The castle has had 27 kings as visitors**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
