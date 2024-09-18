@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7569 days**.
 
-And here is a just a random fact -  **The largest shopping mall in the world is the West Edmonton Mall located in Edmonton, Alberta, Canada**.
+And here is a just a random fact -  **Asthma affects one in fifteen children under the age of eighteen**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
