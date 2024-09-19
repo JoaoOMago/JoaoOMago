@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7570 days**.
 
-And here is a just a random fact -  **The deepest mine in the world is the East Rand mine, which goes to a depth of about 3,585 metres**.
+And here is a just a random fact -  **The Ancient Greek women made a type of cheek blush by painting their cheeks with herbal pastes which was made out of crushed berries and seeds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
