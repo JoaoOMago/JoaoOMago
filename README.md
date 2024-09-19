@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7569 days**.
 
-And here is a just a random fact -  **In the United States, lightning hits the ground 40 million times a year.**.
+And here is a just a random fact -  **In the dry valleys region of Antarctica, it has not rained in 2 million years according to scientists**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
