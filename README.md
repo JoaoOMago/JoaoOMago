@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7570 days**.
 
-And here is a just a random fact -  **In an episode of the 1962 cartoon The Jestons, Jane Jetson is talking through a video phone. The phone number of The Jetsons was VENUS-1234**.
+And here is a just a random fact -  **The phrase "Often a bridesmaid, but never a bride," actually originates from an advertisement for Listerine mouthwash from 1924**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
