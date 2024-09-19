@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7570 days**.
 
-And here is a just a random fact -  **Mangos are valued for their reputation as an aphrodisiac in countries such as Guatemala and India**.
+And here is a just a random fact -  **Over the course of one year, a coffee tree only produces about 1.5 pounds of coffee**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
