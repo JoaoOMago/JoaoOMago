@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7570 days**.
 
-And here is a just a random fact -  **Texas is the only state that is allowed to fly its flag at the same height as the U.S. flag**.
+And here is a just a random fact -  **In 1992, the Antarctic Ozone hole was larger than the continent of North America.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
