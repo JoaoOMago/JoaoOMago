@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7570 days**.
 
-And here is a just a random fact -  **In the movie "Gandhi" 300,000 extras appeared in the funeral scene. Of the 300,000, approximately 100,000 received a small fee, and the other 200,000 did it for free**.
+And here is a just a random fact -  **The first penny candy to be wrapped in America was the Tootsie Roll in 1896**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
