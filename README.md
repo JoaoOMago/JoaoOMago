@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7570 days**.
 
-And here is a just a random fact -  **Vikings, after killing their enemies, used their skulls as drinking vessels**.
+And here is a just a random fact -  **Actor Charlie Chaplin made 81 movies over a career that spanned 50 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
