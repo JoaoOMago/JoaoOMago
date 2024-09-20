@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7570 days**.
 
-And here is a just a random fact -  **The Great Comet of 1843 had a tail that was over 300 kilometres long.**.
+And here is a just a random fact -  **Wherever a person is standing in the state of Michigan in the United States, they are within 85 miles of one of the Great Lakes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
