@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7570 days**.
 
-And here is a just a random fact -  **Bananas were discovered by Alexander the Great in 327 B.C. when he conquered India**.
+And here is a just a random fact -  **The waste produced by one chicken in its lifetime can supply enough electricity to run a 100-watt bulb for five hours**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
