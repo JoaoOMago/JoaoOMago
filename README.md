@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7570 days**.
 
-And here is a just a random fact -  **41% of women apply body or hand moisturizer a minimum three times a day**.
+And here is a just a random fact -  **The first fashion house to be set up was in 1858 by Charles Worth. He opened his store in Paris with the idea of having pre-made gowns presented on models to his customers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
