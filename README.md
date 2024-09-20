@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7571 days**.
 
-And here is a just a random fact -  **The average life span of a peasant during the medieval ages was 25 years**.
+And here is a just a random fact -  **The United States has paved enough roads to circle the Earth over 150 times.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
