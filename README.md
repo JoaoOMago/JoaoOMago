@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7571 days**.
 
-And here is a just a random fact -  **There are more than 2,000 different varieties of cheese in the world**.
+And here is a just a random fact -  **Fat is important for the development of children and normal growth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
