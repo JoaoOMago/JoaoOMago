@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7571 days**.
 
-And here is a just a random fact -  **During his entire life, Vincent Van Gogh sold exactly one painting, Red Vineyard at Arles**.
+And here is a just a random fact -  **The story of Rudolph the Red-Nosed Reindeer was written in 1939 for a store promotion by an advertising employee of the department store Montgomery Ward**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
