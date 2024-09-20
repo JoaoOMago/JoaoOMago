@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7571 days**.
 
-And here is a just a random fact -  **Sheep can detect other sheep faces like humans do. They can remember up to 50 sheep faces**.
+And here is a just a random fact -  **The patent number of the telephone is 174465.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
