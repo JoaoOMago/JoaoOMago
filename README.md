@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7571 days**.
 
-And here is a just a random fact -  **Tomatina is the legendary Spanish tomato-throwing festival held in Bunol, Spain**.
+And here is a just a random fact -  **The most popular grown bulbs are tulips**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
