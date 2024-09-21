@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7572 days**.
 
-And here is a just a random fact -  **In Miami, Florida, roosting vultures have taken to snatching poodles from rooftop patios**.
+And here is a just a random fact -  **Former U.S. President Franklin Pierce was arrested during his term as President for running over an old lady with his horse, but the charges were later dropped**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
