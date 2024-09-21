@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7572 days**.
 
-And here is a just a random fact -  **When telephone companies first began hiring telephone operators, they chose teenage boys for the job. They switched to women because the teenage boys were wrestling instead of working and pulling pranks on callers**.
+And here is a just a random fact -  **Only one out of every three people wash their hands when leaving a public bathroom**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
