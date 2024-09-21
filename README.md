@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7572 days**.
 
-And here is a just a random fact -  **French astronomer Adrien Auzout had once considered building a telescope that was 1,000 feet long in the 1600s. He thought the magnification would be so great, he would see animals on the moon**.
+And here is a just a random fact -  **The triangular shape that Toblerone chocolates are packaged in, is protected by law**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
