@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7573 days**.
 
-And here is a just a random fact -  **Americans consume the most peanut butter in the world**.
+And here is a just a random fact -  **One bushel of wheat can make enough sandwiches that you could eat three sandwiches a day for over six months**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
