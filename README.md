@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7572 days**.
 
-And here is a just a random fact -  **Every three seconds, a new baby is born**.
+And here is a just a random fact -  **The Chihuahua Desert is the largest desert in North America, and is over 200,000 square miles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
