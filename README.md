@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7573 days**.
 
-And here is a just a random fact -  **Dolphins hear by having sound waves transmit through their skull to their inner ear region**.
+And here is a just a random fact -  **On average, it is estimated that females injure themselves ten time more than males do while playing sports**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
