@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7574 days**.
 
-And here is a just a random fact -  **Someone gets divorced every ten to thirteen seconds**.
+And here is a just a random fact -  **The word "vamp" is used to describe the upper front top of a shoe**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
