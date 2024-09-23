@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7574 days**.
 
-And here is a just a random fact -  **For the movie "Tootsie" actor Dustin Hoffman thought of the title. His mother used to call him that as a child**.
+And here is a just a random fact -  **Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, Diamonds - Julius Caesar**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
