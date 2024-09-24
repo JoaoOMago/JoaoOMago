@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7575 days**.
 
-And here is a just a random fact -  **The reason the Animal Crackers box is designed with a string handle is because when the popular circus theme was introduced in 1902 they thought it would also be a good idea to package them with a string as a Christmas novelty so they could be hung from Christmas trees**.
+And here is a just a random fact -  **A piece of French toast that was partially eaten by Justin Timberlake sold on eBay**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
