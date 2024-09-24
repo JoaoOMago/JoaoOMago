@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7575 days**.
 
-And here is a just a random fact -  **Of all the words Dr. Seuss made up in his storybooks, only one has stuck in the English vocabulary: grinch, which is refers to a killjoy -- and it took more than 20 years**.
+And here is a just a random fact -  **There are approximately 45 billion fat cells in an average adult**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
