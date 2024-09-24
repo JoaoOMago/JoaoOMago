@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7575 days**.
 
-And here is a just a random fact -  **During one seven year period, Thomas Edison obtained approximately three hundred patents. In is whole life he obtained over one thousand patents.**.
+And here is a just a random fact -  **Kite flying is a professional sport in Thailand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
