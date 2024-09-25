@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7576 days**.
 
-And here is a just a random fact -  **A person would have to drink more than 12 cups of hot cocoa to equal the amount of caffeine found in one cup of coffee**.
+And here is a just a random fact -  **Over $7 billion a year is spent on chocolates by consumers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
