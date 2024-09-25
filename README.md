@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7576 days**.
 
-And here is a just a random fact -  **Gases that build up in your large intestine cause flatulence. It usually takes about 30 to 45 minutes for these gases to pass through your system**.
+And here is a just a random fact -  **The first subway system in America was built in Boston, Massachusetts in 1897.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
