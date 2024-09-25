@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7576 days**.
 
-And here is a just a random fact -  **75% of all raisins eaten by people in the United States are eaten at breakfast**.
+And here is a just a random fact -  **Cows drink anywhere from 25-50 gallons of water each day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
