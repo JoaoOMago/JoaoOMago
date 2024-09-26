@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7577 days**.
 
-And here is a just a random fact -  **There was a post office on the Russian space station Mir. Visiting cosmonauts would use unique postal "markers" to stamp envelopes and other items as having flown aboard the Mir space station**.
+And here is a just a random fact -  **The first drug to be sold in the form of a tablet is Aspirin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
