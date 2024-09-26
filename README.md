@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7576 days**.
 
-And here is a just a random fact -  **You are more likely to be killed by a champagne cork than by a poisonous spider**.
+And here is a just a random fact -  **On average, an American home has 3-10 gallons of hazardous materials**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Sep, 2024.</sub>
+<sub>Last updated by Github Actions on 26 Sep, 2024.</sub>
