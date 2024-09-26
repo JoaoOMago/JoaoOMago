@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7577 days**.
 
-And here is a just a random fact -  **In the Sahara Desert, there is a town named Tidikelt, which did not receive a drop of rain for ten years**.
+And here is a just a random fact -  **A single chocolate chip gives enough energy to a human being to walk 150 feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
