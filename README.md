@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7579 days**.
 
-And here is a just a random fact -  **The best time for a person to buy shoes is in the afternoon. This is because the foot tends to swell a bit around this time**.
+And here is a just a random fact -  **The greatest snowfall ever in a single storm was 189 inches at the Mount Shasta Ski Bowl in February, 1959.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
