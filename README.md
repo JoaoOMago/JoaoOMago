@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7579 days**.
 
-And here is a just a random fact -  **In the U.S., approximately 46% of the chicken that is eaten by people comes from restaurants or other food outlets**.
+And here is a just a random fact -  **The smile is the most frequently used facial expression. A smile can use anywhere from a pair of 5 to 53 facial muscles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
