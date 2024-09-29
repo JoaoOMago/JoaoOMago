@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7580 days**.
 
-And here is a just a random fact -  **In just one drop of liquid, 50 million bacteria can be present**.
+And here is a just a random fact -  **Flu shots only work about 70% of the time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
