@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7580 days**.
 
-And here is a just a random fact -  **The water displacement product, WD-40, can be found in 80% of American homes**.
+And here is a just a random fact -  **In the United States, lightning hits the ground 40 million times a year.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
