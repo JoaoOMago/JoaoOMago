@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7579 days**.
 
-And here is a just a random fact -  **The word housekeeping was invented by Shakespeare**.
+And here is a just a random fact -  **There are 10 million bacteria at the place where you rest your hands at a desk**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
