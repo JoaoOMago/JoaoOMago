@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7580 days**.
 
-And here is a just a random fact -  **The longest word in the English language is 1909 letters long and it refers to a distinct part of DNA**.
+And here is a just a random fact -  **In twins, there is a great chance that one will be left handed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
