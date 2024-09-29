@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7579 days**.
+Here is a random fact about me - I have been on this planet for **7580 days**.
 
-And here is a just a random fact -  **A galactic year is 250 million Earth-years. This is the time it takes for our solar system to make one revolution around the Milky Way Galaxy.**.
+And here is a just a random fact -  **The water displacement product, WD-40, can be found in 80% of American homes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
