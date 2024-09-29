@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7580 days**.
 
-And here is a just a random fact -  **On average, Americans eat one hundred acres of pizza a day. This amounts to about three hundred fifty slices per second**.
+And here is a just a random fact -  **A flea can jump 150 times its size. That is the same as a person able to jump up 1,000 feet in the air**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
