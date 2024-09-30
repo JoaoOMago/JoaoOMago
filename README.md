@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7581 days**.
 
-And here is a just a random fact -  **In the U.S., the milk production per dairy cow is approximately 12,000 pounds**.
+And here is a just a random fact -  **On average Americans spend 18% of their income on transportation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
