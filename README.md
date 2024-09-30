@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7581 days**.
 
-And here is a just a random fact -  **Close to 80% of people who watch the Super Bowl on television, only do so to view the commercials**.
+And here is a just a random fact -  **Dipsomania refers to an insatiable craving for alcoholic beverages**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
