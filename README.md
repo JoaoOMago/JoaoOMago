@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7581 days**.
 
-And here is a just a random fact -  **The last land battle of the U.S. Civil War was fought in Texas**.
+And here is a just a random fact -  **Half of a cup of figs will give you just as much calcium as half a cup of milk**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
