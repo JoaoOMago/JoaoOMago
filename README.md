@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7582 days**.
 
-And here is a just a random fact -  **Only one person in two billion will live to be 116 or older**.
+And here is a just a random fact -  **In 10 minutes, a hurricane releases more energy than all the world'snuclear weapons combined.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Oct, 2024.</sub>
+<sub>Last updated by Github Actions on 02 Oct, 2024.</sub>
