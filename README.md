@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7582 days**.
 
-And here is a just a random fact -  **Montreal has an underground city, which has over 2,000 shops and 26 kilometres of walkways. This is the largest underground network for any city**.
+And here is a just a random fact -  **A person who smokes a pack of cigarettes a day will on average lose two teeth every ten years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
