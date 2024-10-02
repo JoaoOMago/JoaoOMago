@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7583 days**.
 
-And here is a just a random fact -  **In London, during rush hour traffic moves on average at 13 kilometres an hour**.
+And here is a just a random fact -  **Men are able to read fine print better than women can**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
