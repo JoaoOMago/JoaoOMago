@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7583 days**.
 
-And here is a just a random fact -  **The city of Nottingham in England was the first city to have Braille signs (signs for the blind) in its shopping malls for the blind**.
+And here is a just a random fact -  **There are at least six universal facial expressions. They are: happiness, sadness, disgust, fear, anger and surprise**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
