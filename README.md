@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7582 days**.
+Here is a random fact about me - I have been on this planet for **7583 days**.
 
-And here is a just a random fact -  **There is a dog museum in St. Louis, Missouri**.
+And here is a just a random fact -  **On average men spend 51 minutes a day grooming themselves**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
