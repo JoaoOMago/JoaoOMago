@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7583 days**.
 
-And here is a just a random fact -  **Reserves from the Irish army were used as extras in the movie "Braveheart."**.
+And here is a just a random fact -  **The phrase "rule of thumb" is derived from an old English law whichstated that you couldn't beat your wife with anything wider than yourthumb.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
