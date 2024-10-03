@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7583 days**.
+Here is a random fact about me - I have been on this planet for **7584 days**.
 
-And here is a just a random fact -  **When the are in danger, kangaroos will beat the ground loudly with their hind feet**.
+And here is a just a random fact -  **A cow releases about 125 gallons of gas per day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
