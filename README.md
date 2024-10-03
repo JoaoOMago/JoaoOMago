@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7584 days**.
 
-And here is a just a random fact -  **The Lemon shark grows about 24,000 new teeth a year. A new set of teeth grow approximately every 14 days**.
+And here is a just a random fact -  **Leonardo da Vinci was dyslexic, and he often wrote backwards**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
