@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7584 days**.
 
-And here is a just a random fact -  **In 1864, A Quebec farmer found a frog inside a hailstone**.
+And here is a just a random fact -  **Frozen food can be just as nutritious as fresh food**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
