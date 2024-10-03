@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7584 days**.
 
-And here is a just a random fact -  **A galactic year is 250 million Earth-years. This is the time it takes for our solar system to make one revolution around the Milky Way Galaxy.**.
+And here is a just a random fact -  **The town of Olney, Illinois celebrates a "Squirrel Day" festival to honour the 200 albino squirrels that live in the town. The festival includes a squirrel blessing by a priest**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
