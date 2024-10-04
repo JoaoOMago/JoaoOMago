@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7585 days**.
 
-And here is a just a random fact -  **The Mall of America, located in Bloomington, Minnesota is so big that it can hold 24,336 school buses**.
+And here is a just a random fact -  **The average Hostess Twinkie is 68 percent air as measured by volume according to university researchers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
