@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7585 days**.
 
-And here is a just a random fact -  **Archeologists report that cannabis was most likely the first plant cultivated by humans. Cannabis was used for linen, paper, and garments**.
+And here is a just a random fact -  **The Tibetan name for Mount Everest is Chomolungma**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
