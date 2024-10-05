@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7586 days**.
 
-And here is a just a random fact -  **The only desert in Canada is located in Osoyoos, British Columbia**.
+And here is a just a random fact -  **Over 100 million birds die annually by crashing into glass windows in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
