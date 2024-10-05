@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7585 days**.
 
-And here is a just a random fact -  **Bill Gates house was partially designed using a Macintosh computer. new**.
+And here is a just a random fact -  **Americans on average use about 580 pounds of paper per year per person**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
