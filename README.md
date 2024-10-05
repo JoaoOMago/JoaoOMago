@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7586 days**.
 
-And here is a just a random fact -  **There are five years in a quinquennium**.
+And here is a just a random fact -  **The most senior crayon maker Emerson Moser retired after making 1.4 billion crayons for Crayola. It was then that he revealed that he was actually colorblind**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
