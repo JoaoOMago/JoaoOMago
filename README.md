@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7585 days**.
 
-And here is a just a random fact -  **People who ride on roller coasters have a higher chance of having a blood clot in the brain**.
+And here is a just a random fact -  **In Israel, religious law forbids picking your nose on Sabbath**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
