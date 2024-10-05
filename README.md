@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7585 days**.
 
-And here is a just a random fact -  **In total, Americans eat more than 45 billion sandwiches each year, while sales of custom-made sandwiches are rising 15 percent per year**.
+And here is a just a random fact -  **The city of Seoul has been the capital city of Korea for more than 600 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
