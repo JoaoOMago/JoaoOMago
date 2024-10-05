@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7585 days**.
 
-And here is a just a random fact -  **During World War II, Russians used dogs strapped with explosives to blow up German tanks. They trained the dogs to associate the tanks with food and ended up destroying about 25 German tanks using this method**.
+And here is a just a random fact -  **In total, Americans eat more than 45 billion sandwiches each year, while sales of custom-made sandwiches are rising 15 percent per year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 04 Oct, 2024.</sub>
+<sub>Last updated by Github Actions on 05 Oct, 2024.</sub>
