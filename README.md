@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7587 days**.
 
-And here is a just a random fact -  **The longest punt return for a touchdown was 103 yards**.
+And here is a just a random fact -  **It has been suggested that shepherds are responsible for inventing the game golf. It is said that they used to use their staffs to hit the stones**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
