@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7587 days**.
 
-And here is a just a random fact -  **Two objects have struck the earth with enough force to destroy a whole city. Each object, one in 1908 and again in 1947, struck regions of Siberia. Not one human being was hurt either time**.
+And here is a just a random fact -  **In WWII, when allied armies reached the Rhine River the first thing men did was pee in it. This was pretty universal from the lowest private to Winston Churchill (who made a big show of it). Gen. Patton had himself photographed in the act**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
