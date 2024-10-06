@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7587 days**.
 
-And here is a just a random fact -  **The artist Vincent Van Gogh sliced part of his ear off in madness**.
+And here is a just a random fact -  **The oldest inhabited house in Scotland is the Traquair Castle. The castle has had 27 kings as visitors**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
