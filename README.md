@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7587 days**.
 
-And here is a just a random fact -  **An average women has 17 square feet of skin. When a women is in her ninth month of pregnancy she has 18.5 square feet of skin**.
+And here is a just a random fact -  **The city of Argentia which is located on Newfoundland's southwest coast, is Canada's most fog-bound community. It has 206 days of fog each year.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
