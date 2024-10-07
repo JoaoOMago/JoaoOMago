@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7587 days**.
 
-And here is a just a random fact -  **It is said that grapefruit got its name because it grows like grapes in clusters. One cluster can have up to 25 grapefruits**.
+And here is a just a random fact -  **In 1917, Margaret Sanger was jailed for one month for establishing the first birth control clinic**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 06 Oct, 2024.</sub>
+<sub>Last updated by Github Actions on 07 Oct, 2024.</sub>
