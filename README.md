@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7588 days**.
 
-And here is a just a random fact -  **In ancient Egypt, Priests plucked EVERY hair from their bodies including their eyebrows and eyelashes**.
+And here is a just a random fact -  **18% of an Americans income is spent on transportation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
