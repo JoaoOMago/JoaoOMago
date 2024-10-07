@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7588 days**.
 
-And here is a just a random fact -  **The conjunctiva is a membrane that covers the human eye**.
+And here is a just a random fact -  **Ten percent of the Russian government's income comes from the sale ofvodka.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
