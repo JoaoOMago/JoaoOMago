@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7589 days**.
 
-And here is a just a random fact -  **For people that are lactose intolerant, chocolate aids in helping milk digest easier**.
+And here is a just a random fact -  **Trees that are near street lights do not shed their leaves as fast as a tree that is in the country**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
