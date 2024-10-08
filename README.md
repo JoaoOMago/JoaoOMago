@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7589 days**.
 
-And here is a just a random fact -  **Trees that are near street lights do not shed their leaves as fast as a tree that is in the country**.
+And here is a just a random fact -  **In 1902, the game table tennis was brought to the U.S. from Europe by Parker Brothers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
