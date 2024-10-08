@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7589 days**.
 
-And here is a just a random fact -  **In ancient Rome, lead poisoning was a prevalent disease amongst the wealthy because of their extensive use of lead. Many Roman women died because of lead poisoning caused by the use of make-up that contained lead**.
+And here is a just a random fact -  **In the United States, every year about 15 people die from dog bites**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
