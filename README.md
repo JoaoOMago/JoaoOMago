@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7590 days**.
 
-And here is a just a random fact -  **The six official languages of the United Nations are Arabic, Chinese, English, French, Russian, and Spanish**.
+And here is a just a random fact -  **The external tank on space shuttles is not painted. It is the only part of the shuttle that is lost after launch, so it is not necessary to worry about metal corrosion.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
