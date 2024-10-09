@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7590 days**.
 
-And here is a just a random fact -  **Historically, a blue ribbon has been awarded for first prize**.
+And here is a just a random fact -  **A Hungarian named Ladislo Biro invented the first ballpoint pen in 1938.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
