@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7590 days**.
 
-And here is a just a random fact -  **When the female grasshopper lays eggs, she covers her eggs with a pasty liquid that protects the eggs throughout the winter**.
+And here is a just a random fact -  **The banana was officially introduced in 1876 in the U.S. at the Philadelphia Centennial Exhibition. The bananas were wrapped in tinfoil and were sold for 10 cents each**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
