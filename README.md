@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7589 days**.
 
-And here is a just a random fact -  **The Eisenhower interstate system requires that one-mile in every five must be straight. These straight sections are usable as airstrips in times of war or other emergencies**.
+And here is a just a random fact -  **In the movie "Gandhi" 300,000 extras appeared in the funeral scene. Of the 300,000, approximately 100,000 received a small fee, and the other 200,000 did it for free**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
