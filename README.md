@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7590 days**.
 
-And here is a just a random fact -  **Blueberries have more antioxidents than any other fruit or vegetables**.
+And here is a just a random fact -  **Some arthritis medications contain gold salts, which is used as an anti-inflammatory**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
