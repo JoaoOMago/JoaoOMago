@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7590 days**.
 
-And here is a just a random fact -  **The Leaning Tower of Pisa is 58.36 metres above the ground**.
+And here is a just a random fact -  **Historically, a blue ribbon has been awarded for first prize**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
