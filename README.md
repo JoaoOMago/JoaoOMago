@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7590 days**.
 
-And here is a just a random fact -  **A seven year old boy was the first person to survive the Horeshoe Falls (Niagara Falls) in just a life jacket**.
+And here is a just a random fact -  **If the population of China walked past you in single file, the line would never end because of the rate of reproduction**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
