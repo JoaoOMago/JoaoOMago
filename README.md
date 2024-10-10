@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7591 days**.
 
-And here is a just a random fact -  **In 410 A.D. Alaric the Visigoth demanded that Rome give him three thousand pounds of pepper as ransom**.
+And here is a just a random fact -  **Women take three times longer than men when using the toilet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
