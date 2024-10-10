@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7591 days**.
 
-And here is a just a random fact -  **The speed at which honey bees fly is at 15 miles per hour**.
+And here is a just a random fact -  **During the Roman times, people used urine, called lotium in Latin, as a hair product**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
