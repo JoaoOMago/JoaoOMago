@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7591 days**.
 
-And here is a just a random fact -  **In 1908, the first machine to make lollipops opened for business in New Haven, Connecticut**.
+And here is a just a random fact -  **Actress Debra Winger helped to perform the voice of E.T. in the movie ?E.T. The Extra Terrestrial (1982)."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
