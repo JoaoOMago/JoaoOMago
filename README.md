@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7591 days**.
 
-And here is a just a random fact -  **The highest mountain in the Western Hemisphere is Mount Aconcagua in Argentina. It rises 22,834 feet above sea level**.
+And here is a just a random fact -  **A snail can crawl across a razor blade without getting injured. This is possible because they excrete a slime that protects them**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
