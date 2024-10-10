@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7590 days**.
 
-And here is a just a random fact -  **Walt Disney was afraid of mice**.
+And here is a just a random fact -  **The microwave oven was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 09 Oct, 2024.</sub>
+<sub>Last updated by Github Actions on 10 Oct, 2024.</sub>
