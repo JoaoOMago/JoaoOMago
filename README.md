@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7591 days**.
 
-And here is a just a random fact -  **During one seven year period, Thomas Edison obtained approximately three hundred patents. In is whole life he obtained over one thousand patents.**.
+And here is a just a random fact -  **More than 90% of shark attack victims survive**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
