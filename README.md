@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7590 days**.
 
-And here is a just a random fact -  **The mating call of a male toadfish, who are underwater, is so loud that it can be heard by humans above water**.
+And here is a just a random fact -  **To produce a dozen eggs, a hen has to eat about four pounds of feed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
