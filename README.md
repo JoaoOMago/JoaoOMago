@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7592 days**.
 
-And here is a just a random fact -  **Five percent of the people who use personal ads for dating are already married**.
+And here is a just a random fact -  **The best selling Crayola crayon box is the set of 24 crayons**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
