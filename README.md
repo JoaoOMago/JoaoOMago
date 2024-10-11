@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7591 days**.
 
-And here is a just a random fact -  **The water inside of a coconut is identical to human blood plasma. Many lives in third world countries have been saved from coconut water fed through an IV**.
+And here is a just a random fact -  **It takes 3,000 cows to supply the NFL with enough leather for a year'ssupply of footballs.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
