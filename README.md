@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7591 days**.
 
-And here is a just a random fact -  **When telephone companies first began hiring telephone operators, they chose teenage boys for the job. They switched to women because the teenage boys were wrestling instead of working and pulling pranks on callers**.
+And here is a just a random fact -  **In a five card poker game there are 2,598,960 possible hands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
