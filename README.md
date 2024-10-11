@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7591 days**.
 
-And here is a just a random fact -  **Vatican City is the smallest country in the world, with a population of 1000 and a size 108.7 acres**.
+And here is a just a random fact -  **On average, an ear of a corn has 16 rows and approximately 800 kernels**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
