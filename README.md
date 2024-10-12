@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7592 days**.
 
-And here is a just a random fact -  **Romans, in the third century, believed that the lemon was an antidote for all poisons**.
+And here is a just a random fact -  **The width of a tornado can range from less than ten yards to more than a mile.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
