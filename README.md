@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7593 days**.
 
-And here is a just a random fact -  **Approximately 25,000 workers died during the building of the Panama Canal and approximately 20,000 of them contracted malaria and yellow fever**.
+And here is a just a random fact -  **The town with the most stop signs per capita than any other in the US: LaConner, Washington**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
