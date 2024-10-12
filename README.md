@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7593 days**.
 
-And here is a just a random fact -  **Certain female species of spiders such as the Australian crab spider, sacrifice their bodies as a food source for their offspring**.
+And here is a just a random fact -  **The flatulation from domesticated cows produce about 30% of the methane on this planet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
