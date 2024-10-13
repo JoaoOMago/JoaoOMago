@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7594 days**.
 
-And here is a just a random fact -  **The first lighthouse built in the USA was in Boston, MA in 1716**.
+And here is a just a random fact -  **When baby sharks are born, they swim away from their mothers right away and are on there own. In fact, their mothers might see them as prey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
