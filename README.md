@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7594 days**.
 
-And here is a just a random fact -  **German cockroaches can survive for up to one month without food and two weeks without water**.
+And here is a just a random fact -  **When Queen Elizabeth I of England died she owned over 3,000 gowns**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
