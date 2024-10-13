@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7594 days**.
 
-And here is a just a random fact -  **The average number of guests that attend a wedding in the U.S. is 189**.
+And here is a just a random fact -  **Dolphins sleep with one eye open**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
