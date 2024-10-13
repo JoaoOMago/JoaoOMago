@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7594 days**.
 
-And here is a just a random fact -  **Banging your head against a wall uses 150 calories an hour**.
+And here is a just a random fact -  **Fossilized bird droppings are one of the chief exports of Nauru, an island nation in the Western Pacific**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
