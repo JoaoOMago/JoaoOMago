@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7593 days**.
 
-And here is a just a random fact -  **Male sea horses are the ones that get impregnated rather than the females. Males have a pouch on their belly that provides incubation for the female?s eggs and they can have up to 1500 babies at one time**.
+And here is a just a random fact -  **The first spacecraft to visit the planet Venus was Mariner 2 in 1962.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
