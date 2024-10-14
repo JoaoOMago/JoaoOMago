@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7595 days**.
 
-And here is a just a random fact -  **There is enough water in American swimming pools to cover the whole city of San Francisco seven feet deep**.
+And here is a just a random fact -  **Hockey pucks were originally made from frozen cow dung**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
