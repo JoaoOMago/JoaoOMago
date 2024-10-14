@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7594 days**.
 
-And here is a just a random fact -  **Every day, the average person swallows about a quart of snot**.
+And here is a just a random fact -  **In just one drop of liquid, 50 million bacteria can be present**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 13 Oct, 2024.</sub>
+<sub>Last updated by Github Actions on 14 Oct, 2024.</sub>
