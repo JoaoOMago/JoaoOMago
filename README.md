@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7595 days**.
 
-And here is a just a random fact -  **In 1949 UNICEF produced the first charity Christmas card. The picture shown on the card was painted by a seven year old girl**.
+And here is a just a random fact -  **There is enough water in American swimming pools to cover the whole city of San Francisco seven feet deep**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
