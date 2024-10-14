@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7595 days**.
 
-And here is a just a random fact -  **A person will burn 7 percent more calories if they walk on hard dirt compared to pavement**.
+And here is a just a random fact -  **Back in 1953, it took 27 hours to make one Marshmallow Peep. Now it takes only six minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
