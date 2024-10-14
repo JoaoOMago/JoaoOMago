@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7594 days**.
 
-And here is a just a random fact -  **Canadians Scott Abbott and Chris Haney invented Trivial Pursuit. They were planning on playing Scrabble and realized that some of the pieces were missing so they came up with the idea of making their own game; Trivial Pursuit**.
+And here is a just a random fact -  **The Beatles have sold more records than anyone else with over a billion worldwide**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
