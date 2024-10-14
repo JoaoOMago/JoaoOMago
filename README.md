@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7594 days**.
+Here is a random fact about me - I have been on this planet for **7595 days**.
 
-And here is a just a random fact -  **Wendel Clark holds the record for the longest span between NHL All-Star appearances, with 13 years (1986-1999)**.
+And here is a just a random fact -  **The best selling chocolate syrup in the world is Hershey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
