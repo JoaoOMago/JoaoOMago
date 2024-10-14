@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7594 days**.
 
-And here is a just a random fact -  **In 1997, the record for the highest skydive by a dog at 4,572 feet was established by a dog named Brutus**.
+And here is a just a random fact -  **An average women has 17 square feet of skin. When a women is in her ninth month of pregnancy she has 18.5 square feet of skin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
