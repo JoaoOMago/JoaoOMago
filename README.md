@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7594 days**.
 
-And here is a just a random fact -  **The waste produced by one chicken in its lifetime can supply enough electricity to run a 100-watt bulb for five hours**.
+And here is a just a random fact -  **The word "walkman" was included in the Oxford English Dictionary in 1986**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
