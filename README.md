@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7596 days**.
 
-And here is a just a random fact -  **Buttermilk does not contain any butter, but is a cultured milk product which is usually made from fat free milk**.
+And here is a just a random fact -  **Anise is the scent on the artificial rabbit that is used in greyhound races**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
