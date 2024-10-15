@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7596 days**.
 
-And here is a just a random fact -  **The appliance that uses the most use of water in the home is the toilet**.
+And here is a just a random fact -  **Buttermilk does not contain any butter, but is a cultured milk product which is usually made from fat free milk**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
