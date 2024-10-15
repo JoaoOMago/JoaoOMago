@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7595 days**.
 
-And here is a just a random fact -  **February 17th, 1930, was the first flight by a cow in an airplane. The milk that was produced by the cow during the flight was put into containers and parachuted over the city of St. Louis**.
+And here is a just a random fact -  **Acorns were used as a coffee substitute during the American Civil War**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
