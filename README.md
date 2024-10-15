@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7595 days**.
 
-And here is a just a random fact -  **The Arctic Tern, which is a small bird, can fly a round trip from the Arctic to the Antarctic and back. This can be as long as twenty thousand miles per year. This is the longest migration for a bird**.
+And here is a just a random fact -  **New Jersey has a spoon museum that has over 5,400 spoons from across the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 14 Oct, 2024.</sub>
+<sub>Last updated by Github Actions on 15 Oct, 2024.</sub>
