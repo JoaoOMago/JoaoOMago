@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7596 days**.
 
-And here is a just a random fact -  **On average, 81% of Americans 16 years of age and older watch television at least once in a day**.
+And here is a just a random fact -  **40 percent of the almonds in the world are used by manufacturers of chocolate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
