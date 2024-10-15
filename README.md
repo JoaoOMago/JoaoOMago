@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7595 days**.
+Here is a random fact about me - I have been on this planet for **7596 days**.
 
-And here is a just a random fact -  **There are no blossoms on the branches of a fig tree, instead it is inside the fruit**.
+And here is a just a random fact -  **Bats can detect food up to 18 feet away and what type of insect the food may be using their sense of echolocation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
