@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7596 days**.
 
-And here is a just a random fact -  **There are more than 50 different types of pumpkins. Some of them have names such as Munchkin, Funny Face, and Spooktacular**.
+And here is a just a random fact -  **The largest coral reef in the world is the Great Barrier Reef located in Australia. The reef is approximately 2023 kilometers long**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
