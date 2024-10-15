@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7595 days**.
 
-And here is a just a random fact -  **The average life expectancy of an ant is about 90 days**.
+And here is a just a random fact -  **There are no blossoms on the branches of a fig tree, instead it is inside the fruit**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
