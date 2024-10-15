@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7596 days**.
 
-And here is a just a random fact -  **Approximately 87% of dog owners say that when they watch T.V. their dog curls up beside them or at their feet**.
+And here is a just a random fact -  **The first jet engine was invented by Frank Whittleof of England in 1930.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
