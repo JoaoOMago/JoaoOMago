@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7596 days**.
 
-And here is a just a random fact -  **There is cyanide in apple pips**.
+And here is a just a random fact -  **You can send a postcard from Hell. There is a small town located in the Cayman Islands called "Hell." They even have a post office**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
