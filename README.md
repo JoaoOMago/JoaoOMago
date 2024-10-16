@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7596 days**.
 
-And here is a just a random fact -  **Only one person in two billion will live to be 116 or older**.
+And here is a just a random fact -  **The TV show "Saturday Night Live" made its debut on October 11, 1975**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
