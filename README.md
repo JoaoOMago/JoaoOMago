@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7597 days**.
 
-And here is a just a random fact -  **Robert Southey wrote the story "Goldilocks and the Three Bears" in 1834**.
+And here is a just a random fact -  **The world's termites outweigh the world's humans 10 to 1.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
