@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7596 days**.
 
-And here is a just a random fact -  **Clans of long ago that wanted to get rid of their unwanted people without killing them would burn their houses down - hence the expression "to get fired."**.
+And here is a just a random fact -  **Oprah Winfrey was the first black woman to anchor a newscast in Nashville at WTVF-TV**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
