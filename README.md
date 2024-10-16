@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7597 days**.
 
-And here is a just a random fact -  **Minimum wage was 0.25 per hour when it was first enacted in 1938**.
+And here is a just a random fact -  **The largest chicken egg ever laid weighed a pound and had a double yolk and shell**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
