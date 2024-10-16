@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7597 days**.
 
-And here is a just a random fact -  **Eating about twenty tart cherries a day could reduce inflammatory pain and headache pain**.
+And here is a just a random fact -  **Finland has 187,888 lakes and 179,584 islands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
