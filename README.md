@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7597 days**.
+Here is a random fact about me - I have been on this planet for **7598 days**.
 
-And here is a just a random fact -  **During World War II, condoms were used to cover rifle barrels from being damaged by salt water as the soldiers swam to shore**.
+And here is a just a random fact -  **In 1996, toy company Mattel released a "Harley Davidson" Barbie. This dolls distinctive feature is a birth mark on her face that changes position with every new release of the doll**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
