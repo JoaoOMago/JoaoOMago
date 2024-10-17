@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7597 days**.
 
-And here is a just a random fact -  **Cows drink anywhere from 25-50 gallons of water each day**.
+And here is a just a random fact -  **Indonesia consists only of islands - 13,667 total**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
