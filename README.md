@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7597 days**.
 
-And here is a just a random fact -  **Every day, over 1,300 babies are born prematurely in the USA**.
+And here is a just a random fact -  **One acre of wheat can produce enough bread to feed a family of four people for about ten years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
