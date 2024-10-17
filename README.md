@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7598 days**.
 
-And here is a just a random fact -  **On average, a beaver can cut down two hundred trees a year.**.
+And here is a just a random fact -  **Millie the White House dog earned more than 4 times as much as President Bush in 1991. And, rightfully so**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
