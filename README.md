@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7599 days**.
 
-And here is a just a random fact -  **The idea of Christmas cards was invented by Englishman Henry Cole in 1843**.
+And here is a just a random fact -  **Mexican jumping beans jump because of moth larvae inside the bean**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
