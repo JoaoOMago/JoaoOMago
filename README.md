@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7599 days**.
 
-And here is a just a random fact -  **The strongest gust of wind was recorded at the Mount Washington Observatory on April 12th, 1934, and measured 231 miles per hour.**.
+And here is a just a random fact -  **There is enough water in American swimming pools to cover the whole city of San Francisco seven feet deep**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
