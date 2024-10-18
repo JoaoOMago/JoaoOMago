@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7598 days**.
 
-And here is a just a random fact -  **The Eiffel Tower was the tallest structure in the world before the construction of the Empire State Building in 1930**.
+And here is a just a random fact -  **The word "diastema" is the word for having a gap between your teeth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
