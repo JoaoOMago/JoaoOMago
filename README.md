@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7599 days**.
 
-And here is a just a random fact -  **Cotton crops can be sprayed up to 40 times a year making it the most chemical-intensive crop in the world**.
+And here is a just a random fact -  **215 jeans can be made with one bale of cotton**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
