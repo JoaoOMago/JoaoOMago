@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7599 days**.
 
-And here is a just a random fact -  **In many of the milk ads that are shown, a mix of thinner and white paint is used instead of milk**.
+And here is a just a random fact -  **In 1976, fourteen banks merged to form a bank credit card called "Mastercharge." This was later renamed to what is now know as "Mastercard."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
