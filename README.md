@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7598 days**.
 
-And here is a just a random fact -  **Shirley Temple was considered to play the role of Dorothy in "The Wizard of Oz."**.
+And here is a just a random fact -  **In just the first 56 days of life, the larva of the polyphemus moth eats about 86,000 times its birthweight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
