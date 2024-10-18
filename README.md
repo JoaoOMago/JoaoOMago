@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7599 days**.
 
-And here is a just a random fact -  **More than half the time spent in United States courts is cases that involve automobiles**.
+And here is a just a random fact -  **A "gelotologist" is a person who studies laughter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
