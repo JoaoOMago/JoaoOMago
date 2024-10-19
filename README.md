@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7600 days**.
 
-And here is a just a random fact -  **The words moron, imbecile, and idiot are not interchangable. The one with the highest level of intelligence is a moron, followed, by an imbecile, and then idiot**.
+And here is a just a random fact -  **In 1886, Coca-cola was first served at a pharmacy in Atlanta, Georgia for only five cents a glass. A pharmacist named John Pemberton created the formula for Coca-cola**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
