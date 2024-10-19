@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7599 days**.
 
-And here is a just a random fact -  **Prosopagnosia refers to the inability to identify people by their faces. In severe cased prosopagnosia a person may not be able to identify themselves in a mirror**.
+And here is a just a random fact -  **Women who are romance novel readers are reported to make love 74% more often with their partners than women who do not read romance novels.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
