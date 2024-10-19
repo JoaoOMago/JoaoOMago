@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7599 days**.
+Here is a random fact about me - I have been on this planet for **7600 days**.
 
-And here is a just a random fact -  **Corned beef got its name because this beef was preserved with pellets of salt that were the size of corn kernels, which was also referred to as "corns" of salt**.
+And here is a just a random fact -  **Mr. Butts invented the game SCRABBLE. The game was originally called "Criss Cross Words."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
