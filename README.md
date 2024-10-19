@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7600 days**.
 
-And here is a just a random fact -  **Silk was developed in China were it was kept a secret for more than two thousands years. Anyone found trying to smuggle silkworm eggs or cocoons out of the country was immediately put to death**.
+And here is a just a random fact -  **Turkeys can have heart attacks. When the Air Force was conducting test runs and breaking the sound barrier, fields of turkeys dropped dead because of heart attacks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
