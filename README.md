@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7600 days**.
 
-And here is a just a random fact -  **On average, 749 pounds of paper products is used by an American individual annually**.
+And here is a just a random fact -  **The sea cucumber spills its internal organs out as a defense mechanism**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
