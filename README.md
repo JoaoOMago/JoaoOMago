@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7600 days**.
 
-And here is a just a random fact -  **In 1888, an Egyptian peasant discovered an estimated three hundred thousand mummified cats in Beni Hassan, Egypt. Of the cats that were not stolen once, the find was made public, the remaining mummified cats were shipped to Great Britain to be used as agricultural fertilizer**.
+And here is a just a random fact -  **On average, 749 pounds of paper products is used by an American individual annually**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
