@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7599 days**.
 
-And here is a just a random fact -  **Mr. Rogers is an ordained minister**.
+And here is a just a random fact -  **In 1657, the first chocolate house was opened in London, England. The cost of chocolate was about 13 shillings per pound and was a drink that only the elite enjoyed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
