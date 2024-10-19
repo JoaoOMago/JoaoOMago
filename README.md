@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7600 days**.
 
-And here is a just a random fact -  **When Nylons first went on sale in the United States in 1940, four million pairs were sold in only a few days**.
+And here is a just a random fact -  **People generally read 25% slower from a computer screen compared to paper**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
