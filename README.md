@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7600 days**.
 
-And here is a just a random fact -  **The longer white infants from low-income families are breast-fed, the less likely they will be overweight as young children, researchers said on Monday**.
+And here is a just a random fact -  **It is possible to lead a cow upstairs...but not downstairs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 19 Oct, 2024.</sub>
+<sub>Last updated by Github Actions on 20 Oct, 2024.</sub>
