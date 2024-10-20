@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7600 days**.
 
-And here is a just a random fact -  **The accent that Mike Myers used for the character Shrek came from the accent that his mother would use when she was telling him bedtime stories when he was a child**.
+And here is a just a random fact -  **Ramses II, a pharaoh of Egypt died in 1225 B.C. At the time of his death, he had fathered 96 sons and 60 daughters**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
