@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7601 days**.
 
-And here is a just a random fact -  **In 1945, a seven ounce bathroom cup was the first item Tupperware marketed**.
+And here is a just a random fact -  **In Kentucky, it is illegal to carry ice cream in your back pocket**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
