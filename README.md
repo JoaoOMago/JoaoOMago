@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7601 days**.
 
-And here is a just a random fact -  **Twit is the name given for a pregnant goldfish**.
+And here is a just a random fact -  **The average life span of a mosquito is two weeks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
