@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7601 days**.
 
-And here is a just a random fact -  **Peaches were once known as Persian apples**.
+And here is a just a random fact -  **The largest hotel in the world is the MGM Grand, which has 5,034 rooms and is located in Las Vegas, Nevada**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
