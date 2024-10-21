@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7602 days**.
 
-And here is a just a random fact -  **If you have three quarters, four dimes, and four pennies, you have$1.19. You also have the largest amount of money in coins without beingable tomake change for a dollar.**.
+And here is a just a random fact -  **Smelling bananas can help a person lose weight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
