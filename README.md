@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7601 days**.
 
-And here is a just a random fact -  **In August 1999, Lori Lynn Lomeli set a record by spinning 82 Hula Hoops at the same time for three full revolutions**.
+And here is a just a random fact -  **There were no red colored M&Ms from 1976 to 1987**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
