@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7602 days**.
 
-And here is a just a random fact -  **The first penny candy to be wrapped in America was the Tootsie Roll in 1896**.
+And here is a just a random fact -  **The stapler was invented in Spring Valley, Minnesota.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
