@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7602 days**.
+Here is a random fact about me - I have been on this planet for **7603 days**.
 
-And here is a just a random fact -  **Men are more likely to be colorblind than women. About one of out of 12 men are colorblind**.
+And here is a just a random fact -  **During World War II, condoms were used to cover rifle barrels from being damaged by salt water as the soldiers swam to shore**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
