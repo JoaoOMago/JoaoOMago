@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7603 days**.
 
-And here is a just a random fact -  **In a year, Americans eat approximately 20 billion pickles**.
+And here is a just a random fact -  **On average, 150 couples get married in Las Vegas each day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
