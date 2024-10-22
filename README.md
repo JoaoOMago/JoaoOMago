@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7603 days**.
 
-And here is a just a random fact -  **The Hundred Years War lasted for 116 years**.
+And here is a just a random fact -  **On February 10, 1964 the first self-adhesive stamps were issued**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
