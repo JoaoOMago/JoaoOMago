@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7603 days**.
 
-And here is a just a random fact -  **When the First Lady, Eleanor Roosevelt, received an alarming number of threatening letters, soon after her husband became President at the height of the Depression, the Secret Service insisted that she carry a pistol in her purse**.
+And here is a just a random fact -  **The Christmas season begins after sunset on December 24th and lasts until January 5th. This is also known as the Twelve Days of Christmas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 22 Oct, 2024.</sub>
+<sub>Last updated by Github Actions on 23 Oct, 2024.</sub>
