@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7605 days**.
 
-And here is a just a random fact -  **The spray WD-40 got its name because there were forty attempts needed before the creation of the "water displacing" substance**.
+And here is a just a random fact -  **When Kleenex was first introduced to the market in 1924, it was marketed as a make up or cold cream remover**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
