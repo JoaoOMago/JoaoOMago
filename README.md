@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7605 days**.
 
-And here is a just a random fact -  **The total volume of mail that went through the Canadian postal system in 1950 was 1,362,310,155 items**.
+And here is a just a random fact -  **An average women has 17 square feet of skin. When a women is in her ninth month of pregnancy she has 18.5 square feet of skin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
