@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7605 days**.
 
-And here is a just a random fact -  **Over 4.5 billion sticks have Trident gum have been chewed. If the stick of gum were laid out end to end they could circle the globe approximately 1.8 times**.
+And here is a just a random fact -  **Strawberries are a member of the rose family**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Oct, 2024.</sub>
+<sub>Last updated by Github Actions on 25 Oct, 2024.</sub>
