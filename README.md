@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7606 days**.
 
-And here is a just a random fact -  **Annually 17 tons of gold is used to make wedding rings in the United States**.
+And here is a just a random fact -  **The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
