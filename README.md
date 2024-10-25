@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7606 days**.
 
-And here is a just a random fact -  **One gallon of pure maple syrup weighs 11 pounds**.
+And here is a just a random fact -  **An oyster can change its gender**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
