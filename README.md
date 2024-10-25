@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7605 days**.
+Here is a random fact about me - I have been on this planet for **7606 days**.
 
-And here is a just a random fact -  **The first television show to show any portion of a toilet was on "Leave it to Beaver." After fighting for ten weeks to show the toilet, CBS would only allow the producers to show the toilet tank, and not the whole toilet**.
+And here is a just a random fact -  **The famous Casanova (Giacomo Casanova) was a librarian for many years before he died**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
