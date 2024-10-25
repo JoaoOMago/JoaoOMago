@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7605 days**.
 
-And here is a just a random fact -  **During World War II, Kit Kat was unavailable due to milk shortages, so the chocolate bar was made without milk**.
+And here is a just a random fact -  **From 1939 to 1942, there was a undersea post office in the Bahamas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
