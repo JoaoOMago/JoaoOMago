@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7606 days**.
 
-And here is a just a random fact -  **Parrots cannot eat chocolate because it is poisonous to their body**.
+And here is a just a random fact -  **Devon, England has about 33,000 miles of hedgerows, more hedgerows than any other country**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
