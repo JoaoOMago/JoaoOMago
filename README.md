@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7607 days**.
 
-And here is a just a random fact -  **The average number of guests that attend a wedding in the U.S. is 189**.
+And here is a just a random fact -  **The Sea of Tranquility on the moon is deeper than the highest mountain on Earth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
