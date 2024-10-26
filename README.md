@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7607 days**.
 
-And here is a just a random fact -  **The shortest war in history was between Zanzibar an England in 1896. Zanzibar surrendered after 38 minutes**.
+And here is a just a random fact -  **Quality standards for pasta were set in the 13th century by the Pope**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
