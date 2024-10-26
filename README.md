@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7607 days**.
 
-And here is a just a random fact -  **There are 10 million bacteria at the place where you rest your hands at a desk**.
+And here is a just a random fact -  **On October 15, 1794, the first silver dollar coins were released to be circulated to the public**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
