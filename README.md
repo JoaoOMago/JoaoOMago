@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7607 days**.
 
-And here is a just a random fact -  **According to studies, an average roll of toilet paper lasts about five days in the bathroom**.
+And here is a just a random fact -  **Reports from owners of cats and dogs indicate that 21% of dogs and 7% of cats snore**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
