@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7606 days**.
 
-And here is a just a random fact -  **Adolf Hitler loved chocolate cake**.
+And here is a just a random fact -  **The "naked recreation and travel" industry has grown by 233% in the past decade**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
