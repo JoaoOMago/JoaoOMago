@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7607 days**.
 
-And here is a just a random fact -  **The longest one-syllable word in the English language is "screeched."**.
+And here is a just a random fact -  **The first commercial chewing gum was sold in 1848 by John B. Curtis, who also made the gum. He called the gum "State of Maine Pure Spruce Gum."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
