@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7606 days**.
+Here is a random fact about me - I have been on this planet for **7607 days**.
 
-And here is a just a random fact -  **Diamonds were first discovered in the riverbeds of the Golconda region of India over 4,000 years ago.**.
+And here is a just a random fact -  **The Red Cross is called the Red Crescent in Arab countries**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
