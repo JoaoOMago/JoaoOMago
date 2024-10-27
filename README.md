@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7607 days**.
 
-And here is a just a random fact -  **The Sea of Tranquility on the moon is deeper than the highest mountain on Earth**.
+And here is a just a random fact -  **The temperature of lightning bolts is sometimes hotter than the surface of the sun.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Oct, 2024.</sub>
+<sub>Last updated by Github Actions on 27 Oct, 2024.</sub>
