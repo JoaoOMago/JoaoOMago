@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7608 days**.
 
-And here is a just a random fact -  **Sharks are capable of surviving on average six weeks without eating. The record observed in an aquarium is fifteen months by a species of shark known as the "swell shark."**.
+And here is a just a random fact -  **Actor Richard Gere was considered to play the role of John McClane in the movie Die Hard. Bruce Willis played the part instead**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
