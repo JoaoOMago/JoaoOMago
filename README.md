@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7608 days**.
 
-And here is a just a random fact -  **Heinz first started making ketchup in 1876 and the recipe has remained the same ever since**.
+And here is a just a random fact -  **The first known American novelist to hand in a manuscript that was typed was Mark Twain. His typewriter was a Remington No.1, which was invented by Christopher Sholes and Carlos Glidden.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
