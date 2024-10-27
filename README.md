@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7608 days**.
 
-And here is a just a random fact -  **The first known American novelist to hand in a manuscript that was typed was Mark Twain. His typewriter was a Remington No.1, which was invented by Christopher Sholes and Carlos Glidden.**.
+And here is a just a random fact -  **The rarest coffee in the world is Kopi Luwak, which is found in Indonesia. It cost about $300 a pound**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
