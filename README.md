@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7608 days**.
 
-And here is a just a random fact -  **No president of the United States was an only child**.
+And here is a just a random fact -  **Ironically, watermelons, which are 92% water, originated from the Kalahari Desert in Africa**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
