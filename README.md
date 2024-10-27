@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7607 days**.
 
-And here is a just a random fact -  **On average, an ear of a corn has 16 rows and approximately 800 kernels**.
+And here is a just a random fact -  **In 1945, the first "floating ice cream parlor" was built for sailors in the western Pacific. This "floating ice cream parlour" could produce ten gallons of ice cream every seven seconds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
