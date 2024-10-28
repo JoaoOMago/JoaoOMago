@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7608 days**.
 
-And here is a just a random fact -  **The accent that Mike Myers used for the character Shrek came from the accent that his mother would use when she was telling him bedtime stories when he was a child**.
+And here is a just a random fact -  **The smallest bird in the world is the bee hummingbird. The bird is 2.24 inches long**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
