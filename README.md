@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7608 days**.
 
-And here is a just a random fact -  **In Ivrea, Italy, thousands of citizens celebrate the beginning of Lent by throwing oranges at one another**.
+And here is a just a random fact -  **Mr. Rogers is an ordained minister**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 27 Oct, 2024.</sub>
+<sub>Last updated by Github Actions on 28 Oct, 2024.</sub>
