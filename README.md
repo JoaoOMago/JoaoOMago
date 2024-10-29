@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7610 days**.
 
-And here is a just a random fact -  **There are an estimated 2,500 collisions between birds and planes each year in the US**.
+And here is a just a random fact -  **Diabetes is the fourth leading cause of death in the U.S., accounting for about 180,000 deaths per year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
