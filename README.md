@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7610 days**.
 
-And here is a just a random fact -  **When telephone companies first began hiring telephone operators, they chose teenage boys for the job. They switched to women because the teenage boys were wrestling instead of working and pulling pranks on callers**.
+And here is a just a random fact -  **There are an estimated 2,500 collisions between birds and planes each year in the US**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
