@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7609 days**.
+Here is a random fact about me - I have been on this planet for **7610 days**.
 
-And here is a just a random fact -  **The longest recorded duration of a total solar eclipse was 7.5 minutes.**.
+And here is a just a random fact -  **In August 1999, Lori Lynn Lomeli set a record by spinning 82 Hula Hoops at the same time for three full revolutions**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
