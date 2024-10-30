@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7610 days**.
+Here is a random fact about me - I have been on this planet for **7611 days**.
 
-And here is a just a random fact -  **Panthers are known as black leopards, as they are the same species of leopard. If looked at closely, black spots can be seen on a panther**.
+And here is a just a random fact -  **In 1903 Mary Anderson invented the windshield wipers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
