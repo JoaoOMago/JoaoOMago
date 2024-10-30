@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7611 days**.
 
-And here is a just a random fact -  **On average, 100 people choke to death on ballpoint pens every year.**.
+And here is a just a random fact -  **During his lifetime, artist Vincent Van Gogh only sold one of his paintings (The Red Vineyard)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
