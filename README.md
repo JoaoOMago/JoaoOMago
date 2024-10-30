@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7611 days**.
 
-And here is a just a random fact -  **The Roman emperor Commodus was at one time going to change the name of Rome to Colonia Commodiana**.
+And here is a just a random fact -  **In 1902, the game table tennis was brought to the U.S. from Europe by Parker Brothers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
