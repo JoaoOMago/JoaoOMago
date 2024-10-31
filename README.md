@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7612 days**.
 
-And here is a just a random fact -  **The clown fish has the ability to change its sex. If a breeding female dies, the male fish will change its sex and mate with another male**.
+And here is a just a random fact -  **Most dinosaurs walked on their toes.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
