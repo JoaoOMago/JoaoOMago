@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7612 days**.
 
-And here is a just a random fact -  **There are some bananas that are red instead of yellow**.
+And here is a just a random fact -  **The average number of bridesmaids at a wedding is four**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
