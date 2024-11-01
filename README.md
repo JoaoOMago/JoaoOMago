@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7612 days**.
 
-And here is a just a random fact -  **850 peanuts are needed to make an 18 oz. jar of peanut butter**.
+And here is a just a random fact -  **By federal law, for a noodle to actually be a noodle it must have 5.5 percent egg solids in it, otherwise it cannot be called a noodle**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
