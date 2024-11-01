@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7612 days**.
+Here is a random fact about me - I have been on this planet for **7613 days**.
 
-And here is a just a random fact -  **By law, information collected in a U.S. census must remain confidential for seventy-two years**.
+And here is a just a random fact -  **Construction on the Leaning Tower of Pisa began on August 9th, 1173**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
