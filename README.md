@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7612 days**.
 
-And here is a just a random fact -  **In New York City, approximately 1,600 people are bitten by other humans annually**.
+And here is a just a random fact -  **In Japan, tipping at restaurants is not a norm. However, some restaurants might add a 5 - 10 % service charge to the bill**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
