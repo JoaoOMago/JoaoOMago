@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7612 days**.
 
-And here is a just a random fact -  **Kiwis are the only known bird to have nostrils located at the tip of their beak**.
+And here is a just a random fact -  **An average city dog lives approximately three years longer than an average country dog**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
