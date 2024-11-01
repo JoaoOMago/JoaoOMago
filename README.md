@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7613 days**.
 
-And here is a just a random fact -  **The formula for Coca-cola has never been patented**.
+And here is a just a random fact -  **Great White sharks have about 3,000 teeth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
