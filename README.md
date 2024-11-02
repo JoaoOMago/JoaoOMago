@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7614 days**.
 
-And here is a just a random fact -  **Clarence Crane the inventor of "Crane's Peppermint Life Savers" sold his rights to the popular candy for less than three thousand dollars.**.
+And here is a just a random fact -  **The word "toy" comes from an old English word that means "tool."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
