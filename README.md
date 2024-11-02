@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7614 days**.
 
-And here is a just a random fact -  **The deepest mine in the world is the East Rand mine, which goes to a depth of about 3,585 metres**.
+And here is a just a random fact -  **If all the insects in the world were put on a scale, they would out weigh all creatures**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
