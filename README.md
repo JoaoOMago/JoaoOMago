@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7613 days**.
 
-And here is a just a random fact -  **A ear trumpet was used before the hearing aid was invented by people who had difficulty hearing**.
+And here is a just a random fact -  **Rubber bands last longer when refrigerated**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
