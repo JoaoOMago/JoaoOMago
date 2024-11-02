@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7614 days**.
 
-And here is a just a random fact -  **Marlboro was the first cigarette company to market a cigarette that had a red filter called "beauty tip." This was done to hide the lipstick marks left on the filter from women smokers**.
+And here is a just a random fact -  **Uranus is the only planet that rotates on its side**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
