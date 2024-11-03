@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7614 days**.
 
-And here is a just a random fact -  **The fastest moving land snake is the Black Mamba, which can move up to 7 miles per hour**.
+And here is a just a random fact -  **All of the Peking ducks in the United States are descendents from three ducks and one drake imported to Long Island, New York in 1873**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 02 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 03 Nov, 2024.</sub>
