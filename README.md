@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7615 days**.
 
-And here is a just a random fact -  **Each king in a deck of playing cards represents a great king fromhistory. Spades - King David; Clubs - Alexander the Great; Hearts -Charlemagne;and Diamonds - Julius Caesar.**.
+And here is a just a random fact -  **The seventeenth president of the United States, Andrew Johnson did not know how to read until he was 17 years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
