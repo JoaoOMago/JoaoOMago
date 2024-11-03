@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7615 days**.
 
-And here is a just a random fact -  **The average Hostess Twinkie is 68 percent air as measured by volume according to university researchers**.
+And here is a just a random fact -  **Pigs have no sweat glands, which is why they stay in water or mud to keep cool**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
