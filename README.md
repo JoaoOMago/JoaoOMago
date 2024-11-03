@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7615 days**.
 
-And here is a just a random fact -  **Lack of sleep can affect your immune system and reduce your ability to fight infections**.
+And here is a just a random fact -  **All the Krispy Kreme donut stores collectively could make a doughnut stack as high as the Empire State Building in only 2 minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
