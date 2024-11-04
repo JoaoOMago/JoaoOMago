@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7615 days**.
 
-And here is a just a random fact -  **There are more than 250,000 rivers in the United States, which amounts to 3.5 million miles of rivers**.
+And here is a just a random fact -  **The smallest stamp in the world was issued in 1863 by the Columbian state of Bolivar and measured 9.5 x 8mm**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
