@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7616 days**.
 
-And here is a just a random fact -  **There are over 100 styles of BluBlocker sunglasses available on the market**.
+And here is a just a random fact -  **Slaves under the last emperors of China wore pigtails so they could be picked out quickly**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
