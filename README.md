@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7615 days**.
 
-And here is a just a random fact -  **Cheetahs are the fastest land animal and can reach speeds up to 72mph**.
+And here is a just a random fact -  **Rice flour was used to strengthen some of the bricks that make up the Great Wall of China**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
