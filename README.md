@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7615 days**.
 
-And here is a just a random fact -  **Huge Moore, the inventor of Dixie cups got the idea for the name from a neighboring factory, the Dixie Doll Company**.
+And here is a just a random fact -  **At one time, pumpkins were recommended for removing freckles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
