@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7616 days**.
 
-And here is a just a random fact -  **A Russian man who wore a beard during the time of Peter the Great had to pay a special tax**.
+And here is a just a random fact -  **On average, a whole chicken from the grocery store weighs 3 pounds 12 ounces**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
