@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7615 days**.
+Here is a random fact about me - I have been on this planet for **7616 days**.
 
-And here is a just a random fact -  **It is possible to lead a cow upstairs...but not downstairs**.
+And here is a just a random fact -  **The Sears Tower consists of nine framed tubes, which connects nine skyscrapers as one building**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
