@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7615 days**.
 
-And here is a just a random fact -  **Gardening is said to be one of the best exercises for maintaining healthy bones**.
+And here is a just a random fact -  **When the First Lady, Eleanor Roosevelt, received an alarming number of threatening letters, soon after her husband became President at the height of the Depression, the Secret Service insisted that she carry a pistol in her purse**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
