@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7615 days**.
 
-And here is a just a random fact -  **The fleshy bulbs on each side of your nose are called the Alea (AY-lee) singular Ala (AY-luh)**.
+And here is a just a random fact -  **The revolving door was invented in 1888, by Theophilus Van Kannel.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
