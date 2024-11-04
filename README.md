@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7615 days**.
 
-And here is a just a random fact -  **The average weight of a newborn baby is 7 lbs. 6 oz. For a triplet baby it is 3 lbs. 12 oz**.
+And here is a just a random fact -  **Any animal that has skin hair or fur can get dandruff, but in animals it is called "dander."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 04 Nov, 2024.</sub>
