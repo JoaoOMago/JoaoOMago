@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7615 days**.
 
-And here is a just a random fact -  **To lose one pound of fat, a person has to burn approximately 3,500 calories**.
+And here is a just a random fact -  **High Priests in ancient Egypt were the only ones who were allowed to wear garments made from cotton**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
