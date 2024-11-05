@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7616 days**.
 
-And here is a just a random fact -  **The giant squid has the largest eyes in the world**.
+And here is a just a random fact -  **The rarest chocolate bar in the world is the Porcelana bar. There are only 20,000 of these bars produced a year, and they sell for $90 per pound**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
