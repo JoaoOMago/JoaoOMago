@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7617 days**.
 
-And here is a just a random fact -  **Uranus is the only planet that rotates on its side**.
+And here is a just a random fact -  **The Welwitschia plant can live up to 1,000 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
