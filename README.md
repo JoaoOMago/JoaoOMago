@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7616 days**.
 
-And here is a just a random fact -  **Medical reports show that about 18% of the population are prone to sleepwalking**.
+And here is a just a random fact -  **The first drug to be sold in the form of a tablet is Aspirin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 04 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 05 Nov, 2024.</sub>
