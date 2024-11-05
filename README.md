@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7616 days**.
 
-And here is a just a random fact -  **The music for "The Star Spangled Banner" comes from a British drinking song named "Anacreon."**.
+And here is a just a random fact -  **The longest human beard on record is 17.5 feet, held by Hans N. Langseth who was born in Norway in 1846**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
