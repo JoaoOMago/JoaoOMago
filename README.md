@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7617 days**.
 
-And here is a just a random fact -  **A person who smokes a pack of cigarettes a day will on average lose two teeth every ten years**.
+And here is a just a random fact -  **The company "Sony" was originally called "Totsuken." They felt the name "Sony" would be easier to pronounce. The name was invented by a cross between the name "sonus" and "sonny." The name sound and sonic are derived. Sonny was used to represent a young man or boy, which would show a energetic young company**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
