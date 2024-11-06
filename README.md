@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7617 days**.
 
-And here is a just a random fact -  **Singer Paula Abdul used to be a cheerleader for the Los Angeles Lakers**.
+And here is a just a random fact -  **In a day, a mature oak tree can draw approximately 50 gallons of water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
