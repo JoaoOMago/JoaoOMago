@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7618 days**.
 
-And here is a just a random fact -  **Basketball great Wilt Chamberlain never fouled out of a game**.
+And here is a just a random fact -  **When Kleenex was first introduced to the market in 1924, it was marketed as a make up or cold cream remover**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
