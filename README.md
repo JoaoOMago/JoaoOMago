@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7617 days**.
 
-And here is a just a random fact -  **When Black Jack Ketchum was hung back in 1901 in Clayton New Mexico, the noose actually ended up taking his head off. The head had to be sewn back on so Black Jack could be buried properly**.
+And here is a just a random fact -  **Men are four times more likely to be struck by lightning than women**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
