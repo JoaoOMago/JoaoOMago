@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7618 days**.
 
-And here is a just a random fact -  **Kotex was first manufactured as bandages, during W.W.I**.
+And here is a just a random fact -  **The first owner of the Marlboro Company died of lung cancer**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
