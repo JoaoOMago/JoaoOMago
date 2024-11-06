@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7618 days**.
 
-And here is a just a random fact -  **Cows do not have any upper front teeth. Instead they have a thick pad on the top jaw**.
+And here is a just a random fact -  **Children who are breast fed tend to have an IQ seven points higher than children who are not**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
