@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7619 days**.
 
-And here is a just a random fact -  **Blueberries have more antioxidents than any other fruit or vegetables**.
+And here is a just a random fact -  **No piece of paper can be folded in half more than 7 times**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
