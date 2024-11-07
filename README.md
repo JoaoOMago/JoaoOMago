@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7618 days**.
 
-And here is a just a random fact -  **The origin of apples traces back to the Middle East over 4,000 years ago**.
+And here is a just a random fact -  **The Angel Falls in Venezuela were named after an American pilot, Jimmy Angel, whose plane got stuck on top of the mountain while searching for gold**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
