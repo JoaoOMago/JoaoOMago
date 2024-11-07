@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7618 days**.
 
-And here is a just a random fact -  **In just the first 56 days of life, the larva of the polyphemus moth eats about 86,000 times its birthweight**.
+And here is a just a random fact -  **The first American president to deliver a speech over the radio was Warren G. Harding**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
