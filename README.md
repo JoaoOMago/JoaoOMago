@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7618 days**.
 
-And here is a just a random fact -  **The destruction of the Berlin Wall began when private citizens began to demolish entire sections of the Wall without interference from government officials on November 9, 1989**.
+And here is a just a random fact -  **Ellen Macarthur, yachtswoman, had a total of 891 naps in 94 days that were each 36 minutes long while on her Vendee Round the Globe yacht race**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
