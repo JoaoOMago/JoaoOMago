@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7619 days**.
 
-And here is a just a random fact -  **The pectin that is found in apples aids in lowering cholesterol levels**.
+And here is a just a random fact -  **At the 1960 Winter Olympic Games, Walt Disney was head of the committee that organized the opening day ceremonies**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
