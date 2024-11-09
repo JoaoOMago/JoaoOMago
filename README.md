@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7621 days**.
 
-And here is a just a random fact -  **When Black Jack Ketchum was hung back in 1901 in Clayton New Mexico, the noose actually ended up taking his head off. The head had to be sewn back on so Black Jack could be buried properly**.
+And here is a just a random fact -  **Frisbee got its name from William Russel Frisbee, who was a pie baker. He used to sell his pies in a thin tin pan, which had Frisbee written on it. When Walter Frederick Morrison thought of the idea of making saucer like disks to play catch, he visited the campus of Yale and noticed people there were using the pie pan to play catch so he therefore renamed his invention to Frisbee**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
