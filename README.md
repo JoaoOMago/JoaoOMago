@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7620 days**.
 
-And here is a just a random fact -  **Approximately 50% of Americans admit they have ran a red light**.
+And here is a just a random fact -  **Elizabeth Taylor has appeared on the cover of Life magazine more than anyone else**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 08 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 09 Nov, 2024.</sub>
