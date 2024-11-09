@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7621 days**.
 
-And here is a just a random fact -  **A honey bee has four wings**.
+And here is a just a random fact -  **Alexander Graham Bell, the inventor of the telephone, never telephoned his wife or mother because they were both deaf**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
