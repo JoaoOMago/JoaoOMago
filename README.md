@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7622 days**.
 
-And here is a just a random fact -  **Annually, an Australian eats 15 kg of bananas, which comes out to 27 meters of bananas**.
+And here is a just a random fact -  **Honorificabilitudinitatibus is the longest English word that consists strictly of alternating consonants and vowels**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
