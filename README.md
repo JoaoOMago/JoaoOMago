@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7621 days**.
+Here is a random fact about me - I have been on this planet for **7622 days**.
 
-And here is a just a random fact -  **In a year, an average person uses the toilet 2500 times a year**.
+And here is a just a random fact -  **The blind cavefish is born with eyes, but they fall off as the fish grows**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
