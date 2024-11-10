@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7621 days**.
 
-And here is a just a random fact -  **A person infected with the SARS virus, has a 95-98% chance of recovery**.
+And here is a just a random fact -  **Percentage of Africa that is wilderness: 28%. Percentage of North America that is wilderness: 38%**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
