@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7621 days**.
 
-And here is a just a random fact -  **The 20th president of the United States James Garfield could write Greek with one hand and Latin with the other at the same time**.
+And here is a just a random fact -  **Every year, more than one million miles of Twizzlers licorice is made**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
