@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7622 days**.
 
-And here is a just a random fact -  **To lose one pound of fat, a person has to burn approximately 3,500 calories**.
+And here is a just a random fact -  **The music for "The Star Spangled Banner" comes from a British drinking song named "Anacreon."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
