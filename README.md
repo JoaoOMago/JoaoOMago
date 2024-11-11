@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7622 days**.
 
-And here is a just a random fact -  **In the early nineteenth century some advertisements claimed that riding the carousel was good for the circulation of blood**.
+And here is a just a random fact -  **In the United States, more than 4.2 million couples live together that are not married**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
