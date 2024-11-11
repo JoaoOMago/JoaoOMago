@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7622 days**.
+Here is a random fact about me - I have been on this planet for **7623 days**.
 
-And here is a just a random fact -  **The electric chair was invented by a dentist**.
+And here is a just a random fact -  **The Uape Indians, who live in the Amazon, mix the ashes of their recently cremated relatives with alcohol, then all members of the family drink the mix with fond memories of the deceased**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
