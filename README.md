@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7622 days**.
 
-And here is a just a random fact -  **At least 7% of all health care costs in the United States are attributed to smoking**.
+And here is a just a random fact -  **The only lizard that has a voice is the Gecko**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
