@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7623 days**.
 
-And here is a just a random fact -  **In 1978, the World Water Speed record was made by Ken Warby from Australia. His average speed was 317.6 mph, and his jet-powered hydroplane was 27 feet long called "Spirit of Australia." Warby built the boat himself in his back yard**.
+And here is a just a random fact -  **Consuming chocolate was once considered a sin during the 16th and 17th century. During that time it was provided in the form of a drink and since drinking wine during lent was a sin, so was drinking chocolate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
