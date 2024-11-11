@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7623 days**.
 
-And here is a just a random fact -  **Every 238 years, the orbits of Neptune and Pluto change making Neptune at times the farthest planet from the sun**.
+And here is a just a random fact -  **In 1982, a cactus in Phoenix, Arizona killed a man. David Grundman fired two shotgun blasts at a giant saguaro cactus that ended up falling on top of him**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
