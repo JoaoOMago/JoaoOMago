@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7623 days**.
 
-And here is a just a random fact -  **A duck's quack doesn't echo, and no one knows why.**.
+And here is a just a random fact -  **Roughly 42% of people in the United Kingdom snore**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 12 Nov, 2024.</sub>
