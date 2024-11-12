@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7623 days**.
 
-And here is a just a random fact -  **Goat meat contains up to 45 percent less saturated fat than chicken meat**.
+And here is a just a random fact -  **The human body makes anywhere from 1 to 3 pints of saliva every 24 hours**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
