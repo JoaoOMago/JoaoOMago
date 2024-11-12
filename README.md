@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7623 days**.
 
-And here is a just a random fact -  **The music band UB40 got its name from an unemployment form in England**.
+And here is a just a random fact -  **Walt Disney holds the record for the most Oscar nominations with sixty-four**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
