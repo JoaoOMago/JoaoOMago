@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7623 days**.
+Here is a random fact about me - I have been on this planet for **7624 days**.
 
-And here is a just a random fact -  **The country with the highest consumption of chocolate per capita is Switzerland, with 22 pounds per person, per year**.
+And here is a just a random fact -  **Albert Einstein was offered the presidency of Israel in 1952, but he declined**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
