@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7623 days**.
 
-And here is a just a random fact -  **After 8 months, babies are more likely to get a diaper rash**.
+And here is a just a random fact -  **One million cloud droplets are needed to make enough water to produce one raindrop.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
