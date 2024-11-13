@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7625 days**.
 
-And here is a just a random fact -  **Tiger Woods was introduced to golf at nine months of age by his father**.
+And here is a just a random fact -  **The study of the iris of the eye is called iridology**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
