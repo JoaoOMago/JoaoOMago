@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7625 days**.
 
-And here is a just a random fact -  **Many years ago, a fish was caught that was 33 inches long and seemed to be heavier than it should. When they cut the fish, fishermen found a full of bottle of ale inside it**.
+And here is a just a random fact -  **A seagull can drink salt water because it has special glands that filter out the salt**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
