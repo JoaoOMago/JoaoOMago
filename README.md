@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7625 days**.
 
-And here is a just a random fact -  **Just by recycling one aluminum can, enough energy would be saved to have a TV run for three hours.**.
+And here is a just a random fact -  **In 1747, the first American mention of the Christmas tree occurred. However, it was a not a tree but instead a pyramid made out of wood and decorated with apples and evergreen boughs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
