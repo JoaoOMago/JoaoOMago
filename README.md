@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7625 days**.
 
-And here is a just a random fact -  **The smallest man ever was Gul Mohammed (1957-1997) of India, who measured 1 feet, 10? inches**.
+And here is a just a random fact -  **Each year all of the Hostess bakeries combined bake 500 million Twinkies a year. (A twinkie is a sponge cake with a creamy filling.)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
