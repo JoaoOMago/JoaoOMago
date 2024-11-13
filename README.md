@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7624 days**.
 
-And here is a just a random fact -  **On average, an ear of a corn has 16 rows and approximately 800 kernels**.
+And here is a just a random fact -  **The first television show to show any portion of a toilet was on "Leave it to Beaver." After fighting for ten weeks to show the toilet, CBS would only allow the producers to show the toilet tank, and not the whole toilet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 13 Nov, 2024.</sub>
