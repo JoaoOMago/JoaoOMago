@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7626 days**.
 
-And here is a just a random fact -  **In the late 1800's, washing machines and butter churners were sometimes powered by dogs walking on treadmills.**.
+And here is a just a random fact -  **On average, he ratio of yellow kernels to white kernals in a bag of popcorn is 9:1**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
