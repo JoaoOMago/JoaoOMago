@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7625 days**.
+Here is a random fact about me - I have been on this planet for **7626 days**.
 
-And here is a just a random fact -  **Baskin Robbins once made ketchup ice cream. This was the only vegetable flavoured ice cream produced. However, they discontinued it since they thought it would not sell well**.
+And here is a just a random fact -  **The study of twins is known as gemellology**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
