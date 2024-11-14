@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7626 days**.
 
-And here is a just a random fact -  **There are approximately 1300 species of scorpion but only 25 of them are deadly**.
+And here is a just a random fact -  **At the equator the Earth spins at about 1,038 miles per hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
