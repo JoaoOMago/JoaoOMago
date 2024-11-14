@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7626 days**.
 
-And here is a just a random fact -  **Whooping cranes are born with blue eyes that change to bright gold by the time they six months old**.
+And here is a just a random fact -  **Annually a thousand people are killed by scorpions in Mexico**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
