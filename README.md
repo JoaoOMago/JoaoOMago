@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7625 days**.
 
-And here is a just a random fact -  **In the 1960 movie "Psycho" by Alfred Hitchcock, chocolate syrup was used to show the blood in the shower scene**.
+And here is a just a random fact -  **The sole purpose of a drone bee is to mate with the queen bee**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
