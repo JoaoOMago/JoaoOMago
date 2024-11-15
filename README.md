@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7627 days**.
 
-And here is a just a random fact -  **The largest earthworm on record was found in South Africa and measured 22 feet**.
+And here is a just a random fact -  **The first movie to ever cost $100 million to make is Terminator 2: Judgment Day in 1991**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
