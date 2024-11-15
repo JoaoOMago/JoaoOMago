@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7626 days**.
 
-And here is a just a random fact -  **The adult human body requires about 88 pounds of oxygen daily**.
+And here is a just a random fact -  **Approximately 850 peanuts make a 18 oz jar of peanut butter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
