@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7627 days**.
 
-And here is a just a random fact -  **Peanuts are one of the ingredients of dynamite**.
+And here is a just a random fact -  **Tripolini pasta was named for the Italian conquest of Tripoli in Libya**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
