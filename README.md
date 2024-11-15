@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7626 days**.
 
-And here is a just a random fact -  **The Coca Cola company offers more than 300 different beverages**.
+And here is a just a random fact -  **In 1948 and 1950 the oldest ears of popping corn were discovered. They were located in the Bat Cave of west central New Mexico. They ranged in size from smaller than a penny to approximately two inches, and were about 4,000 years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
