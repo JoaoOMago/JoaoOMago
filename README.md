@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7627 days**.
 
-And here is a just a random fact -  **Oral-B were the first toothbrushes to go to the moon when they were aboard the Apollo 11 mission**.
+And here is a just a random fact -  **In the U.S. there are approximately 65.8 million cats**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
