@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7626 days**.
+Here is a random fact about me - I have been on this planet for **7627 days**.
 
-And here is a just a random fact -  **Mass murderer Charles Manson recorded an album titled "Lie."**.
+And here is a just a random fact -  **Initially golf balls were made out of wood. After that they were made out of leather which was stuffed with feathers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
