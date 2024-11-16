@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7627 days**.
 
-And here is a just a random fact -  **The word "limelight" that is used in theatre to refer to the performers on the stage originated because before electricity was available lime was burned in a lamp, which created a white light that was directed at the performers**.
+And here is a just a random fact -  **There is a place called Hell, Michigan. It is about 50 miles from Detroit, Michigan**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
