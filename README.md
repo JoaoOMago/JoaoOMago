@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7628 days**.
 
-And here is a just a random fact -  **The word "Nazi" is actually an abbreviation for Nationalsozialistische Deutsche Arbeiterpartei, which refers to the National Socialist German Workers Party**.
+And here is a just a random fact -  **The most popular treat for Halloween trick-or-treaters are candy bars with Snickers being the most popular**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
