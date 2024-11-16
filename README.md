@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7627 days**.
 
-And here is a just a random fact -  **In the U.S. there are approximately 65.8 million cats**.
+And here is a just a random fact -  **Montreal has an underground city, which has over 2,000 shops and 26 kilometres of walkways. This is the largest underground network for any city**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 15 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 16 Nov, 2024.</sub>
