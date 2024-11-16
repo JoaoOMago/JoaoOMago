@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7628 days**.
 
-And here is a just a random fact -  **Frog-eating bats identify edible frogs from poisonous ones by listening to the mating calls of male frogs. Frogs counter this by hiding and using short, difficult to locate calls**.
+And here is a just a random fact -  **A flea can jump 150 times its size. That is the same as a person able to jump up 1,000 feet in the air**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
