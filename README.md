@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7628 days**.
 
-And here is a just a random fact -  **Adolf Hitler was one of the people that was responsible in the creation of the Volkswagen Beetle. He came up with the idea of producing a car that was cheap enough for the average German working man to afford.**.
+And here is a just a random fact -  **The lifespan of a firefly is about seven days. During these days, they are busy trying to find a mate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
