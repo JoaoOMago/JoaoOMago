@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7628 days**.
 
-And here is a just a random fact -  **The CN Tower located in Toronto, Ontario Canada took a total construction time of 40 months to complete at an original cost of $63 million**.
+And here is a just a random fact -  **When former Texas Governor James Hogg was on his deathbed he made a special request that a pecan tree be planted at the head of his grave instead of a tombstone. The governor passed away on March 2, 1906, which is Texas Independence Day. The pecan tree is now the state tree of Texas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
