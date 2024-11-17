@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7628 days**.
+Here is a random fact about me - I have been on this planet for **7629 days**.
 
-And here is a just a random fact -  **There is a doggy disco held in Italy every year where owners can dance with their dogs**.
+And here is a just a random fact -  **In Australia, a common "Boxing day" activity is surfing**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
