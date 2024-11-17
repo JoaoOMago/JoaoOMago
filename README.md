@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7628 days**.
 
-And here is a just a random fact -  **The name of the famous snack "Twinkies" was invented by seeing a billboard in St. Louis, that said "Twinkle Toe Shoes."**.
+And here is a just a random fact -  **On average, the Pentagon uses 666 rolls of toilet paper in one day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
