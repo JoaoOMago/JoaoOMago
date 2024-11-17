@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7628 days**.
 
-And here is a just a random fact -  **The lifespan of a firefly is about seven days. During these days, they are busy trying to find a mate**.
+And here is a just a random fact -  **Totally Hair Barbie is the best selling Barbie of all time. It sold over ten million units**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 16 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 17 Nov, 2024.</sub>
