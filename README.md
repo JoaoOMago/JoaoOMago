@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7630 days**.
 
-And here is a just a random fact -  **The coconut is the largest seed in the world**.
+And here is a just a random fact -  **In L.A., U.S.A., a man may legally beat his wife with a leather strap, as long as it is less than 2 inches wide**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
