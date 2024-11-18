@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7629 days**.
 
-And here is a just a random fact -  **The long fibres that are found in bananas are excellent in making paper. The long fibres that are found in the banana plant can make the banana fibre paper approximately 3000 times stronger than regular paper**.
+And here is a just a random fact -  **The average amount of time spent kissing for a person in a lifetime is 20,160 minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 17 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 18 Nov, 2024.</sub>
