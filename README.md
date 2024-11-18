@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7630 days**.
 
-And here is a just a random fact -  **The driest place on earth is Calama, in the Atacama Desert in Chile**.
+And here is a just a random fact -  **The actor who played the T-1000 in Terminator 2 (Robert Patrick) and the lead singer of Filter are brothers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
