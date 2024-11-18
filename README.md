@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7629 days**.
 
-And here is a just a random fact -  **The largest hotel in the world is the MGM Grand, which has 5,034 rooms and is located in Las Vegas, Nevada**.
+And here is a just a random fact -  **The peanut is not a nut, it is actually a legume**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
