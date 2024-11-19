@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7631 days**.
 
-And here is a just a random fact -  **Many insects can carry 50 times their own body weight**.
+And here is a just a random fact -  **The only flying saucer launch pad in the world is located in St. Paul, Alberta, Canada**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
