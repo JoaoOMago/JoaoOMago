@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7631 days**.
 
-And here is a just a random fact -  **By partially filling saucers with vinegar and distributing the saucers around a room, you can eliminate odors**.
+And here is a just a random fact -  **The only 15 letter word that can be spelled without repeating a letteris uncopyrightable.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
