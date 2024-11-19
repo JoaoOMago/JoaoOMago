@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7630 days**.
 
-And here is a just a random fact -  **The name Hasbro was invented by the name of the founders: HASsenfeld BROthers**.
+And here is a just a random fact -  **If a lobster loses an eye or a claw it can usually grow a new one**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
