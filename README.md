@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7630 days**.
 
-And here is a just a random fact -  **Navel oranges got their name because the bottom of this type of orange resembles a belly button or navel**.
+And here is a just a random fact -  **Dalmatian puppies do not have any spots on them when they are born. They actually develop them as they get older**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
