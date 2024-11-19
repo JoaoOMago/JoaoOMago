@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7631 days**.
 
-And here is a just a random fact -  **Polar bears are excellent swimmers. They have been known to swim more than 60 miles without a rest**.
+And here is a just a random fact -  **In 1681, the last dodo bird died**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
