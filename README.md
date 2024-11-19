@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7631 days**.
 
-And here is a just a random fact -  **If someone was to fly once around the surface of the moon, it would be equal to a round trip from New York to London**.
+And here is a just a random fact -  **Millie the White House dog earned more than 4 times as much as President Bush in 1991. And, rightfully so**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
