@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7632 days**.
 
-And here is a just a random fact -  **In the Great Fire of London in 1666, only six people were killed**.
+And here is a just a random fact -  **Dueling is legal in Paraguay as long as both parties are registered blood donors**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
