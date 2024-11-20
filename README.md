@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7632 days**.
 
-And here is a just a random fact -  **Approximately 55% of movies released are Rated R**.
+And here is a just a random fact -  **The word "maverick" came into use after Samuel Maverick, a Texan, refused to brand his cattle. Eventually any unbranded calf became known as a Maverick**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
