@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7633 days**.
 
-And here is a just a random fact -  **Air is passed through the nose at a speed of 100 miles per hour when a person sneezes**.
+And here is a just a random fact -  **The tallest freestanding sculpture in the world is Chief Crazy Horse in South Dakota, USA**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
