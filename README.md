@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7633 days**.
 
-And here is a just a random fact -  **The oldest bird on record was Cocky, a cockatoo, who died in the London Zoo at the age of 82**.
+And here is a just a random fact -  **There was once a country called Prussia. After World War II, it was divided among Poland, Germany, and the USSR**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
