@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7632 days**.
 
-And here is a just a random fact -  **A U.S. company came out with a toilet night-light that sends out a green warning beacon when the seat is up**.
+And here is a just a random fact -  **The American Automobile association was formed in 1905 for the sole purpose of warning motorists of police speed traps**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 20 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 21 Nov, 2024.</sub>
