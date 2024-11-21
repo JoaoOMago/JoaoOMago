@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7633 days**.
 
-And here is a just a random fact -  **When Scott Paper Co. first started manufacturing toilet paper they did not put their name on the product because of embarrassment**.
+And here is a just a random fact -  **The average American kid will eat approximately 1.500 peanut butter sandwiches by high school graduation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
