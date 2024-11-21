@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7633 days**.
 
-And here is a just a random fact -  **Penguins can jump as high as 6 feet in the air**.
+And here is a just a random fact -  **Brain damage will only occur if a fever goes above 107.6 degrees farenheit**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
