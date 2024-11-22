@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7633 days**.
 
-And here is a just a random fact -  **The tallest freestanding sculpture in the world is Chief Crazy Horse in South Dakota, USA**.
+And here is a just a random fact -  **The hump of a camel can weigh up to 35 kilograms**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 21 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 22 Nov, 2024.</sub>
