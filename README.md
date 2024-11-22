@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7633 days**.
 
-And here is a just a random fact -  **Babies that are exposed to cats and dogs in their first year of life have a lower chance of developing allergies when they grow older**.
+And here is a just a random fact -  **Great Britain was the first country to issue postage stamps in 1840**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
