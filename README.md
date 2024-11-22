@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7634 days**.
 
-And here is a just a random fact -  **Jupiter is the fastest rotating planet, which can complete one revolution in less than ten hours**.
+And here is a just a random fact -  **The Danish company Lego, which began in 1932, first manufactured ironing boards, and stepladders**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
