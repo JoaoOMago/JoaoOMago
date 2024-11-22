@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7634 days**.
 
-And here is a just a random fact -  **Americans consumed more than twenty billion hot dogs in 2000**.
+And here is a just a random fact -  **The cornea is the only living tissue in the human body that does not contain any blood vessels**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
