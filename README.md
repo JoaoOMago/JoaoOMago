@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7634 days**.
 
-And here is a just a random fact -  **The Saguaro Cactus, found in South-western United States does not grow branches until it is 75 years old.**.
+And here is a just a random fact -  **Wheel of Fortune star Vanna White holds the record for putting her hands together approximately 140,000 times to clap**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
