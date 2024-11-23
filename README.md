@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7634 days**.
 
-And here is a just a random fact -  **According to research, the most productive workday is Tuesday and the least productive is Friday**.
+And here is a just a random fact -  **Charlie Chaplin once lost a contest for a Charlie Chaplin look a like**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
