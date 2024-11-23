@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7635 days**.
 
-And here is a just a random fact -  **Mardi Gras means "Fat Tuesday." This is the festival that New Orleans, Louisiana is famous for having every year**.
+And here is a just a random fact -  **Nutmeg is extremely poisonous if injected intraveinously.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
