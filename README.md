@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7634 days**.
 
-And here is a just a random fact -  **The word Karate means, "empty hand."**.
+And here is a just a random fact -  **Deliberately infecting people with malaria has been used to cure different viral infections. The high fever will strengthen the immune system and fight the virus. In recent times this has been considered as a treatment to HIV**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 22 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 23 Nov, 2024.</sub>
