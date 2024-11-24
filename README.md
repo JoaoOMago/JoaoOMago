@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7636 days**.
 
-And here is a just a random fact -  **The vegetable that is eaten most by Americans is potatoes. On average, a person eats about 140 pounds of potatoes annually**.
+And here is a just a random fact -  **96% of people put the peanut butter on first when making a peanut butter and jelly sandwich**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
