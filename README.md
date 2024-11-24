@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7636 days**.
 
-And here is a just a random fact -  **Due to sugar shortages to make candy during World War II, movie theatre owners turned to popcorn, which is now the best selling snack at movie theatres today**.
+And here is a just a random fact -  **A Chinese Scientist discovered that the Earth is round during the Han Dynasty by measuring the sun and moon's path in the sky. He recorded this fact down in the imperial records but went unnoticed until it was unearthed recently but Chinese archaeologists.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
