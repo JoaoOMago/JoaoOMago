@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7635 days**.
+Here is a random fact about me - I have been on this planet for **7636 days**.
 
-And here is a just a random fact -  **An earthquake on Dec. 16, 1811 caused parts of the Mississippi River to flow backwards**.
+And here is a just a random fact -  **The largest chicken egg ever laid weighed a pound and had a double yolk and shell**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
