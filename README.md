@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7636 days**.
 
-And here is a just a random fact -  **The Liberty Bell was the first mechanical slot machine, which was invented by Charles Fey, a car mechanic in 1895.**.
+And here is a just a random fact -  **Due to sugar shortages to make candy during World War II, movie theatre owners turned to popcorn, which is now the best selling snack at movie theatres today**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
