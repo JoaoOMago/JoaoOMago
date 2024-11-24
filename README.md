@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7636 days**.
 
-And here is a just a random fact -  **Little Miss Muffet was a girl from the 16th century whose name was really Patience**.
+And here is a just a random fact -  **The long fibres that are found in bananas are excellent in making paper. The long fibres that are found in the banana plant can make the banana fibre paper approximately 3000 times stronger than regular paper**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
