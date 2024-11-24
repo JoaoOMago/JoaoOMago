@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7635 days**.
 
-And here is a just a random fact -  **The fins of the Spiny Dogfish Shark are sometimes used as sandpaper for wood products**.
+And here is a just a random fact -  **The only sound Seahorses make is a small clicking or popping sound during feeding or courtship**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
