@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7636 days**.
 
-And here is a just a random fact -  **There are only four words in the English language which end in**.
+And here is a just a random fact -  **The longest acceptance speech in the history of the Oscars was by Greer Garson in 1942. She received an Oscar for Best Actress for the movie Mrs. Miniver, and her speech was five minutes and 30 seconds long**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
