@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7637 days**.
 
-And here is a just a random fact -  **In Kentucky, it is illegal to carry ice cream in your back pocket**.
+And here is a just a random fact -  **The hydra, which is related to the jellyfish, can grow its body back in a couple of days if it is cut in half**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
