@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7637 days**.
 
-And here is a just a random fact -  **The 1960 Summer Olympics were the first Olympics to be aired on television by CBS**.
+And here is a just a random fact -  **Honolulu, Hawaii boasts the only royal palace in the United States of America**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
