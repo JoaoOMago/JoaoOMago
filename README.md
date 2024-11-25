@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7636 days**.
 
-And here is a just a random fact -  **The Uape Indians, who live in the Amazon, mix the ashes of their recently cremated relatives with alcohol, then all members of the family drink the mix with fond memories of the deceased**.
+And here is a just a random fact -  **About 30% of American admit to talking to their dogs or leaving messages on their answering machines for their dogs while they are away**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
