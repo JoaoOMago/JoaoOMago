@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7637 days**.
 
-And here is a just a random fact -  **The reason firehouses have circular stairways is from the days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases**.
+And here is a just a random fact -  **Over 175 million cubic yards of earth was removed for the creation of the Panama Canal**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
