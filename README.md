@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7637 days**.
 
-And here is a just a random fact -  **By walking an extra 20 minutes every day, an average person will burn off seven pounds of body fat in an year**.
+And here is a just a random fact -  **On November 29, 2000, Pope John Paul II was named an "Honorary Harlem Globetrotter."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
