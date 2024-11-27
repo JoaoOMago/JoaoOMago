@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7638 days**.
 
-And here is a just a random fact -  **Cows are able to hear lower and higher frequencies better than human beings**.
+And here is a just a random fact -  **The actor who played the T-1000 in Terminator 2 (Robert Patrick) and the lead singer of Filter are brothers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
