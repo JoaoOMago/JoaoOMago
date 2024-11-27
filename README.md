@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7638 days**.
 
-And here is a just a random fact -  **There are more recreational golfers per capita in Canada than any other country in the world**.
+And here is a just a random fact -  **The Kool Aid Man used to be known as "Pitcher Man" when he was first introduced in 1975**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
