@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7639 days**.
 
-And here is a just a random fact -  **Annually, an Australian eats 15 kg of bananas, which comes out to 27 meters of bananas**.
+And here is a just a random fact -  **In the movie "The Exorcist" the vomit that (Regan) Linda Blair hurls at Father Damien Karras is thick pea soup**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
