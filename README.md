@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7639 days**.
 
-And here is a just a random fact -  **The scarlet tanager, a songbird native to Illinois, can eat as many as 2,100 gypsy-moth caterpillars in one hour**.
+And here is a just a random fact -  **The first subway system in America was built in Boston, Massachusetts in 1897.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
