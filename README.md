@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7638 days**.
 
-And here is a just a random fact -  **Hippos drink as much as 250 litres of water in any given 24 hour period**.
+And here is a just a random fact -  **On average, 81% of Americans 16 years of age and older watch television at least once in a day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 27 Nov, 2024.</sub>
