@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7639 days**.
+Here is a random fact about me - I have been on this planet for **7640 days**.
 
-And here is a just a random fact -  **In a pack of Skittles candy, there is an equal 20% distribution of each flavour**.
+And here is a just a random fact -  **Male owls weigh less and are smaller than female owls**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
