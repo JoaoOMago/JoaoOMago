@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7640 days**.
 
-And here is a just a random fact -  **Over 175 million cubic yards of earth was removed for the creation of the Panama Canal**.
+And here is a just a random fact -  **The lifespan of a firefly is about seven days. During these days, they are busy trying to find a mate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
