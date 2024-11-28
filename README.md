@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7639 days**.
 
-And here is a just a random fact -  **Oak trees do not produce acorns until they are fifty years of age or older**.
+And here is a just a random fact -  **Parts of the Dead Sea Scrolls appeared for sale in the June 1, 1954 issue of the Wall Street Journal**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
