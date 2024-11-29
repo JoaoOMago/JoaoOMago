@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7641 days**.
 
-And here is a just a random fact -  **Former U.S. President William Taft converted the White House stable into a four car garage in 1909**.
+And here is a just a random fact -  **Ray Kroc bought McDonalds for $2.7 million in 1961 from the McDonald brothers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
