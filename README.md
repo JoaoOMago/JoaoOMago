@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7641 days**.
 
-And here is a just a random fact -  **About 70 percent of Americans who go to college do it just to make more money**.
+And here is a just a random fact -  **1 out of every 4 kids in the USA is overweight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
