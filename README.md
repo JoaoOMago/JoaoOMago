@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7640 days**.
 
-And here is a just a random fact -  **Every U.S. bill regardless of denomination costs just 4 cents to make**.
+And here is a just a random fact -  **Only President to win a Pulitzer: John F. Kennedy for "Profiles in Courage"**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
