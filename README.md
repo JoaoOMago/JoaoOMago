@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7641 days**.
 
-And here is a just a random fact -  **The fleshy bulbs on each side of your nose are called the Alea (AY-lee) singular Ala (AY-luh)**.
+And here is a just a random fact -  **A squash ball moving at 150 kilometers per hour has the same impact of a .22 bullet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
