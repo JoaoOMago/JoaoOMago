@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7641 days**.
 
-And here is a just a random fact -  **The typical lead pencil can draw a line that is thirty five miles long**.
+And here is a just a random fact -  **Lake Baikal is the oldest freshwater lake on Earth, having formed between 20 and 25 million years ago**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
