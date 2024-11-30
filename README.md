@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7642 days**.
 
-And here is a just a random fact -  **If you were standing on Mercury, the Sun would appear 2.5 times larger than it appears from Earth**.
+And here is a just a random fact -  **A glockenspiel is a musical instrument that is like a xylophone. It has a series of metal bars and is played with two hammers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
