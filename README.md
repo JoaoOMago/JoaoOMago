@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7642 days**.
 
-And here is a just a random fact -  **Tiger Woods is the first athlete to has been named "Sportsman of the Year" by magazine Sports Illustrated two times**.
+And here is a just a random fact -  **Two objects have struck the earth with enough force to destroy a whole city. Each object, one in 1908 and again in 1947, struck regions of Siberia. Not one human being was hurt either time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 Nov, 2024.</sub>
+<sub>Last updated by Github Actions on 01 Dec, 2024.</sub>
