@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7642 days**.
 
-And here is a just a random fact -  **The only married couple to fly together in space were Jan Davis and Mark Lee, who flew aboard the Endeavor space shuttle from Sept 12-20, 1992**.
+And here is a just a random fact -  **Every day, over five billion gallons of water are flushed down toilets in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
