@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7643 days**.
 
-And here is a just a random fact -  **Frank Wathernam was the last prisoner to leave Alcatraz prison on March 21, 1963**.
+And here is a just a random fact -  **In 2000, there were 1,579,566 drug arrests in the United States. Of those, close to half were for marijuana**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Dec, 2024.</sub>
+<sub>Last updated by Github Actions on 02 Dec, 2024.</sub>
