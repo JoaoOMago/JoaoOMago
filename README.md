@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7643 days**.
 
-And here is a just a random fact -  **Joseph Gayetty is credited for inventing toilet paper in 1857. Unfortunately, his invention failed and did not catch on until ten years later**.
+And here is a just a random fact -  **Children laugh about 400 times a day, while adults laugh on average only 15 times a day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
