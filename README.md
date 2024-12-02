@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7644 days**.
 
-And here is a just a random fact -  **The average four year-old child asks over four hundred questions a day**.
+And here is a just a random fact -  **The labels for Crayola crayons come in 18 different colors**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
