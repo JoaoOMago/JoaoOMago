@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7644 days**.
 
-And here is a just a random fact -  **The loudest insect in the world is the male cicadas, which are like crickets. When they rub their abdomens, the sound made can be heard from 1300 feet**.
+And here is a just a random fact -  **In a year, the average person walks four miles to make his or her bed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
