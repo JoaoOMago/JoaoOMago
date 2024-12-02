@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7643 days**.
 
-And here is a just a random fact -  **The strike note of the Liberty Bell in Philadelphia, Pennsylvania is e-flat**.
+And here is a just a random fact -  **The Canandian province of New Brunswick had a bloodless war with the US state of Maine in 1839.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
