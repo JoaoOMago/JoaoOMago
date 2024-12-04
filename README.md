@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7645 days**.
 
-And here is a just a random fact -  **Even though the rose does not bear any fruit, the rose hips have more Vitamin C than most vegetables and fruits**.
+And here is a just a random fact -  **During WWII, because a lot of players were called to duty, the Pittsburgh Steelers and Philadelphia Eagles combined to become The Steagles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
