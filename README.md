@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7646 days**.
 
-And here is a just a random fact -  **Devon, England has about 33,000 miles of hedgerows, more hedgerows than any other country**.
+And here is a just a random fact -  **Another way to say "every 9 years" is Novennial**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
