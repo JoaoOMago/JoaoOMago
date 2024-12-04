@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7646 days**.
 
-And here is a just a random fact -  **Squids move through the ocean using a jet of water forced out of the body by a siphon**.
+And here is a just a random fact -  **People living on the east coast prefer creamy peanut butter, while people living on the west coast prefer chunky peanut butter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
