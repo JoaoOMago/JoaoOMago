@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7646 days**.
+Here is a random fact about me - I have been on this planet for **7647 days**.
 
-And here is a just a random fact -  **A common drink for Tibetans is Butter Tea which is made out of butter, salt, and brick tea**.
+And here is a just a random fact -  **Robert Wadlow is the tallest man recorded in history. He grew to be eight feet and eleven inches and weighed 490 pounds when he died**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
