@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7646 days**.
 
-And here is a just a random fact -  **A ear trumpet was used before the hearing aid was invented by people who had difficulty hearing**.
+And here is a just a random fact -  **The Liberty Bell was the first mechanical slot machine, which was invented by Charles Fey, a car mechanic in 1895.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 04 Dec, 2024.</sub>
+<sub>Last updated by Github Actions on 05 Dec, 2024.</sub>
