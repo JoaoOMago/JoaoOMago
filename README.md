@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7646 days**.
 
-And here is a just a random fact -  **New Jersey has a spoon museum that has over 5,400 spoons from across the world**.
+And here is a just a random fact -  **In a five card poker game there are 2,598,960 possible hands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
