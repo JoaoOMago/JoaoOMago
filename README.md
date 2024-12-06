@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7647 days**.
 
-And here is a just a random fact -  **The full name of the Titanic ship is R.M.S. Titanic, which stands for Royal Mail Steamship**.
+And here is a just a random fact -  **An estimated 690 million people live in Africa**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
