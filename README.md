@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7649 days**.
 
-And here is a just a random fact -  **Male koalas mark their territory by rubbing their chests on a tree. Male koalas have a dark scent gland in the middle of their chest**.
+And here is a just a random fact -  **In 1998, approximately 1.6 billion tree seedlings were planted in the United States. This amounts to about five trees per American**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
