@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7648 days**.
 
-And here is a just a random fact -  **Albert Einstein was cremated and his ashes were spread over a river located in New Jersey**.
+And here is a just a random fact -  **A little under one quarter of the people in the world are vegetarians**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
