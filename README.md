@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7650 days**.
+Here is a random fact about me - I have been on this planet for **7651 days**.
 
-And here is a just a random fact -  **In Canada, men are three times more likely than women to have seen a doctor in the last year**.
+And here is a just a random fact -  **Benjamin Franklin invented the rocking chair.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
