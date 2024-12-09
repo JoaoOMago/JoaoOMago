@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7651 days**.
 
-And here is a just a random fact -  **Wild turkeys can run at speeds of up to 25 miles per hour**.
+And here is a just a random fact -  **There are an average of 178 sesame seeds on a McDonald's Big Mac bun.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
