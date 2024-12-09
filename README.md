@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7651 days**.
 
-And here is a just a random fact -  **In 1903, there were originally only eight Crayola crayons in a box and they sold for five cents**.
+And here is a just a random fact -  **Paper money is not made from wood pulp but from cotton. This means that it will not disintegrate as fast if it is put in the laundry**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
