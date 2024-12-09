@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7651 days**.
 
-And here is a just a random fact -  **Burger King restaurants serve over 400 million ounces of orange juice annually**.
+And here is a just a random fact -  **The first modern toothbrush was invented in China. Its bristles came from hogs hair or the mane of a horse that were then put into ivory handles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
