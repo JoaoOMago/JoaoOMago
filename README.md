@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7650 days**.
 
-And here is a just a random fact -  **Medical research has found substances in mistletoe that can slow down tumor growth**.
+And here is a just a random fact -  **It takes seven to ten days to make a jelly belly jellybean**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
