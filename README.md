@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7652 days**.
 
-And here is a just a random fact -  **When Heinz ketchup leaves the bottle, it travels at a rate of 25 milesper year.**.
+And here is a just a random fact -  **If you fart consistently for 6 years and 9 months, enough gas is produced to create explosion that is equal to an atomic bomb**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
