@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7651 days**.
+Here is a random fact about me - I have been on this planet for **7652 days**.
 
-And here is a just a random fact -  **A person would have to drink more than 12 cups of hot cocoa to equal the amount of caffeine found in one cup of coffee**.
+And here is a just a random fact -  **Studies indicate that listening to music is good for digestion**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
