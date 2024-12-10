@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7652 days**.
 
-And here is a just a random fact -  **Amish people do not believe in the use of aerosal air fresheners**.
+And here is a just a random fact -  **In the early nineteenth century some advertisements claimed that riding the carousel was good for the circulation of blood**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
