@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7652 days**.
 
-And here is a just a random fact -  **Coca-cola used to use the slogan "Good to the last drop," in 1908. This slogan was later used by Maxwell House**.
+And here is a just a random fact -  **People in France own more pets in the world per person than any other country**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
