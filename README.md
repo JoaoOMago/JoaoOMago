@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7652 days**.
 
-And here is a just a random fact -  **In the United States, you are more likely to be killed by a bee sting than a shark attack**.
+And here is a just a random fact -  **There are over 200 parts in a typical telephone**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
