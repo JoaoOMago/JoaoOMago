@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7653 days**.
 
-And here is a just a random fact -  **Americans on average use about 580 pounds of paper per year per person**.
+And here is a just a random fact -  **Cattle can produce up to 180 litres of saliva in one day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
