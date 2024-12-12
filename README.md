@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7654 days**.
 
-And here is a just a random fact -  **In Miami, Florida, roosting vultures have taken to snatching poodles from rooftop patios**.
+And here is a just a random fact -  **The most popular place to burn candles in the house is the living room**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
