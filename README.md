@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7654 days**.
 
-And here is a just a random fact -  **St. Patrick explained the Holy Trinity to King Laoghaire, using the shamrock to illustrate the trinity**.
+And here is a just a random fact -  **The tridacna clam can grow up to four feet long and weigh up to 500 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
