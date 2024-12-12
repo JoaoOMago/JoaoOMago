@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7654 days**.
 
-And here is a just a random fact -  **There are no two zebras who have stripes that are exactly the same**.
+And here is a just a random fact -  **St. Patrick explained the Holy Trinity to King Laoghaire, using the shamrock to illustrate the trinity**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
