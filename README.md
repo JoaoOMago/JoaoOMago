@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7654 days**.
 
-And here is a just a random fact -  **Due to the shortages of lead and metals during World War II, toothpaste was packaged in plastic tubes and have been ever since**.
+And here is a just a random fact -  **Britons eat over 22,000 tonnes of french fries a week**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
