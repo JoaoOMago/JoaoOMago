@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7653 days**.
 
-And here is a just a random fact -  **Studies have shown that the scent of Rosemary can help in better mental performance and make individuals feel more alert**.
+And here is a just a random fact -  **The longest chapter in the Bible is Psalm 119, which is 176 verses**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Dec, 2024.</sub>
+<sub>Last updated by Github Actions on 12 Dec, 2024.</sub>
