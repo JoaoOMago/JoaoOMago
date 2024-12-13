@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7654 days**.
 
-And here is a just a random fact -  **In a day, an elephant can drink 80 gallons of water**.
+And here is a just a random fact -  **In the movie Psycho by Alfred Hitchcock, chocolate syrup was used for blood in the shower scene**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
