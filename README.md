@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7655 days**.
 
-And here is a just a random fact -  **Early Romans used to use porcupine quills as toothpicks**.
+And here is a just a random fact -  **Dill seeds are so small that approximately 10,000 dill seeds would be required to make an ounce**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
