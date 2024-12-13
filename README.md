@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7654 days**.
 
-And here is a just a random fact -  **In the movie Psycho by Alfred Hitchcock, chocolate syrup was used for blood in the shower scene**.
+And here is a just a random fact -  **The mythical Scottish town of Brigadoon appears for one day every one hundred years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
