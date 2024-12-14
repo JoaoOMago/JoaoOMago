@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7655 days**.
 
-And here is a just a random fact -  **Honolulu, Hawaii boasts the only royal palace in the United States of America**.
+And here is a just a random fact -  **A butterfly has to have a body temperature greater than 86 degrees to be able to fly**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
