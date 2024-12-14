@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7656 days**.
 
-And here is a just a random fact -  **Approximately two gallons of water are used to brush your teeth**.
+And here is a just a random fact -  **In the past 60 years, the groundhog has only predicted the weather correctly 28% of the time. The rushing back and forth from burrows is believed to indicate sexual activity, not shadow seeking**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
