@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7655 days**.
 
-And here is a just a random fact -  **During WWII, because a lot of players were called to duty, the Pittsburgh Steelers and Philadelphia Eagles combined to become The Steagles**.
+And here is a just a random fact -  **Scientists have discovered a way to make biodegradable plastic from plants by using genetic engineering.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 13 Dec, 2024.</sub>
+<sub>Last updated by Github Actions on 14 Dec, 2024.</sub>
