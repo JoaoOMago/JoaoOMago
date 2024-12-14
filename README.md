@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7655 days**.
+Here is a random fact about me - I have been on this planet for **7656 days**.
 
-And here is a just a random fact -  **The smallest man ever was Gul Mohammed (1957-1997) of India, who measured 1 feet, 10? inches**.
+And here is a just a random fact -  **If you were standing on Mercury, the Sun would appear 2.5 times larger than it appears from Earth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
