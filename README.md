@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7656 days**.
 
-And here is a just a random fact -  **McDonald restaurants serve food and drink to an amazing 43 million customers on a daily basis**.
+And here is a just a random fact -  **The first toilet tank ever seen on television was on Leave it to Beaver**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
