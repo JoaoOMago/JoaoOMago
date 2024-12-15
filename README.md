@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7656 days**.
 
-And here is a just a random fact -  **One of the Bond girls in the James Bond movie, "For Your Eyes Only," used to be a man**.
+And here is a just a random fact -  **Over 100 million birds die annually by crashing into glass windows in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
