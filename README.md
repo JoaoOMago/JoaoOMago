@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7656 days**.
 
-And here is a just a random fact -  **Ernest Vincent Wright wrote a fifty thousand-word novel, "Gadsby," without any word containing the letter "e."**.
+And here is a just a random fact -  **The largest type of penguin is the Emperor Penguin which can stand to be almost 3.5 feet tall and weigh more than 90 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
