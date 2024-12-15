@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7657 days**.
 
-And here is a just a random fact -  **The Sears Tower consists of nine framed tubes, which connects nine skyscrapers as one building**.
+And here is a just a random fact -  **The reason firehouses have circular stairways is from the days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
