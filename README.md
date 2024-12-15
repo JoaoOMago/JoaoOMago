@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7657 days**.
 
-And here is a just a random fact -  **Wheel of Fortune star Vanna White holds the record for putting her hands together approximately 140,000 times to clap**.
+And here is a just a random fact -  **The seventeenth president of the United States, Andrew Johnson did not know how to read until he was 17 years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
