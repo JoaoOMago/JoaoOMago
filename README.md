@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7656 days**.
+Here is a random fact about me - I have been on this planet for **7657 days**.
 
-And here is a just a random fact -  **The smoke that is produced by a fire kills more people than a burn does because of carbon monoxide and other dangerous gases**.
+And here is a just a random fact -  **Used in art the word "sfumato" refers to the subtle blending of an outline by gradually blending one tone into another**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
