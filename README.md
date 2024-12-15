@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7657 days**.
 
-And here is a just a random fact -  **There is now an ATM at McMurdo Station in Antarctica, which has a winter population of two hundred people**.
+And here is a just a random fact -  **In some parts of the Atacama Desert it has never rained**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
