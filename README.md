@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7658 days**.
 
-And here is a just a random fact -  **Research has indicated that approximately eleven minutes are cut off the life of an average male smoker from each cigarette smoked**.
+And here is a just a random fact -  **The reason why tattoos do not vanish even though we shed our skin is because the dye is injected deeper into the dermis part of the skin. It is only the epidermis that we shed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
