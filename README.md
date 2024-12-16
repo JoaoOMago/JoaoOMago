@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7657 days**.
 
-And here is a just a random fact -  **The word vaccine comes from the Latin word "vacca," which means cow. This name was chosen beacause the first vaccination was derived from cowpox which was given to a boy**.
+And here is a just a random fact -  **In 1890, there was no sunshine for the whole month of December in Westminster in London.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
