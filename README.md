@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7658 days**.
 
-And here is a just a random fact -  **The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket**.
+And here is a just a random fact -  **The three wealthiest families in the world have more assets than the combined wealth of the forty-eight poorest nations**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
