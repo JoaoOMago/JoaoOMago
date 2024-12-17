@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7658 days**.
 
-And here is a just a random fact -  **Canadians eat more Kraft Dinner (Macaroni and Cheese) per capita than any other country in the world**.
+And here is a just a random fact -  **On average, an ear of a corn has 16 rows and approximately 800 kernels**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 16 Dec, 2024.</sub>
+<sub>Last updated by Github Actions on 17 Dec, 2024.</sub>
