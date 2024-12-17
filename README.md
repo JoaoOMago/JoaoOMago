@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7659 days**.
 
-And here is a just a random fact -  **Termites do more damage in the U.S. ever year than all the fires, storms and earthquakes combined. They do an average of $750 million in damage annually**.
+And here is a just a random fact -  **The Great Pyramids used to be as white as snow because they were encased in a bright limestone that has worn off over the years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
