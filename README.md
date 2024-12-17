@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7659 days**.
 
-And here is a just a random fact -  **The Hawaiian alphabet only has 12 letters**.
+And here is a just a random fact -  **Male goats will pee on each other in order to attract mates**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
