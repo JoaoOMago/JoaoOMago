@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7659 days**.
 
-And here is a just a random fact -  **Mangos are known throughout the world as the "King of Fruits."**.
+And here is a just a random fact -  **Average life span of a major league baseball: 7 pitches**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
