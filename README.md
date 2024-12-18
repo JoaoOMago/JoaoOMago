@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7659 days**.
+Here is a random fact about me - I have been on this planet for **7660 days**.
 
-And here is a just a random fact -  **In L.A., U.S.A., a man may legally beat his wife with a leather strap, as long as it is less than 2 inches wide**.
+And here is a just a random fact -  **There is a certain type of Hawk Moth caterpillar from Brazil that inflates its thorax, which makes its head look like a head of a snake when it feels it is in danger or alarmed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
