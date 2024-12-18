@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7659 days**.
 
-And here is a just a random fact -  **Hens will produce larger eggs as they grow older**.
+And here is a just a random fact -  **The biggest bug in the world is the Goliath Beetle which can weigh up to 3.5 ounces and be 4.5 inches long**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
