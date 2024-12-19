@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7661 days**.
 
-And here is a just a random fact -  **Armadillos have four babies at a time, and they are always the same sex**.
+And here is a just a random fact -  **In 1960 there were 16,067 gambling slots in Nevada. By 1999, this number rose to 205,726 slots which would be one slot for every 10 people residing there**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
