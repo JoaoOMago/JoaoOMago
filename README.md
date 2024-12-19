@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7660 days**.
 
-And here is a just a random fact -  **A honey bee has four wings**.
+And here is a just a random fact -  **An olive tree can live up to 1500 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 18 Dec, 2024.</sub>
+<sub>Last updated by Github Actions on 19 Dec, 2024.</sub>
