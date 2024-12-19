@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7660 days**.
 
-And here is a just a random fact -  **Two-thirds of Canadians live in Quebec and Ontario**.
+And here is a just a random fact -  **Arnold Palmer was the first player to win $1 million on the PGA Tour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
