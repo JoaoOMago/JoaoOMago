@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7661 days**.
 
-And here is a just a random fact -  **The company Chanel claims that every 30 seconds, somewhere in the world, a bottle of Chanel No 5 is sold**.
+And here is a just a random fact -  **The Goliath beetle is about the size of your fist and can weigh as much as 3-4 ounces**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
