@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7662 days**.
 
-And here is a just a random fact -  **The largest dog in the world is the Irish Wolfhound**.
+And here is a just a random fact -  **Sir John Harington, the godson of Queen Elizabeth I, was the inventor of the toilet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
