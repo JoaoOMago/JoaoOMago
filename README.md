@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7662 days**.
+Here is a random fact about me - I have been on this planet for **7663 days**.
 
-And here is a just a random fact -  **A white tiger can only be born when both parents carry the gene for white colouring**.
+And here is a just a random fact -  **On average, a typical dairy cow lies down and stands up about 14 times a day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
