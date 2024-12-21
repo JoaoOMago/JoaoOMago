@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7662 days**.
 
-And here is a just a random fact -  **One tree can filter up to sixty pounds of pollutants from the air each year.**.
+And here is a just a random fact -  **Wheel of Fortune star Vanna White holds the record for putting her hands together approximately 140,000 times to clap**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
