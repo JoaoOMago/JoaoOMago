@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7663 days**.
 
-And here is a just a random fact -  **By federal law, for a noodle to actually be a noodle it must have 5.5 percent egg solids in it, otherwise it cannot be called a noodle**.
+And here is a just a random fact -  **In 1903, there were originally only eight Crayola crayons in a box and they sold for five cents**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
