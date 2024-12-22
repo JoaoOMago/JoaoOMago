@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7663 days**.
 
-And here is a just a random fact -  **People from North America prefer pickles with warts, where as Europeans prefer pickles with no warts**.
+And here is a just a random fact -  **In Canada, the most productive day of the workweek is Tuesday**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
