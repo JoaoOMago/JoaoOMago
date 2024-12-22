@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7663 days**.
 
-And here is a just a random fact -  **Consuming chocolate was once considered a sin during the 16th and 17th century. During that time it was provided in the form of a drink and since drinking wine during lent was a sin, so was drinking chocolate**.
+And here is a just a random fact -  **The strongest gust of wind was recorded at the Mount Washington Observatory on April 12th, 1934, and measured 231 miles per hour.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
