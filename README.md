@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7663 days**.
+Here is a random fact about me - I have been on this planet for **7664 days**.
 
-And here is a just a random fact -  **In the U.S., approximately 46% of the chicken that is eaten by people comes from restaurants or other food outlets**.
+And here is a just a random fact -  **The country of Fiji is made up of 332 islands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
