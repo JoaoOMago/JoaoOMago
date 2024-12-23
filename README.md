@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7664 days**.
 
-And here is a just a random fact -  **Annually, British people eat more than 15 pounds of beans**.
+And here is a just a random fact -  **Singer Billy Joel tried to commit suicide when he was 21 by drinking furniture polish**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 22 Dec, 2024.</sub>
+<sub>Last updated by Github Actions on 23 Dec, 2024.</sub>
