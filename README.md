@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7665 days**.
 
-And here is a just a random fact -  **In the U.S., over one million gallons of cosmetics, drinks, and lotions are sold that contain aloe in them per year**.
+And here is a just a random fact -  **The only predator that polar bears have are humans**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
