@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7666 days**.
 
-And here is a just a random fact -  **More than 3000 years ago children played with circular hoops made with grape vines. This toy was swung around the waist. Years later this toy was made by company called Wham-O and the Hula-Hoop was invented in 1958**.
+And here is a just a random fact -  **The water inside of a coconut is identical to human blood plasma. Many lives in third world countries have been saved from coconut water fed through an IV**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
