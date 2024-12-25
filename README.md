@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7667 days**.
 
-And here is a just a random fact -  **Mosquitoes have teeth**.
+And here is a just a random fact -  **Nose prints are used to identify dogs, much like humans use fingerprints**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
