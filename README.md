@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7667 days**.
 
-And here is a just a random fact -  **The youngest actress to be nominated as best actress is Keisha Castle-Hughes who was nominated at just 13 years old**.
+And here is a just a random fact -  **The White House has a movie theater, swimming pool, bowling lane, jogging track, and a tennis court**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
