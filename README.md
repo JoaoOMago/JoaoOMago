@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7666 days**.
+Here is a random fact about me - I have been on this planet for **7667 days**.
 
-And here is a just a random fact -  **Research indicates that babies who suck on pacifiers are more prone to ear aches**.
+And here is a just a random fact -  **Women who are romance novel readers are reported to make love 74% more often with their partners than women who do not read romance novels.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
