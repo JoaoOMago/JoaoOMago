@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7667 days**.
+Here is a random fact about me - I have been on this planet for **7668 days**.
 
-And here is a just a random fact -  **There are only four words in the English language which end in"-dous": tremendous, horrendous, stupendous, and hazardous**.
+And here is a just a random fact -  **A person that is struck by lightning has a greater chance of developing motor neurone disease**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
