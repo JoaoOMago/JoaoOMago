@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7667 days**.
 
-And here is a just a random fact -  **The colours yellow, red, and orange are used in fast food restaraunts because those are the colours that stimulate hunger**.
+And here is a just a random fact -  **Used in art the word "sfumato" refers to the subtle blending of an outline by gradually blending one tone into another**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
