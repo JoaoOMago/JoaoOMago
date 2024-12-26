@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7667 days**.
 
-And here is a just a random fact -  **Retail sales for soft drinks in the United States in 2001 were more than sixty billion dollars**.
+And here is a just a random fact -  **People that smoke have 10 times as many wrinkles as a person that does not smoke**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
