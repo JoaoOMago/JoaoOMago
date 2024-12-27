@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7668 days**.
 
-And here is a just a random fact -  **Author Dr. Seuss wrote the book "Green Eggs and Ham" because the editor made him a bet that he could not write a book, which contained less than fifty words**.
+And here is a just a random fact -  **The first television newscaster was Kolin Hager, who used to broadcast farm and weather reports in 1928**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Dec, 2024.</sub>
+<sub>Last updated by Github Actions on 27 Dec, 2024.</sub>
