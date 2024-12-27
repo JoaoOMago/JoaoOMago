@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7669 days**.
 
-And here is a just a random fact -  **Arthur Giblin was the inventor of the first "flushable" toilet**.
+And here is a just a random fact -  **The average four year-old child asks over four hundred questions a day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
