@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7669 days**.
 
-And here is a just a random fact -  **In twins, there is a great chance that one will be left handed**.
+And here is a just a random fact -  **Edward VIII did not officially become the King of England as he abdicated the throne to marry an American divorcee**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
