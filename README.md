@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7669 days**.
 
-And here is a just a random fact -  **When you sneeze, all your bodily functions momentarily stop, including your heart**.
+And here is a just a random fact -  **In twins, there is a great chance that one will be left handed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
