@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7670 days**.
 
-And here is a just a random fact -  **Some of the titles that were considered for the hit T.V. show "Friends" were Six Of One, Across the Hall, and Insomnia Cafe**.
+And here is a just a random fact -  **Birds do not sweat, as they do not have sweat glands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
