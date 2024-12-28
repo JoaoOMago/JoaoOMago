@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7669 days**.
 
-And here is a just a random fact -  **The Great White Shark can grow to be more than twenty feet long and can weigh approximately 4,000 pounds**.
+And here is a just a random fact -  **Montreal has an underground city, which has over 2,000 shops and 26 kilometres of walkways. This is the largest underground network for any city**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
