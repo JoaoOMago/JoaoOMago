@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7670 days**.
 
-And here is a just a random fact -  **Every second, 8000 Coca-Cola Company products are consumed in the world**.
+And here is a just a random fact -  **The Sears Tower in Chicago contains enough steel to build 50,000 automobiles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
