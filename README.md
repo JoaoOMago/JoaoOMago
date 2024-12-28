@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7670 days**.
 
-And here is a just a random fact -  **African heart-nosed bats can have such a keen sense of sound that they can hear the footsteps of a beetle walking on sand from six feet away**.
+And here is a just a random fact -  **Every second, 8000 Coca-Cola Company products are consumed in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
