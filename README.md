@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7670 days**.
 
-And here is a just a random fact -  **When explorers first arrived in Venezuela, they were reminded of Venice. They named the country "Little Venice", which translated into Spanish is Venezuela**.
+And here is a just a random fact -  **There are over 600 different pasta shapes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
