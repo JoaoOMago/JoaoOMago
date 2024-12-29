@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7671 days**.
 
-And here is a just a random fact -  **Polar bears have been known to swim more than 60 miles without resting**.
+And here is a just a random fact -  **Every day, the Hubble telescope transmits enough data to fit 10,000 standard computer disks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
