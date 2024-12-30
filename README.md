@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7672 days**.
 
-And here is a just a random fact -  **The longest recorded flight of a chicken is thirteen seconds.**.
+And here is a just a random fact -  **All of the clocks in the movie Pulp Fiction are stuck on 4:20**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
