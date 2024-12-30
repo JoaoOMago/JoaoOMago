@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7672 days**.
 
-And here is a just a random fact -  **In the movie "Babe", the piglet was played by over 30 different piglets they outgrew the part so quickly during the production of the film**.
+And here is a just a random fact -  **The Kool Aid Man used to be known as "Pitcher Man" when he was first introduced in 1975**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
