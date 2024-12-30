@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7671 days**.
 
-And here is a just a random fact -  **Scatologists are experts who study feces. (aka. crap, dung, dookie, dumps, feces, excrement, etc.)**.
+And here is a just a random fact -  **A salmon with two mouths, two sets of teeth and two tongues was caught by Bob Bateman of Canada**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
