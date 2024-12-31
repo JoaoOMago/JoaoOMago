@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7673 days**.
 
-And here is a just a random fact -  **A species of dolphin is born naturally blind in the Indus and Ganges rivers in South Asia. These dolphins have a highly sophisticated sonar system and swim on only one side of their body**.
+And here is a just a random fact -  **The names of the two stone lions in front of the New York Public Library are Patience and Fortitude. They were named by then-mayor Fiorello LaGuardia**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
