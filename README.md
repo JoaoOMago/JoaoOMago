@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7672 days**.
 
-And here is a just a random fact -  **Crabs have very small hairs on their claws and other parts of their body to help detect water currents and vibrations**.
+And here is a just a random fact -  **A cow releases about 125 gallons of gas per day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 Dec, 2024.</sub>
+<sub>Last updated by Github Actions on 31 Dec, 2024.</sub>
