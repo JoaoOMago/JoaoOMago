@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7673 days**.
 
-And here is a just a random fact -  **Contrary to popular beliefs, chocolate does not cause acne**.
+And here is a just a random fact -  **Alexander the Great was an epileptic**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 31 Dec, 2024.</sub>
+<sub>Last updated by Github Actions on 01 Jan, 2025.</sub>
