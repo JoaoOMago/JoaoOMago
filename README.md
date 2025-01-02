@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7674 days**.
 
-And here is a just a random fact -  **A study indicates that smokers are likely to die on average six and a half years earlier than non-smokers**.
+And here is a just a random fact -  **The state of Alaska has almost twice as many caribou as people**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
