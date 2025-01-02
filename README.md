@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7675 days**.
 
-And here is a just a random fact -  **On average, the life span of an American dollar bill is eighteen months**.
+And here is a just a random fact -  **A Singapore singing group by the name of "The Oriental Singers," sang non-stop for 74 hours and five minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
