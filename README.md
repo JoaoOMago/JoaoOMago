@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7674 days**.
 
-And here is a just a random fact -  **After the "Popeye" comic strip was launched in 1931, spinach consumption went up by thirty-three percent in the United States**.
+And here is a just a random fact -  **The longest fangs of a snake are found on the Gaboon Viper (Bitis gabonica), and can reach over 2 inches in length**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
