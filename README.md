@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7675 days**.
 
-And here is a just a random fact -  **It would take approximately twenty-four trees that are on average six to eight inches in diameter to produce one ton of newsprint for the Sunday edition of the New York Times**.
+And here is a just a random fact -  **When Coca-Cola began to be sold in China, they used characters that would sound like "Coca-Cola" when spoken. Unfortunately, what they turned out to mean was "Bite the wax tadpole". It did not sell well**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
