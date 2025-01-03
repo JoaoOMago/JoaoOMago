@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7675 days**.
 
-And here is a just a random fact -  **There are over 2,000 different types of cheese in the world**.
+And here is a just a random fact -  **96% of people put the peanut butter on first when making a peanut butter and jelly sandwich**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 02 Jan, 2025.</sub>
+<sub>Last updated by Github Actions on 03 Jan, 2025.</sub>
