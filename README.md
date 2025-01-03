@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7676 days**.
 
-And here is a just a random fact -  **In the wild, the poinsettia flower can reach a height of 12 feet, and have leaves that are eight inches across.**.
+And here is a just a random fact -  **It is possible to lead a cow upstairs...but not downstairs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
