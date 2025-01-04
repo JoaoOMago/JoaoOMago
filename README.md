@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7676 days**.
 
-And here is a just a random fact -  **Everyday, more money is printed for Monopoly than the U.S. Treasury**.
+And here is a just a random fact -  **Spiders have claws at the ends of their legs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
