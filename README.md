@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7677 days**.
 
-And here is a just a random fact -  **The movie that grossed the most money that was adapted from a T.V. cartoon is Scooby-Doo**.
+And here is a just a random fact -  **Popped popcorn should be stored in the freezer or refrigerator as this way it can stay crunchy for up to three weeks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
