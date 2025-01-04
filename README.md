@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7676 days**.
 
-And here is a just a random fact -  **In the United States, you are more likely to be killed by a bee sting than a shark attack**.
+And here is a just a random fact -  **Eating 11 pounds of apples will make you gain one pound of weight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
