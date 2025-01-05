@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7678 days**.
 
-And here is a just a random fact -  **It was believed by Ancient Hindus that the world was a sphere and rested on the back of four elephants, which stood on a turtle**.
+And here is a just a random fact -  **The most senior crayon maker Emerson Moser retired after making 1.4 billion crayons for Crayola. It was then that he revealed that he was actually colorblind**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
