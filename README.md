@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7677 days**.
+Here is a random fact about me - I have been on this planet for **7678 days**.
 
-And here is a just a random fact -  **Women hearts beat faster than men**.
+And here is a just a random fact -  **Just like fingerprints, every cats nose pad is different**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
