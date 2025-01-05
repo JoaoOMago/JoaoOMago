@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7677 days**.
 
-And here is a just a random fact -  **Popped popcorn should be stored in the freezer or refrigerator as this way it can stay crunchy for up to three weeks**.
+And here is a just a random fact -  **The word assassination was invented by William Shakespeare**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 04 Jan, 2025.</sub>
+<sub>Last updated by Github Actions on 05 Jan, 2025.</sub>
