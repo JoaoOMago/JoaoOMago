@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7678 days**.
 
-And here is a just a random fact -  **In every episode of Seinfeld there is a Superman somewhere**.
+And here is a just a random fact -  **St. Patrick never really drove out any snakes from Ireland. This story was an analogy of how he drove paganism out of Ireland**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
