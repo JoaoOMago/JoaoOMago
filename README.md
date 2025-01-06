@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7678 days**.
 
-And here is a just a random fact -  **The expression "Tying the Knot" comes from an old Roman custom where the brides clothes were tied up all in knots and the groom was supposed to untie the knots**.
+And here is a just a random fact -  **A world record 328 pound ovarian cyst was removed from a woman in Galveston, Texas, in 1905. updated**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
