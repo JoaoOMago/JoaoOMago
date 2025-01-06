@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7678 days**.
 
-And here is a just a random fact -  **There are more than 250,000 rivers in the United States, which amounts to 3.5 million miles of rivers**.
+And here is a just a random fact -  **Former U.S. President Franklin Pierce was arrested during his term as President for running over an old lady with his horse, but the charges were later dropped**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
