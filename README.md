@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7679 days**.
 
-And here is a just a random fact -  **The production of toilet paper in China began in 1391, which was used for the Emperors**.
+And here is a just a random fact -  **Cheetahs are the fastest land animal and can reach speeds up to 72mph**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
