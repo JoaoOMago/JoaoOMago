@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7681 days**.
 
-And here is a just a random fact -  **St. Patrick never really drove out any snakes from Ireland. This story was an analogy of how he drove paganism out of Ireland**.
+And here is a just a random fact -  **Robert Southey wrote the story "Goldilocks and the Three Bears" in 1834**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
