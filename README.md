@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7681 days**.
 
-And here is a just a random fact -  **In a study that was done by the University of Chicago in 1907, it was concluded that the easiest color to spot is yellow. This is why John Hertz, who is the founder of the Yellow Cab Company picked cabs to be yellow**.
+And here is a just a random fact -  **Former U.S. President Abraham Lincoln suffered a nervous breakdown in 1836**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
