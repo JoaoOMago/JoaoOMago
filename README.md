@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7681 days**.
 
-And here is a just a random fact -  **On average 1,668 gallons of water are used by each person in the United States daily**.
+And here is a just a random fact -  **The biggest hamburger that was served was 8,266 pounds. It was made at the Burger Fest in Seymour, Wisconsin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
