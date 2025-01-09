@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7682 days**.
 
-And here is a just a random fact -  **After the death of the genius, Albert Einstein, his brain was removed by a pathologist and put in a jar for future study**.
+And here is a just a random fact -  **More than half the time spent in United States courts is cases that involve automobiles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
