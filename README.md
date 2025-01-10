@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7682 days**.
 
-And here is a just a random fact -  **Great White sharks have about 3,000 teeth**.
+And here is a just a random fact -  **Using recycled aluminum cans and making news cans out of them saves 75% energy compared to making it from new material.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
