@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7683 days**.
 
-And here is a just a random fact -  **In ancient Egypt, doctors used jolts from the electric catfish to reduce the pain of arthritis**.
+And here is a just a random fact -  **The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
