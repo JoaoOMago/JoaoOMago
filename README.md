@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7683 days**.
 
-And here is a just a random fact -  **Tropical rainforests cover about 7% of the Earth and receive over 80 inches of rain every year**.
+And here is a just a random fact -  **The first translation of the Bible into English was in 1382 A.D., by John Wycliff**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
