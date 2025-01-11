@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7683 days**.
 
-And here is a just a random fact -  **Approximately 100,000 people get married in Las Vegas each year**.
+And here is a just a random fact -  **The 20th president of the United States James Garfield could write Greek with one hand and Latin with the other at the same time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
