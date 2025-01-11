@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7683 days**.
 
-And here is a just a random fact -  **Mosquitoes prefer children over adults**.
+And here is a just a random fact -  **Approximately 1 billion stamps are produced in Australia annually**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Jan, 2025.</sub>
+<sub>Last updated by Github Actions on 11 Jan, 2025.</sub>
