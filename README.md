@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7685 days**.
 
-And here is a just a random fact -  **The company "Sony" was originally called "Totsuken." They felt the name "Sony" would be easier to pronounce. The name was invented by a cross between the name "sonus" and "sonny." The name sound and sonic are derived. Sonny was used to represent a young man or boy, which would show a energetic young company**.
+And here is a just a random fact -  **There was once a fish caught in Delaware Bay with a watch still ticking inside**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
