@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7684 days**.
+Here is a random fact about me - I have been on this planet for **7685 days**.
 
-And here is a just a random fact -  **The first owner of the Marlboro Company, Wayne McLaren, died of lung cancer**.
+And here is a just a random fact -  **Saturday is the most popular day for people to eat out in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
