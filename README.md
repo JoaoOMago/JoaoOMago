@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7684 days**.
 
-And here is a just a random fact -  **Mars is the home of Olympus Mons, the largest known volcano in our solar system**.
+And here is a just a random fact -  **There is a species of bird, Antpitta avis canis Ridgley, that barks like a dog**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
