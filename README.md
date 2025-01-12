@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7684 days**.
 
-And here is a just a random fact -  **Pluto was discovered on February 10, 1930 by Clyde Tombaugh**.
+And here is a just a random fact -  **Approximately 25,000 workers died during the building of the Panama Canal and approximately 20,000 of them contracted malaria and yellow fever**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Jan, 2025.</sub>
+<sub>Last updated by Github Actions on 12 Jan, 2025.</sub>
