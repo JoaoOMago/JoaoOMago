@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7686 days**.
 
-And here is a just a random fact -  **Average age of top GM executives in 1994: 49.8 years. Average age ofthe Rolling Stones: 50.6.**.
+And here is a just a random fact -  **At least 7% of all health care costs in the United States are attributed to smoking**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 13 Jan, 2025.</sub>
+<sub>Last updated by Github Actions on 14 Jan, 2025.</sub>
