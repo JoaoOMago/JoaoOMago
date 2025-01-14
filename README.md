@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7686 days**.
 
-And here is a just a random fact -  **On August 21st, 1911, someone stole the Mona Lisa, the most famous painting in the world, from the Louvre Museum. It was recovered two years later**.
+And here is a just a random fact -  **The Christmas season begins after sunset on December 24th and lasts until January 5th. This is also known as the Twelve Days of Christmas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
