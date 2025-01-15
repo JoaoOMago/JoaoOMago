@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7687 days**.
+Here is a random fact about me - I have been on this planet for **7688 days**.
 
-And here is a just a random fact -  **Albert Einstein was cremated and his ashes were spread over a river located in New Jersey**.
+And here is a just a random fact -  **The only woman that has appeared on a U.S. paper currency is Martha Washington**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
