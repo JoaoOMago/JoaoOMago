@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7689 days**.
 
-And here is a just a random fact -  **One gallon of used motor oil can ruin approximately one million gallons of fresh water**.
+And here is a just a random fact -  **Finland has 187,888 lakes and 179,584 islands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
