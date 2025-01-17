@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7690 days**.
 
-And here is a just a random fact -  **Dead cells in the body ultimately go to the kidneys for excretion**.
+And here is a just a random fact -  **The world record for time without sleep is 264 hours (11 days) by Randy Gardner in 1965**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
