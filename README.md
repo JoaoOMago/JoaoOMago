@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7690 days**.
 
-And here is a just a random fact -  **Ellen Macarthur, yachtswoman, had a total of 891 naps in 94 days that were each 36 minutes long while on her Vendee Round the Globe yacht race**.
+And here is a just a random fact -  **Of all the golfers in Canada, 71.4% golfers are male, 28.6% are female**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
