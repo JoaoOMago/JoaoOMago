@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7690 days**.
 
-And here is a just a random fact -  **Sheep can detect other sheep faces like humans do. They can remember up to 50 sheep faces**.
+And here is a just a random fact -  **Richard Millhouse Nixon was the first US president whose name contains all the letters from the word "criminal." The second? William Jefferson Clinton**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
