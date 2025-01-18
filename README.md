@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7691 days**.
 
-And here is a just a random fact -  **Fear of clowns is called coulrophobia**.
+And here is a just a random fact -  **In just the first 56 days of life, the larva of the polyphemus moth eats about 86,000 times its birthweight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
