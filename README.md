@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7690 days**.
 
-And here is a just a random fact -  **Over the course of one year, a coffee tree only produces about 1.5 pounds of coffee**.
+And here is a just a random fact -  **Influenza caused over twenty-one million deaths in 1918**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 17 Jan, 2025.</sub>
+<sub>Last updated by Github Actions on 18 Jan, 2025.</sub>
