@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7690 days**.
 
-And here is a just a random fact -  **The longest Monopoly game ever played was 1,680 hours long, which is seventy straight days**.
+And here is a just a random fact -  **Alexander the Great was an epileptic**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
