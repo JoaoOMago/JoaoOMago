@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7691 days**.
 
-And here is a just a random fact -  **Influenza caused over twenty-one million deaths in 1918**.
+And here is a just a random fact -  **A superstition in baseball is to never lend your bat to anyone or you will be jinxed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
