@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7690 days**.
+Here is a random fact about me - I have been on this planet for **7691 days**.
 
-And here is a just a random fact -  **A world record 328 pound ovarian cyst was removed from a woman in Galveston, Texas, in 1905. updated**.
+And here is a just a random fact -  **From 1526 to 1707, the first six Mogul emperors of India ruled in unbroken succession from father to son**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
