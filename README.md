@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7693 days**.
 
-And here is a just a random fact -  **Romans, in the third century, believed that the lemon was an antidote for all poisons**.
+And here is a just a random fact -  **Oral-B were the first toothbrushes to go to the moon when they were aboard the Apollo 11 mission**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
