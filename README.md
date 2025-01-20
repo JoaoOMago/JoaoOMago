@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7693 days**.
 
-And here is a just a random fact -  **In one day, adult lungs move about 10,000 litres of air**.
+And here is a just a random fact -  **In 2002, dogs have killed more people in the U.S. than the Great White shark has killed in the past 100 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
