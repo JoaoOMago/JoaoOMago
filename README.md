@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7693 days**.
 
-And here is a just a random fact -  **In 1980, there was only one country in the world with no telephones - Bhutan**.
+And here is a just a random fact -  **On average, a hen lays 300 eggs per year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 20 Jan, 2025.</sub>
+<sub>Last updated by Github Actions on 21 Jan, 2025.</sub>
