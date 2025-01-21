@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7694 days**.
 
-And here is a just a random fact -  **In a month, a fingernail grows an eighth of an inch**.
+And here is a just a random fact -  **The beeswax that is produced by Honey bees comes from eight paired glands that are located on the underside of their stomach**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
