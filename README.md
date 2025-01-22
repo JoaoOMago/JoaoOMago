@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7694 days**.
+Here is a random fact about me - I have been on this planet for **7695 days**.
 
-And here is a just a random fact -  **The Mall of America, located in Bloomington, Minnesota is so big that it can hold 24,336 school buses**.
+And here is a just a random fact -  **It can take up to a month for a rattlesnake to re-supply its venom**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
