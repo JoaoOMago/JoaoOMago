@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7695 days**.
 
-And here is a just a random fact -  **Dexter is the smallest type of cow. This cow was bred to be a small size for household living**.
+And here is a just a random fact -  **The company Chanel claims that every 30 seconds, somewhere in the world, a bottle of Chanel No 5 is sold**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
