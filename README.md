@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7694 days**.
 
-And here is a just a random fact -  **Left-handed people are better at sports that require good spatial judgment and fast reaction, compared to right-handed individuals**.
+And here is a just a random fact -  **On a ship a toilet is called a head**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 21 Jan, 2025.</sub>
+<sub>Last updated by Github Actions on 22 Jan, 2025.</sub>
