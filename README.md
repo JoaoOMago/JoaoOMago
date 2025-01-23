@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7695 days**.
 
-And here is a just a random fact -  **Two objects have struck the earth with enough force to destroy a whole city. Each object, one in 1908 and again in 1947, struck regions of Siberia. Not one human being was hurt either time**.
+And here is a just a random fact -  **The name "Grey Poupon" used for mustard comes from two people: Maurice Grey and Auguste Poupon. Grey was the inventor of a machine that mass produced fine textured mustard, and Poupon was an already established maker of mustard. In 1886 the Grey-Poupon firm was formed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
