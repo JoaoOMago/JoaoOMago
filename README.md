@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7695 days**.
 
-And here is a just a random fact -  **The amount of blood a female mosquito drinks per serving is five millionths of a liter**.
+And here is a just a random fact -  **American novelist Mark Twain was the first known author to submit a typed manuscript**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
