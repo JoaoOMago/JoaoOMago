@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7698 days**.
 
-And here is a just a random fact -  **In the marriage ceremony of the Ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other**.
+And here is a just a random fact -  **O.J. Simpson had a severe case of rickets and wore leg braces when he was a child**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
