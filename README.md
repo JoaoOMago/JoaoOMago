@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7698 days**.
 
-And here is a just a random fact -  **The average day is actually 23 hours, 56 minutes and 4.09 seconds. We have a leap year every four years to make up for this shortfall**.
+And here is a just a random fact -  **Iguanas can stay under water for up to thirty minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Jan, 2025.</sub>
+<sub>Last updated by Github Actions on 26 Jan, 2025.</sub>
