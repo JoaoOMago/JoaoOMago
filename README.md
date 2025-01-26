@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7699 days**.
 
-And here is a just a random fact -  **The first music video ever played on MTV Europe was by Dire Straits, "Money For Nothing."**.
+And here is a just a random fact -  **Vasaloppet, which is located in Sweden is the oldest, longest, and the biggest cross-country ski race in the world. Every year, 14,000 people compete in the race**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
