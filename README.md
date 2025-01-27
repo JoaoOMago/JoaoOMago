@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7699 days**.
+Here is a random fact about me - I have been on this planet for **7700 days**.
 
-And here is a just a random fact -  **The tallest tree recorded is located in Humboldt Redwoods State Park, California. It is a coast redwood and has been measured at 117 metres high**.
+And here is a just a random fact -  **About 25 percent of all the energy consumed in the US is from natural gas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
