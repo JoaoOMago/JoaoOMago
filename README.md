@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7701 days**.
 
-And here is a just a random fact -  **Close to 80% of people who watch the Super Bowl on television, only do so to view the commercials**.
+And here is a just a random fact -  **The state of Tennessee was known as Franklin before 1796**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
