@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7700 days**.
+Here is a random fact about me - I have been on this planet for **7701 days**.
 
-And here is a just a random fact -  **There are 40 official jelly belly flavours**.
+And here is a just a random fact -  **Some asteroids have other asteroids orbiting them**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
