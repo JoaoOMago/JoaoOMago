@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7700 days**.
 
-And here is a just a random fact -  **Annually Americans eat 45 million turkeys at Thanksgiving**.
+And here is a just a random fact -  **Amish people do not believe in the use of aerosal air fresheners**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 27 Jan, 2025.</sub>
+<sub>Last updated by Github Actions on 28 Jan, 2025.</sub>
