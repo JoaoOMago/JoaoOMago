@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7700 days**.
 
-And here is a just a random fact -  **In 1960 there were 16,067 gambling slots in Nevada. By 1999, this number rose to 205,726 slots which would be one slot for every 10 people residing there**.
+And here is a just a random fact -  **For the blockbuster movie "The Terminator," O.J. Simpson was considered to play the role of the Terminator, but producers did not choose him as they thought he would not be taken seriously**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
