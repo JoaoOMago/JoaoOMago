@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7704 days**.
 
-And here is a just a random fact -  **Nearly half of all Americans suffer from symptoms of burnout**.
+And here is a just a random fact -  **7 out of 10 people believe in life after death**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
