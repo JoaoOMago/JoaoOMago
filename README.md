@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7704 days**.
 
-And here is a just a random fact -  **Leaving the water running while brushing your teeth can waste four gallons of water in a minute**.
+And here is a just a random fact -  **A leech can gorge itself up to a maximum of five times its body weight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 31 Jan, 2025.</sub>
+<sub>Last updated by Github Actions on 01 Feb, 2025.</sub>
