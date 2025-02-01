@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7704 days**.
 
-And here is a just a random fact -  **A person would have to drink more than 12 cups of hot cocoa to equal the amount of caffeine found in one cup of coffee**.
+And here is a just a random fact -  **The Kodiak, which is native to Alaska, is the largest bear and can measure up to eight feet and weigh as much as 1,700 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
