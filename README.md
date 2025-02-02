@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7706 days**.
 
-And here is a just a random fact -  **An earthquake on Dec. 16, 1811 caused parts of the Mississippi River to flow backwards**.
+And here is a just a random fact -  **State with the highest percentage of people who walk to work: Alaska**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
