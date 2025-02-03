@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7706 days**.
 
-And here is a just a random fact -  **Mardi Gras means "Fat Tuesday." This is the festival that New Orleans, Louisiana is famous for having every year**.
+And here is a just a random fact -  **A house cat spends 70% of its time sleeping**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 02 Feb, 2025.</sub>
+<sub>Last updated by Github Actions on 03 Feb, 2025.</sub>
