@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7707 days**.
+Here is a random fact about me - I have been on this planet for **7708 days**.
 
-And here is a just a random fact -  **There are 122 pebbles per square inch on a Spalding basketball**.
+And here is a just a random fact -  **The smallest bone in the human body is the stirrup bone, which is located in the ear**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
