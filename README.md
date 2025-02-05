@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7709 days**.
 
-And here is a just a random fact -  **The reason why bubbles are round is because this is the most efficient shape that the soap film can take for the amount of air trapped inside**.
+And here is a just a random fact -  **Sylvia Plath was a famous poet who killed herself at age thirty-one by sticking her head into a gas oven**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
