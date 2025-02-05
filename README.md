@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7708 days**.
 
-And here is a just a random fact -  **Marlboro was the first cigarette company to market a cigarette that had a red filter called "beauty tip." This was done to hide the lipstick marks left on the filter from women smokers**.
+And here is a just a random fact -  **As an iceberg melts, it makes a fizzing sound because of the compressed air bubbles popping in the ice**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 04 Feb, 2025.</sub>
+<sub>Last updated by Github Actions on 05 Feb, 2025.</sub>
