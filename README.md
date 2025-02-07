@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7710 days**.
+Here is a random fact about me - I have been on this planet for **7711 days**.
 
-And here is a just a random fact -  **The silkworm moth has lost the ability to fly ever since it has been domesticated**.
+And here is a just a random fact -  **In 2000, there were 1,579,566 drug arrests in the United States. Of those, close to half were for marijuana**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
