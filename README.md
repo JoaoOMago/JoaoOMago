@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7710 days**.
 
-And here is a just a random fact -  **Google receives more than 200 million search queries a day, more than half of which come from outside the United States. Peak traffic hours to google.com are between 6 a.m. and noon PST, when more than 2,000 search queries are answered a second**.
+And here is a just a random fact -  **During the female orgasm, endorphines are released, which are powerful painkillers. So headaches are in fact a bad excuse not to have sex**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 06 Feb, 2025.</sub>
+<sub>Last updated by Github Actions on 07 Feb, 2025.</sub>
