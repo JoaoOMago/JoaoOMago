@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7711 days**.
 
-And here is a just a random fact -  **The sentence "The quick brown fox jumps over the lazy dog." uses everyletter in the alphabet. (Developed by Western Union to Test telex/twxcommunications)**.
+And here is a just a random fact -  **Moscow was founded in 1147 by Yury Dolgoruky**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 07 Feb, 2025.</sub>
+<sub>Last updated by Github Actions on 08 Feb, 2025.</sub>
