@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7713 days**.
 
-And here is a just a random fact -  **The smoke that is produced by a fire kills more people than a burn does because of carbon monoxide and other dangerous gases**.
+And here is a just a random fact -  **Arabic numerals were not invented by Arabs, but were invented in India by the Hindus**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
