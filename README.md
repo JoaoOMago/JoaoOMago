@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7712 days**.
 
-And here is a just a random fact -  **The smallest frog is the "Brazilian baby frog", which is smaller than a dime**.
+And here is a just a random fact -  **Ironically, when doctors in Los Angeles, California went on strike in 1976, the daily number of deaths in the city dropped 18%**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 08 Feb, 2025.</sub>
+<sub>Last updated by Github Actions on 09 Feb, 2025.</sub>
