@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7712 days**.
 
-And here is a just a random fact -  **The expression cooked "al dente" means "to the tooth." What this means is that the pasta should be somewhat firm, and offer some resistance to the tooth, but should also be tender**.
+And here is a just a random fact -  **The Faberge, "Winter Egg" was sold in 1994 for $5.6 million. This is the most expensive decorative egg that has ever been sold**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
