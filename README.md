@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7713 days**.
 
-And here is a just a random fact -  **If a statue in the park of a person on a horse has both front legs inthe air, the person died in battle; if the horse has one front leg inthe air,the person died as a result of wounds received in battle; if the horsehasall four legs on the ground, the person died of natural causes.**.
+And here is a just a random fact -  **The 1988 move "Big" which was directed by Penny Marshall was the first movie by a female director to gross over $100 million domestically**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
