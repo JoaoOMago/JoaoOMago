@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7714 days**.
 
-And here is a just a random fact -  **There are approximately 100 million acts of sexual intercourse each day**.
+And here is a just a random fact -  **The average human has about 20 square feet of skin weighing about 6 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Feb, 2025.</sub>
+<sub>Last updated by Github Actions on 11 Feb, 2025.</sub>
