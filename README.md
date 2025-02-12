@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7715 days**.
 
-And here is a just a random fact -  **At the White House, president John Adams was said to be the first to display fireworks there**.
+And here is a just a random fact -  **Three consecutive strikes in bowling is called a turkey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Feb, 2025.</sub>
+<sub>Last updated by Github Actions on 12 Feb, 2025.</sub>
