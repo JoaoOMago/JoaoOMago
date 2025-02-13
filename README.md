@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7716 days**.
 
-And here is a just a random fact -  **Billiards used to be so popular at one time that cigarette cards were issued featuring players**.
+And here is a just a random fact -  **Polar bears can eat as much as ten percent of their body weight in less than one hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
