@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7716 days**.
+Here is a random fact about me - I have been on this planet for **7717 days**.
 
-And here is a just a random fact -  **There is a substance in the skin of the African clawed frog that helps in fighting infection**.
+And here is a just a random fact -  **The King Cobra has enough venom in its bite that it can kill up to 13 adults**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
