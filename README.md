@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7717 days**.
 
-And here is a just a random fact -  **There are more than 250,000 rivers in the United States, which amounts to 3.5 million miles of rivers**.
+And here is a just a random fact -  **The Planters Peanut Company mascot, Mr. Peanut, was created during a contest for schoolchildren in 1916**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
