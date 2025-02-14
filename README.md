@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7717 days**.
 
-And here is a just a random fact -  **4% of an apples is made up of minerals and vitamins, and over 80% is made up of water**.
+And here is a just a random fact -  **NASA scientists have concluded that the state of California is moving north and will collide with the state of Alaska in roughly 150 million years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 13 Feb, 2025.</sub>
+<sub>Last updated by Github Actions on 14 Feb, 2025.</sub>
