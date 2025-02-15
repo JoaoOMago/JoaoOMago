@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7718 days**.
 
-And here is a just a random fact -  **The country of Fiji is made up of 332 islands**.
+And here is a just a random fact -  **The word "comet" comes from the Greek word "kometes" meaning long hair and referring to the tail**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 14 Feb, 2025.</sub>
+<sub>Last updated by Github Actions on 15 Feb, 2025.</sub>
