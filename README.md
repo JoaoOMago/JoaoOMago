@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7720 days**.
 
-And here is a just a random fact -  **A crocodile can open and close its jaw but cannot move it side to side**.
+And here is a just a random fact -  **The first domain name ever registered was Symbolics.com on March 15, 1985.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
