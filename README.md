@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7721 days**.
 
-And here is a just a random fact -  **The American Kestrel hawk weighs only four ounces**.
+And here is a just a random fact -  **When the Pez mint dispenser was first introduced it was meant to replace the activity of smoking**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 17 Feb, 2025.</sub>
+<sub>Last updated by Github Actions on 18 Feb, 2025.</sub>
