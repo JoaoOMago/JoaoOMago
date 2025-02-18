@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7722 days**.
 
-And here is a just a random fact -  **A seagull can drink salt water because it has special glands that filter out the salt**.
+And here is a just a random fact -  **All the Krispy Kreme donut stores collectively could make a doughnut stack as high as the Empire State Building in only 2 minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
