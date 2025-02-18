@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7722 days**.
 
-And here is a just a random fact -  **Amazingly, goalies in the National Hockey League played without masks until the year 1959**.
+And here is a just a random fact -  **In order to scare away predators, Giant petrels, a type of seabird, throw up all over the intruder**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
