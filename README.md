@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7722 days**.
+Here is a random fact about me - I have been on this planet for **7723 days**.
 
-And here is a just a random fact -  **In 10 minutes, a hurricane releases more energy than all the world'snuclear weapons combined.**.
+And here is a just a random fact -  **On average, the Pentagon uses 666 rolls of toilet paper in one day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
