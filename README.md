@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7724 days**.
+Here is a random fact about me - I have been on this planet for **7725 days**.
 
-And here is a just a random fact -  **The longest engagement lasted 67 years, and the couple ended up marrying when they were 82 years old**.
+And here is a just a random fact -  **The glue on Israeli postage stamps is certified kosher**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
