@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7725 days**.
 
-And here is a just a random fact -  **Atari had to bury millions of unsold "E.T." game cartridges in a New Mexico desert landfill in 1982**.
+And here is a just a random fact -  **The United Parcel Service shipped the killer whale Keiko (star of Disney movie "Free Willy") from Mexico City to Newport, Oregon in 1998**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
