@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7726 days**.
 
-And here is a just a random fact -  **On average, a person has two million sweat glands**.
+And here is a just a random fact -  **One out of five people that eat ice cream binge on ice cream in the middle of the night. The person is usually between 18 - 24 years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
