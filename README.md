@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7726 days**.
 
-And here is a just a random fact -  **Romans, in the third century, believed that the lemon was an antidote for all poisons**.
+And here is a just a random fact -  **The first person to die in the electric chair was William Kemmler, an ax murderer from New York on August 6, 1890**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
