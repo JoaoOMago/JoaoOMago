@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7726 days**.
 
-And here is a just a random fact -  **The first person to die in the electric chair was William Kemmler, an ax murderer from New York on August 6, 1890**.
+And here is a just a random fact -  **American Airlines saved $40,000 in 1987 by eliminating 1 olive from each salad served in first-class**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
