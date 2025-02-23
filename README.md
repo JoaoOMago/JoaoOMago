@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7727 days**.
 
-And here is a just a random fact -  **Used in art the word "sfumato" refers to the subtle blending of an outline by gradually blending one tone into another**.
+And here is a just a random fact -  **The rhinoceros beetle can carry up to 850 times its weight on its back. This is equivalent to a person carrying over 50 mini-vans on their back**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
