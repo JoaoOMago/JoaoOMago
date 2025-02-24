@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7728 days**.
 
-And here is a just a random fact -  **From 1939 to 1942, there was a undersea post office in the Bahamas**.
+And here is a just a random fact -  **There are over 100 styles of BluBlocker sunglasses available on the market**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
