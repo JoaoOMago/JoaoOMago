@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7728 days**.
 
-And here is a just a random fact -  **During a typical human life span, the human heart will beat approximately 2.5 billion times**.
+And here is a just a random fact -  **The largest cultivated crop in the United States is corn**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
