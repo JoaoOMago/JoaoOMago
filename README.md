@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7728 days**.
 
-And here is a just a random fact -  **Some toothpastes and deodorants contain the same chemicals found in antifreeze**.
+And here is a just a random fact -  **Before 1859, baseball umpires were seated in padded chairs behind home plate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Feb, 2025.</sub>
+<sub>Last updated by Github Actions on 25 Feb, 2025.</sub>
