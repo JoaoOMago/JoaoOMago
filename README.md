@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7730 days**.
 
-And here is a just a random fact -  **Women are four times more likely to have foot problems than men**.
+And here is a just a random fact -  **There have been 191 coops in Bolivia since it became a sovereign country in 1825**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
