@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7732 days**.
 
-And here is a just a random fact -  **On average, Americans spend $1300 on utility bills annually**.
+And here is a just a random fact -  **Most snails are hermaphrodites, meaning they have both female and male reproductive organs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
