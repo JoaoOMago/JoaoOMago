@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7731 days**.
 
-And here is a just a random fact -  **In 1958, the United States Coast Guard off western Greenland measured the tallest known iceberg at five hundred and fifty feet**.
+And here is a just a random fact -  **The most popular place to burn candles in the house is the living room**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
