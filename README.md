@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7731 days**.
 
-And here is a just a random fact -  **To produce a dozen eggs, a hen has to eat about four pounds of feed**.
+And here is a just a random fact -  **A person that is struck by lightning has a greater chance of developing motor neurone disease**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
