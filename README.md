@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7731 days**.
 
-And here is a just a random fact -  **The average human has about 20 square feet of skin weighing about 6 pounds**.
+And here is a just a random fact -  **The city of Tokyo was originally called Edo**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
