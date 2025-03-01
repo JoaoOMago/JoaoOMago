@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7732 days**.
 
-And here is a just a random fact -  **The Chinese politician Mao Zedong refused to ever brush his teeth and instead just washed his mouth with tea**.
+And here is a just a random fact -  **The first telephone call from the White House was from Rutherford Hayes to Alexander Graham Bell**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
