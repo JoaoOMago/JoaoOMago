@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7733 days**.
 
-And here is a just a random fact -  **Annually 7 million tons of textiles and clothing is thrown out. Out of this, only 12% is used again or recycled**.
+And here is a just a random fact -  **The only animals that are capable of turning their heads 180 degrees are from the genus Galago, such as the Tarsier**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
