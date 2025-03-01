@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7733 days**.
 
-And here is a just a random fact -  **Sharks are immune to cancer**.
+And here is a just a random fact -  **The expression "Tying the Knot" comes from an old Roman custom where the brides clothes were tied up all in knots and the groom was supposed to untie the knots**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
