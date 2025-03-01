@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7733 days**.
 
-And here is a just a random fact -  **93% of all greeting cards are purchased by women**.
+And here is a just a random fact -  **In 1876, Maria Spelterina was the first woman to ever cross Niagara Falls on a high wire**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
