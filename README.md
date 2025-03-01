@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7732 days**.
+Here is a random fact about me - I have been on this planet for **7733 days**.
 
-And here is a just a random fact -  **The first television newscaster was Kolin Hager, who used to broadcast farm and weather reports in 1928**.
+And here is a just a random fact -  **There are some bananas that are red instead of yellow**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
