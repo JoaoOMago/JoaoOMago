@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7732 days**.
 
-And here is a just a random fact -  **In the Victoria era, red tulips were a declaration of love**.
+And here is a just a random fact -  **The only species of turtle that lives in the open ocean is the sea turtle**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
