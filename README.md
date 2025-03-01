@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7733 days**.
 
-And here is a just a random fact -  **The only animals that are capable of turning their heads 180 degrees are from the genus Galago, such as the Tarsier**.
+And here is a just a random fact -  **It would take 29 million years for a car travelling 100 miles per hour to reach the nearest star**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
