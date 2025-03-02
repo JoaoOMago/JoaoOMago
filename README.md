@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7733 days**.
 
-And here is a just a random fact -  **The green ring that is formed around the yolk of eggs that have been cooked too long is formed by the chemical reaction from the iron in the yolk and the sulphur in the white part of the egg**.
+And here is a just a random fact -  **The reason why golf balls have dimples on them is because it helps in the ball to move a farther distance by reducing drag**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Mar, 2025.</sub>
+<sub>Last updated by Github Actions on 02 Mar, 2025.</sub>
