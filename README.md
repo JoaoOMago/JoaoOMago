@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7734 days**.
 
-And here is a just a random fact -  **The elephant is the national animal of Thailand**.
+And here is a just a random fact -  **A one kilogram packet of sugar will have about 5 million grains of sugar**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
