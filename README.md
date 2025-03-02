@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7733 days**.
 
-And here is a just a random fact -  **Superman The Escape rollercoaster, located in California at Six Flags Magic Mountain, goes from 0 to 100 miles per hour in only 7 seconds**.
+And here is a just a random fact -  **Moscow was founded in 1147 by Yury Dolgoruky**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
