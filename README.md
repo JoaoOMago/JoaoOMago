@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7733 days**.
 
-And here is a just a random fact -  **The Pacific island of Tonga once issued a stamp that was banana shaped**.
+And here is a just a random fact -  **The longest punt return for a touchdown was 103 yards**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
