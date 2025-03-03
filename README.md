@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7735 days**.
 
-And here is a just a random fact -  **Frisbee got its name from William Russel Frisbee, who was a pie baker. He used to sell his pies in a thin tin pan, which had Frisbee written on it. When Walter Frederick Morrison thought of the idea of making saucer like disks to play catch, he visited the campus of Yale and noticed people there were using the pie pan to play catch so he therefore renamed his invention to Frisbee**.
+And here is a just a random fact -  **A chicken with red earlobes will produce brown eggs, and a chicken with white earlobes will produce white eggs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
