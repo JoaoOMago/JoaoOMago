@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7735 days**.
 
-And here is a just a random fact -  **2.5 cans of Spam are consumed every second in the United States**.
+And here is a just a random fact -  **Approximately 125 people die in the United States from an anaphylaxis to foods each year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
