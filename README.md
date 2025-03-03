@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7735 days**.
 
-And here is a just a random fact -  **No one in Greece has memorized all 158 verses**.
+And here is a just a random fact -  **The reason why bubble gum is pink is because the inventor only had pink colouring left. Ever since then, the colour of bubble gum has been predominantly pink**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
