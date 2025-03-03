@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7734 days**.
 
-And here is a just a random fact -  **Boxing champion Gene Tunney taught Shakespeare at Yale University**.
+And here is a just a random fact -  **Paul Hunn holds the record for the loudest burp, which was 118.1 decibels, which is as loud as a chainsaw**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
