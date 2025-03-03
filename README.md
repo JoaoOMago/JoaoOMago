@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7735 days**.
 
-And here is a just a random fact -  **Each honeycomb in Honeycomb cereal has seven holes**.
+And here is a just a random fact -  **The origins of the soldier term "G.I." is an abbreviation for "Government Issue," which was stamped on all government kits supplied to recruits in the US Army during World War II**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
