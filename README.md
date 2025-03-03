@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7735 days**.
 
-And here is a just a random fact -  **Unlike a frog a toad cannot jump**.
+And here is a just a random fact -  **Bank robber John Dillinger played professional baseball**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
