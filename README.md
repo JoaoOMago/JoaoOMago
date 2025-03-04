@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7736 days**.
 
-And here is a just a random fact -  **May babies are on average 200 grams heavier than babies born in other months**.
+And here is a just a random fact -  **Ivory soap slogan "99-44/100% Pure" was cleverly invented by Harley Proctor who with the help of chemists determined that Ivory soap was only 56/100 pure. Proctor simply subtracted 56 from 100 and came up with "99-44/100% Pure"**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
