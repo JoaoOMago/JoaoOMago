@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7736 days**.
 
-And here is a just a random fact -  **The largest ice cream sundae was made with 4,667 gallons of ice cream, was 12 feet high and had 7000 pounds of toppings on it. This was made in Anaheim, California in 1985**.
+And here is a just a random fact -  **The first human heart transplant happened on December 3, 1967. Unfortunately the patient only lived for eighteen days, succumbing in the end to pneumonia**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
