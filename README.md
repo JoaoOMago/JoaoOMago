@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7736 days**.
 
-And here is a just a random fact -  **One out of five people that eat ice cream binge on ice cream in the middle of the night. The person is usually between 18 - 24 years old**.
+And here is a just a random fact -  **Males account for 60% of toy injuries that occur in the U.S**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
