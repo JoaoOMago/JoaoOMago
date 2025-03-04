@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7736 days**.
 
-And here is a just a random fact -  **Mangos are valued for their reputation as an aphrodisiac in countries such as Guatemala and India**.
+And here is a just a random fact -  **Parma ham is only Parma ham if it is made in the Parma region of Italy. The British chain supermarket Asda, made and packaged its own "Parma ham" and was successfully sued by the real Parma ham people (Parma Ham Trade Association)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
