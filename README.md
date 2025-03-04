@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7736 days**.
 
-And here is a just a random fact -  **Women who are romance novel readers are reported to make love 74% more often with their partners than women who do not read romance novels.**.
+And here is a just a random fact -  **In an average lifetime, people spend four years traveling in cars and six months waiting for red light to turn green**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
