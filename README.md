@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7735 days**.
 
-And here is a just a random fact -  **Jewelers Tiffany & Co., based in New York, are responsible for making the Super Bowl trophy**.
+And here is a just a random fact -  **Armadillos can be housebroken**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
