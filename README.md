@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7736 days**.
 
-And here is a just a random fact -  **The average amount of time spent kissing for a person in a lifetime is 20,160 minutes**.
+And here is a just a random fact -  **Olives, which grow on trees, were first cultivated 5,000 years ago in Syria**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
