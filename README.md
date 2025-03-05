@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7736 days**.
 
-And here is a just a random fact -  **Pucks hit by hockey sticks have reached speeds of up to 150 miles per hour**.
+And here is a just a random fact -  **More than 100 professional cyclists participate in the Tour de France every year and the race is over 3,200 kilometers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 04 Mar, 2025.</sub>
+<sub>Last updated by Github Actions on 05 Mar, 2025.</sub>
