@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7736 days**.
 
-And here is a just a random fact -  **In the first century, people used to drink goats milk to sweeten their breath**.
+And here is a just a random fact -  **Chocolate can be fatal to dogs. Chocolate contains a chemical theobromine, which is poisonous to dogs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
