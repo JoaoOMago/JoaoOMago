@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7737 days**.
 
-And here is a just a random fact -  **An apple, potato, and onion all taste the same if you eat them with your nose plugged. They all taste sweet**.
+And here is a just a random fact -  **The list of ingredients that make up lipstick include fish scales**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
