@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7737 days**.
 
-And here is a just a random fact -  **The word Nike comes from Greek Mythology. Nike is the goddess of victory and was often depicted as a small winged figure whom the goddess Athene carried**.
+And here is a just a random fact -  **Queen Lydia Liliuokalani was the last reigning monarch of the Hawaiian Islands. She was also the only Queen the United States ever had**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
