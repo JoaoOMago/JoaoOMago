@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7736 days**.
 
-And here is a just a random fact -  **The most reproduced image in the world is Mickey Mouse, which can be found on over 7,500 different items**.
+And here is a just a random fact -  **There are three golf balls sitting on the moon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
