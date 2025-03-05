@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7736 days**.
 
-And here is a just a random fact -  **The largest employer in the world is the Indian railway system in India, employing over 1.6 million people**.
+And here is a just a random fact -  **After 8 months, babies are more likely to get a diaper rash**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
