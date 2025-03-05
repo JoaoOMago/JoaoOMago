@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7736 days**.
 
-And here is a just a random fact -  **There is a type of coffin made that can be used as a wine rack or picnic table before its final use**.
+And here is a just a random fact -  **On average, 42,000 balls are used and 650 matches are played at the annual Wimbledon tennis tournament**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
