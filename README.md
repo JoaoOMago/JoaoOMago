@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7737 days**.
 
-And here is a just a random fact -  **First novel ever written on a typewriter: Tom Sawyer**.
+And here is a just a random fact -  **The Arctic Ocean covers an area of about 14,056,000 sq miles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
