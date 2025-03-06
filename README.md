@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7738 days**.
 
-And here is a just a random fact -  **The smallest will ever written was 3.8 cm in diameter. It had 40 words written on it and was signed by two witnesses**.
+And here is a just a random fact -  **Women are twice as likely to be diagnosed with depression than men in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
