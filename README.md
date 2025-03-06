@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7738 days**.
 
-And here is a just a random fact -  **The snow leopard protects itself from extreme cold when it sleeps by wrapping its 3-foot-long tail around its nose**.
+And here is a just a random fact -  **The Uape Indians, who live in the Amazon, mix the ashes of their recently cremated relatives with alcohol, then all members of the family drink the mix with fond memories of the deceased**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
