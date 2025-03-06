@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7737 days**.
+Here is a random fact about me - I have been on this planet for **7738 days**.
 
-And here is a just a random fact -  **In one day, the Tootsie Roll Industry makes over 16 million lollipops**.
+And here is a just a random fact -  **The first television newscaster was Kolin Hager, who used to broadcast farm and weather reports in 1928**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
