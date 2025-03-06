@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7738 days**.
 
-And here is a just a random fact -  **The first open heart surgery was performed by Dr. Daniel Hall Williams in 1893**.
+And here is a just a random fact -  **Annually, fires that occur at home kill more Americans than all natural disasters combined**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
