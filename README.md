@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7738 days**.
 
-And here is a just a random fact -  **If you were standing on Mercury, the Sun would appear 2.5 times larger than it appears from Earth**.
+And here is a just a random fact -  **Bill Gates house was partially designed using a Macintosh computer. new**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
