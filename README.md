@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7737 days**.
 
-And here is a just a random fact -  **In ancient Egypt, the only person who was allowed to wear cotton was the High Priest**.
+And here is a just a random fact -  **Painting a house yellow or having a yellow trim helps in selling a house faster**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Mar, 2025.</sub>
+<sub>Last updated by Github Actions on 06 Mar, 2025.</sub>
