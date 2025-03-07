@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7739 days**.
 
-And here is a just a random fact -  **Club Direct, a travel insurance company in Britain, provides insurance plans for protection from falling coconuts**.
+And here is a just a random fact -  **The word breakfast was coined due to the fact that after sleeping for hours, we are "breaking our fast."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
