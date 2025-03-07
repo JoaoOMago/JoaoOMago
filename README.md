@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7738 days**.
 
-And here is a just a random fact -  **The largest volcano known is on Mars: Olympus Mons, 370 miles wide and 79,000 feet high, is almost three times higher than Mount Everest**.
+And here is a just a random fact -  **In Ivrea, Italy, thousands of citizens celebrate the beginning of Lent by throwing oranges at one another**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
