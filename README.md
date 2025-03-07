@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7739 days**.
 
-And here is a just a random fact -  **98% of brown bears in the United States are in Alaska**.
+And here is a just a random fact -  **The actor who played the T-1000 in Terminator 2 (Robert Patrick) and the lead singer of Filter are brothers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
