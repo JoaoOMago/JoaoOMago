@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7738 days**.
 
-And here is a just a random fact -  **There is a restaurant in Stockholm that only offers all-garlic products. They even have a garlic cheesecake**.
+And here is a just a random fact -  **The liquid inside young coconuts can be used as substitute for blood plasma**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 06 Mar, 2025.</sub>
+<sub>Last updated by Github Actions on 07 Mar, 2025.</sub>
