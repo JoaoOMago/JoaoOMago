@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7739 days**.
 
-And here is a just a random fact -  **The heart of an adult giraffe weighs on average 26 pounds**.
+And here is a just a random fact -  **There is a muppet named Kami that appears on the South African version of the T.V. show "Sesame Street" that is HIV-positive**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
