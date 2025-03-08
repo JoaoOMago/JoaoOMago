@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7740 days**.
 
-And here is a just a random fact -  **Some birds have been know to put ants into their feathers because the ants squirt formic acid, which kills parasites**.
+And here is a just a random fact -  **Most snakes have six rows of teeth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
