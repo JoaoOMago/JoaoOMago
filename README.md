@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7740 days**.
 
-And here is a just a random fact -  **To make one raindrop of water, it takes approximately a million cloud droplets**.
+And here is a just a random fact -  **The Hubble telescope is so powerful that it is like pointing a beam of light at a dime that is two hundred miles away.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
