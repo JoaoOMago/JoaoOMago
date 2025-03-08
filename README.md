@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7740 days**.
 
-And here is a just a random fact -  **The movie "Chicken Run" made in 2,000 had the most plasticine used in an animated movie. They used 2,380 kg of plasticine for the movie**.
+And here is a just a random fact -  **The General Lee cars used in the popular show The Dukes of Hazards were 1969 Dodge Chargers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
