@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7740 days**.
 
-And here is a just a random fact -  **Only two people signed the Declaration of Independence on July 4th, JohnHancock and Charles Thomson. Most of the rest signed on August 2, butthe last signature wasn't added until 5 years later.**.
+And here is a just a random fact -  **On a ship a toilet is called a head**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
