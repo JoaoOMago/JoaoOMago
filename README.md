@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7739 days**.
 
-And here is a just a random fact -  **No NFL team which plays its home games in a domed stadium has ever won a Superbowl**.
+And here is a just a random fact -  **Four billion pounds of watermelon were grown in the United States in 1999**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
