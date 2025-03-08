@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7740 days**.
 
-And here is a just a random fact -  **Baby robins eat 14 feet of earthworms every day**.
+And here is a just a random fact -  **In Greece, the climate is so warm that many of the cinemas do not even have roofs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
