@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7739 days**.
 
-And here is a just a random fact -  **The papaya tree is known as "the medicinal tree" in some cultures because it?s seeds and leaves have been used as ingredients in different medicines**.
+And here is a just a random fact -  **Shark cartilage has been used to make artificial skin for human burn victims**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
