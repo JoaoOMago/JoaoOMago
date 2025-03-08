@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7740 days**.
 
-And here is a just a random fact -  **People whose mouth has a narrow roof are more likely to snore. This is because they have less oxygen going through their nose**.
+And here is a just a random fact -  **Baby robins eat 14 feet of earthworms every day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
