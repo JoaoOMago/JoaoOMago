@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7741 days**.
 
-And here is a just a random fact -  **The Atlantic Ocean is saltier than the Pacific Ocean**.
+And here is a just a random fact -  **The reason why the Mexican sombrero hat is so wide is to provide shade for the entire body**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
