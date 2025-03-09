@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7741 days**.
 
-And here is a just a random fact -  **On average, you would need 12.5 gallons of milk to make one gallon of ice cream**.
+And here is a just a random fact -  **Boeing completed more than 15,000 hours of wind-tunnel testing on the first 747**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
