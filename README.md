@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7741 days**.
 
-And here is a just a random fact -  **Canada has more donut shops per capita than the United States**.
+And here is a just a random fact -  **On average, you would need 12.5 gallons of milk to make one gallon of ice cream**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
