@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7740 days**.
 
-And here is a just a random fact -  **Jupiter is the fastest rotating planet, which can complete one revolution in less than ten hours**.
+And here is a just a random fact -  **The turkey was once nominated to be the official bird of the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
