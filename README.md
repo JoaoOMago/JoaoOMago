@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7742 days**.
 
-And here is a just a random fact -  **The Basenji dog is the only dog that is not able to bark**.
+And here is a just a random fact -  **TWIX Caramel Cookie Bars were first introduced in 1979**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
