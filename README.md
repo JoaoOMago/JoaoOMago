@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7742 days**.
 
-And here is a just a random fact -  **Fat is important for the development of children and normal growth**.
+And here is a just a random fact -  **In the year 2000, there were approximately 11,000 injuries that were treated in a hospital in the U.S. that resulted from fireworks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
