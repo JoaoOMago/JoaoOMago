@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7741 days**.
 
-And here is a just a random fact -  **Tug of War was an Olympic event between 1900 and 1920**.
+And here is a just a random fact -  **In the United States, poisoning is the fourth leading cause of death among children**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
