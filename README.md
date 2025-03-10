@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7742 days**.
 
-And here is a just a random fact -  **The purpose of tonsils is to destroy foreign substances that are swallowed or breathed in**.
+And here is a just a random fact -  **The Arctic Ocean covers an area of about 14,056,000 sq miles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
