@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7743 days**.
 
-And here is a just a random fact -  **In his youth, United States president George W. Bush used to play for the Midland (Texas) Central Little League. He played the position of the catcher**.
+And here is a just a random fact -  **In China, people eat a bar of chocolate for every 1,000 chocolate bars eaten by the British**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
