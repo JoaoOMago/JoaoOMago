@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7742 days**.
 
-And here is a just a random fact -  **Finland has 187,888 lakes and 179,584 islands**.
+And here is a just a random fact -  **Coconuts kill more people in the world than sharks do**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Mar, 2025.</sub>
+<sub>Last updated by Github Actions on 11 Mar, 2025.</sub>
