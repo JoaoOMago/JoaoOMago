@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7742 days**.
 
-And here is a just a random fact -  **In the United States there are about three million honey producing colonies**.
+And here is a just a random fact -  **Octopus and squid are thought to be the most intelligent of all invertebrates**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
