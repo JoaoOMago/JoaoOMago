@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7742 days**.
 
-And here is a just a random fact -  **Even though a polar bears fur looks white it is actually colourless and is made with hollow tubes. The reason the bear looks white is because the rough inner surface of the tubes make light scatter and reflect at many different angles which gives the white appearance**.
+And here is a just a random fact -  **Alcohol beverages have all 13 minerals necessary for human life**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
