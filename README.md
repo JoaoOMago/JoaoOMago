@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7743 days**.
 
-And here is a just a random fact -  **The average American drinks 400 glasses of milk in a year**.
+And here is a just a random fact -  **Macadamia nuts are not sold in their shells because it takes 300 pounds per square inch of pressure to break the shell**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
