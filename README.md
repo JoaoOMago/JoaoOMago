@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7743 days**.
 
-And here is a just a random fact -  **Painting a house yellow or having a yellow trim helps in selling a house faster**.
+And here is a just a random fact -  **The Pentagon, in Arlington, Virginia, has twice as many bathrooms as is necessary. When it was built in the 1940s, the state of Virginia still had segregation laws requiring separate toilet facilities for blacks and whites**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
