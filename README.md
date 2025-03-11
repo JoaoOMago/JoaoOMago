@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7743 days**.
 
-And here is a just a random fact -  **Anise is the scent on the artificial rabbit that is used in greyhound races**.
+And here is a just a random fact -  **On average, a car driver will swear or blashpheme 32,025 times in their lifetime while driving**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
