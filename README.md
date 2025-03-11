@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7743 days**.
 
-And here is a just a random fact -  **On average, Americans spend five times more of their time in their cars than they do on vacation**.
+And here is a just a random fact -  **In the United States, approximately 135 million cars travel every day on the streets, roads, and interstates.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
