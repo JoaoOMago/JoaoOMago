@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7744 days**.
 
-And here is a just a random fact -  **The word "limelight" that is used in theatre to refer to the performers on the stage originated because before electricity was available lime was burned in a lamp, which created a white light that was directed at the performers**.
+And here is a just a random fact -  **Pollsters say that 40 percent of dog and cat owners carry pictures of the pets in their wallets**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
