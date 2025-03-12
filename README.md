@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7744 days**.
 
-And here is a just a random fact -  **"Bookkeeper" is the only word in English language with three consecutive double letters**.
+And here is a just a random fact -  **A world record 328 pound ovarian cyst was removed from a woman in Galveston, Texas, in 1905. updated**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
