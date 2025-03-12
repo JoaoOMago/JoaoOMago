@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7744 days**.
 
-And here is a just a random fact -  **In the United States, approximately 135 million cars travel every day on the streets, roads, and interstates.**.
+And here is a just a random fact -  **Studies have shown that classical music helps cows produce more milk**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
