@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7744 days**.
 
-And here is a just a random fact -  **In one day, a human sheds 10 billion skin flakes. This amounts to approximately two kilograms in a year**.
+And here is a just a random fact -  **Before toilet paper was invented, French royalty wiped their bottoms with fine linen**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
