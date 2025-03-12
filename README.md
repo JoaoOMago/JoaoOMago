@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7743 days**.
 
-And here is a just a random fact -  **Diabetes is the fourth leading cause of death in the U.S., accounting for about 180,000 deaths per year**.
+And here is a just a random fact -  **The longest bout of sneezing recorded was by Donna Griffith. It began in January 13 1981 and continued until September 16 1983 and lasted for 978 days**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
