@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7743 days**.
 
-And here is a just a random fact -  **At 120 miles per hour, a Formula One car generates so much downforce that it can drive upside down on the roof of a tunnel**.
+And here is a just a random fact -  **The most popular brand of raisins is Sunmaid**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
