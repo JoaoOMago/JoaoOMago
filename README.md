@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7743 days**.
 
-And here is a just a random fact -  **A cesium atom in an atomic clock that beats over nine billion times a second.**.
+And here is a just a random fact -  **Wham-O manufactured twenty-thousand hula-hoops a day at the peak of hula-hoop popularity in 1958**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
