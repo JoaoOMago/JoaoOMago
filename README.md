@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7745 days**.
 
-And here is a just a random fact -  **One tree can filter up to sixty pounds of pollutants from the air each year.**.
+And here is a just a random fact -  **The ruby red slippers in the movie "The Wizard of Oz" were sold off at an auction for $660,000**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
