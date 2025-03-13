@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7745 days**.
 
-And here is a just a random fact -  **Boxing champion Gene Tunney taught Shakespeare at Yale University**.
+And here is a just a random fact -  **The longest chapter in the Bible is Psalm 119, which is 176 verses**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
