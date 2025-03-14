@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7746 days**.
 
-And here is a just a random fact -  **If you keep a Goldfish in the dark room, it will eventually turn white**.
+And here is a just a random fact -  **The first domain name ever registered was Symbolics.com on March 15, 1985.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
