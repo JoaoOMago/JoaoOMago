@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7746 days**.
 
-And here is a just a random fact -  **The largest known hailstone to have fallen was in Germany in 1925, which weighed close to four and a half pounds.**.
+And here is a just a random fact -  **Turkeys can have heart attacks. When the Air Force was conducting test runs and breaking the sound barrier, fields of turkeys dropped dead because of heart attacks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
