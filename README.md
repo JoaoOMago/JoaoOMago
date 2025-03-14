@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7745 days**.
 
-And here is a just a random fact -  **In 1810, Peter Durand invented the tin can for preserving food**.
+And here is a just a random fact -  **A can of Pepsi has 41 grams of sugar. This amount to about seven teaspoons of sugar**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
