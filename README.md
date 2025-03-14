@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7746 days**.
 
-And here is a just a random fact -  **Most fleas do not live past a year old**.
+And here is a just a random fact -  **Mules have one horse and one donkey for a parent**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
