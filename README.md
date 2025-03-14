@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7745 days**.
 
-And here is a just a random fact -  **The citric acid found in lemon juice is said to be able to dissolve a pearl**.
+And here is a just a random fact -  **In 2002, the most popular boat name in the U.S. was Liberty**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
