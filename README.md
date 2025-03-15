@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7746 days**.
 
-And here is a just a random fact -  **Quality standards for pasta were set in the 13th century by the Pope**.
+And here is a just a random fact -  **Each honeycomb in Honeycomb cereal has seven holes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
