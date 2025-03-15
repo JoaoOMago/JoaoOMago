@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7746 days**.
 
-And here is a just a random fact -  **According to Scandinavian traditions, if a boy and girl eat from the same loaf of bread, they are bound to fall in love**.
+And here is a just a random fact -  **The eight most popular foods to cause food allergies are: milk, eggs, wheat, peanuts, soy, tree nuts, fish, and shellfish**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
