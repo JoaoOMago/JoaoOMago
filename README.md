@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7747 days**.
 
-And here is a just a random fact -  **The designated instrument for the city of Detroit is the accordion**.
+And here is a just a random fact -  **Bill Bowerman, the co-founder of the shoe company Nike, got his first shoe idea after staring at a waffle iron. This gave him the idea of using squared spikes to make the shoes lighter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
