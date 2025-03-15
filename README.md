@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7747 days**.
 
-And here is a just a random fact -  **Over 4.5 billion sticks have Trident gum have been chewed. If the stick of gum were laid out end to end they could circle the globe approximately 1.8 times**.
+And here is a just a random fact -  **Centuries ago in India, a person could get their nose chopped off for breaking the law**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
