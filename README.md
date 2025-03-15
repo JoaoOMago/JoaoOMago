@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7746 days**.
 
-And here is a just a random fact -  **A rose imprint that was fossilized in a slate was discovered in Florisant, Colorado, which is said to be thirty-five million years old**.
+And here is a just a random fact -  **India used to be the richest country in the world until the British invasion in the early 17th Century**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
