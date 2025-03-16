@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7748 days**.
 
-And here is a just a random fact -  **The first television broadcast of the Oscars took place in 1953, hosted by Bob Hope on NBC**.
+And here is a just a random fact -  **A small drip from a faucet can waste up to 50 gallons of water daily, which is enough water to run a dishwasher twice on a full cycle**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
