@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7748 days**.
 
-And here is a just a random fact -  **In October 1973, Swedish sweet maker Roland Ohisson of Falkenberg was buried in a coffin made of nothing but chocolate**.
+And here is a just a random fact -  **The coliseum in Rome was used regularly for about 400 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
