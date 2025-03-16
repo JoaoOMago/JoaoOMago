@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7748 days**.
 
-And here is a just a random fact -  **In an average lifetime, people spend four years traveling in cars and six months waiting for red light to turn green**.
+And here is a just a random fact -  **Over 40 million Americans have chronic bad breath**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
