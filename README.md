@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7748 days**.
 
-And here is a just a random fact -  **Wood frogs can be frozen solid and then thawed, and continue living. They use the glucose in their body to protect their vital organs while they are in a frozen state**.
+And here is a just a random fact -  **A meteor has only destroyed one satellite, which was the European Space Agency's Olympus in 1993.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
