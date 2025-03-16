@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7747 days**.
 
-And here is a just a random fact -  **In the U.S. there is, on average, three sex change operations per day**.
+And here is a just a random fact -  **Before the fur trade had started in Canada, it was estimated that there were over 6 million beavers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
