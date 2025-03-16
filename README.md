@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7747 days**.
+Here is a random fact about me - I have been on this planet for **7748 days**.
 
-And here is a just a random fact -  **Atlantic salmon can jump as high as 4.5 meters out of the water**.
+And here is a just a random fact -  **There are only four words in the English language which end in**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
