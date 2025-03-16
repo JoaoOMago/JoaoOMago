@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7748 days**.
 
-And here is a just a random fact -  **One of the most dangerous insect in the world is the common housefly. They carry and transmit more diseases than any other animal in the world**.
+And here is a just a random fact -  **When the are in danger, kangaroos will beat the ground loudly with their hind feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
