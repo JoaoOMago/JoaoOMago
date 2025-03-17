@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7748 days**.
+Here is a random fact about me - I have been on this planet for **7749 days**.
 
-And here is a just a random fact -  **In 1976, a Los Angeles secretary named Jannene Swift officially married a fifty pound rock. More than twenty people witnessed the ceremony**.
+And here is a just a random fact -  **The world camel population is close to 19 million**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
