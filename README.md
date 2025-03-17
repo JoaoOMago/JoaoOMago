@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7748 days**.
 
-And here is a just a random fact -  **Our eyes are always the same size from birth, but our nose and ears. never stop growing**.
+And here is a just a random fact -  **Singer Billy Joel tried to commit suicide when he was 21 by drinking furniture polish**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
