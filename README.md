@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7749 days**.
 
-And here is a just a random fact -  **The blue whale is the loudest animal on the earth. Its whistle can reach up to 188 decibels**.
+And here is a just a random fact -  **To lose one pound of fat, a person has to burn approximately 3,500 calories**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
