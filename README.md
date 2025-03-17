@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7748 days**.
 
-And here is a just a random fact -  **Alexandre Gustave Eiffel, the man who designed the Eiffel Tower, also designed the inner structure of the Statue of Liberty in New York Harbour**.
+And here is a just a random fact -  **American Airlines saved $40,000 in 1987 by eliminating 1 olive from each salad served in first-class**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
