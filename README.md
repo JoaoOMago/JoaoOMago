@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7750 days**.
 
-And here is a just a random fact -  **In the United States, six tubs of Cool Whip, a brand of whipping cream, are sold every second**.
+And here is a just a random fact -  **The Great White Shark can grow to be more than twenty feet long and can weigh approximately 4,000 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
