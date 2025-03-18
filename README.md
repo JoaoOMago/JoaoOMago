@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7750 days**.
 
-And here is a just a random fact -  **It would take about fourteen and half million notes of currency to build a mile high stack**.
+And here is a just a random fact -  **The laundry detergent Tide, has a market share of about forty percent market**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
