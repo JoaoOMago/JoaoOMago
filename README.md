@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7751 days**.
 
-And here is a just a random fact -  **The smallest frog is the "Brazilian baby frog", which is smaller than a dime**.
+And here is a just a random fact -  **In 1983, a Japanese artist, Tadahiko Ogawa, made a copy of the Mona Lisa completely out of ordinary toast**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
