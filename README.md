@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7751 days**.
 
-And here is a just a random fact -  **Only one out of every three people wash their hands when leaving a public bathroom**.
+And here is a just a random fact -  **Honorificabilitudinitatibus is the longest English word that consists strictly of alternating consonants and vowels**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
