@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7751 days**.
 
-And here is a just a random fact -  **Over 100,000 birds and sea animals are killed every year due to plastic garbage**.
+And here is a just a random fact -  **When Kleenex was first introduced to the market in 1924, it was marketed as a make up or cold cream remover**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
