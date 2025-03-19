@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7750 days**.
 
-And here is a just a random fact -  **The 1988 move "Big" which was directed by Penny Marshall was the first movie by a female director to gross over $100 million domestically**.
+And here is a just a random fact -  **Construction workers hard hats were first invented and used in the building of the Hoover Dam in 1933.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
