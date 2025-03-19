@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7751 days**.
 
-And here is a just a random fact -  **Astronauts get taller when they are in space**.
+And here is a just a random fact -  **The capital of Vermont, Montpelier is the only state capital in the United States that does not have a McDonalds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
