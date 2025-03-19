@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7750 days**.
+Here is a random fact about me - I have been on this planet for **7751 days**.
 
-And here is a just a random fact -  **In 1998, a law passed in the U.S. state of Virginia allows drivers to keep their road kill, as long as they report it within 12 hours. updated**.
+And here is a just a random fact -  **The average four year-old child asks over four hundred questions a day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
