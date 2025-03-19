@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7750 days**.
 
-And here is a just a random fact -  **In the 1920's, Q-Tips were invented by Leo Gerstenzang who got the idea after watching his wife clean their baby's ears with cotton stuck onto a toothpick.**.
+And here is a just a random fact -  **215 jeans can be made with one bale of cotton**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 18 Mar, 2025.</sub>
+<sub>Last updated by Github Actions on 19 Mar, 2025.</sub>
