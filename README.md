@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7750 days**.
 
-And here is a just a random fact -  **Sharks are so powerful that their bite can generate a force of up to 18 tons per square inch**.
+And here is a just a random fact -  **During WWII, because a lot of players were called to duty, the Pittsburgh Steelers and Philadelphia Eagles combined to become The Steagles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
