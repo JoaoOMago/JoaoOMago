@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7752 days**.
 
-And here is a just a random fact -  **In the 13th century, quality standards for paste were assigned by the Pope**.
+And here is a just a random fact -  **The first company to mass produce teddy bears was the Ideal Toy Company**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
