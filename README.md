@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7751 days**.
 
-And here is a just a random fact -  **The sport Lacrosse was initially played by Native American Indians. They played the sport to prepare for war**.
+And here is a just a random fact -  **Before 1928, yo-yos used to be called bandalores in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
