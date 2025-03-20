@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7752 days**.
 
-And here is a just a random fact -  **The first time there was an instance where they had a separate toilet for women and men was in 1739 at a ball in Paris**.
+And here is a just a random fact -  **For more than 3,000 years, Carpenter ants have been used to close wounds in India, Asia and South America**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
