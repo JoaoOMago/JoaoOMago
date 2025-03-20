@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7752 days**.
 
-And here is a just a random fact -  **The CIA has made a disk camera that is as big as a quarter. This gadget can take many pictures at a time when the disk is opened.**.
+And here is a just a random fact -  **The first time there was an instance where they had a separate toilet for women and men was in 1739 at a ball in Paris**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
