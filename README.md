@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7751 days**.
 
-And here is a just a random fact -  **The theme song of the Harlem Globetrotters is "Sweet Georgia Brown."**.
+And here is a just a random fact -  **A study concludes that kids who snore do poorly in school**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
