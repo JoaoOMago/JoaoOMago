@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7751 days**.
 
-And here is a just a random fact -  **A headache and inflammatory pain can be reduced by eating 20 tart cherries**.
+And here is a just a random fact -  **Hair will fall out faster on a person that is on a crash diet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
