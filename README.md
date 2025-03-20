@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7751 days**.
+Here is a random fact about me - I have been on this planet for **7752 days**.
 
-And here is a just a random fact -  **Approximately two gallons of water are used to brush your teeth**.
+And here is a just a random fact -  **Every photograph of the first American atomic bomb detonation was taken by Harold Edgerton**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
