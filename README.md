@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7752 days**.
 
-And here is a just a random fact -  **The biggest candy eaters are the Dutch, who average 65 pounds of candy per person in a year**.
+And here is a just a random fact -  **The CIA has made a disk camera that is as big as a quarter. This gadget can take many pictures at a time when the disk is opened.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
