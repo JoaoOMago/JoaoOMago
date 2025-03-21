@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7753 days**.
 
-And here is a just a random fact -  **31% of employees skip lunch entirely**.
+And here is a just a random fact -  **There are two credit cards for every person in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
