@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7752 days**.
 
-And here is a just a random fact -  **The Arctic Ocean covers an area of about 14,056,000 sq miles**.
+And here is a just a random fact -  **American actor Jack Nicholson, and American singer Bobby Darrin were raised believing their grandmothers were their mothers and their mothers were their older sisters**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
