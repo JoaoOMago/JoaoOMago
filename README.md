@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7753 days**.
 
-And here is a just a random fact -  **The cigarette lighter was invented before the match.**.
+And here is a just a random fact -  **According to psychologists, the shoe and the foot are the most common sources of sexual fetishism in Western society**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
