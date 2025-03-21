@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7752 days**.
 
-And here is a just a random fact -  **During the Gold Rush in 1849, some people paid as much as $100 for a simple glass of water**.
+And here is a just a random fact -  **While digging, an Armadillo can hold its breath for up to six minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
