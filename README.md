@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7753 days**.
 
-And here is a just a random fact -  **In Britain, there are approximately 50,000 pubs with 17,000 different names**.
+And here is a just a random fact -  **The song "Strawberry Fields Forever" sung by the Beatles refers to an orphanage located in Liverpool**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
