@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7752 days**.
 
-And here is a just a random fact -  **The word Nike comes from Greek Mythology. Nike is the goddess of victory and was often depicted as a small winged figure whom the goddess Athene carried**.
+And here is a just a random fact -  **Germany produces more than 5,000 varieties of beer and has about 1,300 breweries in country**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
