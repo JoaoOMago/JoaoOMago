@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7753 days**.
 
-And here is a just a random fact -  **The Ice Cream cone was invented in the summer of 1904 by Charles Menches. It made its debut one year later at the St. Louis World Fair**.
+And here is a just a random fact -  **There are 500,000 detectable earthquakes in the world each year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
