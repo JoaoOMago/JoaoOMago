@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7754 days**.
 
-And here is a just a random fact -  **Atari had to bury millions of unsold "E.T." game cartridges in a New Mexico desert landfill in 1982**.
+And here is a just a random fact -  **St. Patrick explained the Holy Trinity to King Laoghaire, using the shamrock to illustrate the trinity**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
