@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7753 days**.
 
-And here is a just a random fact -  **There is enough concrete in the Hoover Dam to pave a two lane highway from San Francisco to New York**.
+And here is a just a random fact -  **Another word to refer to old age is senectitude**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
