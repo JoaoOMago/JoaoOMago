@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7754 days**.
 
-And here is a just a random fact -  **The expression "Tying the Knot" comes from an old Roman custom where the brides clothes were tied up all in knots and the groom was supposed to untie the knots**.
+And here is a just a random fact -  **Approximately one out of four injuries by athletes involve the wrist and hand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
