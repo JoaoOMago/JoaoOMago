@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7754 days**.
 
-And here is a just a random fact -  **The music band UB40 got its name from an unemployment form in England**.
+And here is a just a random fact -  **The human body makes anywhere from 1 to 3 pints of saliva every 24 hours**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 22 Mar, 2025.</sub>
+<sub>Last updated by Github Actions on 23 Mar, 2025.</sub>
