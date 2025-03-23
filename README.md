@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7755 days**.
 
-And here is a just a random fact -  **A dentist from Buffalo New York named Alfred P. Southwick invented the electric chair.**.
+And here is a just a random fact -  **Cat's urine glows under a blacklight.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
