@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7755 days**.
 
-And here is a just a random fact -  **The amount of aluminum that Americans throw out in three months is enough to rebuild all American commercial planes**.
+And here is a just a random fact -  **In 1976, a Los Angeles secretary named Jannene Swift officially married a fifty pound rock. More than twenty people witnessed the ceremony**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
