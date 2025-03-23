@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7755 days**.
 
-And here is a just a random fact -  **The United States has paved enough roads to circle the Earth over 150 times.**.
+And here is a just a random fact -  **The reason why locusts swarm are because when they are in groups, a "hot-spot" behind their hind legs is stimulated, which in turn causes their destructive nature. A large swarm of locusts can eat eighty thousand tons of corn in a day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
