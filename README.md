@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7755 days**.
 
-And here is a just a random fact -  **Every year, Burger King restaurants prepare over 950,000 pounds of bacon for their breakfast customers**.
+And here is a just a random fact -  **James Bond is also known as Mr. Kiss-Kiss-Bang-Bang**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
