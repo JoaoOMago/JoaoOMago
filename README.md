@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7755 days**.
 
-And here is a just a random fact -  **Over half the textile fibers that are used in the world are cotton**.
+And here is a just a random fact -  **The temperature of milk when it is coming out of a cow is about 36 degrees celsius**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
