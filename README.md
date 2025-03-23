@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7754 days**.
 
-And here is a just a random fact -  **Maine is the only state whose name is just one syllable**.
+And here is a just a random fact -  **Forty percent of Americans iron their clothes while wearing their underwear or being completely naked**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
