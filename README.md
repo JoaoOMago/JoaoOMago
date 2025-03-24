@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7756 days**.
 
-And here is a just a random fact -  **In China, pancakes are generally served as side dishes. They are stuffed with meat, bean sprouts, and other vegetables**.
+And here is a just a random fact -  **96% of people put the peanut butter on first when making a peanut butter and jelly sandwich**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
