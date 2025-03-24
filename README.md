@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7756 days**.
 
-And here is a just a random fact -  **The ancient Greeks had a fascination with the planet Mars. They attributed the planet to Ares, their god of war, because of its red colour**.
+And here is a just a random fact -  **The only married couple to fly together in space were Jan Davis and Mark Lee, who flew aboard the Endeavor space shuttle from Sept 12-20, 1992**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
