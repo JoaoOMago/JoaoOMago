@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7756 days**.
 
-And here is a just a random fact -  **There are approximately 60 muscles in the face**.
+And here is a just a random fact -  **Pixie, a Siberian Husky, gave birth to 7 puppies, one of which was bright green**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
