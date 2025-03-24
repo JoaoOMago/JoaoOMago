@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7755 days**.
+Here is a random fact about me - I have been on this planet for **7756 days**.
 
-And here is a just a random fact -  **Cheetahs are the fastest land animal and can reach speeds up to 72mph**.
+And here is a just a random fact -  **Lions cannot roar until they reach the age of two.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
