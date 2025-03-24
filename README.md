@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7755 days**.
 
-And here is a just a random fact -  **The Sears Tower in Chicago contains enough steel to build 50,000 automobiles**.
+And here is a just a random fact -  **The windiest place in the world is Mount Washington, New Hampshire, USA. The highest wind was on April 12, 1934 when it reached 231 mph.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
