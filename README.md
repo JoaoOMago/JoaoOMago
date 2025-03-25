@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7756 days**.
 
-And here is a just a random fact -  **Canada has more donut shops per capita than the United States**.
+And here is a just a random fact -  **In 1988, the largest ice cream sundae in history was made. It was made in Edmonton, Alberta, Canada, and weighed in at over 24 tons**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
