@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7757 days**.
 
-And here is a just a random fact -  **In the United States, six tubs of Cool Whip, a brand of whipping cream, are sold every second**.
+And here is a just a random fact -  **Bo Jackson set a Monday Night Football record by rushing for 222 yards in one game against the Seattle Seahawks, including a 91-yard TD run**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
