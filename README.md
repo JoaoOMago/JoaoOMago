@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7757 days**.
 
-And here is a just a random fact -  **The Chihuahua was named after the Mexican state where they were discovered**.
+And here is a just a random fact -  **Annually, approximately 46 millions Cokes, five million pounds of french fries, and seven million hamburgers are consumed at Walt Disney World Resort**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
