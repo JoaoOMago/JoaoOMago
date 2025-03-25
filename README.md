@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7757 days**.
 
-And here is a just a random fact -  **In Ancient Egypt, cats were often buried with their masters, or in a special cemetary for cats**.
+And here is a just a random fact -  **In 1942 the Jello company introduced Cola flavored jello, which only lasted a year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
