@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7757 days**.
 
-And here is a just a random fact -  **Copper is the second most used metal in the world.**.
+And here is a just a random fact -  **The first tattoo machine was invented by Samuel O'Reilly. He did this by using equipment that Thomas Edison used to engrave hard surfaces.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
