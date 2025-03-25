@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7757 days**.
 
-And here is a just a random fact -  **The word tulip comes from the Turkish word for turban**.
+And here is a just a random fact -  **The New York Yankees have appeared in the World Series a league leading 38 times and won 26 titles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
