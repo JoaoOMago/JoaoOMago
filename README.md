@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7758 days**.
 
-And here is a just a random fact -  **On average, a car driver will swear or blashpheme 32,025 times in their lifetime while driving**.
+And here is a just a random fact -  **There are over three trillion craters on the moon, with some being having a diameter over three feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
