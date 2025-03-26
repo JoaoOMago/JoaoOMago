@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7757 days**.
 
-And here is a just a random fact -  **Finland is also known as "the land of of the thousand lakes," because of the over 188,000 lakes found in this country**.
+And here is a just a random fact -  **The average lifespan of a human taste bud is ten days**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
