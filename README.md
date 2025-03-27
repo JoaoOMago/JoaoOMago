@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7759 days**.
 
-And here is a just a random fact -  **The amount of aluminum that Americans throw out in three months is enough to rebuild all American commercial planes**.
+And here is a just a random fact -  **Tacoma Narrows Bridge which was located in Washington was nicknamed "Galloping Gertie" because of the unusual way it twisted and swayed with even with the slightest winds when people would drive on it. The bridge collapsed on November 7, 1940, fortunately no humans died, except for a dog**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
