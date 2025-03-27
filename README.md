@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7759 days**.
 
-And here is a just a random fact -  **On April 4, 1974, John Massis of Belgium pulled two New York Long Island railroad passenger cars totaling 80 tons with a thick rope, with a small bit attached, using only his teeth**.
+And here is a just a random fact -  **In July 1874, a swarm of Rocky Mountain locusts flew over Nebraska covering an area estimated at 198,600 square miles. It is estimated that the swarm contained about 12.5 trillion insects. These insects became extinct thirty years later**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
