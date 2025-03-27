@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7758 days**.
+Here is a random fact about me - I have been on this planet for **7759 days**.
 
-And here is a just a random fact -  **Every single hamster in the United States today comes from a single litter captured in Syria in 1930**.
+And here is a just a random fact -  **The strike note of the Liberty Bell in Philadelphia, Pennsylvania is e-flat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
