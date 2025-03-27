@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7758 days**.
 
-And here is a just a random fact -  **The male howler monkey of Central and South America is the noisiest land animal, which can be heard clearly from a distance of ten miles away**.
+And here is a just a random fact -  **In the wild, the poinsettia flower can reach a height of 12 feet, and have leaves that are eight inches across.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
