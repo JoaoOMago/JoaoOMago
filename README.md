@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7759 days**.
 
-And here is a just a random fact -  **In the 1960 movie "Psycho" by Alfred Hitchcock, chocolate syrup was used to show the blood in the shower scene**.
+And here is a just a random fact -  **When playing competitive darts the player must be 7 feet 9 1/4 inches back from the dartboard. Also the board must be 5 feet 8 inches above the floor**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
