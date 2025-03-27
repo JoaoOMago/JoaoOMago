@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7759 days**.
 
-And here is a just a random fact -  **In 1990, the largest watermelon ever grown was 262 pounds, by Bill Carson of Tennesse, USA**.
+And here is a just a random fact -  **A fall of 30 feet can be survived my most cats**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
