@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7759 days**.
 
-And here is a just a random fact -  **In the spring of 1975, a baby in Detroit fell 14 stories and landed on Joseph Figlock, who was walking below. A few years later it happened again. Figlock and both babies survived**.
+And here is a just a random fact -  **The incidents of immune system diseases has increased over 200% in the last five years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
