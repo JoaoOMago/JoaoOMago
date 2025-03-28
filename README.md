@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7760 days**.
 
-And here is a just a random fact -  **The reason why some people get a cowlick is because the growth of their hair is in a spiral pattern, which causes the hair to either stand straight up, or goes to a certain angle**.
+And here is a just a random fact -  **On average, a Canadian girl owns seven Barbie dolls, whereas an American girl owns eight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
