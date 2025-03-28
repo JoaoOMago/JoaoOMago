@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7760 days**.
 
-And here is a just a random fact -  **In 1953, racecar driver Tim Flock raced at Nascar with a monkey in the seat beside him**.
+And here is a just a random fact -  **Some species of dolphin sleep with one eye open**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
