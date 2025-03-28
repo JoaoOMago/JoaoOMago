@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7759 days**.
 
-And here is a just a random fact -  **Approximately 100,000 people get married in Las Vegas each year**.
+And here is a just a random fact -  **The vegetable that is eaten most by Americans is potatoes. On average, a person eats about 140 pounds of potatoes annually**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
