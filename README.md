@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7759 days**.
 
-And here is a just a random fact -  **The snow leopard protects itself from extreme cold when it sleeps by wrapping its 3-foot-long tail around its nose**.
+And here is a just a random fact -  **Eating eight strawberries will provide you with more Vitamin C than an orange**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
