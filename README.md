@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7760 days**.
 
-And here is a just a random fact -  **Early sewing machines were destroyed by mobs or workers who felt their jobs were threatened by automation**.
+And here is a just a random fact -  **People who meet their calcium need reduce their risk of developing kidney stones**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
