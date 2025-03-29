@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7761 days**.
 
-And here is a just a random fact -  **The Dead Sea has been sinking for last several years**.
+And here is a just a random fact -  **Early sewing machines were destroyed by mobs or workers who felt their jobs were threatened by automation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
