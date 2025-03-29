@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7761 days**.
 
-And here is a just a random fact -  **A human embryo is smaller than a grain of rice at four weeks old**.
+And here is a just a random fact -  **The majority of burglaries occur during the daytime when people are not home**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
