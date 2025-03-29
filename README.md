@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7761 days**.
 
-And here is a just a random fact -  **A drink used to be made by the Aztecs for the gods which had the ingredients of ground cocoa mixed in with spices and corn**.
+And here is a just a random fact -  **Diamonds were first discovered in the riverbeds of the Golconda region of India over 4,000 years ago.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
