@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7760 days**.
+Here is a random fact about me - I have been on this planet for **7761 days**.
 
-And here is a just a random fact -  **It is estimated that 93% of American children will go out trick or treating for Halloween**.
+And here is a just a random fact -  **Russian I.M. Chisov survived a 21,980 plunge out of a plane with no parachute. He landed on the steep side of a snow-covered mountain with only a fractured pelvis and slight concussion**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
