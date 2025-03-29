@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7761 days**.
 
-And here is a just a random fact -  **Of all the countries, Brazil has the most plant species, with over 56,000**.
+And here is a just a random fact -  **The stage were the television sitcom "Friends" is shot on is said to be haunted**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
