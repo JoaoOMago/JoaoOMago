@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7762 days**.
 
-And here is a just a random fact -  **The first subway system in America was built in Boston, Massachusetts in 1897**.
+And here is a just a random fact -  **The famous Casanova (Giacomo Casanova) was a librarian for many years before he died**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
