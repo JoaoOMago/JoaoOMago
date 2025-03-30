@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7762 days**.
 
-And here is a just a random fact -  **In 1865, the U.S. Secret Service was first established for the specific purpose to combat the counterfeiting of money**.
+And here is a just a random fact -  **The only bone fully grown at birth is located in the ear**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
