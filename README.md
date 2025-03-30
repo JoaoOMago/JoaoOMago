@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7762 days**.
 
-And here is a just a random fact -  **The thing that hangs from the top of the beak of a turkey is called the snood**.
+And here is a just a random fact -  **Everyday, U.S. business use enough paper to circle the Earth over 20 times**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
