@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7762 days**.
 
-And here is a just a random fact -  **Coffee has about five times the amount of caffeine as a can of Coke**.
+And here is a just a random fact -  **27 percent of U.S. male college students believe life is "a meaningless existential hell." (big surprise, eh?)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
