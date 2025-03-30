@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7761 days**.
 
-And here is a just a random fact -  **In the summer of 1858, the smell of the sewage in the Thames River in London was so bad that the Members of Parliament had to leave from the chamber of the House of Commons. This was a result of two million people dumping all their sewage into the river**.
+And here is a just a random fact -  **Edward VIII did not officially become the King of England as he abdicated the throne to marry an American divorcee**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
