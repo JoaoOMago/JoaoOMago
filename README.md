@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7761 days**.
 
-And here is a just a random fact -  **A crocodile cannot stick its tongue out**.
+And here is a just a random fact -  **The music group Simply Red got its name from band member Mick Hucknall, who has red hair**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 29 Mar, 2025.</sub>
+<sub>Last updated by Github Actions on 30 Mar, 2025.</sub>
