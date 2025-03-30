@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7761 days**.
 
-And here is a just a random fact -  **Percentage of American men who say they would marry the same woman if they had it to do all over again: 80%**.
+And here is a just a random fact -  **The microwave oven was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
