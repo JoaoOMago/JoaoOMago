@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7762 days**.
 
-And here is a just a random fact -  **The record for the world?s worst drivers is a toss-up between two candidates: First, a 75-year-old man who received 10 traffic tickets, drove on the wrong side of the road four times, committed four hit-and-run offenses, and caused six accidents, all within 20 minutes on October 15, 1966. Second, a 62-year-old woman who failed her driving test 40 times before passing it in August, 1970 (by that time, she had spent over $700 in lessons, and could no longer afford to buy a car)**.
+And here is a just a random fact -  **Slaves under the last emperors of China wore pigtails so they could be picked out quickly**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
