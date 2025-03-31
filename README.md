@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7762 days**.
+Here is a random fact about me - I have been on this planet for **7763 days**.
 
-And here is a just a random fact -  **Archipelago is the word to describe a large group of islands that are located close together**.
+And here is a just a random fact -  **It is not possible to tickle yourself. The cerebellum, a part of the brain, warns the rest of the brain that you are about to tickle yourself. Since your brain knows this, it ignores the resulting sensation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
