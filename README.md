@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7763 days**.
 
-And here is a just a random fact -  **On December 17 1991, the Cleveland Cavaliers beat the Miami Heat 148-80, the largest margin of victory in an NBA game**.
+And here is a just a random fact -  **Walter Hunt patented the safety pin in 1849. He later sold the patent rights for only $400.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
