@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7762 days**.
 
-And here is a just a random fact -  **The first television broadcast of the Oscars took place in 1953, hosted by Bob Hope on NBC**.
+And here is a just a random fact -  **There was once a country called Prussia. After World War II, it was divided among Poland, Germany, and the USSR**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 Mar, 2025.</sub>
+<sub>Last updated by Github Actions on 31 Mar, 2025.</sub>
