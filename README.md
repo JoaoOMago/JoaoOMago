@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7762 days**.
 
-And here is a just a random fact -  **The largest pig on record was a Poland-China hog named Big Bill, who weighed 2,552 lbs**.
+And here is a just a random fact -  **In 1949, forecasting the relentless march of science, Popular Mechanics said "Computers in the future may weigh no more than 1.5 tons."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
