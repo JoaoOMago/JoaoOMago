@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7764 days**.
 
-And here is a just a random fact -  **Pretzels were originally invented for Christian Lent. The twists of the pretzels are to resemble arms crossed in prayer**.
+And here is a just a random fact -  **James Buchanan was the only unmarried president of the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
