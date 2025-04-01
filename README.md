@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7764 days**.
 
-And here is a just a random fact -  **44% of kids watch television before they go to sleep**.
+And here is a just a random fact -  **A caterpillar grows roughly 27,000 times its size when it first emerges as an egg**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
