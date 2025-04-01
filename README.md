@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7764 days**.
 
-And here is a just a random fact -  **In the United States birds and planes collided more than 22,000 times between the years of 1990 and 1998**.
+And here is a just a random fact -  **Pepsi got its name from the ingredient pepsin, which is said to aid in digestion, however, it is not known**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
