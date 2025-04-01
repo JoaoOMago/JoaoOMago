@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7763 days**.
 
-And here is a just a random fact -  **The Central African raffia palm is known to have the longest leaves. The leaves can measure up to 82.5 feet long.**.
+And here is a just a random fact -  **Every 25 miles a car produces one pound of pollution.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
