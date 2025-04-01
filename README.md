@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7763 days**.
 
-And here is a just a random fact -  **Every 25 miles a car produces one pound of pollution.**.
+And here is a just a random fact -  **In 1893, the first mosque in the United States was built**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
