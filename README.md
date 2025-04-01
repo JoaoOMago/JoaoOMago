@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7764 days**.
 
-And here is a just a random fact -  **Dustin Phillips of the U.S. has the record for ketchup drinking. He drank a 14-ounce bottle of tomato ketchup through a ? inch straw in 33 seconds on September 23, 1999**.
+And here is a just a random fact -  **The TV show Doctor Who, when it was popular, had an audience of 110 million people**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
