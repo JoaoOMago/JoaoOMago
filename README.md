@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7764 days**.
 
-And here is a just a random fact -  **Tasmania is said to have the cleanest air in the world**.
+And here is a just a random fact -  **Following directions off the Internet and chemicals obtained from a mail order company, a team of U.S. scientists created an identical copy of the polio virus.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
