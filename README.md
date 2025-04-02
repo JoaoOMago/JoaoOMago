@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7764 days**.
+Here is a random fact about me - I have been on this planet for **7765 days**.
 
-And here is a just a random fact -  **Baby robins eat 14 feet of earthworms every day**.
+And here is a just a random fact -  **By walking an extra 20 minutes every day, an average person will burn off seven pounds of body fat in an year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
