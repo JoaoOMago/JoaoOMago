@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7765 days**.
 
-And here is a just a random fact -  **In Cleveland, Ohio, it's illegal to catch mice without a huntinglicense.**.
+And here is a just a random fact -  **Every time Beethoven sat down to write music, he poured ice water over his head**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
