@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7764 days**.
 
-And here is a just a random fact -  **Mules have one horse and one donkey for a parent**.
+And here is a just a random fact -  **Average number of days a West German goes without washing his underwear: 7**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Apr, 2025.</sub>
+<sub>Last updated by Github Actions on 02 Apr, 2025.</sub>
