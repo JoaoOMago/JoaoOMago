@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7765 days**.
 
-And here is a just a random fact -  **The first Olympic games only had one event - a foot race**.
+And here is a just a random fact -  **The country of Fiji is made up of 332 islands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
