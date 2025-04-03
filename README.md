@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7766 days**.
 
-And here is a just a random fact -  **More pollution is emitted from the average home compared to the average car.**.
+And here is a just a random fact -  **The most popular American city for Kool-Aid sales is St. Louis, Missouri**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
