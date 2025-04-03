@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7766 days**.
 
-And here is a just a random fact -  **The most expensive perfume in the world is Parfum VI, which was made by Arthur Burnham. A 4 inch bottle which is covered with diamonds and 24-carat gold costs $71,380**.
+And here is a just a random fact -  **Pluto is the only planet in our solar system that has not been visited by a spacecraft**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
