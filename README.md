@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7766 days**.
 
-And here is a just a random fact -  **A rose imprint that was fossilized in a slate was discovered in Florisant, Colorado, which is said to be thirty-five million years old**.
+And here is a just a random fact -  **The most expensive perfume in the world is Parfum VI, which was made by Arthur Burnham. A 4 inch bottle which is covered with diamonds and 24-carat gold costs $71,380**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
