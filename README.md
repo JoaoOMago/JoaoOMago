@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7765 days**.
 
-And here is a just a random fact -  **In 1971, the postal code was introduced in Ottawa, Ontario**.
+And here is a just a random fact -  **Scientists have discovered that the longer the ring finger is in boys the less chance they have of having a heart attack**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
