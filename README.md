@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7765 days**.
+Here is a random fact about me - I have been on this planet for **7766 days**.
 
-And here is a just a random fact -  **Bill Gates house was partially designed using a Macintosh computer. new**.
+And here is a just a random fact -  **Due to sugar shortages to make candy during World War II, movie theatre owners turned to popcorn, which is now the best selling snack at movie theatres today**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
