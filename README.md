@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7766 days**.
 
-And here is a just a random fact -  **Printed on the tablet being held by the Statue of Liberty is July IV, MDCCLXXVI**.
+And here is a just a random fact -  **Humans have about the same number of hair follicles as a chimpanzee has**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
