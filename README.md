@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7766 days**.
 
-And here is a just a random fact -  **ABBA got their name by taking the first letter from each of their names (Agnetha, Bjorn, Benny, Anni-frid.)**.
+And here is a just a random fact -  **A rose imprint that was fossilized in a slate was discovered in Florisant, Colorado, which is said to be thirty-five million years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
