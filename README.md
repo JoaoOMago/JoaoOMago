@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7767 days**.
 
-And here is a just a random fact -  **It takes the Hubble telescope about 97 minutes to complete an orbit of the Earth. On average, the Hubble uses the equivilent amount of energy as 30 household light bulbs to complete an orbit.**.
+And here is a just a random fact -  **The tip of a bullwhip moves so fast that it breaks the sound barrier. The crack of the whip is actually a tiny sonic boom.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
