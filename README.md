@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7766 days**.
 
-And here is a just a random fact -  **The famous Casanova (Giacomo Casanova) was a librarian for many years before he died**.
+And here is a just a random fact -  **True spiders always have organs for spinning silk known as spinnerets**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
