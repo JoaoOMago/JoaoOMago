@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7767 days**.
 
-And here is a just a random fact -  **Spiral staircases in medieval castles are running clockwise. This is because all knights used to be right-handed. When the intruding army would climb the stairs they would not be able to use their right hand which was holding the sword because of the difficulties of climbing the stairs. Left-handed knights would have had no troubles, except left-handed people could never become knights because it was assumed that they were descendants of the devil**.
+And here is a just a random fact -  **The two factories of the Jelly Belly Candy Company produces approximately 100,000 pounds of jelly beans a day. this amounts to about 1,250,000 jelly beans an hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
