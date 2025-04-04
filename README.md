@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7767 days**.
 
-And here is a just a random fact -  **Each nostril of a human being register smell in a different way. Smells that are made from the right nostril are more pleasant than the left. However, smells can be detected more accurately when made by the left nostril**.
+And here is a just a random fact -  **False Bay, on the southern tip of Africa and close to Cape Town, South Africa, is a breeding ground for great white sharks, which feed off the thousands of seals in the bay. However, it is the only area in the known world in which these sharks are known to breach - they attack the seals by coming up vertically, often leaping clear of the water with their prey in their mouths**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
