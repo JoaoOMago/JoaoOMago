@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7766 days**.
+Here is a random fact about me - I have been on this planet for **7767 days**.
 
-And here is a just a random fact -  **There is enough water in American swimming pools to cover the whole city of San Francisco seven feet deep**.
+And here is a just a random fact -  **There was a book written fourteen years before the sinking of the Titanic happened titled "Futility" by Morgan Robertson. This book was remarkably similar to the tragedy that happened to the Titanic in 1912**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
