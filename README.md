@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7766 days**.
 
-And here is a just a random fact -  **The silkworm moth has lost the ability to fly ever since it has been domesticated**.
+And here is a just a random fact -  **During the Easter season, 600 million Marshmallow Peeps are bought my Americans. The Marshmallow Peep is the most popular Easter candy besides chocolate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
