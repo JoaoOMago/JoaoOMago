@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7768 days**.
 
-And here is a just a random fact -  **Elephants can't jump. Every other mammal can.**.
+And here is a just a random fact -  **If all the gold sitting in the oceans and seas were mined, every person on this plant would get about 20 kilograms of gold each.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
