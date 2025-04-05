@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7767 days**.
 
-And here is a just a random fact -  **The state that grows the most cranberries is Wisconsin. More than 300 million pounds of cranberries are grown in Wisconsin**.
+And here is a just a random fact -  **A newborn kangaroo weighs approximately 0.03 ounces and is small enough to fit in a teaspoon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
