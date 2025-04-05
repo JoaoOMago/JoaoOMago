@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7767 days**.
+Here is a random fact about me - I have been on this planet for **7768 days**.
 
-And here is a just a random fact -  **If all the Oreo cookies ever sold were stacked on top of one another, they would be as high as 13.3 million Sears Towers**.
+And here is a just a random fact -  **Hippos can live up to 40 years in the wild**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
