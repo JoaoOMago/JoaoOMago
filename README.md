@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7767 days**.
 
-And here is a just a random fact -  **Earthworms have 5 hearts**.
+And here is a just a random fact -  **The Sears Tower consists of nine framed tubes, which connects nine skyscrapers as one building**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
