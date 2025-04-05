@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7768 days**.
 
-And here is a just a random fact -  **Castaways Travel, a Houston-area travel agency, offers an all-nude flight to Cancun Mexico. Once the plane reaches cruising altitude, you are allowed to take off all your clothes and roam about the cabin**.
+And here is a just a random fact -  **Did you know that there are coffee flavored PEZ?**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
