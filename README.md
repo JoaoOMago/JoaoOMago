@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7768 days**.
 
-And here is a just a random fact -  **The most popular treat for Halloween trick-or-treaters are candy bars with Snickers being the most popular**.
+And here is a just a random fact -  **The world population of chickens is about equal to the number of people**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
