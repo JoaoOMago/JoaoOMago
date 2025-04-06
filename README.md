@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7769 days**.
 
-And here is a just a random fact -  **Barney, the famous dinosaur that entertains kids is from Dallas**.
+And here is a just a random fact -  **In the United States, six tubs of Cool Whip, a brand of whipping cream, are sold every second**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
