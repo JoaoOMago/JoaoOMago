@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7768 days**.
 
-And here is a just a random fact -  **A chance of a woman having twins is increased after the age of 35. About 1 in 27 women will give birth to twins after this age. After 50 the chances of having twins is 1 in 9**.
+And here is a just a random fact -  **Every U.S. bill regardless of denomination costs just 4 cents to make**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
