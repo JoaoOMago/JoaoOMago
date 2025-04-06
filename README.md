@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7769 days**.
 
-And here is a just a random fact -  **The oldest roller coaster in the world is the Leap-The-Dips roller coaster located in Lakemont Park in Pennsylvania. The roller coaster was built in 1902**.
+And here is a just a random fact -  **George Washington had teeth made out of hippopotamus ivory**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
