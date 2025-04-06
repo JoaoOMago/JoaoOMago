@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7768 days**.
 
-And here is a just a random fact -  **The largest diamond that was ever found was 3106 carats.**.
+And here is a just a random fact -  **The name of the first menthol cigarette in the United States was "Spud."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Apr, 2025.</sub>
+<sub>Last updated by Github Actions on 06 Apr, 2025.</sub>
