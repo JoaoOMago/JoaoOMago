@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7769 days**.
+Here is a random fact about me - I have been on this planet for **7770 days**.
 
-And here is a just a random fact -  **The only two days of the year in which there are no professional sports games (MLB, NBA, NHL, or NFL) are the day before and the day after the Major League All-Star Game**.
+And here is a just a random fact -  **Archipelago is the word to describe a large group of islands that are located close together**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
