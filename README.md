@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7770 days**.
 
-And here is a just a random fact -  **The only South East Asian country that has never been colonized by a Western Power is Thailand**.
+And here is a just a random fact -  **Frosted Flakes mascot "Tony the Tiger" has a wife, son (Tony Jr.) and daughter (Antoinette) that were used in early advertising commercials**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
