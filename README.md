@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7770 days**.
 
-And here is a just a random fact -  **The nickname for a Japanese businessmen is "Salarymen."**.
+And here is a just a random fact -  **Donkeys can live between 30 to 50 years in captivity**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
