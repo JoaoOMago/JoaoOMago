@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7769 days**.
 
-And here is a just a random fact -  **In Denmark, people eat about 36 pounds of candy a year. The highest consumption of candy of any country**.
+And here is a just a random fact -  **Humans are the only primates that don't have pigment in the palms oftheir hands.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
