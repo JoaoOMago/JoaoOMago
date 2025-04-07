@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7770 days**.
 
-And here is a just a random fact -  **The average height of an NBA basketball player is 6 feet 7 inches**.
+And here is a just a random fact -  **The CIA has made a disk camera that is as big as a quarter. This gadget can take many pictures at a time when the disk is opened.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
