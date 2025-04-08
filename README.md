@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7770 days**.
 
-And here is a just a random fact -  **The patent number of the telephone is 174465.**.
+And here is a just a random fact -  **Women on average live seven years longer than men do**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
