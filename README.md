@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7770 days**.
 
-And here is a just a random fact -  **Thirty to 40 gallons of sugar maple sap must be boiled down to make just one gallon of maple syrup**.
+And here is a just a random fact -  **The name for Oz in "The Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z, hence "Oz."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
