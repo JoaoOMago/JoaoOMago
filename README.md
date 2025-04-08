@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7771 days**.
 
-And here is a just a random fact -  **In 1946 Danon Yogurt were the first to add fruit to commercially produced yogurt in U.S**.
+And here is a just a random fact -  **No word in the English language rhymes with month, orange,silver or purple**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
