@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7771 days**.
 
-And here is a just a random fact -  **When opossums are playing 'possum, they are not "playing." Theyactually pass out from sheer terror.**.
+And here is a just a random fact -  **In October 1986, Pepsi paid close to $840 million to Nabisco for the Kentucky Fried Chicken empire**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
