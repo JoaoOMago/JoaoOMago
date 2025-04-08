@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7771 days**.
 
-And here is a just a random fact -  **Ian Fleming named his character "James Bond" after real-life ornithologist and author**.
+And here is a just a random fact -  **Germany produces more than 5,000 varieties of beer and has about 1,300 breweries in country**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
