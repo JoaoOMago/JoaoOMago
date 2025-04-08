@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7771 days**.
 
-And here is a just a random fact -  **In 1971, the postal code was introduced in Ottawa, Ontario**.
+And here is a just a random fact -  **In ancient Egypt, the only person who was allowed to wear cotton was the High Priest**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
