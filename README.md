@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7770 days**.
 
-And here is a just a random fact -  **Since the United Nations was founded in 1945, there have been 140 wars**.
+And here is a just a random fact -  **Pretzel snacks have been around for over 1300 years. A European monk invented the snack using used leftover bread dough**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
