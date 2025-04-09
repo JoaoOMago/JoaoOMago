@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7772 days**.
 
-And here is a just a random fact -  **The thickness of the Arctic ice sheet is on average 10 feet. There are some areas that are thick as 65 feet**.
+And here is a just a random fact -  **Copper is the second most used metal in the world.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
