@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7771 days**.
 
-And here is a just a random fact -  **In the United States, six tubs of Cool Whip, a brand of whipping cream, are sold every second**.
+And here is a just a random fact -  **There are more than 50 different types of pumpkins. Some of them have names such as Munchkin, Funny Face, and Spooktacular**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
