@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7772 days**.
 
-And here is a just a random fact -  **One of the Bond girls in the James Bond movie, "For Your Eyes Only," used to be a man**.
+And here is a just a random fact -  **On average, the American household consumes six pounds of peanut butter annually**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
