@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7771 days**.
+Here is a random fact about me - I have been on this planet for **7772 days**.
 
-And here is a just a random fact -  **Of married couples, 70% of men and 60% of women have cheated on their spouse**.
+And here is a just a random fact -  **A group of crows is called a murder**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
