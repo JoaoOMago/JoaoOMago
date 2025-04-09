@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7772 days**.
 
-And here is a just a random fact -  **Elizabeth Taylor has appeared on the cover of Life magazine more than anyone else**.
+And here is a just a random fact -  **The official state mammal of Texas is the armadillo**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
