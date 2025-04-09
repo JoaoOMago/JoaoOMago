@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7772 days**.
 
-And here is a just a random fact -  **Romans used to believe that walnuts could cure head ailments during the Renaissance, since their shape was similar to that of a brain**.
+And here is a just a random fact -  **All of the Peking ducks in the United States are descendents from three ducks and one drake imported to Long Island, New York in 1873**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
