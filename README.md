@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7772 days**.
 
-And here is a just a random fact -  **Using recycled aluminum cans and making news cans out of them saves 75% energy compared to making it from new material.**.
+And here is a just a random fact -  **The mythical Scottish town of Brigadoon appears for one day every one hundred years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 09 Apr, 2025.</sub>
+<sub>Last updated by Github Actions on 10 Apr, 2025.</sub>
