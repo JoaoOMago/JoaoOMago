@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7773 days**.
 
-And here is a just a random fact -  **One of the most dangerous insect in the world is the common housefly. They carry and transmit more diseases than any other animal in the world**.
+And here is a just a random fact -  **Before soccer referees started using whistles in 1878, they used to rely on waving a handkerchief**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
