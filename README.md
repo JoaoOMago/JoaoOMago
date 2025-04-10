@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7772 days**.
+Here is a random fact about me - I have been on this planet for **7773 days**.
 
-And here is a just a random fact -  **In the United States, every year about 15 people die from dog bites**.
+And here is a just a random fact -  **A fetus develops fingerprints at eighteen weeks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
