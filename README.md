@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7772 days**.
 
-And here is a just a random fact -  **On average, an American home has 3-10 gallons of hazardous materials**.
+And here is a just a random fact -  **The largest bill U.S. bill made is for $100,000**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
