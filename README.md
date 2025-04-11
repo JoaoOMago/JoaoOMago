@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7774 days**.
 
-And here is a just a random fact -  **About 30% of Canadians rely on getting their water from the ground for their domestic use**.
+And here is a just a random fact -  **Iguanas can recognize their human handlers and greet them differently, compared with strangers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
