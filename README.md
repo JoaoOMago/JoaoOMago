@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7774 days**.
 
-And here is a just a random fact -  **Alcohol beverages have all 13 minerals necessary for human life**.
+And here is a just a random fact -  **The phrase "Often a bridesmaid, but never a bride," actually originates from an advertisement for Listerine mouthwash from 1924**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
