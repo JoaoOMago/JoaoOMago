@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7775 days**.
 
-And here is a just a random fact -  **Minimum wage was 0.25 per hour when it was first enacted in 1938**.
+And here is a just a random fact -  **On September 3, 1970, a hailstone was found in Coffeyville, Kansas that was eight inches in diameter and weighed 1.67 pounds.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
