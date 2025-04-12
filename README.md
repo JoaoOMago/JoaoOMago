@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7775 days**.
 
-And here is a just a random fact -  **Average age of top GM executives in 1994: 49.8 years. Average age ofthe Rolling Stones: 50.6.**.
+And here is a just a random fact -  **Morihei Ueshiba, founder of Aikido, once pinned an opponent using only a single finger**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
