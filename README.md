@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7774 days**.
+Here is a random fact about me - I have been on this planet for **7775 days**.
 
-And here is a just a random fact -  **The fins of the Spiny Dogfish Shark are sometimes used as sandpaper for wood products**.
+And here is a just a random fact -  **On average, 100 people choke to death on ballpoint pens every year.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
