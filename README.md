@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7774 days**.
 
-And here is a just a random fact -  **The revenue that is generated from gambling is more than the revenue that comes from movies, cruise ships, recorded music, theme parks, and spectator sports combined**.
+And here is a just a random fact -  **Marlboro was the first cigarette company to market a cigarette that had a red filter called "beauty tip." This was done to hide the lipstick marks left on the filter from women smokers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
