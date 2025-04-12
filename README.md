@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7775 days**.
 
-And here is a just a random fact -  **Americans collectively eat one hundred pounds of chocolate every second**.
+And here is a just a random fact -  **There has only been 193,000 metric tonnes of gold discovered to date.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
