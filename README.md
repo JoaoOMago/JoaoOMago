@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7774 days**.
 
-And here is a just a random fact -  **The markings that are found on dice are called "pips."**.
+And here is a just a random fact -  **The highest consumption of Pizza occurs during Super Bowl week**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
