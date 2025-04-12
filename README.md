@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7774 days**.
 
-And here is a just a random fact -  **Since its introduction in February 1935, more than two hundred million Monopoly board games have been sold worldwide**.
+And here is a just a random fact -  **In-vitro babies are born in Australia more than any other country in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
