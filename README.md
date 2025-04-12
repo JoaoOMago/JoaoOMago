@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7775 days**.
 
-And here is a just a random fact -  **The biggest bug in the world is the Goliath Beetle which can weigh up to 3.5 ounces and be 4.5 inches long**.
+And here is a just a random fact -  **In 1477, the first diamond engagement ring was given to Mary of Burgundy by Archduke Maximillian of Austria**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
