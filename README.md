@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7775 days**.
 
-And here is a just a random fact -  **Since the United Nations was founded in 1945, there have been 140 wars**.
+And here is a just a random fact -  **In 1631, two London bible printers accidentally left the word "not" out of the seventh commandment, which then read, "Thou shalt commit adultery." This legendary book is now known as the "Wicked Bible."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Apr, 2025.</sub>
+<sub>Last updated by Github Actions on 13 Apr, 2025.</sub>
