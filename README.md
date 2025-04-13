@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7776 days**.
 
-And here is a just a random fact -  **In 1924, Kleenex tissues were originally designed as a cold cream remover**.
+And here is a just a random fact -  **Hair and fingernails are made from the same substance, keratin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
