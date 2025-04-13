@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7776 days**.
 
-And here is a just a random fact -  **In an year, an average American kid eats 46 slices of pizza**.
+And here is a just a random fact -  **Close to 3 billion movie tickets are sold in India every year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
