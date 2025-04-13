@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7776 days**.
 
-And here is a just a random fact -  **The first ice hotel was built in Swedish Lapland**.
+And here is a just a random fact -  **Hypnotism is banned by public schools in San Diego**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
