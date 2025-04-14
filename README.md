@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7777 days**.
 
-And here is a just a random fact -  **May babies are on average 200 grams heavier than babies born in other months**.
+And here is a just a random fact -  **After twenty-seven years, Betty Rubble made her debut as a Flintstones Vitamin in 1996**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
