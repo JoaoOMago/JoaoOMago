@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7776 days**.
 
-And here is a just a random fact -  **In 1980, Saddam Hussein received a key to the city of Detroit**.
+And here is a just a random fact -  **In the 1940s, the FCC assigned television's Channel 1 to mobile Services(two-way radios in taxicabs, for instance) but did not re-number theotherchannel assignments. That is why your TV set has channels 2 and up, butnochannel 1.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
