@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7777 days**.
 
-And here is a just a random fact -  **Hannibal, who was a soldier, had only one eye after getting a disease while attacking Rome**.
+And here is a just a random fact -  **The first American celebration of St. Patricks Day was at Boston in 1737**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
