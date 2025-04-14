@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7777 days**.
 
-And here is a just a random fact -  **Wasps that feed on ferment occasionally get drunk and pass out**.
+And here is a just a random fact -  **Beluga whales which are also called "white whales" are not born white. They are born grey in color, and by the age of six become completely white**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
