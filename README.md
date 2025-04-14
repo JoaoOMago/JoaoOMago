@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7777 days**.
 
-And here is a just a random fact -  **The giant squid has the largest eyes in the world**.
+And here is a just a random fact -  **In the U.S., 75% of the pencils sold are painted yellow**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
