@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7777 days**.
 
-And here is a just a random fact -  **During World War II, there was not enough sugar in the U.S. to make candy as it was sent to the troops overseas. At this time, popcorn was consumed three times more than its usual amount**.
+And here is a just a random fact -  **There were 43,687 toilet related accidents in the United States in 1996**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
