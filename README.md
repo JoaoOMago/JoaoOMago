@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7777 days**.
 
-And here is a just a random fact -  **Dairy cows can produce 20 to 35 gallons of saliva a day**.
+And here is a just a random fact -  **The puma and the leopard are the highest jumping mammals. They are able to reach a height of 16.5 feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
