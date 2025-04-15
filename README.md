@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7777 days**.
 
-And here is a just a random fact -  **A woman has approximately 4.5 litres of blood in her body, while men have 5.6 litres**.
+And here is a just a random fact -  **In 1989, twenty-three people were hired in Jacksonville Florida just to flush toilets so the pipes would not freeze**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
