@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7778 days**.
 
-And here is a just a random fact -  **Halifax, Nova Scotia, Canada has the largest bar per capita than anywhere else in the world**.
+And here is a just a random fact -  **A newly hatched fish is called a "fry."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
