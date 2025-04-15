@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7778 days**.
 
-And here is a just a random fact -  **Rice flour was used to strengthen some of the bricks that make up the Great Wall of China**.
+And here is a just a random fact -  **Spartacus led the revolt of the Roman slaves and gladiators in 73 B.C**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
