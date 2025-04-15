@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7778 days**.
 
-And here is a just a random fact -  **The Montreal Canadians hockey team has won the most Stanley Cups with 24**.
+And here is a just a random fact -  **A yawn usually lasts for approximately six seconds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
