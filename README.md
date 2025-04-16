@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7779 days**.
 
-And here is a just a random fact -  **Watermelon is considered a good gift to give a host in Japan and China**.
+And here is a just a random fact -  **In Belgium, there is a museum that is just for strawberries**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
