@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7779 days**.
 
-And here is a just a random fact -  **Before 1928, yo-yos used to be called bandalores in the United States**.
+And here is a just a random fact -  **Average age of top GM executives in 1994: 49.8 years. Average age ofthe Rolling Stones: 50.6.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
