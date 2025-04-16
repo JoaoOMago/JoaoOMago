@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7779 days**.
 
-And here is a just a random fact -  **Cow is a Japanese brand of shaving foam**.
+And here is a just a random fact -  **An adult "Gold Frog" measures to be 9.8 millimeters in body length**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
