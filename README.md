@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7778 days**.
 
-And here is a just a random fact -  **Sharks have survived on earth for about 400 million years**.
+And here is a just a random fact -  **Chocolate was used as medicine during the 18th century. It was believed that chocolate could cure a stomach ache**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 15 Apr, 2025.</sub>
+<sub>Last updated by Github Actions on 16 Apr, 2025.</sub>
