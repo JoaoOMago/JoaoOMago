@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7778 days**.
 
-And here is a just a random fact -  **Construction workers hard hats were first invented and used in the building of the Hoover Dam in 1933.**.
+And here is a just a random fact -  **In 1943, the July issue of "Transportation Magazine" had an article entitled "1943 Guide to Hiring Women."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
