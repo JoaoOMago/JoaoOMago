@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7780 days**.
 
-And here is a just a random fact -  **The Simpsons is the longest running prime-time animated series on television history**.
+And here is a just a random fact -  **The projection light used for IMAX theaters can be seen from space.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
