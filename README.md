@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7780 days**.
 
-And here is a just a random fact -  **Gardening is said to be one of the best exercises for maintaining healthy bones**.
+And here is a just a random fact -  **Thomas Jefferson had three achievements placed on his headstone at his request, "Here Was Buried Thomas Jefferson/Author Of The Declaration Of American Independence/Of The Statute Of Virginia For Religious Freedom/And Father Of The University of Virginia.? He never mentioned being President of the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
