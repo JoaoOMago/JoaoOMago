@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7780 days**.
 
-And here is a just a random fact -  **The most expensive shoes in the world are ruby slippers located in Harrods in London, which cost $1.6 million, has a full time security guard. The shoes are made from platinum thread and has 642 rubies in them. It took over 700 hours to produce the shoe**.
+And here is a just a random fact -  **Tohru Iwatani, the inventor of the video game Pac-Man, came up with the idea when he saw a pizza with a slice missing at a dinner party**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
