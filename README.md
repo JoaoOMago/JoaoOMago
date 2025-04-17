@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7780 days**.
 
-And here is a just a random fact -  **If you fart consistently for 6 years and 9 months, enough gas is produced to create explosion that is equal to an atomic bomb**.
+And here is a just a random fact -  **A bomb dropped by the Allies on Berlin during World War II killed every animal in the Berlin Zoo except the elephant, which escaped and roamed the city. When a Russian commander saw hungry Germans chasing the elephant and trying to kill it, he ordered his troops to protect it and shoot anyone who tried to kill it**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
