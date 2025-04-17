@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7779 days**.
 
-And here is a just a random fact -  **The state that grows the most cranberries is Wisconsin. More than 300 million pounds of cranberries are grown in Wisconsin**.
+And here is a just a random fact -  **A mother hen turns her egg approximately 50 times in a day. This is so the yolk does not stick to the shell**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
