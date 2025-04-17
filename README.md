@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7780 days**.
 
-And here is a just a random fact -  **When playing competitive darts the player must be 7 feet 9 1/4 inches back from the dartboard. Also the board must be 5 feet 8 inches above the floor**.
+And here is a just a random fact -  **If you fart consistently for 6 years and 9 months, enough gas is produced to create explosion that is equal to an atomic bomb**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
