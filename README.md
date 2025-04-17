@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7779 days**.
 
-And here is a just a random fact -  **Australian Graham Barker extracted his own belly button fluff every day for 18 years acquiring a record-breaking amount of fluff. He hopes to accumulate enough fluff to stuff a pillow**.
+And here is a just a random fact -  **The flu pandemic of 1918 killed over 20 million people**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
