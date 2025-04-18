@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7781 days**.
 
-And here is a just a random fact -  **The greatest mountain range is the Mid-Ocean Ridge, extending 64,374 km from the Arctic Ocean to the Atlantic Ocean**.
+And here is a just a random fact -  **France, Switzerland, United Kingdom, Greece, and Australia have always been in the modern Olympics since it began in 1896**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
