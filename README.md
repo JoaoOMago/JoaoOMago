@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7780 days**.
+Here is a random fact about me - I have been on this planet for **7781 days**.
 
-And here is a just a random fact -  **In 2000, there were 1,579,566 drug arrests in the United States. Of those, close to half were for marijuana**.
+And here is a just a random fact -  **The greatest mountain range is the Mid-Ocean Ridge, extending 64,374 km from the Arctic Ocean to the Atlantic Ocean**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
