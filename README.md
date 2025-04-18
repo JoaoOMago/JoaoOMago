@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7780 days**.
 
-And here is a just a random fact -  **A top freestyle swimmer achieves a speed of only 4 miles per hour. Fish, in contrast, have been clocked at 68 mph**.
+And here is a just a random fact -  **Before the fur trade had started in Canada, it was estimated that there were over 6 million beavers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
