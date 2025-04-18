@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7780 days**.
 
-And here is a just a random fact -  **The official state tree of Illinois is The White Oak**.
+And here is a just a random fact -  **The word "Denim" comes from the French phrase "serge de Nimes" which is a fabric made in a town located in southern France**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
