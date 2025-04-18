@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7780 days**.
 
-And here is a just a random fact -  **During the holiday season, approximately $220 million worth of Poinsettias are sold**.
+And here is a just a random fact -  **The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
