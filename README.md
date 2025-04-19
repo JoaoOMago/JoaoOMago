@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7781 days**.
 
-And here is a just a random fact -  **After the U.S Civil War, about 33%-50% of all U.S. paper currency in circulation was counterfeit**.
+And here is a just a random fact -  **Pluto is the only planet in our solar system that has not been visited by a spacecraft**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
