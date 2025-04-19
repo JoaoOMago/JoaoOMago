@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7781 days**.
+Here is a random fact about me - I have been on this planet for **7782 days**.
 
-And here is a just a random fact -  **Next to man, the porpoise is the most intelligent creature on earth**.
+And here is a just a random fact -  **The fastest growing tissue in the human body is hair**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
