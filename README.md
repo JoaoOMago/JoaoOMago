@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7782 days**.
 
-And here is a just a random fact -  **A mother hen turns her egg approximately 50 times in a day. This is so the yolk does not stick to the shell**.
+And here is a just a random fact -  **No word in the English language rhymes with month, orange,silver or purple**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
