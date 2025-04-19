@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7782 days**.
 
-And here is a just a random fact -  **The same amount of calories are burned by doing 6 sessions that are 5 minutes each of an activity and doing 1 session of that activity for 30 minutes**.
+And here is a just a random fact -  **In 1999, All Nippon Airlines, had one of its jets fully decorated with Pokemon characters from nose to tail on its exterior**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
