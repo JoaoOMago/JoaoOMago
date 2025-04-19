@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7781 days**.
 
-And here is a just a random fact -  **The best selling Crayola crayon box is the set of 24 crayons**.
+And here is a just a random fact -  **"Go." is the shortest complete sentence in the English language**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
