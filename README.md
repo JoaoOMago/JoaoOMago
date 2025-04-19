@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7781 days**.
 
-And here is a just a random fact -  **The U.S. paid Russia $7.2 million for Alaska in 1867**.
+And here is a just a random fact -  **The amount of aluminum that Americans throw out in three months is enough to rebuild all American commercial planes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
