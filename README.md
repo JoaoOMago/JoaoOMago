@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7783 days**.
 
-And here is a just a random fact -  **In a survey conducted in 2000 by Kimberly-Clark, it was found that men prefer to fold their toilet paper, and women like to wad it**.
+And here is a just a random fact -  **In Russia, when flowers are given for a romantic occasions, flowers are given in odds numbers as even number of flowers is given at funerals only**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
