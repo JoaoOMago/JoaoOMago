@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7783 days**.
 
-And here is a just a random fact -  **There are some hospitals in Shanghai that have issued a rule that a nurse must wear lipstick while on duty**.
+And here is a just a random fact -  **The word "diamond" comes from the Greek word "adamas," which means "unconquerable."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
