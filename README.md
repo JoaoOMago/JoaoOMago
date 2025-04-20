@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7782 days**.
 
-And here is a just a random fact -  **In the United States, you are more likely to be killed by a bee sting than a shark attack**.
+And here is a just a random fact -  **The first jet engine was invented by Frank Whittleof of England in 1930.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
