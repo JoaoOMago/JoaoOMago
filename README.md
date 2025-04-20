@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7783 days**.
 
-And here is a just a random fact -  **The reason why flamingos are pink is because they eat shrimp which have a red pigment**.
+And here is a just a random fact -  **A sneeze zooms out of your mouth at over 600 m.p.h**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
