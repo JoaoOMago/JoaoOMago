@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7782 days**.
 
-And here is a just a random fact -  **In February 1878, the first telephone book was published in New Haven, Connecticut. The book was one page long and had fifty names in it.**.
+And here is a just a random fact -  **Chedder cheese is the best selling cheese in the USA**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
