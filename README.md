@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7783 days**.
 
-And here is a just a random fact -  **The human body makes anywhere from 1 to 3 pints of saliva every 24 hours**.
+And here is a just a random fact -  **96% of candles that are purchased are by women**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
