@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7783 days**.
 
-And here is a just a random fact -  **The largest ketchup bottle in the world is a 170 feet tall and is located in Collinsville, Illinois, USA. It was built in 1949 by the W.E. Caldwell Company as a water tower**.
+And here is a just a random fact -  **The average height of an NBA basketball player is 6 feet 7 inches**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
