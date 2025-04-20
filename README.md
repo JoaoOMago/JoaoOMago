@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7783 days**.
 
-And here is a just a random fact -  **The average amount of time spent kissing for a person in a lifetime is 20,160 minutes**.
+And here is a just a random fact -  **The smallest will ever written was 3.8 cm in diameter. It had 40 words written on it and was signed by two witnesses**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
