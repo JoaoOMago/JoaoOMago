@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7783 days**.
 
-And here is a just a random fact -  **There are some ice creams that are 75% air**.
+And here is a just a random fact -  **Half of the 42 U.S. Presidents are of Irish descent**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
