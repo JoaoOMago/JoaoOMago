@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7784 days**.
 
-And here is a just a random fact -  **Ninety-nine percent of pumpkins sold in the United States are for the sole purpose of decoration**.
+And here is a just a random fact -  **The Flintstones cartoon was the first thirty-minute cartoon to be aired during prime time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
