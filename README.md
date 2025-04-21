@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7784 days**.
 
-And here is a just a random fact -  **Milk chocolate was invented in Switzerland by David Peter in 1876**.
+And here is a just a random fact -  **Lake Nicaragua boasts the only fresh-water sharks in the entire world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
