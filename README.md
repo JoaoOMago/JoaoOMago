@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7784 days**.
 
-And here is a just a random fact -  **The deepest mine in the world is the East Rand mine, which goes to a depth of about 3,585 metres**.
+And here is a just a random fact -  **On average, each American consumes approximately two hundred and sixty pounds of meat in a year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
