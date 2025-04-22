@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7785 days**.
 
-And here is a just a random fact -  **All racehorses in the U.S. celebrate their birthday on January 1st**.
+And here is a just a random fact -  **The world's termites outweigh the world's humans 10 to 1.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
