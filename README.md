@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7785 days**.
 
-And here is a just a random fact -  **Seven asteroids were especially named for the Challenger astronauts who were killed in the 1986 failed launch of the space shuttle**.
+And here is a just a random fact -  **People in France own more pets in the world per person than any other country**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
