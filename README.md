@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7785 days**.
 
-And here is a just a random fact -  **The reason why hair turns gray as we age is because the pigment cells in the hair follicle start to die, which is responsible for producing "melanin" which gives the hair colour**.
+And here is a just a random fact -  **People of Ancient China believed that swinging your arms could cure a headache**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
