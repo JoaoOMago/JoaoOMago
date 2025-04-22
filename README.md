@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7784 days**.
+Here is a random fact about me - I have been on this planet for **7785 days**.
 
-And here is a just a random fact -  **Only President to win a Pulitzer: John F. Kennedy for "Profiles in Courage"**.
+And here is a just a random fact -  **People that use mobile phones are 2.5 time more likely to develop cancer in areas of the brain that are adjacent to the ear they use to talk on the mobile phone**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
