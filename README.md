@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7784 days**.
 
-And here is a just a random fact -  **In a pack of Skittles candy, there is an equal 20% distribution of each flavour**.
+And here is a just a random fact -  **Albert Einstein was offered the presidency of Israel in 1952, but he declined**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
