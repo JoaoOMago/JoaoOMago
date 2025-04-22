@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7785 days**.
 
-And here is a just a random fact -  **The "naked recreation and travel" industry has grown by 233% in the past decade**.
+And here is a just a random fact -  **Edwin Armstrong invented FM radio in 1933. The first men to use FM radio to communicate with Earth from the moon's surface were named Edwin Aldrin and Neil Armstrong.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
