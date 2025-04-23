@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7785 days**.
 
-And here is a just a random fact -  **The city of Seoul has been the capital city of Korea for more than 600 years**.
+And here is a just a random fact -  **The triangular shape that Toblerone chocolates are packaged in, is protected by law**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
