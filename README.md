@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7786 days**.
 
-And here is a just a random fact -  **Cashew nuts contain oil in the shell that is very irritating to the skin**.
+And here is a just a random fact -  **The first United States president to visit China was Richard Nixon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
