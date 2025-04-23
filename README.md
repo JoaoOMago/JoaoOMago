@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7785 days**.
 
-And here is a just a random fact -  **The average American eats 35,000 cookies in his/her lifetime**.
+And here is a just a random fact -  **In 1897, Bayer, who is the makers of Aspirin, once marketed the drug heroin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
