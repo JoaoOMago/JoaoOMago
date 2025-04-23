@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7785 days**.
 
-And here is a just a random fact -  **The name "Grey Poupon" used for mustard comes from two people: Maurice Grey and Auguste Poupon. Grey was the inventor of a machine that mass produced fine textured mustard, and Poupon was an already established maker of mustard. In 1886 the Grey-Poupon firm was formed**.
+And here is a just a random fact -  **Tycho Brahe, a 16th century astronomer, lost his nose in a duel with one of his students over a mathematical computation. He wore a silver replacement nose for the rest of his life**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
