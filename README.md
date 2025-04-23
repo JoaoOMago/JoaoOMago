@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7786 days**.
 
-And here is a just a random fact -  **Edwin Armstrong invented FM radio in 1933. The first men to use FM radio to communicate with Earth from the moon's surface were named Edwin Aldrin and Neil Armstrong.**.
+And here is a just a random fact -  **In the Netherlands, there are special traffic lanes for bicycles. There are approximately 17,000 kms of cycle lanes with special bicycle traffic lights.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
