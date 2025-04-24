@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7786 days**.
 
-And here is a just a random fact -  **In 1967, the IMAX film system was invented by Canadian Ivan Grame Ferguson to premier at Expo 67.**.
+And here is a just a random fact -  **The world's first underground was the London Underground in1863. It has 275 stations and 253 miles of track.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
