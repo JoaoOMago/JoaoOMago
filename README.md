@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7786 days**.
 
-And here is a just a random fact -  **Elmer Smith was the first player to hit a grand slam in a World Series**.
+And here is a just a random fact -  **The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 23 Apr, 2025.</sub>
+<sub>Last updated by Github Actions on 24 Apr, 2025.</sub>
