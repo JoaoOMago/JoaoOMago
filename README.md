@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7787 days**.
 
-And here is a just a random fact -  **In America, approximately 20% of children between the ages of 2 - 7 have televisions in their rooms**.
+And here is a just a random fact -  **The only desert in Canada is located in Osoyoos, British Columbia**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
