@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7786 days**.
 
-And here is a just a random fact -  **Isaac Asimov is the only author to have a book in every Dewey-decimal category**.
+And here is a just a random fact -  **The honey badger can withstand hundreds of bee stings that would otherwise kill another animal**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
