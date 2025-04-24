@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7787 days**.
 
-And here is a just a random fact -  **The state of Alaska has almost twice as many caribou as people**.
+And here is a just a random fact -  **Wild Flamingos are pink because they consume vast quantities of algae and brine shrimp**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
