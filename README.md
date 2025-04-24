@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7787 days**.
 
-And here is a just a random fact -  **The world record for rocking non-stop in a rocking chair is 480 hours held by Dennis Easterling, of Atlanta, Georgia**.
+And here is a just a random fact -  **From all the states, Montana has the most different species of animals**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
