@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7787 days**.
 
-And here is a just a random fact -  **For the blockbuster movie "The Terminator," O.J. Simpson was considered to play the role of the Terminator, but producers did not choose him as they thought he would not be taken seriously**.
+And here is a just a random fact -  **Many insects can carry 50 times their own body weight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
