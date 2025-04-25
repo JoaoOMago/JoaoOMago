@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7788 days**.
 
-And here is a just a random fact -  **Two out of five people end up marrying their first love**.
+And here is a just a random fact -  **Energy is being wasted if a toaster is left plugged in after use**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
