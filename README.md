@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7788 days**.
 
-And here is a just a random fact -  **In the U.S. there are approximately 65.8 million cats**.
+And here is a just a random fact -  **In just one drop of liquid, 50 million bacteria can be present**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
