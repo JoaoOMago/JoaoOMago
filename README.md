@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7788 days**.
 
-And here is a just a random fact -  **It is possible to get high by licking a toad. The Cane Toad produces a toxin called bufotenine to ward off predators. When licked, this toxin acts as a hallucinogen**.
+And here is a just a random fact -  **The famous jewelry store Tiffany & Co. was established on September 18, 1837 in New York City. The amount of sales that were made the first day were $4.98**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
