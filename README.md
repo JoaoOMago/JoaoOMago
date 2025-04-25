@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7787 days**.
 
-And here is a just a random fact -  **The first television show to show any portion of a toilet was on "Leave it to Beaver." After fighting for ten weeks to show the toilet, CBS would only allow the producers to show the toilet tank, and not the whole toilet**.
+And here is a just a random fact -  **In a lifetime, the heart pumps about one million barrels of blood**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
