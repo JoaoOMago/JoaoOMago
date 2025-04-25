@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7787 days**.
 
-And here is a just a random fact -  **The San Francisco Cable cars are the only mobile National Monuments**.
+And here is a just a random fact -  **In 1998, a law passed in the U.S. state of Virginia allows drivers to keep their road kill, as long as they report it within 12 hours. updated**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
