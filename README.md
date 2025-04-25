@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7788 days**.
 
-And here is a just a random fact -  **98% of houses in the United States have at least one television set**.
+And here is a just a random fact -  **In the movie "Babe", the piglet was played by over 30 different piglets they outgrew the part so quickly during the production of the film**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
