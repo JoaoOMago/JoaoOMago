@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7787 days**.
 
-And here is a just a random fact -  **Honeybees use the sun as a compass which helps them navigate**.
+And here is a just a random fact -  **In the world, the United States and France have the most pet dogs. Approximately one out of every three families has a pet dog. Switzerland and Germany are the lowest only having one dog per every ten families**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Apr, 2025.</sub>
+<sub>Last updated by Github Actions on 25 Apr, 2025.</sub>
