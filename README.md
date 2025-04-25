@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7787 days**.
 
-And here is a just a random fact -  **Tropical rainforests cover about 7% of the Earth and receive over 80 inches of rain every year**.
+And here is a just a random fact -  **The actor who played the T-1000 in Terminator 2 (Robert Patrick) and the lead singer of Filter are brothers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
