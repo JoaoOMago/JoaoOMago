@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7789 days**.
 
-And here is a just a random fact -  **The three most valuable brand names on earth: Marlboro, Coca Cola, and Budweiser, in that order**.
+And here is a just a random fact -  **Some Ribbon worm will eat themselves if they cannot find food. This type of worm can still survive after eating up to 95% of its body weight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
