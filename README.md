@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7788 days**.
 
-And here is a just a random fact -  **The CN Tower located in Toronto, Ontario Canada took a total construction time of 40 months to complete at an original cost of $63 million**.
+And here is a just a random fact -  **If all the insects in the world were put on a scale, they would out weigh all creatures**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
