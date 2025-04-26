@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7788 days**.
 
-And here is a just a random fact -  **Battle Creek, Michigan is referred to as the "Cereal Bowl of America." The city produces the most breakfast cereals than any other city in the world**.
+And here is a just a random fact -  **There are six million parts in the Boeing 747-400.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
