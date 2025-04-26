@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7788 days**.
 
-And here is a just a random fact -  **In just the first 56 days of life, the larva of the polyphemus moth eats about 86,000 times its birthweight**.
+And here is a just a random fact -  **Battle Creek, Michigan is referred to as the "Cereal Bowl of America." The city produces the most breakfast cereals than any other city in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
