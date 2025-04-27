@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7790 days**.
 
-And here is a just a random fact -  **When Alexander Graham Bell invented the telephone back in 1876, only six phones were sold in the first month.**.
+And here is a just a random fact -  **Playwright Shakespeare was only 18 years old when he married Ann Hathaway, who was 26 years old at the time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
