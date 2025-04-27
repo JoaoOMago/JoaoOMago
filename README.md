@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7790 days**.
 
-And here is a just a random fact -  **Ancient Egyptians believed that onions would keep evil spirits away**.
+And here is a just a random fact -  **Thomas Watson, who was the chairman of IBM in 1943 predicted that their would probably only be a world market for five computers.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
