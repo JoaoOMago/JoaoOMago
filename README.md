@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7789 days**.
 
-And here is a just a random fact -  **A newborn kangaroo weighs approximately 0.03 ounces and is small enough to fit in a teaspoon**.
+And here is a just a random fact -  **From all the oxygen that a human breathes, twenty percent goes to the brain**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
