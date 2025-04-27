@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7790 days**.
 
-And here is a just a random fact -  **All of Chrysler's PT Cruisers are built in Mexico.**.
+And here is a just a random fact -  **The Romans used to clean themselves with olive oil since they did not have any soap. They would pour the oil on their bodies, and then use a strigil, which is type of blade, to scrape off any dirt along with the oil**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
