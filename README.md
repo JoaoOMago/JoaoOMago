@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7790 days**.
 
-And here is a just a random fact -  **The average office document gets copied 19 times**.
+And here is a just a random fact -  **The cost to build the Empire State Building was $40,948,900**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
