@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7790 days**.
 
-And here is a just a random fact -  **Every continent begins and ends in the same letter. eg AfricA, EuropE**.
+And here is a just a random fact -  **The first Labor Day holiday was celebrated on Tuesday, September 5, 1882, in New York City**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
