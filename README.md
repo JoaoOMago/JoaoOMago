@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7791 days**.
 
-And here is a just a random fact -  **The largest coral reef in the world is the Great Barrier Reef located in Australia. The reef is approximately 2023 kilometers long**.
+And here is a just a random fact -  **Casey Kasem is the voice of Shaggy on the cartoon show "Scooby-Doo." Casey Kasem, being a strict vegetarian, also requested that Shaggy follow the same diet on the show**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
