@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7792 days**.
 
-And here is a just a random fact -  **In 1905, Chapman and Skinner in San Francisco invented the first portable electric vacuum.**.
+And here is a just a random fact -  **Iguanas can recognize their human handlers and greet them differently, compared with strangers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
