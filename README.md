@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7792 days**.
 
-And here is a just a random fact -  **Humans breathe in and out approximately one litre of air in ten seconds**.
+And here is a just a random fact -  **Every year, an igloo hotel is built in Sweden that has the capacity to sleep 100 people**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
