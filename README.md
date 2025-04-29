@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7791 days**.
 
-And here is a just a random fact -  **Black pepper is the most popular spice in the world**.
+And here is a just a random fact -  **Wendel Clark holds the record for the longest span between NHL All-Star appearances, with 13 years (1986-1999)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
