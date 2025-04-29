@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7791 days**.
 
-And here is a just a random fact -  **Google receives more than 200 million search queries a day, more than half of which come from outside the United States. Peak traffic hours to google.com are between 6 a.m. and noon PST, when more than 2,000 search queries are answered a second**.
+And here is a just a random fact -  **A cat has 32 muscles in each ear**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
