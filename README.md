@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7792 days**.
+Here is a random fact about me - I have been on this planet for **7793 days**.
 
-And here is a just a random fact -  **In the U.S. 7 out of 10 homes use candles**.
+And here is a just a random fact -  **Men sweat more than women. This is because women can better regulate the amount of water they lose**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
