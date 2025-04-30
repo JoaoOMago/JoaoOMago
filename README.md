@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7792 days**.
 
-And here is a just a random fact -  **People that use mobile phones are 2.5 time more likely to develop cancer in areas of the brain that are adjacent to the ear they use to talk on the mobile phone**.
+And here is a just a random fact -  **Each year in America there are about 300,000 deaths that can be attributed to obesity**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
