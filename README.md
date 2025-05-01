@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7793 days**.
+Here is a random fact about me - I have been on this planet for **7794 days**.
 
-And here is a just a random fact -  **The word housekeeping was invented by Shakespeare**.
+And here is a just a random fact -  **The colour blue has a calming effect. It causes the brain to release calming hormones**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
