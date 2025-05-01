@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7794 days**.
 
-And here is a just a random fact -  **Japanese research has concluded that moderate drinking can boost IQ levels**.
+And here is a just a random fact -  **In 1917, Margaret Sanger was jailed for one month for establishing the first birth control clinic**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
