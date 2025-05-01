@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7793 days**.
 
-And here is a just a random fact -  **A female ferret can die if she goes into heat and cannot find a mate**.
+And here is a just a random fact -  **Barney, the famous dinosaur that entertains kids is from Dallas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 Apr, 2025.</sub>
+<sub>Last updated by Github Actions on 01 May, 2025.</sub>
