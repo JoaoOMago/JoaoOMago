@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7795 days**.
 
-And here is a just a random fact -  **Pilgrims did not eat potatoes for Thanksgiving as they thought they were poisonous**.
+And here is a just a random fact -  **Chili Powder was invented in the 19th century in the American Southwest**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
