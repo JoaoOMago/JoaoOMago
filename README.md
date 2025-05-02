@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7794 days**.
+Here is a random fact about me - I have been on this planet for **7795 days**.
 
-And here is a just a random fact -  **Dueling is legal in Paraguay as long as both parties are registered blood donors**.
+And here is a just a random fact -  **Research indicates that people prefer the colour blue for their casual clothing**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
