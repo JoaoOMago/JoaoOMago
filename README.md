@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7795 days**.
 
-And here is a just a random fact -  **Fine-grained volcanic ash can be found as an ingredient in some toothpaste**.
+And here is a just a random fact -  **Japan has approximately 200 volcanoes and is home to 10% of the active volcanoes in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
