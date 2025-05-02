@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7795 days**.
 
-And here is a just a random fact -  **On average, a typical dairy cow lies down and stands up about 14 times a day**.
+And here is a just a random fact -  **In a day 34,000 children die every day from causes that are related to poverty and hunger**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
