@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7795 days**.
+Here is a random fact about me - I have been on this planet for **7796 days**.
 
-And here is a just a random fact -  **Every second there are 418 Kit Kat fingers eaten in the world**.
+And here is a just a random fact -  **The first Labor Day holiday was celebrated on Tuesday, September 5, 1882, in New York City**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
