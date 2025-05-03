@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7796 days**.
 
-And here is a just a random fact -  **The first Labor Day holiday was celebrated on Tuesday, September 5, 1882, in New York City**.
+And here is a just a random fact -  **The country with the highest consumption of candy at 29.5 pounds annually per person is Denmark**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
