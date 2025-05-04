@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7796 days**.
 
-And here is a just a random fact -  **There are approximately 100,000 miles of blood vessels in the human body**.
+And here is a just a random fact -  **Percentage of Africa that is wilderness: 28%. Percentage of North America that is wilderness: 38%**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
