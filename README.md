@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7796 days**.
 
-And here is a just a random fact -  **A chance of a woman having twins is increased after the age of 35. About 1 in 27 women will give birth to twins after this age. After 50 the chances of having twins is 1 in 9**.
+And here is a just a random fact -  **In 1978, the World Water Speed record was made by Ken Warby from Australia. His average speed was 317.6 mph, and his jet-powered hydroplane was 27 feet long called "Spirit of Australia." Warby built the boat himself in his back yard**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
