@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7798 days**.
+Here is a random fact about me - I have been on this planet for **7799 days**.
 
-And here is a just a random fact -  **In a survey conducted in 2000 by Kimberly-Clark, it was found that men prefer to fold their toilet paper, and women like to wad it**.
+And here is a just a random fact -  **Teflon was accidently discovered by scientist Dr. Roy Plunkett while he was conducting a coolant gas experiment in 1938**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
