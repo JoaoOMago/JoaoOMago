@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7799 days**.
 
-And here is a just a random fact -  **In 1970, Chip maker Intel purchased a pear orchard to build their corporate headquarters on**.
+And here is a just a random fact -  **Albert Einstein was cremated and his ashes were spread over a river located in New Jersey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
