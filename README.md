@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7801 days**.
 
-And here is a just a random fact -  **The reason why milk is white is because it contains a protein called Casein, which is white. Milk also contains fat, which is also white**.
+And here is a just a random fact -  **A study indicates that smokers are likely to die on average six and a half years earlier than non-smokers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 08 May, 2025.</sub>
+<sub>Last updated by Github Actions on 09 May, 2025.</sub>
