@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7802 days**.
 
-And here is a just a random fact -  **The name Hasbro was invented by the name of the founders: HASsenfeld BROthers**.
+And here is a just a random fact -  **Cataloupes are named after the gardens of Cantaloupe, Italy where some belive this melon was first grown**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
