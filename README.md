@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7803 days**.
 
-And here is a just a random fact -  **Gardening is said to be one of the best exercises for maintaining healthy bones**.
+And here is a just a random fact -  **Chameleons can move their eyes independently. One eye can be looking forward and one eye backward at the same time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
