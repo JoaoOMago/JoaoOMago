@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7803 days**.
 
-And here is a just a random fact -  **Chameleons can move their eyes independently. One eye can be looking forward and one eye backward at the same time**.
+And here is a just a random fact -  **On average, it is estimated that females injure themselves ten time more than males do while playing sports**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
