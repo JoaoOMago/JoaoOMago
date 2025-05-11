@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7803 days**.
+Here is a random fact about me - I have been on this planet for **7804 days**.
 
-And here is a just a random fact -  **Early Romans used to use porcupine quills as toothpicks**.
+And here is a just a random fact -  **Baskin Robbins plain vanilla ice cream is the number one selling flavour and accounts for a quarter of their sales**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
