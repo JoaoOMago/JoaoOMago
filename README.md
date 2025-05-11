@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7803 days**.
 
-And here is a just a random fact -  **A Singapore singing group by the name of "The Oriental Singers," sang non-stop for 74 hours and five minutes**.
+And here is a just a random fact -  **Dieting can cause bad breath since less saliva is produced which leads to dry mouth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 May, 2025.</sub>
+<sub>Last updated by Github Actions on 11 May, 2025.</sub>
