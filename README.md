@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7804 days**.
 
-And here is a just a random fact -  **Each king in a deck of playing cards represents a great king fromhistory. Spades - King David; Clubs - Alexander the Great; Hearts -Charlemagne;and Diamonds - Julius Caesar.**.
+And here is a just a random fact -  **The popular chocolate bar "Three Musketeers" got its name because when it was first introduced in 1932 there were three individual bars. The flavours were strawberry, chocolate, and vanilla**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
