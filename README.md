@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7804 days**.
+Here is a random fact about me - I have been on this planet for **7805 days**.
 
-And here is a just a random fact -  **The longer white infants from low-income families are breast-fed, the less likely they will be overweight as young children, researchers said on Monday**.
+And here is a just a random fact -  **There has only been 193,000 metric tonnes of gold discovered to date.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
