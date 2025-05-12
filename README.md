@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7805 days**.
 
-And here is a just a random fact -  **If you have three quarters, four dimes, and four pennies, you have$1.19. You also have the largest amount of money in coins without beingable tomake change for a dollar.**.
+And here is a just a random fact -  **A crocodile can open and close its jaw but cannot move it side to side**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
