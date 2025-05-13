@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7805 days**.
 
-And here is a just a random fact -  **On average, 150 couples get married in Las Vegas each day**.
+And here is a just a random fact -  **In Hong Kong, delivery times are primarily influenced by traffic conditions on elevators. It often takes drivers longer to travel vertically than horizontally, as access to elevators is so congested during "high peak" hours. This is due to the volume of people residing in high rises**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 May, 2025.</sub>
+<sub>Last updated by Github Actions on 13 May, 2025.</sub>
