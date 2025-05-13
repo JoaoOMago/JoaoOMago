@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7806 days**.
 
-And here is a just a random fact -  **The rarest coffee in the world is Kopi Luwak, which is found in Indonesia. It cost about $300 a pound**.
+And here is a just a random fact -  **The largest LEGO castle that was ever built was built with 400,000 LEGO bricks and was 4.45 m x 5.22 m**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
