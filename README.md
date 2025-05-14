@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7807 days**.
 
-And here is a just a random fact -  **Bhutan issued a stamp in 1973 that looked like a record and actually would play the Bhutanese national anthem if placed on a record player**.
+And here is a just a random fact -  **Sheep can detect other sheep faces like humans do. They can remember up to 50 sheep faces**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
