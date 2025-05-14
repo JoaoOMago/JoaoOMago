@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7806 days**.
+Here is a random fact about me - I have been on this planet for **7807 days**.
 
-And here is a just a random fact -  **Scientists have discovered that the longer the ring finger is in boys the less chance they have of having a heart attack**.
+And here is a just a random fact -  **In 1948 and 1950 the oldest ears of popping corn were discovered. They were located in the Bat Cave of west central New Mexico. They ranged in size from smaller than a penny to approximately two inches, and were about 4,000 years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
