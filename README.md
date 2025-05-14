@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7807 days**.
 
-And here is a just a random fact -  **The biggest religious building in the world is a Hindu Temple, Angkor Wat, located in Cambodia. It was built at the end of the 11th century**.
+And here is a just a random fact -  **The name for Ivory Soap was inspired by a verse from the Bible. Harley Proctor got though of the name when the minister read from Psalms 45:8, "All thy garments smell of myrrh and aloes and cassia, out of the ivory palaces whereby they have made thee glad."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
