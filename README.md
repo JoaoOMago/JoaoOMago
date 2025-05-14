@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7806 days**.
 
-And here is a just a random fact -  **The longest human beard on record is 17.5 feet, held by Hans N. Langseth who was born in Norway in 1846**.
+And here is a just a random fact -  **The only woman that has appeared on a U.S. paper currency is Martha Washington**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
