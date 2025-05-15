@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7807 days**.
 
-And here is a just a random fact -  **Pollsters say that 40 percent of dog and cat owners carry pictures of the pets in their wallets**.
+And here is a just a random fact -  **The all-time most nominated Grammy artist with 77 nominations is Quincy Jones**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
