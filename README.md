@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7808 days**.
+Here is a random fact about me - I have been on this planet for **7809 days**.
 
-And here is a just a random fact -  **Skippy Peanut Butter is sold more in the world than any other peanut butter**.
+And here is a just a random fact -  **A rabbit is not able to vomit**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
