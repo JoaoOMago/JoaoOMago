@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7808 days**.
 
-And here is a just a random fact -  **Whooping cranes are born with blue eyes that change to bright gold by the time they six months old**.
+And here is a just a random fact -  **Skippy Peanut Butter is sold more in the world than any other peanut butter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
