@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7808 days**.
 
-And here is a just a random fact -  **DC-10, the name of an airplane stands for "Douglas Commercial."**.
+And here is a just a random fact -  **It cost the soft drink industry $100 million a year for thefts committed involving vending machines**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
