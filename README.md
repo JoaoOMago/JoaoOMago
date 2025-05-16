@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7809 days**.
 
-And here is a just a random fact -  **There is a restaurant in Stockholm that only offers all-garlic products. They even have a garlic cheesecake**.
+And here is a just a random fact -  **To make an espresso 42 coffee beans are needed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
