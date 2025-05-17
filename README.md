@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7810 days**.
 
-And here is a just a random fact -  **On average, Americans move to a new place eleven times in their lifetime**.
+And here is a just a random fact -  **In a day 34,000 children die every day from causes that are related to poverty and hunger**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
