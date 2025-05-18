@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7810 days**.
 
-And here is a just a random fact -  **The only desert in Canada is located in Osoyoos, British Columbia**.
+And here is a just a random fact -  **Ringo Starr appeared in a Japanese advertisement for apple sauce. Ironically his name means "apple sauce" in Japanese**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
