@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7811 days**.
 
-And here is a just a random fact -  **During the era of Louis XIV, women used lemons to redden their lips**.
+And here is a just a random fact -  **By law, information collected in a U.S. census must remain confidential for seventy-two years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 18 May, 2025.</sub>
+<sub>Last updated by Github Actions on 19 May, 2025.</sub>
