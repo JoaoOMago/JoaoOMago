@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7813 days**.
 
-And here is a just a random fact -  **Dueling is legal in Paraguay as long as both parties are registered blood donors**.
+And here is a just a random fact -  **A snake charmer in Bangladesh once found 3,500 poisonous cobras and their eggs hidden underneath the floors of two suburban homes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
