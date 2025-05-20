@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7812 days**.
+Here is a random fact about me - I have been on this planet for **7813 days**.
 
-And here is a just a random fact -  **96% of people put the peanut butter on first when making a peanut butter and jelly sandwich**.
+And here is a just a random fact -  **The USA bought Alaska from Russia for 2 cents an acre**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
