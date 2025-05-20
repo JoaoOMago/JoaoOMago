@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7812 days**.
 
-And here is a just a random fact -  **Every day, over five billion gallons of water are flushed down toilets in the United States**.
+And here is a just a random fact -  **Chances of a women getting breast cancer are increased by excesseive use of alcohol**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
