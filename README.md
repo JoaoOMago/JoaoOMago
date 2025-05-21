@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7814 days**.
 
-And here is a just a random fact -  **American President Calvin Coolidge (1923-1929) used to like Vaseline being rubbed on his head while he ate breakfast in bed**.
+And here is a just a random fact -  **Adult earwigs can float in water for up to 24 hours**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
