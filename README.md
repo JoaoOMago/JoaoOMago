@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7814 days**.
 
-And here is a just a random fact -  **In the wild, the poinsettia flower can reach a height of 12 feet, and have leaves that are eight inches across.**.
+And here is a just a random fact -  **Clarence Crane the inventor of "Crane's Peppermint Life Savers" sold his rights to the popular candy for less than three thousand dollars.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
