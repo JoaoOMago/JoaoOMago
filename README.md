@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7813 days**.
 
-And here is a just a random fact -  **Research has indicated that approximately eleven minutes are cut off the life of an average male smoker from each cigarette smoked**.
+And here is a just a random fact -  **A common drink for Tibetans is Butter Tea which is made out of butter, salt, and brick tea**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
