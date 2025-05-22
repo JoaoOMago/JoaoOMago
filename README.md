@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7814 days**.
 
-And here is a just a random fact -  **The town of Olney, Illinois celebrates a "Squirrel Day" festival to honour the 200 albino squirrels that live in the town. The festival includes a squirrel blessing by a priest**.
+And here is a just a random fact -  **Airports that are at higher altitudes require a longer airstrip due to lower air density**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
