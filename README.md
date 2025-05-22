@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7815 days**.
 
-And here is a just a random fact -  **Vampire bat saliva has been responsible for many advances in research into stroke recovery**.
+And here is a just a random fact -  **A shark is the only fish that can blink with both eyes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
