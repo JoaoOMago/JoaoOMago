@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7815 days**.
 
-And here is a just a random fact -  **When former Texas Governor James Hogg was on his deathbed he made a special request that a pecan tree be planted at the head of his grave instead of a tombstone. The governor passed away on March 2, 1906, which is Texas Independence Day. The pecan tree is now the state tree of Texas**.
+And here is a just a random fact -  **In just the first 56 days of life, the larva of the polyphemus moth eats about 86,000 times its birthweight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
