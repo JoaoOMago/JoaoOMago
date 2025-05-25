@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7818 days**.
 
-And here is a just a random fact -  **There are at least six universal facial expressions. They are: happiness, sadness, disgust, fear, anger and surprise**.
+And here is a just a random fact -  **When the are in danger, kangaroos will beat the ground loudly with their hind feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
