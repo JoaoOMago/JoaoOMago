@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7817 days**.
 
-And here is a just a random fact -  **NASA scientists have concluded that the state of California is moving north and will collide with the state of Alaska in roughly 150 million years**.
+And here is a just a random fact -  **All dogs are the descendant of the wolf. These wolves lived in eastern Asia about 15,000 years ago**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
