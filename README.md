@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7819 days**.
 
-And here is a just a random fact -  **The reason firehouses have circular stairways is from the days of yorewhen the engines were pulled by horses. The horses were stabled on theground floor and figured out how to walk up straight staircases.**.
+And here is a just a random fact -  **The seventeenth president of the United States, Andrew Johnson did not know how to read until he was 17 years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
