@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7819 days**.
 
-And here is a just a random fact -  **On average, Americans eat one hundred acres of pizza a day. This amounts to about three hundred fifty slices per second**.
+And here is a just a random fact -  **In 1785, the city of Paris removed bones from cemeteries to ease the overflow of dead people. They took these bones and stacked them in tunnels now known as the Catacombs. You can visit these tunnel attractions and work your way along long corridors, which are stacked with skulls and bones**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
