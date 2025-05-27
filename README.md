@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7819 days**.
 
-And here is a just a random fact -  **In the movie Psycho by Alfred Hitchcock, chocolate syrup was used for blood in the shower scene**.
+And here is a just a random fact -  **Our eyes are always the same size from birth, but our nose and ears. never stop growing**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
