@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7820 days**.
 
-And here is a just a random fact -  **There are more Subway restaurants in Canada than there are McDonald restaurants**.
+And here is a just a random fact -  **Humans and dolphins are the only species that have sex for pleasure**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
