@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7820 days**.
+Here is a random fact about me - I have been on this planet for **7821 days**.
 
-And here is a just a random fact -  **In Kentucky, it is illegal to carry ice cream in your back pocket**.
+And here is a just a random fact -  **Approximately 87% of dog owners say that when they watch T.V. their dog curls up beside them or at their feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
