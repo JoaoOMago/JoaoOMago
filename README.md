@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7822 days**.
 
-And here is a just a random fact -  **People that suffer from gum disease are twice as likely to have a stroke or heart attack**.
+And here is a just a random fact -  **No president of the United States was an only child**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
