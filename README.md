@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7822 days**.
 
-And here is a just a random fact -  **Olives, which grow on trees, were first cultivated 5,000 years ago in Syria**.
+And here is a just a random fact -  **Ballroom dancing is a course at Brigham Young University in Utah**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
