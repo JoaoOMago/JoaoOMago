@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7822 days**.
+Here is a random fact about me - I have been on this planet for **7823 days**.
 
-And here is a just a random fact -  **A newly hatched fish is called a "fry."**.
+And here is a just a random fact -  **French astronomer Adrien Auzout had once considered building a telescope that was 1,000 feet long in the 1600s. He thought the magnification would be so great, he would see animals on the moon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
