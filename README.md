@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7823 days**.
 
-And here is a just a random fact -  **A barnacle has the largest penis of any other animal in relation to its size**.
+And here is a just a random fact -  **On an American one-dollar bill, there is an owl in the upper right-hand corner of the "1" encased in the "shield" and a spider hidden in the front upper right-hand corner**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
