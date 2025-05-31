@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7824 days**.
 
-And here is a just a random fact -  **Ticks can be as small as a grain of rice and grow to be as big as a marble**.
+And here is a just a random fact -  **On average, falling asleep while driving results in 550 accidents per day in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
