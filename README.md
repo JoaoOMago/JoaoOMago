@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7823 days**.
 
-And here is a just a random fact -  **The study of twins is known as gemellology**.
+And here is a just a random fact -  **During the era of Louis XIV, women used lemons to redden their lips**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 May, 2025.</sub>
+<sub>Last updated by Github Actions on 31 May, 2025.</sub>
