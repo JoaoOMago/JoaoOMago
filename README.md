@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7823 days**.
 
-And here is a just a random fact -  **If you yelled for 8 years, 7 months and 6 days, you would have produced enough sound energy to heat one cup of coffee**.
+And here is a just a random fact -  **Other than London, Liverpool is the most filmed British city, and was used to film more than 140 films in 2002**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
