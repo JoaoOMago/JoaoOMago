@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7824 days**.
 
-And here is a just a random fact -  **The name "Grey Poupon" used for mustard comes from two people: Maurice Grey and Auguste Poupon. Grey was the inventor of a machine that mass produced fine textured mustard, and Poupon was an already established maker of mustard. In 1886 the Grey-Poupon firm was formed**.
+And here is a just a random fact -  **Americans write approximately 50 billion checks a year making it the second most frequent payment method used after cash**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
