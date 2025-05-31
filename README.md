@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7823 days**.
 
-And here is a just a random fact -  **Other than London, Liverpool is the most filmed British city, and was used to film more than 140 films in 2002**.
+And here is a just a random fact -  **In the wild, the poinsettia flower can reach a height of 12 feet, and have leaves that are eight inches across.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
