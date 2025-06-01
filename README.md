@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7824 days**.
+Here is a random fact about me - I have been on this planet for **7825 days**.
 
-And here is a just a random fact -  **The deepest mine in the world is the East Rand mine, which goes to a depth of about 3,585 metres**.
+And here is a just a random fact -  **You burn more calories sleeping than you do watching television**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
