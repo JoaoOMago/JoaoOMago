@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7825 days**.
 
-And here is a just a random fact -  **The green ring that is formed around the yolk of eggs that have been cooked too long is formed by the chemical reaction from the iron in the yolk and the sulphur in the white part of the egg**.
+And here is a just a random fact -  **The speed at which honey bees fly is at 15 miles per hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Jun, 2025.</sub>
+<sub>Last updated by Github Actions on 02 Jun, 2025.</sub>
