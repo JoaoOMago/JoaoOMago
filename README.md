@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7827 days**.
 
-And here is a just a random fact -  **The three wealthiest families in the world have more assets than the combined wealth of the forty-eight poorest nations**.
+And here is a just a random fact -  **The first owner of the Marlboro Company died of lung cancer**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
