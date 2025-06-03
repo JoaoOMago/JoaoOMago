@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7827 days**.
 
-And here is a just a random fact -  **If a statue in the park of a person on a horse has both front legs inthe air, the person died in battle; if the horse has one front leg inthe air,the person died as a result of wounds received in battle; if the horsehasall four legs on the ground, the person died of natural causes.**.
+And here is a just a random fact -  **A chance of a woman having twins is increased after the age of 35. About 1 in 27 women will give birth to twins after this age. After 50 the chances of having twins is 1 in 9**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
