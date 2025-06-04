@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7828 days**.
 
-And here is a just a random fact -  **Many hamsters only blink one eye at a time**.
+And here is a just a random fact -  **Walt Disney had a fear of mice**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
