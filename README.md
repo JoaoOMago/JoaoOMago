@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7828 days**.
+Here is a random fact about me - I have been on this planet for **7829 days**.
 
-And here is a just a random fact -  **When the First Lady, Eleanor Roosevelt, received an alarming number of threatening letters, soon after her husband became President at the height of the Depression, the Secret Service insisted that she carry a pistol in her purse**.
+And here is a just a random fact -  **The average temperature on Earth is 15 degrees celcius.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
