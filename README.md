@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7830 days**.
 
-And here is a just a random fact -  **A 13-year-old boy in India produced winged beetles in his urine after hatching the eggs in his body**.
+And here is a just a random fact -  **Due to the deforestation of the forests in North China, over one million tons of sands blows into Beijing from the Gobi desert. It sometimes causes the sky to turn yellow.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
