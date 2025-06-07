@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7831 days**.
 
-And here is a just a random fact -  **Scientists have discovered a way to make biodegradable plastic from plants by using genetic engineering.**.
+And here is a just a random fact -  **The first American celebration of St. Patricks Day was at Boston in 1737**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
