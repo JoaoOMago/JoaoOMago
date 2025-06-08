@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7831 days**.
+Here is a random fact about me - I have been on this planet for **7832 days**.
 
-And here is a just a random fact -  **Elephants can't jump. Every other mammal can.**.
+And here is a just a random fact -  **In a lifetime, an average human produces 10,000 gallons of saliva**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
