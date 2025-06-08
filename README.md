@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7831 days**.
 
-And here is a just a random fact -  **85% of weddings are held in a synagogue or church**.
+And here is a just a random fact -  **Canada has more donut shops per capita than the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 07 Jun, 2025.</sub>
+<sub>Last updated by Github Actions on 08 Jun, 2025.</sub>
