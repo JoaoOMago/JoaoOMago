@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7832 days**.
 
-And here is a just a random fact -  **Trees that are near street lights do not shed their leaves as fast as a tree that is in the country**.
+And here is a just a random fact -  **The Popsicle was invented by 11 year-old Frank Epperson in 1905. He left his drink outside with a stir stick in it and he noticed that it had frozen. He applied for a patent in 1923 and named it "Epsicle." The name was later changed to Popsicle**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
