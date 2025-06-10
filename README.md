@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7833 days**.
 
-And here is a just a random fact -  **Ukrainian people celebrate Christmas on January 7th, which is the Orthodox Christmas Day**.
+And here is a just a random fact -  **Every three days a human stomach gets a new lining**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
