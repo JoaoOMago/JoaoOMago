@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7834 days**.
 
-And here is a just a random fact -  **The first ice hotel was built in Swedish Lapland**.
+And here is a just a random fact -  **99% of the blueberries that are produced in the United States are produced in the state of Maine**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Jun, 2025.</sub>
+<sub>Last updated by Github Actions on 11 Jun, 2025.</sub>
