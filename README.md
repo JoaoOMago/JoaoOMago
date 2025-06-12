@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7835 days**.
 
-And here is a just a random fact -  **An adult porcupine has approximately 30,000 quills on its body, which are replaced every year**.
+And here is a just a random fact -  **Taipan snakes have 50 times more toxic than a cobra snake**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Jun, 2025.</sub>
+<sub>Last updated by Github Actions on 12 Jun, 2025.</sub>
