@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7836 days**.
 
-And here is a just a random fact -  **In the United States birds and planes collided more than 22,000 times between the years of 1990 and 1998**.
+And here is a just a random fact -  **The famous Christmas song "Jingle Bells" was written for a Thanksgiving program in 1857 by James Pierpont. At the time, the song was called "The One-Horse Open Sleigh."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
