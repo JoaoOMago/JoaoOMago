@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7835 days**.
+Here is a random fact about me - I have been on this planet for **7836 days**.
 
-And here is a just a random fact -  **Carolyn Shoemaker, famous astronomer, has discovered 32 comets and approximately 300 asteroids**.
+And here is a just a random fact -  **The New York Yankees have appeared in the World Series a league leading 38 times and won 26 titles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
