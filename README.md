@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7836 days**.
+Here is a random fact about me - I have been on this planet for **7837 days**.
 
-And here is a just a random fact -  **An average adult produces about half a litre of flatulent gas per day, resulting in an average of about fourteen occurrences of flatulence a day**.
+And here is a just a random fact -  **In 1888, an Egyptian peasant discovered an estimated three hundred thousand mummified cats in Beni Hassan, Egypt. Of the cats that were not stolen once, the find was made public, the remaining mummified cats were shipped to Great Britain to be used as agricultural fertilizer**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
