@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7837 days**.
 
-And here is a just a random fact -  **Many people in parts of China eat insects. Some common insects are bean worms, scoprions, and locusts**.
+And here is a just a random fact -  **Columbia University is the second largest landowner in New York City, after the Catholic Church**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
