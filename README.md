@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7837 days**.
+Here is a random fact about me - I have been on this planet for **7838 days**.
 
-And here is a just a random fact -  **The household wrench was invented by boxing heavyweight champion Jack Johnson in 1922**.
+And here is a just a random fact -  **The only 15 letter word that can be spelled without repeating a letteris uncopyrightable.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
