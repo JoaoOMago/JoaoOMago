@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7839 days**.
 
-And here is a just a random fact -  **Every year in the U.S., there are 178,000 new cases of lung cancer**.
+And here is a just a random fact -  **A catfish has about 100,000 taste buds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
