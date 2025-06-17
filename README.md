@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7841 days**.
 
-And here is a just a random fact -  **Every photograph of the first American atomic bomb detonation was taken by Harold Edgerton**.
+And here is a just a random fact -  **The highest recorded speed of a sneeze is 165 km per hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
