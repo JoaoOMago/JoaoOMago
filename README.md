@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7840 days**.
 
-And here is a just a random fact -  **Humans breathe in and out approximately one litre of air in ten seconds**.
+And here is a just a random fact -  **The cost to build the Empire State Building was $40,948,900**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
