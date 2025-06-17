@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7841 days**.
 
-And here is a just a random fact -  **There are over 2,000 species of butterflies in the rainforests of South America**.
+And here is a just a random fact -  **It takes 3,000 cows to supply the NFL with enough leather for a year'ssupply of footballs.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
