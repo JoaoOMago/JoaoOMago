@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7841 days**.
 
-And here is a just a random fact -  **There have been close to 200 coups and counter-coups in the country of Bolivia**.
+And here is a just a random fact -  **Singer Alice Cooper once had a live chicken thrown at him during a concert in Toronto. He threw the chicken back at the crowd and all the publicity surrounding the incident skyrocketed his singing career**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 17 Jun, 2025.</sub>
+<sub>Last updated by Github Actions on 18 Jun, 2025.</sub>
