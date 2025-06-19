@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7843 days**.
 
-And here is a just a random fact -  **The last thing Elvis Presley ate before he died was four scoops of ice cream and 6 chocolate chip cookies**.
+And here is a just a random fact -  **On average, 150 couples get married in Las Vegas each day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
