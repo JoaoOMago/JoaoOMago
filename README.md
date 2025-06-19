@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7842 days**.
 
-And here is a just a random fact -  **A dentist from Buffalo New York named Alfred P. Southwick invented the electric chair.**.
+And here is a just a random fact -  **American actor Jack Nicholson, and American singer Bobby Darrin were raised believing their grandmothers were their mothers and their mothers were their older sisters**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 18 Jun, 2025.</sub>
+<sub>Last updated by Github Actions on 19 Jun, 2025.</sub>
