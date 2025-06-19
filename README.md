@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7842 days**.
 
-And here is a just a random fact -  **During the making of the the movie "Fight Club," actor Brad Pitt chipped his tooth. However, he did not get his tooth capped until after the movie was done filming as he thought it would look better chipped for his character**.
+And here is a just a random fact -  **In Japan, the number four is considered to be unlucky because the Japanese word for four sounds very similar to the word death**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
