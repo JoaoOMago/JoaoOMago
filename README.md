@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7843 days**.
 
-And here is a just a random fact -  **There are over 1,000,000 swimming pools in Florida, eventhough the ocean is no farther than 80 miles away**.
+And here is a just a random fact -  **The platypus uses its bill to find animals that it feeds on. Its bill can sense the tiny electric fields that their preys emit**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
