@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7843 days**.
+Here is a random fact about me - I have been on this planet for **7844 days**.
 
-And here is a just a random fact -  **The first restaurant to open in Hollywood was the Musso & Frank Grill in 1919**.
+And here is a just a random fact -  **Researches have discovered that eating five or more apples a week is linked to better functioning of the lungs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
