@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7843 days**.
 
-And here is a just a random fact -  **Although the outsides of a bone are hard, they are generally light and soft inside. They are about 75% water**.
+And here is a just a random fact -  **Depending on the size, it can take an oyster anywhere from few months to many years to form a pearl**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
