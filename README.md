@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7846 days**.
 
-And here is a just a random fact -  **In the United States, approximately 50 million people fish per year**.
+And here is a just a random fact -  **People have the tendency to chew the food on the side that they most often use their hand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
