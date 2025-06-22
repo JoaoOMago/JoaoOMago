@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7845 days**.
 
-And here is a just a random fact -  **The postage rate for a letter in 1693 was determined through how much light could pass through the letter. The postage rate would be more expensive if less light went through, and this process was called candling**.
+And here is a just a random fact -  **The biggest religious building in the world is a Hindu Temple, Angkor Wat, located in Cambodia. It was built at the end of the 11th century**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 21 Jun, 2025.</sub>
+<sub>Last updated by Github Actions on 22 Jun, 2025.</sub>
