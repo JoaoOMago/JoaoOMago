@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7845 days**.
 
-And here is a just a random fact -  **Fourteen people die each day from asthma in the United States**.
+And here is a just a random fact -  **Roughly 42% of people in the United Kingdom snore**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
