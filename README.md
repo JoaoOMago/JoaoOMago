@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7846 days**.
 
-And here is a just a random fact -  **In one day, a queen bee can lay up to 1500 eggs in one day**.
+And here is a just a random fact -  **The name Jeep came from the abbreviation used in the army for the"General Purpose" vehicle, G.P.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
