@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7847 days**.
 
-And here is a just a random fact -  **Approximately 1 billion stamps are produced in Australia annually**.
+And here is a just a random fact -  **Cashew nuts contain oil in the shell that is very irritating to the skin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
