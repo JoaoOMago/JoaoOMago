@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7847 days**.
+Here is a random fact about me - I have been on this planet for **7848 days**.
 
-And here is a just a random fact -  **Uranus is the only planet that rotates on its side**.
+And here is a just a random fact -  **The U.S. paid Russia $7.2 million for Alaska in 1867**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
