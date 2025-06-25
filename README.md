@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7848 days**.
 
-And here is a just a random fact -  **215 jeans can be made with one bale of cotton**.
+And here is a just a random fact -  **Women hearts beat faster than men**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Jun, 2025.</sub>
+<sub>Last updated by Github Actions on 25 Jun, 2025.</sub>
