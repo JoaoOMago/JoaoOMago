@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7849 days**.
+Here is a random fact about me - I have been on this planet for **7850 days**.
 
-And here is a just a random fact -  **Adult earwigs can float in water for up to 24 hours**.
+And here is a just a random fact -  **Spartacus led the revolt of the Roman slaves and gladiators in 73 B.C**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
