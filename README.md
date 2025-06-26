@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7850 days**.
 
-And here is a just a random fact -  **Paper money is not made from wood pulp but from cotton. This means that it will not disintegrate as fast if it is put in the laundry**.
+And here is a just a random fact -  **An apple, potato, and onion all taste the same if you eat them with your nose plugged. They all taste sweet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
