@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7850 days**.
 
-And here is a just a random fact -  **Feb 1865 and Feb 1999 are the only months in recorded history not to have a full moon**.
+And here is a just a random fact -  **Australia has had stamps that actually look like gems. In 1995 and 1996 they used a special technology to make the stamps look like diamonds and opals.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
