@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7850 days**.
 
-And here is a just a random fact -  **The original name for butterfly was flutterby**.
+And here is a just a random fact -  **Fires onland generally move faster uphill than downhill**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
