@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7849 days**.
 
-And here is a just a random fact -  **Mardi Gras means "Fat Tuesday." This is the festival that New Orleans, Louisiana is famous for having every year**.
+And here is a just a random fact -  **Ernest Vincent Wright wrote a fifty thousand-word novel, "Gadsby," without any word containing the letter "e."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Jun, 2025.</sub>
+<sub>Last updated by Github Actions on 26 Jun, 2025.</sub>
