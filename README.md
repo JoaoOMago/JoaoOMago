@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7850 days**.
+Here is a random fact about me - I have been on this planet for **7851 days**.
 
-And here is a just a random fact -  **Pepper was sold as individual grains during the Elizabethan times. The guards at the London docks had to sew up their pockets so they would not steal any of the pepper**.
+And here is a just a random fact -  **Playwright Shakespeare was only 18 years old when he married Ann Hathaway, who was 26 years old at the time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
