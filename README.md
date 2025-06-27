@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7850 days**.
 
-And here is a just a random fact -  **About 26 per cent of all indoor water used by households in Sydney, Australia are for laundry**.
+And here is a just a random fact -  **Tomatoes and cucumbers are fruits**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Jun, 2025.</sub>
+<sub>Last updated by Github Actions on 27 Jun, 2025.</sub>
