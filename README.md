@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7851 days**.
 
-And here is a just a random fact -  **The sloth moves so slowly that green algae grows in the grooves of their hair**.
+And here is a just a random fact -  **In 1970, Chip maker Intel purchased a pear orchard to build their corporate headquarters on**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 27 Jun, 2025.</sub>
+<sub>Last updated by Github Actions on 28 Jun, 2025.</sub>
