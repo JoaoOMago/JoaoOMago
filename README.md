@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7852 days**.
 
-And here is a just a random fact -  **Sales of antacids increase by as much as 20% the day after the Superbowl**.
+And here is a just a random fact -  **Oak trees can live 200 or more years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
