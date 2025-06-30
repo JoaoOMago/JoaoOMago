@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7854 days**.
 
-And here is a just a random fact -  **Whooping cranes are born with blue eyes that change to bright gold by the time they six months old**.
+And here is a just a random fact -  **Of all the countries, Brazil has the most plant species, with over 56,000**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
