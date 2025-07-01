@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7854 days**.
+Here is a random fact about me - I have been on this planet for **7855 days**.
 
-And here is a just a random fact -  **The Barn Owls hearing is so highly developed that they can hunt for their prey in total darkness**.
+And here is a just a random fact -  **The chewing gum Juicy Fruit has 10 calories. This is approximately the same as a bite of whole wheat bread**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
