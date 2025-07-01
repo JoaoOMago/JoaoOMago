@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7854 days**.
 
-And here is a just a random fact -  **India used to be the richest country in the world until the British invasion in the early 17th Century**.
+And here is a just a random fact -  **Carbon monoxide can kill a person in less than 15 minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
