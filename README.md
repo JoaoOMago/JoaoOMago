@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7855 days**.
 
-And here is a just a random fact -  **Karate actually originated in India, but was developed further in China**.
+And here is a just a random fact -  **Emus cannot walk backwards**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
