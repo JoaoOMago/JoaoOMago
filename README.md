@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7855 days**.
 
-And here is a just a random fact -  **Some farmers in Japan have learned to grow their watermelons into a square shape. They did this to conserve shelf space**.
+And here is a just a random fact -  **Close to 80% of people who watch the Super Bowl on television, only do so to view the commercials**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
