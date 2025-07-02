@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7856 days**.
 
-And here is a just a random fact -  **The most popular meal ordered at restaurants in the U.S. is fried chicken**.
+And here is a just a random fact -  **British scientists have found evidence that heart attacks increase significantly for people who watch soccer penalty shoot-outs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
