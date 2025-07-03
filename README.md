@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7856 days**.
 
-And here is a just a random fact -  **Bats always turn left when exiting a cave**.
+And here is a just a random fact -  **Three years after a person quits smoking, there chance of having a heart attack is the same as someone who has never smoked before**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
