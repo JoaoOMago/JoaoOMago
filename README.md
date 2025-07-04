@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7857 days**.
 
-And here is a just a random fact -  **The largest member of the dolphin family are orcas**.
+And here is a just a random fact -  **Herbert Hoover, who was the 31st president of the United Stated, turned over all the Federal salary checks he received to charity during the 47 years he was in government**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
