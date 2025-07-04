@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7857 days**.
+Here is a random fact about me - I have been on this planet for **7858 days**.
 
-And here is a just a random fact -  **The study of twins is known as gemellology**.
+And here is a just a random fact -  **By walking an extra 20 minutes every day, an average person will burn off seven pounds of body fat in an year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
