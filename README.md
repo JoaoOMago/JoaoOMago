@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7858 days**.
 
-And here is a just a random fact -  **On average it takes a shark seven days to replace a tooth**.
+And here is a just a random fact -  **In Belgium, 172,000 tons of chocolate are produced in a year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 04 Jul, 2025.</sub>
+<sub>Last updated by Github Actions on 05 Jul, 2025.</sub>
