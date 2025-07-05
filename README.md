@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7859 days**.
 
-And here is a just a random fact -  **Ho-Ho-Kus, a small town in New Jersey, is the only town in the United States of America that has two dashes in its name**.
+And here is a just a random fact -  **Pigs have no sweat glands, which is why they stay in water or mud to keep cool**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
