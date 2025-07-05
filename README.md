@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7859 days**.
 
-And here is a just a random fact -  **Cows can detect odors up to five miles away**.
+And here is a just a random fact -  **In a year, there are 60,000 trampoline injuries that occur in the U.S**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
