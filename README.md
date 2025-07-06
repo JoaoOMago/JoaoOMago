@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7859 days**.
 
-And here is a just a random fact -  **Archipelago is the word to describe a large group of islands that are located close together**.
+And here is a just a random fact -  **The most popular chocolate bar in the United Kingdom for the last 15 years has been Kit Kat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
