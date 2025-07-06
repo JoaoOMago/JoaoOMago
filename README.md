@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7859 days**.
 
-And here is a just a random fact -  **Sawney Beane, his wife, 8 sons, 6 daughters, and 32 grandchildren were a family of cannibals that lived in the caves near Galloway, Scotland in the early 17th Century. Although the total number is not known, it is believed they claimed over 50 victims per year. The entire family was taken by an army detachment to Edinburgh and executed, apparently without trial**.
+And here is a just a random fact -  **The largest hamburger cooked in the world weighed in at 6,040 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Jul, 2025.</sub>
+<sub>Last updated by Github Actions on 06 Jul, 2025.</sub>
