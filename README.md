@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7860 days**.
 
-And here is a just a random fact -  **Over 600,000 people died as a result of the Spanish influenza epidemic**.
+And here is a just a random fact -  **Back in 1919, the Russian transplant pioneer Serge Voronoff made headlines by grafting monkey testicles onto human males.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
