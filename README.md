@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7861 days**.
 
-And here is a just a random fact -  **The dragonfly has not changed over the last 300 million years**.
+And here is a just a random fact -  **The sun shrinks five feet every hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 07 Jul, 2025.</sub>
+<sub>Last updated by Github Actions on 08 Jul, 2025.</sub>
