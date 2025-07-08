@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7862 days**.
 
-And here is a just a random fact -  **The most diners per capita in the world are located in the U.S. state New Jersey**.
+And here is a just a random fact -  **Toronto was the first city in the world with a computerized traffic signal system**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
