@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7862 days**.
 
-And here is a just a random fact -  **In 1391, China began producing toliet paper for use by its Emperors**.
+And here is a just a random fact -  **A jiffy is an actual unit of time for 1/100th of a second. Thus the saying, I will be there in a jiffy.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 08 Jul, 2025.</sub>
+<sub>Last updated by Github Actions on 09 Jul, 2025.</sub>
