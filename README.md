@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7862 days**.
 
-And here is a just a random fact -  **The longest human beard on record is 17.5 feet, held by Hans N. Langseth who was born in Norway in 1846**.
+And here is a just a random fact -  **There is an area located off the south-eastern Atlantic coast of the United States called the "Bermuda Triangle." It is known for a high rate of unexplained losses of ships, small boats, and aircraft, which has led some people to believe that this triangle has supernatural powers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
