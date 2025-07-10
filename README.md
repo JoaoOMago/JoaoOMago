@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7863 days**.
 
-And here is a just a random fact -  **The fastest flying butterfly is the Monarch, which has been clocked with a speed as high as 17 miles per hour**.
+And here is a just a random fact -  **Saturday is the most popular day for people to eat out in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
