@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7864 days**.
 
-And here is a just a random fact -  **Annually, British people eat more than 15 pounds of beans**.
+And here is a just a random fact -  **One ton of grapes can produce 720 bottles of wine**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
