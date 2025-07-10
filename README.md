@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7864 days**.
 
-And here is a just a random fact -  **The reason why tattoos do not vanish even though we shed our skin is because the dye is injected deeper into the dermis part of the skin. It is only the epidermis that we shed**.
+And here is a just a random fact -  **The highest recorded speed of a sneeze is 165 km per hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
