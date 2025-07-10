@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7863 days**.
+Here is a random fact about me - I have been on this planet for **7864 days**.
 
-And here is a just a random fact -  **The silkworm moth has lost the ability to fly ever since it has been domesticated**.
+And here is a just a random fact -  **The name of the squiggly line "~" is called a tilde**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
