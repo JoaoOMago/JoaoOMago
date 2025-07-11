@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7865 days**.
 
-And here is a just a random fact -  **More than half the time spent in United States courts is cases that involve automobiles**.
+And here is a just a random fact -  **The White House has 35 bathrooms, 3 elevators, 132 rooms, and 412 doors in it**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
