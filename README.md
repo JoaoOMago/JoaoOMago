@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7864 days**.
 
-And here is a just a random fact -  **By partially filling saucers with vinegar and distributing the saucers around a room, you can eliminate odors**.
+And here is a just a random fact -  **A study revealed that men that were born with a low birth weight were less likely to get married**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Jul, 2025.</sub>
+<sub>Last updated by Github Actions on 11 Jul, 2025.</sub>
