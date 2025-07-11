@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7864 days**.
 
-And here is a just a random fact -  **A study revealed that men that were born with a low birth weight were less likely to get married**.
+And here is a just a random fact -  **Hockey pucks were originally made from frozen cow dung**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
