@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7865 days**.
 
-And here is a just a random fact -  **The human brain has about 100,000,000,000 (100 billion) neurons**.
+And here is a just a random fact -  **Americans, on average, spend 18% of his or her income on transportation as compared to only 13% spent on food**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
