@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7865 days**.
+Here is a random fact about me - I have been on this planet for **7866 days**.
 
-And here is a just a random fact -  **Teenage suicide is the second cause of death in the state of Wisconsin**.
+And here is a just a random fact -  **You are more likely to be killed by a champagne cork than by a poisonous spider**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
