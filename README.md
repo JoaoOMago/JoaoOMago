@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7866 days**.
 
-And here is a just a random fact -  **95% of the entire lemon crop produced in the U.S. is from California and Arizona**.
+And here is a just a random fact -  **People drank gold powder mixed in with water in medieval Europe to relieve pain from sore limbs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Jul, 2025.</sub>
+<sub>Last updated by Github Actions on 13 Jul, 2025.</sub>
