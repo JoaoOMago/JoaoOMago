@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7867 days**.
 
-And here is a just a random fact -  **A barnacle has the largest penis of any other animal in relation to its size**.
+And here is a just a random fact -  **"Bookkeeper" is the only word in English language with three consecutive double letters**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
