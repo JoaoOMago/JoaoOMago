@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7867 days**.
 
-And here is a just a random fact -  **When the body is resting, it takes in about 10 litres of air every minute**.
+And here is a just a random fact -  **Thirty-five percent of the people who use personal ads for dating arealready married.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
