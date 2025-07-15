@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7869 days**.
 
-And here is a just a random fact -  **The CN Tower, in Toronto, is the tallest freestanding structure in the world with a height of about 553 metres**.
+And here is a just a random fact -  **Even though red roses looks the same, there are over 900 different types of red roses**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
