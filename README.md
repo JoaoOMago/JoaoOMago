@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7868 days**.
+Here is a random fact about me - I have been on this planet for **7869 days**.
 
-And here is a just a random fact -  **The Hollywood sign was first erected in 1923. It was first erected as "Hollywoodland."**.
+And here is a just a random fact -  **1 in 2000 babies are born with a tooth that is already visible**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
