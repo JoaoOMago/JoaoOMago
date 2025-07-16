@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7869 days**.
 
-And here is a just a random fact -  **Women take three times longer than men when using the toilet**.
+And here is a just a random fact -  **Pigs have no sweat glands, which is why they stay in water or mud to keep cool**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 15 Jul, 2025.</sub>
+<sub>Last updated by Github Actions on 16 Jul, 2025.</sub>
