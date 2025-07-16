@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7870 days**.
 
-And here is a just a random fact -  **In a year, there are 60,000 trampoline injuries that occur in the U.S**.
+And here is a just a random fact -  **During World War II, the very first bomb dropped on Berlin by the Allies killed the only elephant in the Berlin Zoo**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
