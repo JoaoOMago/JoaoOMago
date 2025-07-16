@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7869 days**.
 
-And here is a just a random fact -  **The glue on Israeli postage stamps is certified kosher**.
+And here is a just a random fact -  **Lighthouse keepers were nicknamed "wickies" because they tended the lamps wick**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
