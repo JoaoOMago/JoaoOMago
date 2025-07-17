@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7870 days**.
+Here is a random fact about me - I have been on this planet for **7871 days**.
 
-And here is a just a random fact -  **The city of Chicago has the only post office in the world where you can drive your car through**.
+And here is a just a random fact -  **There is enough concrete in the Hoover Dam to pave a two lane highway from San Francisco to New York**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
