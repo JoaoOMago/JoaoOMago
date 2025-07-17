@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7871 days**.
 
-And here is a just a random fact -  **A group of crows is called a murder**.
+And here is a just a random fact -  **Some snails live on branches in trees**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
