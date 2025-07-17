@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7871 days**.
 
-And here is a just a random fact -  **Pepsi originally contained pepsin, (the same stuff in pepcid AC) thus the name**.
+And here is a just a random fact -  **Whale oil was used in some car transmissions until 1973**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
