@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7871 days**.
 
-And here is a just a random fact -  **Elvis Presley used to be a truck driver before he started singing**.
+And here is a just a random fact -  **Sharks have survived on earth for about 400 million years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
