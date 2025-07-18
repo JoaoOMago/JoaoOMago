@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7872 days**.
 
-And here is a just a random fact -  **In 1871, horse cars were introduced. It was simply a car that was pulled over a track by a horse.**.
+And here is a just a random fact -  **Everyday approximately 35 meters of hair fibre is produced on the scalp of an adult**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
