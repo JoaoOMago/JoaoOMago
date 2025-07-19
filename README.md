@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7872 days**.
 
-And here is a just a random fact -  **Automobile building is the largest manufacturing industry in the world.**.
+And here is a just a random fact -  **The world record for the number of body piercings on one individual is 702, which is held by Canadian Brent Moffat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
