@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7872 days**.
 
-And here is a just a random fact -  **There is a law in the state of Idaho that does not permit one citizen to give another citizen a box of candy that is heavier than 50 pounds**.
+And here is a just a random fact -  **There are more than 1,000 chemicals in a cup of coffee. Of these, only 26 have been tested, and half-caused cancer in rats**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 18 Jul, 2025.</sub>
+<sub>Last updated by Github Actions on 19 Jul, 2025.</sub>
