@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7874 days**.
 
-And here is a just a random fact -  **Herbert Hoover, who was the 31st president of the United Stated, turned over all the Federal salary checks he received to charity during the 47 years he was in government**.
+And here is a just a random fact -  **The name for Ivory Soap was inspired by a verse from the Bible. Harley Proctor got though of the name when the minister read from Psalms 45:8, "All thy garments smell of myrrh and aloes and cassia, out of the ivory palaces whereby they have made thee glad."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
