@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7874 days**.
 
-And here is a just a random fact -  **The deepest cave in the world is the "Lamprechtsofen-Vogelshacht" cave which can be found in Salzburg, Austria. The cave is 5,354 feet deep**.
+And here is a just a random fact -  **In a year, the average person walks four miles to make his or her bed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
