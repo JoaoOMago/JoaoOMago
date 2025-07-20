@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7874 days**.
 
-And here is a just a random fact -  **The largest diamond found in the United States was a 40.23 carat white diamond. It was found in 1924 and nicknamed the "Uncle Sam."**.
+And here is a just a random fact -  **Pretzels were originally invented for Christian Lent. The twists of the pretzels are to resemble arms crossed in prayer**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
