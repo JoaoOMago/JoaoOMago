@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7874 days**.
 
-And here is a just a random fact -  **Some octopuses have been known to eat their arms off when they are exposed to stressful situations**.
+And here is a just a random fact -  **When the divorce rate goes up in the United States, toy makers report that the sale of toys also rise**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
