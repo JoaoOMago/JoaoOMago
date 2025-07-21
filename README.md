@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7874 days**.
+Here is a random fact about me - I have been on this planet for **7875 days**.
 
-And here is a just a random fact -  **Walter Hunt patented the safety pin in 1849. He later sold the patent rights for only $400.**.
+And here is a just a random fact -  **There were no red colored M&Ms from 1976 to 1987**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
