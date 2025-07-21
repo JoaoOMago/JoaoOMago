@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7874 days**.
 
-And here is a just a random fact -  **Kermit the frog delivered the commencement address at Southampton College located in the state of New York in 1996**.
+And here is a just a random fact -  **The real name of actress Whoopi Goldberg is Caryn Elaine Johnson**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
