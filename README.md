@@ -11,8 +11,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7875 days**.
 
-And here is a just a random fact -  **Chameleons can move their eyes independently. One eye can be looking forward and one eye backward at the same time**.
+And here is a just a random fact -  **A cockroach can change directions up to 25 times in a second**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 21 Jul, 2025.</sub>
+<sub>Last updated by Github Actions on 22 Jul, 2025.</sub>
