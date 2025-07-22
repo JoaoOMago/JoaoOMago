@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7875 days**.
 
-And here is a just a random fact -  **A cockroach can change directions up to 25 times in a second**.
+And here is a just a random fact -  **The name of the Taco Bell dog is Gidget**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
