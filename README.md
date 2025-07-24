@@ -11,7 +11,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7878 days**.
 
-And here is a just a random fact -  **In China, people eat a bar of chocolate for every 1,000 chocolate bars eaten by the British**.
+And here is a just a random fact -  **No president of the United States was an only child**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
