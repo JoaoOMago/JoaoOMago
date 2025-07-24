@@ -9,9 +9,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7877 days**.
+Here is a random fact about me - I have been on this planet for **7878 days**.
 
-And here is a just a random fact -  **Male rabbits are called "bucks," females are "does."**.
+And here is a just a random fact -  **According to research, Los Angeles highways are so congested that the average commuter sits in traffic for 82 hours a year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
