@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7879 days**.
 
-And here is a just a random fact -  **Length of beard an average man would grow if he never shaved 27.5 feet**.
+And here is a just a random fact -  **In medieval France, unfaithful wives were made to chase a chicken through town naked.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
