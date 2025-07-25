@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7879 days**.
 
-And here is a just a random fact -  **This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.**.
+And here is a just a random fact -  **All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
