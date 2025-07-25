@@ -1,6 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/joão-pedro-gozzoli-b95641301/) &bull;
 [Email](joaopedrogozzoli@gmail.com) &bull;
-[x](https://x.com/jpp12prado)
+[X](https://x.com/jpp12prado)
 
 # Welcome <img src="happy.gif" height="64px" /> <img src="wave.gif" height="32px" />
 
