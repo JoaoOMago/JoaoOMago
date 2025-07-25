@@ -10,7 +10,10 @@ def create_readme():
     """
 
     age = get_age('2003-12-29')
-    fact = nekos.fact()
+    try:
+        fact = nekos.fact()
+    except Exception as e:
+        fact = "Não foi possível obter um fato agora."
     last_updated_at = get_last_updated()
 
     readme = io.open('README.md', 'w+', encoding='UTF-8')
