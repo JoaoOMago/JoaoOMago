@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7879 days**.
 
-And here is a just a random fact -  **The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.**.
+And here is a just a random fact -  **Until 1994, world maps and globes sold in Albania only had Albania on them.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
