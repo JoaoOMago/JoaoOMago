@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7879 days**.
 
-And here is a just a random fact -  **A survey done by Clairol 10 years ago came up with 46% of men stating that it was okay to color their hair. Now 66% of men admit to coloring their hair**.
+And here is a just a random fact -  **The youngest pope was 11 years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
