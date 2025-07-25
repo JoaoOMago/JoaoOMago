@@ -29,8 +29,8 @@ jobs:
     - name: Executar main.py
       run: |
           python main.py
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "${{ secrets.GIT_USER_NAME }}"
+          git config user.email "${{ secrets.GIT_USER_EMAIL }}"
           git add .
           git commit -m "crongenerated"
           git push
