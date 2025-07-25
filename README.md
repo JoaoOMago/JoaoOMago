@@ -1,5 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/joão-pedro-gozzoli-b95641301/) &bull;
-[Email](joaopedrogozzoli@gmail.com)
+[Email](joaopedrogozzoli@gmail.com) &bull;
+[X](https://x.com/jpp12prado)
 
 # Welcome <img src="happy.gif" height="64px" /> <img src="wave.gif" height="32px" />
 
@@ -11,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7879 days**.
 
-And here is a just a random fact -  **166,875,000,000 pieces of mail are delivered each year in the US**.
+And here is a just a random fact -  **A whale`s penis is called a dork.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
