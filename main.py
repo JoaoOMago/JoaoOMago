@@ -1,6 +1,7 @@
 import os
 import io
 import nekos
+import requests
 from datetime import datetime, timedelta
 
 
@@ -13,7 +14,10 @@ def create_readme():
     try:
         fact = nekos.fact()
     except Exception as e:
-        fact = "Não foi possível obter um fato agora."
+        try:
+            fact = requests.get("https://uselessfacts.jsph.pl/random.json?language=en").json()["text"]
+        except Exception as e:
+            fact = "ERROR API Offline XD."
     last_updated_at = get_last_updated()
 
     readme = io.open('README.md', 'w+', encoding='UTF-8')
