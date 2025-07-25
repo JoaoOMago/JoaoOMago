@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7879 days**.
 
-And here is a just a random fact -  **All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.**.
+And here is a just a random fact -  **The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
