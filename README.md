@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7880 days**.
 
-And here is a just a random fact -  **People have the tendency to chew the food on the side that they most often use their hand**.
+And here is a just a random fact -  **There is a town in Norway called "Hell"**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
