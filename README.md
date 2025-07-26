@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7879 days**.
 
-And here is a just a random fact -  **George Washington had teeth made out of hippopotamus ivory**.
+And here is a just a random fact -  **Kite flying is a professional sport in Thailand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
