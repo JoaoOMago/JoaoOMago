@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7880 days**.
 
-And here is a just a random fact -  **The iron disulfide (Pyrite) is considered "fool's gold" because it looks very similar to gold.**.
+And here is a just a random fact -  **The first ever "World Summit on Toilets" was held in Singapore in November 2001**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
