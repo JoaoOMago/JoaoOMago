@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7879 days**.
 
-And here is a just a random fact -  **The youngest pope was 11 years old**.
+And here is a just a random fact -  **The town of Churchill, Manitoba, located in Canada, is known as the "Polar Bear Capital of the World"**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Jul, 2025.</sub>
+<sub>Last updated by Github Actions on 26 Jul, 2025.</sub>
