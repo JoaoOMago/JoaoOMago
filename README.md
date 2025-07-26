@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7880 days**.
 
-And here is a just a random fact -  **65% of the candy that is produced in an year is consumed by American adults 18 years and older**.
+And here is a just a random fact -  **Ed Cox from San Francisco invented the pot scrubbing S.O.S. pads in 1917. His wife came up with the name, which stands for "Save Our Saucepans."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
