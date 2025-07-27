@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7880 days**.
 
-And here is a just a random fact -  **In 1971, the postal code was introduced in Ottawa, Ontario**.
+And here is a just a random fact -  **An individual coral animal is called a polyp**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
