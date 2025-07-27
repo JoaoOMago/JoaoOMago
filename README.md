@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7881 days**.
 
-And here is a just a random fact -  **The lifespan of a firefly is about seven days. During these days, they are busy trying to find a mate**.
+And here is a just a random fact -  **People of Salt Lake City eat the most lime-flavoured gelatin Jell-O in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
