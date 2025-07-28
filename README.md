@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7881 days**.
 
-And here is a just a random fact -  **The flatulation from domesticated cows produce about 30% of the methane on this planet**.
+And here is a just a random fact -  **At 120 miles per hour, a Formula One car generates so much downforce that it can drive upside down on the roof of a tunnel**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 27 Jul, 2025.</sub>
+<sub>Last updated by Github Actions on 28 Jul, 2025.</sub>
