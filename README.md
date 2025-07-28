@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7881 days**.
 
-And here is a just a random fact -  **People over the age of fifty will start to lose their dislike for foods that taste bitter**.
+And here is a just a random fact -  **French soldiers during World War I had the nickname "poilu" which translates to "hairy one."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
