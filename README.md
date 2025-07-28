@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7882 days**.
 
-And here is a just a random fact -  **Every year, 100 million sharks are killed by people**.
+And here is a just a random fact -  **Leonardo Da Vinci invented the scissors**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
