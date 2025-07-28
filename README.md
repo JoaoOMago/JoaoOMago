@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7882 days**.
 
-And here is a just a random fact -  **One out of four American households own a cat**.
+And here is a just a random fact -  **Humans and dolphins are the only species that have sex for pleasure**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
