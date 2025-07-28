@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7882 days**.
 
-And here is a just a random fact -  **In 1903, there were originally only eight Crayola crayons in a box and they sold for five cents**.
+And here is a just a random fact -  **A lifespan of an eyelash is approximately 150 days**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
