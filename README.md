@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7882 days**.
 
-And here is a just a random fact -  **The size of a raindrop is around 0.5 mm - 2.5 mm, and they fall from the sky on average 21 feet per second.**.
+And here is a just a random fact -  **Mardi Gras means "Fat Tuesday." This is the festival that New Orleans, Louisiana is famous for having every year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
