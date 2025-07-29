@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7883 days**.
 
-And here is a just a random fact -  **On average, a baby in the United States will eat fifteen pounds of cereal in their first year of life**.
+And here is a just a random fact -  **Frank Wathernam was the last prisoner to leave Alcatraz prison on March 21, 1963**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
