@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7882 days**.
+Here is a random fact about me - I have been on this planet for **7883 days**.
 
-And here is a just a random fact -  **The first museum in Moscow that was set up in 1791 was the Natural History Laboratory at Moscow University. This later was changed to the Zoological Museum**.
+And here is a just a random fact -  **In one day, adult lungs move about 10,000 litres of air**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
