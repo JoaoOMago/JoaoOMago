@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7882 days**.
 
-And here is a just a random fact -  **At lift off, US space shuttles weight about 4.5 million pounds.**.
+And here is a just a random fact -  **It takes about a half a gallon of water to cook macaroni, and about a gallon to clean the pot**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
