@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7883 days**.
 
-And here is a just a random fact -  **Frank Wathernam was the last prisoner to leave Alcatraz prison on March 21, 1963**.
+And here is a just a random fact -  **Davao City, located at the Southern state of Philippines, is the largest city in the world in terms of area**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
