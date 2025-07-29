@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7883 days**.
 
-And here is a just a random fact -  **The Sears Tower in Chicago contains enough steel to build 50,000 automobiles**.
+And here is a just a random fact -  **Thirty-five percent of the people who use personal ads for dating are already married**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
