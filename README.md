@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7882 days**.
 
-And here is a just a random fact -  **In the United States, the first cookbook was published in 1796 and it contained a recipes for watermelon rind pickles**.
+And here is a just a random fact -  **Sawney Beane, his wife, 8 sons, 6 daughters, and 32 grandchildren were a family of cannibals that lived in the caves near Galloway, Scotland in the early 17th Century. Although the total number is not known, it is believed they claimed over 50 victims per year. The entire family was taken by an army detachment to Edinburgh and executed, apparently without trial**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
