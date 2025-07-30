@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7884 days**.
 
-And here is a just a random fact -  **Every second there are 418 Kit Kat fingers eaten in the world**.
+And here is a just a random fact -  **An egg shell can have up to 17,000 tiny pores on its surface**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
