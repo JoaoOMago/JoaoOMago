@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7884 days**.
 
-And here is a just a random fact -  **To make one pound of butter, 29 cups of milk are needed**.
+And here is a just a random fact -  **There are over 1,000,000 swimming pools in Florida, eventhough the ocean is no farther than 80 miles away**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
