@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7883 days**.
 
-And here is a just a random fact -  **It takes the Hubble telescope about 97 minutes to complete an orbit of the Earth. On average, the Hubble uses the equivilent amount of energy as 30 household light bulbs to complete an orbit.**.
+And here is a just a random fact -  **The tuatara lizard of New Zealand has three eyes, two in the center of its head and one on the top of its head**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
