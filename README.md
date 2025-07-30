@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7884 days**.
 
-And here is a just a random fact -  **Central Park located in New York has 125 drinking fountains**.
+And here is a just a random fact -  **The Tonle Sap River in Cambodia flows north for almost half the year and then south for the rest of the year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
