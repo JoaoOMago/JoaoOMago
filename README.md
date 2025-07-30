@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7883 days**.
+Here is a random fact about me - I have been on this planet for **7884 days**.
 
-And here is a just a random fact -  **The most popular grown bulbs are tulips**.
+And here is a just a random fact -  **Fat is important for the development of children and normal growth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
