@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7885 days**.
 
-And here is a just a random fact -  **In the 18th century, potatoes were given out as a dessert. They were served in a napkin, salted and hot**.
+And here is a just a random fact -  **Close to 3 billion movie tickets are sold in India every year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
