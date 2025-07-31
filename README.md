@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7884 days**.
 
-And here is a just a random fact -  **In 410 A.D. Alaric the Visigoth demanded that Rome give him three thousand pounds of pepper as ransom**.
+And here is a just a random fact -  **The General Lee cars used in the popular show The Dukes of Hazards were 1969 Dodge Chargers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
