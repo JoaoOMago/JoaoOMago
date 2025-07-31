@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7884 days**.
+Here is a random fact about me - I have been on this planet for **7885 days**.
 
-And here is a just a random fact -  **The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns**.
+And here is a just a random fact -  **Chedder cheese is the best selling cheese in the USA**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
