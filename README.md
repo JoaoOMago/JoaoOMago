@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7885 days**.
 
-And here is a just a random fact -  **Chedder cheese is the best selling cheese in the USA**.
+And here is a just a random fact -  **There are over 100 styles of BluBlocker sunglasses available on the market**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
