@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7885 days**.
 
-And here is a just a random fact -  **It costs about 3 cents to make a $1 bill in the United States**.
+And here is a just a random fact -  **People from North America prefer pickles with warts, where as Europeans prefer pickles with no warts**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
