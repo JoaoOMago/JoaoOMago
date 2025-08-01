@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7886 days**.
 
-And here is a just a random fact -  **In the U.S. 7 out of 10 homes use candles**.
+And here is a just a random fact -  **The study of twins is known as gemellology**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
