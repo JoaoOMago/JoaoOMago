@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7885 days**.
 
-And here is a just a random fact -  **People from North America prefer pickles with warts, where as Europeans prefer pickles with no warts**.
+And here is a just a random fact -  **One ounce of chocolate has about 20 mg of caffeine in it**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
