@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7886 days**.
 
-And here is a just a random fact -  **The largest diamond found in the United States was a 40.23 carat white diamond. It was found in 1924 and nicknamed the "Uncle Sam."**.
+And here is a just a random fact -  **More than $1 billion is spent each year on neck ties in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
