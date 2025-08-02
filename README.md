@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7887 days**.
 
-And here is a just a random fact -  **The largest volcano known is on Mars: Olympus Mons, 370 miles wide and 79,000 feet high, is almost three times higher than Mount Everest**.
+And here is a just a random fact -  **The sentence "The quick brown fox jumps over the lazy dog." uses everyletter in the alphabet. (Developed by Western Union to Test telex/twxcommunications)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
