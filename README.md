@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7886 days**.
 
-And here is a just a random fact -  **France, Switzerland, United Kingdom, Greece, and Australia have always been in the modern Olympics since it began in 1896**.
+And here is a just a random fact -  **The full name of the Titanic ship is R.M.S. Titanic, which stands for Royal Mail Steamship**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
