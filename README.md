@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7887 days**.
 
-And here is a just a random fact -  **Mars is the home of Olympus Mons, the largest known volcano in our solar system**.
+And here is a just a random fact -  **Approximately 10.5 gallons of water is used in a dishwasher. Washing the dishes by hand can use up to 20 gallons of water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
