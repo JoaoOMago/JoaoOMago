@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7887 days**.
 
-And here is a just a random fact -  **Pucks hit by hockey sticks have reached speeds of up to 150 miles per hour**.
+And here is a just a random fact -  **There is a type of coffin made that can be used as a wine rack or picnic table before its final use**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
