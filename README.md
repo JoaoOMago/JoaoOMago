@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7886 days**.
 
-And here is a just a random fact -  **Bananas contain a natural chemical which can make a person happy. This same chemical is found in Prozac**.
+And here is a just a random fact -  **If you fart consistently for 6 years and 9 months, enough gas is produced to create the energy of an atomic bomb**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
