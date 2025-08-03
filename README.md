@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7887 days**.
 
-And here is a just a random fact -  **The highest consumption of Pizza occurs during Super Bowl week**.
+And here is a just a random fact -  **Annually, an Australian eats 15 kg of bananas, which comes out to 27 meters of bananas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
