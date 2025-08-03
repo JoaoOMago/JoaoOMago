@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7888 days**.
 
-And here is a just a random fact -  **The first female guest host of Saturday Night Live was actress Candace Bergen**.
+And here is a just a random fact -  **The Coca Cola company offers more than 300 different beverages**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
