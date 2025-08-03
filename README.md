@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7887 days**.
 
-And here is a just a random fact -  **In Belgium, 94% of children under the age of fourteen own LEGO products**.
+And here is a just a random fact -  **The highest consumption of Pizza occurs during Super Bowl week**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 02 Aug, 2025.</sub>
+<sub>Last updated by Github Actions on 03 Aug, 2025.</sub>
