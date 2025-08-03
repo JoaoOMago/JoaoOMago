@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7888 days**.
 
-And here is a just a random fact -  **Over 80% of the brain is water**.
+And here is a just a random fact -  **Canadians eat more Kraft Dinner (Macaroni and Cheese) per capita than any other country in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
