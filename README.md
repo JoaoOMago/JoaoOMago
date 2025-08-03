@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7887 days**.
 
-And here is a just a random fact -  **Two-thirds of Canadians live in Quebec and Ontario**.
+And here is a just a random fact -  **Before 1883, the three-cent U.S. stamp was also used for advertising. The advertisment was located on the back of the stamp for various products**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
