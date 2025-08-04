@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7889 days**.
 
-And here is a just a random fact -  **Some people start to sneeze if they are exposed to sunlight or have a light shined into their eye**.
+And here is a just a random fact -  **Weatherman Willard Scott was the first Ronald McDonald**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
