@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7889 days**.
 
-And here is a just a random fact -  **The Hawaiian alphabet only has 12 letters**.
+And here is a just a random fact -  **In the late 1800's, washing machines and butter churners were sometimes powered by dogs walking on treadmills.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
