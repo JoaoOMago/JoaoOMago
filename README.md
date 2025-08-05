@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7890 days**.
 
-And here is a just a random fact -  **Before 1883, the three-cent U.S. stamp was also used for advertising. The advertisment was located on the back of the stamp for various products**.
+And here is a just a random fact -  **Over 100,000 birds and sea animals are killed every year due to plastic garbage**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
