@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7890 days**.
 
-And here is a just a random fact -  **Lake Malawi has the largest number of fish species in the world**.
+And here is a just a random fact -  **British scientists have found evidence that heart attacks increase significantly for people who watch soccer penalty shoot-outs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
