@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7889 days**.
+Here is a random fact about me - I have been on this planet for **7890 days**.
 
-And here is a just a random fact -  **Uranus is the only planet that rotates on its side**.
+And here is a just a random fact -  **The list of ingredients that make up lipstick include fish scales**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
