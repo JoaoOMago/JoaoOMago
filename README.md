@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7890 days**.
 
-And here is a just a random fact -  **The average human scalp has 100,000 hairs**.
+And here is a just a random fact -  **When the divorce rate goes up in the United States, toy makers report that the sale of toys also rise**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
