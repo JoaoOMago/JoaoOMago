@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7889 days**.
 
-And here is a just a random fact -  **The Canandian province of New Brunswick had a bloodless war with the US state of Maine in 1839.**.
+And here is a just a random fact -  **At the equator the Earth spins at about 1,038 miles per hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 04 Aug, 2025.</sub>
+<sub>Last updated by Github Actions on 05 Aug, 2025.</sub>
