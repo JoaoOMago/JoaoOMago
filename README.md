@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7890 days**.
 
-And here is a just a random fact -  **When a predator is chasing an impala, a type of antelope, it runs in a zig zag formation jumping as high as three metres**.
+And here is a just a random fact -  **Most lipstick contains fish scales**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Aug, 2025.</sub>
+<sub>Last updated by Github Actions on 06 Aug, 2025.</sub>
