@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7891 days**.
 
-And here is a just a random fact -  **In 1693, the postage rate of a letter was determined by how much light went through the letter. The less the light went through the letter the more expensive the rate would be. This technique was referred to as candling**.
+And here is a just a random fact -  **In 1994, 7-Eleven coined the term "brain freeze." The word was developed to explain the feeling people get when drinking a Slurpee.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
