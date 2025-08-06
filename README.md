@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7890 days**.
+Here is a random fact about me - I have been on this planet for **7891 days**.
 
-And here is a just a random fact -  **It requires 63 feet of wire to make a Slinky toy**.
+And here is a just a random fact -  **A salmon with two mouths, two sets of teeth and two tongues was caught by Bob Bateman of Canada**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
