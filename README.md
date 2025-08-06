@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7891 days**.
 
-And here is a just a random fact -  **Kermit the Frog was named after Kermit Scott, a childhood friend of creator Jim Henson, who became a professor of philosophy at Purdue University**.
+And here is a just a random fact -  **Flamingos are able to fly at a speed of approximately 55 kilometers an hour. In one night they can travel about 600 km**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
