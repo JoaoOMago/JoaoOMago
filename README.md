@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7891 days**.
 
-And here is a just a random fact -  **Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush**.
+And here is a just a random fact -  **Thomas Watson, who was the chairman of IBM in 1943 predicted that their would probably only be a world market for five computers.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
