@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7891 days**.
 
-And here is a just a random fact -  **Polar bears are left-handed**.
+And here is a just a random fact -  **A common custom in Spain is to eat one grape for each of the last 12 seconds of every year for good luck**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
