@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7892 days**.
 
-And here is a just a random fact -  **In the United States, six tubs of Cool Whip, a brand of whipping cream, are sold every second**.
+And here is a just a random fact -  **Doctors in Canada use an adhesive similar to Krazy Glue instead of stitches, lowering the possibility of bacterial infection and minimizing scarring**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
