@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7891 days**.
 
-And here is a just a random fact -  **Leonardo Da Vinci never signed or dated his most famous painting, the Mona Lisa**.
+And here is a just a random fact -  **Only one person in two billion will live to be 116 or older**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 06 Aug, 2025.</sub>
+<sub>Last updated by Github Actions on 07 Aug, 2025.</sub>
