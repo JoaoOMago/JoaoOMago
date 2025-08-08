@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7893 days**.
 
-And here is a just a random fact -  **The only state to grow pineapples is Hawaii**.
+And here is a just a random fact -  **Every continent begins and ends in the same letter. eg AfricA, EuropE**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
