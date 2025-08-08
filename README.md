@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7892 days**.
 
-And here is a just a random fact -  **Americans write approximately 50 billion checks a year making it the second most frequent payment method used after cash**.
+And here is a just a random fact -  **The Mall of America, located in Bloomington, Minnesota is so big that it can hold 24,336 school buses**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
