@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7893 days**.
 
-And here is a just a random fact -  **In one day, 230 marriage licenses are issued in Las Vegas**.
+And here is a just a random fact -  **Hair will fall out faster on a person that is on a crash diet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
