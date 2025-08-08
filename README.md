@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7893 days**.
 
-And here is a just a random fact -  **Even though the rose does not bear any fruit, the rose hips have more Vitamin C than most vegetables and fruits**.
+And here is a just a random fact -  **American women, on average, spend 55 minutes per day getting showered, dressed, and groomed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
