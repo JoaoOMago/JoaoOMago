@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7894 days**.
 
-And here is a just a random fact -  **A British term for slot machine is "fruit machine" or "one-armed bandit."**.
+And here is a just a random fact -  **Roses generally need around 6 hours of sunlight to grow properly.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
