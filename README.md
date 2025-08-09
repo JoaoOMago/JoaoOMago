@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7894 days**.
 
-And here is a just a random fact -  **The largest number of children born to one woman, who was a Russian peasant is 69**.
+And here is a just a random fact -  **The 1960 Summer Olympics were the first Olympics to be aired on television by CBS**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
