@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7894 days**.
 
-And here is a just a random fact -  **40 percent of the almonds in the world are used by manufacturers of chocolate**.
+And here is a just a random fact -  **Once a human reaches the age of 35, he/she will start losing approximately 7,000 brain cells a day. The cells will never be replaced**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
