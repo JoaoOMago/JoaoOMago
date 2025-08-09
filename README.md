@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7894 days**.
 
-And here is a just a random fact -  **During the Gold Rush in 1849, some people paid as much as $100 for a simple glass of water**.
+And here is a just a random fact -  **Women who drink more than two cups of coffee a day have a higher chance of developing osteoporosis**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
