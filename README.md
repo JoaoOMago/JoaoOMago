@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7895 days**.
 
-And here is a just a random fact -  **The capital of Vermont, Montpelier is the only state capital in the United States that does not have a McDonalds**.
+And here is a just a random fact -  **The parents of Albert Einstein were worried that he was mentally slow because it took him a long time to learn how to speak**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
