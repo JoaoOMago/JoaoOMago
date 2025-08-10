@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7895 days**.
 
-And here is a just a random fact -  **The glue on Israeli postage stamps is certified kosher**.
+And here is a just a random fact -  **The 1912, a wrestling match in Stockholm between Finn Alfred Asikainen and Russian Martin Klein lasted more than 11 hours. Klein eventually won, but was to tired to participate in the championship match**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
