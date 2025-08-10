@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7895 days**.
 
-And here is a just a random fact -  **The Hollywood sign was first erected in 1923. It was first erected as "Hollywoodland."**.
+And here is a just a random fact -  **If all the strawberries produced in California annually were put side by side, they would wrap around the Earth fifteen times**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
