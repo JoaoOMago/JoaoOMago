@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7896 days**.
 
-And here is a just a random fact -  **One grape vine produce can produce about 20 to 30 glasses of wine**.
+And here is a just a random fact -  **The most expensive animated movie is "Prince of Egypt", which cost $70 million to make**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
