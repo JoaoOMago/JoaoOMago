@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7896 days**.
 
-And here is a just a random fact -  **Five Jell-O flavors that flopped: celery, coffee, cola, apple, andchocolate.**.
+And here is a just a random fact -  **Enamel is hardest substance in the human body**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
