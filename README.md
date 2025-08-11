@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7895 days**.
 
-And here is a just a random fact -  **There are some hospitals in Shanghai that have issued a rule that a nurse must wear lipstick while on duty**.
+And here is a just a random fact -  **The Beatles have sold more records than anyone else with over a billion worldwide**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
