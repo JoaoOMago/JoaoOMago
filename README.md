@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7896 days**.
 
-And here is a just a random fact -  **Kissing can aid in reducing tooth decay. This is because the extra saliva helps in keeping the mouth clean**.
+And here is a just a random fact -  **There were 43,687 toilet related accidents in the United States in 1996**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
