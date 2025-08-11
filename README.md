@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7895 days**.
+Here is a random fact about me - I have been on this planet for **7896 days**.
 
-And here is a just a random fact -  **Babies that are exposed to cats and dogs in their first year of life have a lower chance of developing allergies when they grow older**.
+And here is a just a random fact -  **One out of four American households own a cat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
