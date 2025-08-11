@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7896 days**.
 
-And here is a just a random fact -  **Belize is the only country in the world with a jaguar preserve**.
+And here is a just a random fact -  **In the year 1900, for a women to be a telephone operator she had to be between the ages of 17 and 26 and not be married**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
