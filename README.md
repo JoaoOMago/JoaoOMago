@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7896 days**.
 
-And here is a just a random fact -  **A little under one quarter of the people in the world are vegetarians**.
+And here is a just a random fact -  **Frogs do not need to drink water as they absorb the water through their skin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
