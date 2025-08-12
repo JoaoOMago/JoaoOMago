@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7897 days**.
 
-And here is a just a random fact -  **The largest coral reef in the world is the Great Barrier Reef located in Australia. The reef is approximately 2023 kilometers long**.
+And here is a just a random fact -  **The famous Casanova (Giacomo Casanova) was a librarian for many years before he died**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
