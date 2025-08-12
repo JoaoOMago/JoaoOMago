@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7897 days**.
 
-And here is a just a random fact -  **Over 250 million Slinky toys have been sold since its debut in 1946**.
+And here is a just a random fact -  **The reason why your nose gets runny when you are crying is because the tears from the eyes drain into the nose**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
