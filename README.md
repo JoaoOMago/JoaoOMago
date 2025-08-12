@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7897 days**.
 
-And here is a just a random fact -  **The oldest working Post Office in the world is located in the village of Sanquer, located in the Scottish Lowlands. It has been operating since 1712**.
+And here is a just a random fact -  **The city of Las Vegas has the most hotel rooms in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
