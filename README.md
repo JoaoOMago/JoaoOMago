@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7896 days**.
 
-And here is a just a random fact -  **The longest engagement lasted 67 years, and the couple ended up marrying when they were 82 years old**.
+And here is a just a random fact -  **In humans, the epidermal layer of skin, which consists of many layers of skin regenerates every 27 days**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Aug, 2025.</sub>
+<sub>Last updated by Github Actions on 12 Aug, 2025.</sub>
