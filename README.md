@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7897 days**.
 
-And here is a just a random fact -  **The name Aspirin was invented from "A" in acetyl chloride. The "spir" comes from spiraea ulmaria which is the plant that they got the salicylic acid from, and the "in" was used because back then it was popular to end the name of medicines with "in."**.
+And here is a just a random fact -  **Bo Jackson set a Monday Night Football record by rushing for 222 yards in one game against the Seattle Seahawks, including a 91-yard TD run**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
