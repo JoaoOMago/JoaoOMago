@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7898 days**.
 
-And here is a just a random fact -  **The Earth orbits the Sun at a speed of about 108,000 km per hour**.
+And here is a just a random fact -  **The word "laser" stands for "Light Amplification by Stimulated Emission by radiation."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
