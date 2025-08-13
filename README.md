@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7897 days**.
 
-And here is a just a random fact -  **In ancient Greece, throwing an apple to a girl was a way to propose for marriage.. If the girl caught it, that would mean she accepts**.
+And here is a just a random fact -  **In the world, the United States and France have the most pet dogs. Approximately one out of every three families has a pet dog. Switzerland and Germany are the lowest only having one dog per every ten families**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
