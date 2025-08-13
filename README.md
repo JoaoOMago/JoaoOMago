@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7898 days**.
 
-And here is a just a random fact -  **The 20th president of the United States, James Garfield, was able to write Greek with one hand and Latin with the other at the same time**.
+And here is a just a random fact -  **The term "The Big Apple" was coined by touring jazz musicians of the 1930s who used the slang expression "apple" for any town or city. Therefore, to play New York City is to play the big time - The Big Apple**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
