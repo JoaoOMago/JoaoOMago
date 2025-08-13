@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7898 days**.
 
-And here is a just a random fact -  **The word "moose" comes from the native Algonquian Indian word meaning "twig eater."**.
+And here is a just a random fact -  **Chef Boyardee is actually a real person. His real name is Hector Boiardi and he was born in northern Italy in 1898**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
