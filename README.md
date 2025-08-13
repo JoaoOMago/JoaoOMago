@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7897 days**.
 
-And here is a just a random fact -  **St. Patrick explained the Holy Trinity to King Laoghaire, using the shamrock to illustrate the trinity**.
+And here is a just a random fact -  **Cricket chirping can tell the temperature outside. Counting how many times a cricket chirps in 15 seconds and then adding 40 to that number will approximately tell you what the temperature is in Fahrenheit**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Aug, 2025.</sub>
+<sub>Last updated by Github Actions on 13 Aug, 2025.</sub>
