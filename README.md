@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7898 days**.
 
-And here is a just a random fact -  **Armadillos breed in July, but get pregnant in November after delaying implantation. This allows the young to be born during the spring when there is an abundance of food**.
+And here is a just a random fact -  **When the volcano Krakatoa off the Java islands exploded in 1883, it was so loud that it woke some people up in South Australia**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
