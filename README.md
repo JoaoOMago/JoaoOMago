@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7899 days**.
 
-And here is a just a random fact -  **Casey Kasem is the voice of Shaggy on the cartoon show "Scooby-Doo." Casey Kasem, being a strict vegetarian, also requested that Shaggy follow the same diet on the show**.
+And here is a just a random fact -  **Ringo Starr appeared in a Japanese advertisement for apple sauce. Ironically his name means "apple sauce" in Japanese**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
