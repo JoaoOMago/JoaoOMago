@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7898 days**.
 
-And here is a just a random fact -  **The first American celebration of St. Patricks Day was at Boston in 1737**.
+And here is a just a random fact -  **Ancient Romans at one time used human urine as an ingredient in their toothpaste**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
