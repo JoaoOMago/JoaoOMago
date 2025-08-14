@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7899 days**.
 
-And here is a just a random fact -  **Every year Alaska has about 5,000 earthquakes, 1,000 of which measure above 3.5 on the Richter scale**.
+And here is a just a random fact -  **Florida has twice as many lightning injuries and deaths than any other state**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
