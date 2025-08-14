@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7899 days**.
 
-And here is a just a random fact -  **Over 90% of diseases are caused or complicated by stress**.
+And here is a just a random fact -  **The scarlet tanager, a songbird native to Illinois, can eat as many as 2,100 gypsy-moth caterpillars in one hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
