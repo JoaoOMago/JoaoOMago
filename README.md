@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7899 days**.
 
-And here is a just a random fact -  **In 1865, the U.S. Secret Service was first established for the specific purpose to combat the counterfeiting of money**.
+And here is a just a random fact -  **If all the gold sitting in the oceans and seas were mined, every person on this plant would get about 20 kilograms of gold each.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
