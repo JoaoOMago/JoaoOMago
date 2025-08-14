@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7898 days**.
+Here is a random fact about me - I have been on this planet for **7899 days**.
 
-And here is a just a random fact -  **Did you know you share your birthday with at least 9 other million people in the world**.
+And here is a just a random fact -  **Most American women have their first baby when they are 24.3 years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
