@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7899 days**.
 
-And here is a just a random fact -  **The most popular chocolate bar in the United Kingdom for the last 15 years has been Kit Kat**.
+And here is a just a random fact -  **Oprah Winfrey was the first black woman to anchor a newscast in Nashville at WTVF-TV**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
