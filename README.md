@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7900 days**.
 
-And here is a just a random fact -  **Former U.S. President Ronald Reagan once wore a Nazi uniform while acting in a film during his Hollywood days. The name of the movie was "Desperate Journey," which was filmed in 1942**.
+And here is a just a random fact -  **When opossums are playing 'possum, they are not "playing." Theyactually pass out from sheer terror.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
