@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7900 days**.
 
-And here is a just a random fact -  **898 tornadoes were recorded to have occurred in the United States in the year 2000.**.
+And here is a just a random fact -  **In Japan, the number four is considered to be unlucky because the Japanese word for four sounds very similar to the word death**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
