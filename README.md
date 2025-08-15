@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7900 days**.
 
-And here is a just a random fact -  **The longest kiss on record lasted 30 hours and 45 minutes. Dror Orpaz and Carmit Tsubara recorded it on April 5, 1999 at a kissing contest held in Tel Aviv, Israel**.
+And here is a just a random fact -  **There are approximately fifty Bibles sold each minute across the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
