@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7900 days**.
 
-And here is a just a random fact -  **The only poisonous birds in the world are the three species of Pitohui. The Hooded Pitohui from Papua New Guinea is the most deadliest out of the three**.
+And here is a just a random fact -  **The average person can live about a month without eating any food, but can only live about a week without water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
