@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7900 days**.
 
-And here is a just a random fact -  **Ironically, when doctors in Los Angeles, California went on strike in 1976, the daily number of deaths in the city dropped 18%**.
+And here is a just a random fact -  **African Baobab tree's circumference can reach 180 feet. If the trunk is hollow, 20 people would be able to fit inside of it.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
