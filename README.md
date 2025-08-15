@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7900 days**.
 
-And here is a just a random fact -  **The Pacific island of Tonga once issued a stamp that was banana shaped**.
+And here is a just a random fact -  **From 1939 to 1942, there was a undersea post office in the Bahamas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
