@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7900 days**.
 
-And here is a just a random fact -  **In 1998, a law passed in the U.S. state of Virginia allows drivers to keep their road kill, as long as they report it within 12 hours. updated**.
+And here is a just a random fact -  **On September 3, 1970, a hailstone was found in Coffeyville, Kansas that was eight inches in diameter and weighed 1.67 pounds.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
