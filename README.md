@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7901 days**.
 
-And here is a just a random fact -  **When former Texas Governor James Hogg was on his deathbed he made a special request that a pecan tree be planted at the head of his grave instead of a tombstone. The governor passed away on March 2, 1906, which is Texas Independence Day. The pecan tree is now the state tree of Texas**.
+And here is a just a random fact -  **Dexter is the smallest type of cow. This cow was bred to be a small size for household living**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
