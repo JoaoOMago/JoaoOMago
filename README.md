@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7902 days**.
 
-And here is a just a random fact -  **Found in Argentina, the ornate horned frog can eat an entire mouse with one swallow**.
+And here is a just a random fact -  **A female ferret can die if she goes into heat and cannot find a mate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
