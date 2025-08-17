@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7902 days**.
 
-And here is a just a random fact -  **The giant squid has the largest eyes in the world**.
+And here is a just a random fact -  **In 1968, Abbie Hoffman played with a yo-yo while testifying before a congressional committee. He was found in contempt**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
