@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7902 days**.
 
-And here is a just a random fact -  **A sneeze zooms out of your mouth at over 600 m.p.h**.
+And here is a just a random fact -  **Reserves from the Irish army were used as extras in the movie "Braveheart."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
