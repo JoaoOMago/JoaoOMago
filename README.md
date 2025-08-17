@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7902 days**.
 
-And here is a just a random fact -  **Nerve cells can travel as fast as 120 metres per second**.
+And here is a just a random fact -  **The biggest pumpkin the world weighs 1,337.6 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
