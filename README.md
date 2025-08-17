@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7901 days**.
 
-And here is a just a random fact -  **In Quebec, Canada, an old law states that margarine must be a different colour than butter**.
+And here is a just a random fact -  **On average, Americans spend $1300 on utility bills annually**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
