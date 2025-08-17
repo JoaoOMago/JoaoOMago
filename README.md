@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7901 days**.
 
-And here is a just a random fact -  **Dieting can cause bad breath since less saliva is produced which leads to dry mouth**.
+And here is a just a random fact -  **The largest number of children born to one woman, who was a Russian peasant is 69**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
