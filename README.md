@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7902 days**.
 
-And here is a just a random fact -  **The palms of your hands and the soles of your feet cannot tan, or grow hair**.
+And here is a just a random fact -  **Teflon was accidently discovered by scientist Dr. Roy Plunkett while he was conducting a coolant gas experiment in 1938**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
