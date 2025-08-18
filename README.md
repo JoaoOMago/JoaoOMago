@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7903 days**.
 
-And here is a just a random fact -  **Ancient Egyptians used the spice Thyme to help preserve mummies**.
+And here is a just a random fact -  **Roughly 44% of junk mail is thrown away unopened**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
