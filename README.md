@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7903 days**.
 
-And here is a just a random fact -  **In Las Vegas, casinos do not have any clocks**.
+And here is a just a random fact -  **A rocket-like device can be traced back to Ancient Greece when a flying steam-powered pigeon was built out of wood.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
