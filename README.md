@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7903 days**.
 
-And here is a just a random fact -  **The town of Olney, Illinois celebrates a "Squirrel Day" festival to honour the 200 albino squirrels that live in the town. The festival includes a squirrel blessing by a priest**.
+And here is a just a random fact -  **There is a town in Texas called Ding Dong. In 1990, the population was only twenty-two people**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
