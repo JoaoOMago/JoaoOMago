@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7904 days**.
 
-And here is a just a random fact -  **The average day is actually 23 hours, 56 minutes and 4.09 seconds. We have a leap year every four years to make up for this shortfall**.
+And here is a just a random fact -  **An adult porcupine has approximately 30,000 quills on its body, which are replaced every year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
