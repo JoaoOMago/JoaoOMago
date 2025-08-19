@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7904 days**.
 
-And here is a just a random fact -  **Milton Bradley originally wanted to name the game Twister, Pretzel; but he could not since the name was copyrighted**.
+And here is a just a random fact -  **An adult esophagus can range from 10 to 14 inches in length and is one inch in diameter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
