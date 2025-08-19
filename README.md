@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7904 days**.
 
-And here is a just a random fact -  **A human head remains conscious for about 15 to 20 seconds after it is been decapitated**.
+And here is a just a random fact -  **Walt Disney holds the record for the most Oscar nominations with sixty-four**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
