@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7904 days**.
 
-And here is a just a random fact -  **By partially filling saucers with vinegar and distributing the saucers around a room, you can eliminate odors**.
+And here is a just a random fact -  **Cows drink anywhere from 25-50 gallons of water each day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
