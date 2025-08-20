@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7905 days**.
 
-And here is a just a random fact -  **In proportion, if Jupiter were a basketball, then the sun would be the size of the Louisiana Super Dome**.
+And here is a just a random fact -  **At one time, Pumpkins were recommended for the removal of freckles and curing snake bites**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
