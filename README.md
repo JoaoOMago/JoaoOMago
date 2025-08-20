@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7904 days**.
 
-And here is a just a random fact -  **Walmart-mart sells more apparel a year than all the other competing department stores combined**.
+And here is a just a random fact -  **The cigarette lighter was invented before the match.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
