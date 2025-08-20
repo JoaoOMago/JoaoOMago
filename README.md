@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7904 days**.
 
-And here is a just a random fact -  **Soaking beans for twelve hours in water before they are cooked can reduce flatulence caused by beans**.
+And here is a just a random fact -  **Google receives more than 200 million search queries a day, more than half of which come from outside the United States. Peak traffic hours to google.com are between 6 a.m. and noon PST, when more than 2,000 search queries are answered a second**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
