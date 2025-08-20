@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7904 days**.
 
-And here is a just a random fact -  **During WWII, because a lot of players were called to duty, the Pittsburgh Steelers and Philadelphia Eagles combined to become The Steagles**.
+And here is a just a random fact -  **There are over 2,000 different species of cactuses**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
