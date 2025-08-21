@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7905 days**.
 
-And here is a just a random fact -  **One out of 20 people have an extra rib**.
+And here is a just a random fact -  **There is a muppet named Kami that appears on the South African version of the T.V. show "Sesame Street" that is HIV-positive**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
