@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7906 days**.
 
-And here is a just a random fact -  **Harley Proctor got the idea to name the soap "Ivory" while he was listening to a bible reading at a church in 1879**.
+And here is a just a random fact -  **Serving ice cream on cherry pie was once illegal in Kansas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
