@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7905 days**.
+Here is a random fact about me - I have been on this planet for **7906 days**.
 
-And here is a just a random fact -  **There is a species of bird, Antpitta avis canis Ridgley, that barks like a dog**.
+And here is a just a random fact -  **Enough paper is recycled in the USA every day, that a 15 mile long train of boxcars could be filled up with paper.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
