@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7906 days**.
 
-And here is a just a random fact -  **The American Airlines Sports Center, in Dallas, has most toilets per capita than any other sports and entertainment venue in the USA**.
+And here is a just a random fact -  **Cattle can produce up to 180 litres of saliva in one day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
