@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7906 days**.
 
-And here is a just a random fact -  **The all-time most nominated Grammy artist with 77 nominations is Quincy Jones**.
+And here is a just a random fact -  **Over 100 million birds die annually by crashing into glass windows in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
