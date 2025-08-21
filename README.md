@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7905 days**.
 
-And here is a just a random fact -  **The Beatles have sold more records than anyone else with over a billion worldwide**.
+And here is a just a random fact -  **The makers of Crayola produce over 2 billion crayons in a year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 20 Aug, 2025.</sub>
+<sub>Last updated by Github Actions on 21 Aug, 2025.</sub>
