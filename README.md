@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7906 days**.
 
-And here is a just a random fact -  **Cattle can produce up to 180 litres of saliva in one day**.
+And here is a just a random fact -  **Elvis Presley used to be a truck driver before he started singing**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
