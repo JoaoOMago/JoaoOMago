@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7907 days**.
 
-And here is a just a random fact -  **A monkey was once tried and convicted for smoking a cigarette in South Bend, Indiana**.
+And here is a just a random fact -  **It has been medically been proven that laughter is an effective pain killer**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
