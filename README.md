@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7906 days**.
 
-And here is a just a random fact -  **The iron disulfide (Pyrite) is considered "fool's gold" because it looks very similar to gold.**.
+And here is a just a random fact -  **Studies have shown that the scent of Rosemary can help in better mental performance and make individuals feel more alert**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
