@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7907 days**.
 
-And here is a just a random fact -  **Polar bears can smell seals who are 20 miles away**.
+And here is a just a random fact -  **In 1942 the Jello company introduced Cola flavored jello, which only lasted a year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
