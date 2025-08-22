@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7906 days**.
 
-And here is a just a random fact -  **Hershey's Kisses are called that because the machine that makes themlooks like it's kissing the conveyor belt.**.
+And here is a just a random fact -  **Pilgrims did not eat potatoes for Thanksgiving as they thought they were poisonous**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
