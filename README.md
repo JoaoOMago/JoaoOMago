@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7906 days**.
 
-And here is a just a random fact -  **Sports Illustrated has the largest sports magazine circulation**.
+And here is a just a random fact -  **Hershey's Kisses are called that because the machine that makes themlooks like it's kissing the conveyor belt.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
