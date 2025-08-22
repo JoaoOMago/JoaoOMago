@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7907 days**.
 
-And here is a just a random fact -  **Romans used to believe that walnuts could cure head ailments during the Renaissance, since their shape was similar to that of a brain**.
+And here is a just a random fact -  **The longest town name in the world has 167 letters**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
