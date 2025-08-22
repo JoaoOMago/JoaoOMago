@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7907 days**.
 
-And here is a just a random fact -  **In 1942 the Jello company introduced Cola flavored jello, which only lasted a year**.
+And here is a just a random fact -  **Pollsters say that 40 percent of dog and cat owners carry pictures of the pets in their wallets**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
