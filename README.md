@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7906 days**.
 
-And here is a just a random fact -  **More than 100 professional cyclists participate in the Tour de France every year and the race is over 3,200 kilometers**.
+And here is a just a random fact -  **If all the cars from the U.S. were taken and lined up from bumper to bumper, there would be enough cars to go to the moon from earth and back.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
