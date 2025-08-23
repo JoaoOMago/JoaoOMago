@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7908 days**.
 
-And here is a just a random fact -  **The first commercial chewing gum was sold in 1848 by John B. Curtis, who also made the gum. He called the gum "State of Maine Pure Spruce Gum."**.
+And here is a just a random fact -  **The word witch comes from the word "wicca" which translates to the "wise one."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
