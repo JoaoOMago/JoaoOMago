@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7908 days**.
 
-And here is a just a random fact -  **There are about 6,800 languages in the world**.
+And here is a just a random fact -  **After the Krakatoa volcano eruption in 1883 in Indonesia, many people reported that, because of the dust, the sunset appeared green and the moon blue. The moon was said to appear blue for almost two years.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
