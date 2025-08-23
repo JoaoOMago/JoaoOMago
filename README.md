@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7908 days**.
 
-And here is a just a random fact -  **To make one pound of whole milk cheese, 10 pounds of whole milk is needed**.
+And here is a just a random fact -  **In a year, about 90 million jars of Skippy Peanut Butter are sold. This works out to three jars sold every second**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
