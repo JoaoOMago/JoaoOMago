@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7908 days**.
 
-And here is a just a random fact -  **In 1902, the game table tennis was brought to the U.S. from Europe by Parker Brothers**.
+And here is a just a random fact -  **The first subway system in America was built in Boston, Massachusetts in 1897.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
