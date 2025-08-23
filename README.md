@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7907 days**.
 
-And here is a just a random fact -  **When snakes are born with two heads, they fight each other for food**.
+And here is a just a random fact -  **In 1890, Scott Paper produced the first toilet paper to be available on a roll**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
