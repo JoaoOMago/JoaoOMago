@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7908 days**.
 
-And here is a just a random fact -  **The average Hostess Twinkie is 68 percent air as measured by volume according to university researchers**.
+And here is a just a random fact -  **The smallest bone in the human body is the stapes bone which is located in the ear**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
