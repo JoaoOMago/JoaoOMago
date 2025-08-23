@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7908 days**.
 
-And here is a just a random fact -  **The dumbest dog in the world is the Afghan Hounds**.
+And here is a just a random fact -  **The first jigsaw puzzle was created by map maker John Splisbury who mounted one of his maps on a sheet of hardwood. He proceeded to cut around the borders of each country use a fine saw**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
