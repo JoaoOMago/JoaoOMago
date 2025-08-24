@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7908 days**.
 
-And here is a just a random fact -  **The first product that the toy company Mattel came out with was picture frames**.
+And here is a just a random fact -  **Over 170,000 Indians from 210 tribes live in the Brazilian Amazon Rainforest**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
