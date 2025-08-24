@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7909 days**.
 
-And here is a just a random fact -  **The smoke that is produced by a fire kills more people than a burn does because of carbon monoxide and other dangerous gases**.
+And here is a just a random fact -  **The 1912, a wrestling match in Stockholm between Finn Alfred Asikainen and Russian Martin Klein lasted more than 11 hours. Klein eventually won, but was to tired to participate in the championship match**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
