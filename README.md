@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7909 days**.
 
-And here is a just a random fact -  **In 1992, the Antarctic Ozone hole was larger than the continent of North America.**.
+And here is a just a random fact -  **Mangos are valued for their reputation as an aphrodisiac in countries such as Guatemala and India**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
