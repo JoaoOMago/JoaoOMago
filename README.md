@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7909 days**.
 
-And here is a just a random fact -  **In 1902, the coat hanger was invented Albert Parkhouse who was frustrated at the lack of hooks available to hang up his coat at work. His company thought it was a good idea and patented the invention and unfortunately, Parkhouse never received any money for his idea**.
+And here is a just a random fact -  **All the Krispy Kreme donut stores collectively could make a doughnut stack as high as the Empire State Building in only 2 minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
