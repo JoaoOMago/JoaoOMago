@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7908 days**.
 
-And here is a just a random fact -  **Once a human reaches the age of 35, he/she will start losing approximately 7,000 brain cells a day. The cells will never be replaced**.
+And here is a just a random fact -  **The first product that the toy company Mattel came out with was picture frames**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
