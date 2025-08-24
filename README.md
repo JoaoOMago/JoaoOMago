@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7909 days**.
 
-And here is a just a random fact -  **The first toilet stall in a public washroom is the least likely to be used. It is also the cleanest**.
+And here is a just a random fact -  **The Arctic Ocean covers an area of about 14,056,000 sq miles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
