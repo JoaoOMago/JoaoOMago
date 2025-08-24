@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7909 days**.
 
-And here is a just a random fact -  **"Go." is the shortest complete sentence in the English language**.
+And here is a just a random fact -  **Just by recycling one aluminum can, enough energy would be saved to have a TV run for three hours.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
