@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7910 days**.
 
-And here is a just a random fact -  **Singer Alice Cooper once had a live chicken thrown at him during a concert in Toronto. He threw the chicken back at the crowd and all the publicity surrounding the incident skyrocketed his singing career**.
+And here is a just a random fact -  **By recycling just one glass bottle, the amount of energy that is being saved is enough to light a 100 watt bulb for four hours**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
