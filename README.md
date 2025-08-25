@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7910 days**.
 
-And here is a just a random fact -  **Polar bear livers contain so much Vitamin A that it can be fatal if eaten by a human**.
+And here is a just a random fact -  **Bill Gates donated close to $100 million to fight AIDS in India. As a percent of his total wealth, this would be comparable to him donating ten cents if he only had $60**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
