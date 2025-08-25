@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7910 days**.
 
-And here is a just a random fact -  **In 1281, the Mongol army of Kublai Khan tried to invade Japan but were ravaged by a hurricane that destroyed their fleet**.
+And here is a just a random fact -  **Ancient Egyptians used the spice Thyme to help preserve mummies**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
