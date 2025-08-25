@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7910 days**.
 
-And here is a just a random fact -  **Ancient Egyptians used the spice Thyme to help preserve mummies**.
+And here is a just a random fact -  **There were approximately 2,228 people on board the Titanic when it sank. Of this, only 706 people survived**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
