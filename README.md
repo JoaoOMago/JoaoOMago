@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7909 days**.
 
-And here is a just a random fact -  **Americans did not commonly use forks until after the Civil War**.
+And here is a just a random fact -  **At one time the group "Grateful Dead" were called "The Warlocks."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Aug, 2025.</sub>
+<sub>Last updated by Github Actions on 25 Aug, 2025.</sub>
