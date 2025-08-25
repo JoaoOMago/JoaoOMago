@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7909 days**.
 
-And here is a just a random fact -  **Every second, 8000 Coca-Cola Company products are consumed in the world**.
+And here is a just a random fact -  **In an average lifetime, people spend four years traveling in cars and six months waiting for red light to turn green**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
