@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7910 days**.
 
-And here is a just a random fact -  **There was no punctuation until the 15th century**.
+And here is a just a random fact -  **Chocolate accounts for less than two percent of the fat in the American diet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
