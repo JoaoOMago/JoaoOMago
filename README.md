@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7911 days**.
 
-And here is a just a random fact -  **In 1955, only 330 Volkswagen Beetle's were sold at a price of $1800 each in the United States.**.
+And here is a just a random fact -  **Next to bone marrow, hair is the fastest growing tissue in the human body**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
