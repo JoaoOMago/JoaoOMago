@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7911 days**.
 
-And here is a just a random fact -  **Seniors who drink a cup of coffee before a memory test score higher than those who drink a cup of decaffeinated coffee**.
+And here is a just a random fact -  **People from the United States eat the most chicken per person than anywhere else in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
