@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7911 days**.
 
-And here is a just a random fact -  **Traveling by air is the safest means of transportation.**.
+And here is a just a random fact -  **In 1949 UNICEF produced the first charity Christmas card. The picture shown on the card was painted by a seven year old girl**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
