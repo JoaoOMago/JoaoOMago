@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7910 days**.
+Here is a random fact about me - I have been on this planet for **7911 days**.
 
-And here is a just a random fact -  **The human face is made up of 14 bones**.
+And here is a just a random fact -  **The sperm count of an average American male compared to thirty years ago is down thirty percent**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
