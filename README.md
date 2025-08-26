@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7911 days**.
 
-And here is a just a random fact -  **In 1848, the first American pasta factory opened in Brooklyn, New York. The name of the man that opened it was Antoine Zerega**.
+And here is a just a random fact -  **Jim Bristoe, an American, invented a 30-foot-long, 2-ton pumpkin cannon that can fire pumpkins up to five miles.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
