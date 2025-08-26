@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7910 days**.
 
-And here is a just a random fact -  **It is possible to get high by licking a toad. The Cane Toad produces a toxin called bufotenine to ward off predators. When licked, this toxin acts as a hallucinogen**.
+And here is a just a random fact -  **Studies have shown that by putting on slow background music it can make a person eat food at a slower rate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
