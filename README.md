@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7911 days**.
 
-And here is a just a random fact -  **In 1949 UNICEF produced the first charity Christmas card. The picture shown on the card was painted by a seven year old girl**.
+And here is a just a random fact -  **It would take twenty new mid-size cars to generate the same amount of pollution that a mid-size 1960's car did.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
