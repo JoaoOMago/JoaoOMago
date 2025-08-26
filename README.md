@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7911 days**.
 
-And here is a just a random fact -  **In 1967, the first successful heart transplant was performed in Cape Town, South Africa**.
+And here is a just a random fact -  **Due to the deforestation of the forests in North China, over one million tons of sands blows into Beijing from the Gobi desert. It sometimes causes the sky to turn yellow.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
