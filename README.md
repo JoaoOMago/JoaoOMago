@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7911 days**.
 
-And here is a just a random fact -  **Mary Hart, the co-anchor of Entertainment Tonight, has each of her legs insured for one million dollars**.
+And here is a just a random fact -  **In Italy, Santa Claus is known by the name Babbo Natale**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
