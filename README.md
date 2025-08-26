@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7911 days**.
 
-And here is a just a random fact -  **A cow averages 40,000 jaw movements a day**.
+And here is a just a random fact -  **Of all the days of the week, the most popular day for people to eat ice cream is Sunday**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
