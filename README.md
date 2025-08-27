@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7912 days**.
 
-And here is a just a random fact -  **98% of houses in the United States have at least one television set**.
+And here is a just a random fact -  **An average women has 17 square feet of skin. When a women is in her ninth month of pregnancy she has 18.5 square feet of skin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
