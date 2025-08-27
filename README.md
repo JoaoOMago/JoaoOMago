@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7912 days**.
 
-And here is a just a random fact -  **Flamingos are able to fly at a speed of approximately 55 kilometers an hour. In one night they can travel about 600 km**.
+And here is a just a random fact -  **The words "abstemioius," and "facetious" both have all the five vowels in them in order**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
