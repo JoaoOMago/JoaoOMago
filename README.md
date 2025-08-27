@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7911 days**.
 
-And here is a just a random fact -  **The Montreal Canadians hockey team has won the most Stanley Cups with 24**.
+And here is a just a random fact -  **The average person changes their career every 13 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Aug, 2025.</sub>
+<sub>Last updated by Github Actions on 27 Aug, 2025.</sub>
