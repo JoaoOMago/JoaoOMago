@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7911 days**.
 
-And here is a just a random fact -  **The longest Monopoly game ever played was 1,680 hours long, which is seventy straight days**.
+And here is a just a random fact -  **Ancient Egyptian women used to wear perfume cones made of wax that would melt in the heat letting out a nice fragrance**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
