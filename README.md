@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7913 days**.
 
-And here is a just a random fact -  **One billion pounds of pasta would need approximately 2,021,452,000 gallons of water to cook it. This is equivalent to 75,000 Olympic-size swimming pools**.
+And here is a just a random fact -  **Pound for pound, leopards are said to be seven times stronger than humans**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
