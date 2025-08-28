@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7912 days**.
 
-And here is a just a random fact -  **The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet**.
+And here is a just a random fact -  **There are are roughly 100 million single adults living in the USA**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
