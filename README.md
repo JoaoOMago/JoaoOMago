@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7913 days**.
 
-And here is a just a random fact -  **A Chinese Scientist discovered that the Earth is round during the Han Dynasty by measuring the sun and moon's path in the sky. He recorded this fact down in the imperial records but went unnoticed until it was unearthed recently but Chinese archaeologists.**.
+And here is a just a random fact -  **Close to 3 billion movie tickets are sold in India every year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
