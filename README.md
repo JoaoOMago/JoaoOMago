@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7912 days**.
+Here is a random fact about me - I have been on this planet for **7913 days**.
 
-And here is a just a random fact -  **Playwright Shakespeare was only 18 years old when he married Ann Hathaway, who was 26 years old at the time**.
+And here is a just a random fact -  **The first American president to deliver a speech over the radio was Warren G. Harding**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
