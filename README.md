@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7913 days**.
 
-And here is a just a random fact -  **Studies have shown that by putting on slow background music it can make a person eat food at a slower rate**.
+And here is a just a random fact -  **People have the tendency to chew the food on the side that they most often use their hand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
