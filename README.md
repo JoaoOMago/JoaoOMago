@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7912 days**.
 
-And here is a just a random fact -  **Chef Boyardee is actually a real person. His real name is Hector Boiardi and he was born in northern Italy in 1898**.
+And here is a just a random fact -  **Alaska got its name from the Aluet word "Alyeska" which means "The Great Land."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 27 Aug, 2025.</sub>
+<sub>Last updated by Github Actions on 28 Aug, 2025.</sub>
