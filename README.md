@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7913 days**.
 
-And here is a just a random fact -  **Hawaiian alphabet has 12 letters**.
+And here is a just a random fact -  **Dolphins hear by having sound waves transmit through their skull to their inner ear region**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
