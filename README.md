@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7914 days**.
 
-And here is a just a random fact -  **Belize is the only country in the world with a jaguar preserve**.
+And here is a just a random fact -  **The fastest speed a raindrop had reached when falling is seven miles per hour.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
