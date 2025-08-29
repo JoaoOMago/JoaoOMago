@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7914 days**.
 
-And here is a just a random fact -  **Consuming chocolate was once considered a sin during the 16th and 17th century. During that time it was provided in the form of a drink and since drinking wine during lent was a sin, so was drinking chocolate**.
+And here is a just a random fact -  **At one time the group "Grateful Dead" were called "The Warlocks."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
