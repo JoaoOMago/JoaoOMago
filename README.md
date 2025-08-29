@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7914 days**.
 
-And here is a just a random fact -  **In 1893, the first mosque in the United States was built**.
+And here is a just a random fact -  **500,000 tons of dog excrement are dumped annually on the streets of Paris**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
