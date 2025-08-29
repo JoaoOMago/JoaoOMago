@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7914 days**.
 
-And here is a just a random fact -  **Skippy Peanut Butter is sold more in the world than any other peanut butter**.
+And here is a just a random fact -  **The abbreviation Xmas for the word Christmas is of Greek origin. Since the word for Christ in the Greek language is Xristos, which starts with the letter "X," they started putting the X in place of Christ and came up with the short form for the word Christmas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
