@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7914 days**.
 
-And here is a just a random fact -  **Bananas contain a natural chemical which can make a person happy. This same chemical is found in Prozac**.
+And here is a just a random fact -  **The best selling game in history for coin-operated machines is Pac-Man**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
