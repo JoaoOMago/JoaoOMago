@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7915 days**.
 
-And here is a just a random fact -  **Teenage cosmetic surgeries nearly doubled in the USA between 1996 and 1998**.
+And here is a just a random fact -  **The most common pear world-wide is the Bartlett. It is bell-shaped, sweet and soft with a light green colour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
