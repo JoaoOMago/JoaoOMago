@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7914 days**.
 
-And here is a just a random fact -  **On average, each American consumes approximately two hundred and sixty pounds of meat in a year**.
+And here is a just a random fact -  **Storks were a symbol of fertility in Europe and were considered to bring good luck**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
