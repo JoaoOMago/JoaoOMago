@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7915 days**.
 
-And here is a just a random fact -  **Dieting can cause bad breath since less saliva is produced which leads to dry mouth**.
+And here is a just a random fact -  **The average human has about 20 square feet of skin weighing about 6 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
