@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7915 days**.
 
-And here is a just a random fact -  **White-Out was invented by Bette Nesmith Graham, who is the mother of Michael Nesmith from the "The Monkees."**.
+And here is a just a random fact -  **Club Direct, a travel insurance company in Britain, provides insurance plans for protection from falling coconuts**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
