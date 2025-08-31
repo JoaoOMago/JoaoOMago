@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7915 days**.
 
-And here is a just a random fact -  **Oak trees can live 200 or more years**.
+And here is a just a random fact -  **The Bank of America was originally called the Bank of Italy until the founder, Amedeo Giannini, changed the name in 1930**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
