@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7916 days**.
 
-And here is a just a random fact -  **When Queen Elizabeth I of England died she owned over 3,000 gowns**.
+And here is a just a random fact -  **Research indicates that people prefer the colour blue for their casual clothing**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
