@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7915 days**.
 
-And here is a just a random fact -  **In India, a 9-year-old girl was "married" to a stray dog, which tribal custom requires in order to protect a child whose first tooth appears on the upper gum**.
+And here is a just a random fact -  **The Golden Gate Bridge was first opened in 1937**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
