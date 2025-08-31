@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7916 days**.
 
-And here is a just a random fact -  **The size of a red blood cell is 708 microns. This is equivalent to one millionth of a meter**.
+And here is a just a random fact -  **Tomatos were once referred to as "love apples." This is because their was a superstition that people would fall in love by eating them**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
