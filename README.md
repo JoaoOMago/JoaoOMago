@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7916 days**.
 
-And here is a just a random fact -  **The fat from sheep, which is called tallow can be used to make soap and candles**.
+And here is a just a random fact -  **Americans did not commonly use forks until after the Civil War**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
