@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7917 days**.
 
-And here is a just a random fact -  **In 1989, the space shuttle Discovery carried 32 fertilized chicken eggs into orbit**.
+And here is a just a random fact -  **Early hockey games allowed as many as 30 players a side on the ice**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
