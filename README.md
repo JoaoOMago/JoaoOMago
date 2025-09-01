@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7916 days**.
 
-And here is a just a random fact -  **The amount of Kit Kat chocolate bars that are made at the York factory every 15 minutes are enough to outstack the Eiffel Tower**.
+And here is a just a random fact -  **Nutmeg is extremely poisonous if injected intravenously**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
