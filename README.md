@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7917 days**.
 
-And here is a just a random fact -  **Maine is the only state whose name is just one syllable**.
+And here is a just a random fact -  **Pluto is the only planet in our solar system that has not been visited by a spacecraft**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
