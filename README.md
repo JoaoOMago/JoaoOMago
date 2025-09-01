@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7917 days**.
 
-And here is a just a random fact -  **The ocean sunfish can produce thirty million eggs at once**.
+And here is a just a random fact -  **The average price for a major league baseball game in 2004 is $19.82**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
