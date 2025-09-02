@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7918 days**.
 
-And here is a just a random fact -  **The popular chocolate bar "Three Musketeers" got its name because when it was first introduced in 1932 there were three individual bars. The flavours were strawberry, chocolate, and vanilla**.
+And here is a just a random fact -  **The average life span of a single red blood cell is 120 days**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
