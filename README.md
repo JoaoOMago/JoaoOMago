@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7917 days**.
 
-And here is a just a random fact -  **The parents of Albert Einstein were worried that he was mentally slow because it took him a long time to learn how to speak**.
+And here is a just a random fact -  **The largest ketchup bottle in the world is a 170 feet tall and is located in Collinsville, Illinois, USA. It was built in 1949 by the W.E. Caldwell Company as a water tower**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Sep, 2025.</sub>
+<sub>Last updated by Github Actions on 02 Sep, 2025.</sub>
