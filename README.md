@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7918 days**.
 
-And here is a just a random fact -  **An average women has 17 square feet of skin. When a women is in her ninth month of pregnancy she has 18.5 square feet of skin**.
+And here is a just a random fact -  **Lightning strikes the Empire States Building about seven times a year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
