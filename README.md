@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7918 days**.
 
-And here is a just a random fact -  **The movie "Cleopatra" cost $44 million to make in 1963. The same movie would now cost $300 million to make taking inflation into account**.
+And here is a just a random fact -  **Of all the words Dr. Seuss made up in his storybooks, only one has stuck in the English vocabulary: grinch, which is refers to a killjoy -- and it took more than 20 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
