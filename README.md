@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7917 days**.
 
-And here is a just a random fact -  **The rarest chocolate bar in the world is the Porcelana bar. There are only 20,000 of these bars produced a year, and they sell for $90 per pound**.
+And here is a just a random fact -  **Five percent of the people who use personal ads for dating are already married**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
