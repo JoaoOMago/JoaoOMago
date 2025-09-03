@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7918 days**.
 
-And here is a just a random fact -  **In 1965, the price for an issue of TV Guide was 15 cents**.
+And here is a just a random fact -  **The heart of an adult giraffe weighs on average 26 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
