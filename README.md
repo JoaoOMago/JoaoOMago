@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7919 days**.
 
-And here is a just a random fact -  **Actress Jamie Lee Curtis invented a special diaper for babies that has a pocket**.
+And here is a just a random fact -  **Polar bears can smell seals who are 20 miles away**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
