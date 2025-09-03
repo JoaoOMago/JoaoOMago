@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7919 days**.
 
-And here is a just a random fact -  **It is not possible to tickle yourself. The cerebellum, a part of the brain, warns the rest of the brain that you are about to tickle yourself. Since your brain knows this, it ignores the resulting sensation**.
+And here is a just a random fact -  **The amount of blood a female mosquito drinks per serving is five millionths of a liter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
