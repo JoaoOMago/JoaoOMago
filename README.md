@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7920 days**.
 
-And here is a just a random fact -  **Every square inch of the human body has about 19,000,000 skin cells**.
+And here is a just a random fact -  **Electronic companies sell five times as many big-screen TVs during Super Bowl Week**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
