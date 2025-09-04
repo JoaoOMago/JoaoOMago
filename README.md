@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7919 days**.
 
-And here is a just a random fact -  **Each year in America there are about 300,000 deaths that can be attributed to obesity**.
+And here is a just a random fact -  **Colonel Sanders original white suit was auctioned off for $80,000 in February 2002**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 Sep, 2025.</sub>
+<sub>Last updated by Github Actions on 04 Sep, 2025.</sub>
