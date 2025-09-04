@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7920 days**.
 
-And here is a just a random fact -  **The little circles of paper that are cut out after a paper has been punched by a hole puncher are called "chad."**.
+And here is a just a random fact -  **NASDAQ stand for, "National Association of Securities Dealers Automated Quotations."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
