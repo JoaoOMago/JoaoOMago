@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7920 days**.
 
-And here is a just a random fact -  **Billie Jean by Michael Jackson was the first video to air on MTV by a black artist**.
+And here is a just a random fact -  **Over $7 billion a year is spent on chocolates by consumers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
