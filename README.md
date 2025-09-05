@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7920 days**.
 
-And here is a just a random fact -  **Over 20 million BluBlocker sunglasses have been sold since its debut in 1986. They now come in over 100 different styles**.
+And here is a just a random fact -  **The most popular treat for Halloween trick-or-treaters are candy bars with Snickers being the most popular**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
