@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7921 days**.
 
-And here is a just a random fact -  **The flea can jump 350 times its body length, that is like a 6 foot-tall human jumping the length of 7 football fields**.
+And here is a just a random fact -  **Atlantic salmon can jump as high as 4.5 meters out of the water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
