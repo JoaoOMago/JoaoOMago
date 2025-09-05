@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7921 days**.
 
-And here is a just a random fact -  **One barrel of petroleum holds 42 gallons**.
+And here is a just a random fact -  **Coupons were introduced in 1894 when Asa Candler bought the Coca-Cola formula for $2,300 and gave people coupons that he had written out to receive a free glass of coke**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
