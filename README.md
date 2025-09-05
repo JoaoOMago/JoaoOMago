@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7921 days**.
 
-And here is a just a random fact -  **In 1876, the first microphone was invented by Emile Berliner.**.
+And here is a just a random fact -  **Turkeys can have heart attacks. When the Air Force was conducting test runs and breaking the sound barrier, fields of turkeys dropped dead because of heart attacks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
