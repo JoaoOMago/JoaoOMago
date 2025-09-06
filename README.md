@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7921 days**.
 
-And here is a just a random fact -  **Coupons were introduced in 1894 when Asa Candler bought the Coca-Cola formula for $2,300 and gave people coupons that he had written out to receive a free glass of coke**.
+And here is a just a random fact -  **In total, Americans eat more than 45 billion sandwiches each year, while sales of custom-made sandwiches are rising 15 percent per year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Sep, 2025.</sub>
+<sub>Last updated by Github Actions on 06 Sep, 2025.</sub>
