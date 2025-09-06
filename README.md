@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7921 days**.
 
-And here is a just a random fact -  **There are more than 40 million Americans that have "chronic halitosis," which is bad breath that never goes away**.
+And here is a just a random fact -  **The length of brink of the Canadian "Horseshoe" Falls located in Niagara Falls, Ontario, Canada is 2600 feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
