@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7922 days**.
 
-And here is a just a random fact -  **The ruby red slippers in the movie "The Wizard of Oz" were sold off at an auction for $660,000**.
+And here is a just a random fact -  **Frisbee got its name from William Russel Frisbee, who was a pie baker. He used to sell his pies in a thin tin pan, which had Frisbee written on it. When Walter Frederick Morrison thought of the idea of making saucer like disks to play catch, he visited the campus of Yale and noticed people there were using the pie pan to play catch so he therefore renamed his invention to Frisbee**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
