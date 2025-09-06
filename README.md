@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7922 days**.
 
-And here is a just a random fact -  **Romans, in the third century, believed that the lemon was an antidote for all poisons**.
+And here is a just a random fact -  **Every day more money is printed for Monopoly than the US Treasury**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
