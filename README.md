@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7921 days**.
 
-And here is a just a random fact -  **In Canada, men are three times more likely than women to have seen a doctor in the last year**.
+And here is a just a random fact -  **The early occurrence of a fetus yawning is at eleven weeks after conception**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
