@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7922 days**.
 
-And here is a just a random fact -  **Each nostril of a human being register smell in a different way. Smells that are made from the right nostril are more pleasant than the left. However, smells can be detected more accurately when made by the left nostril**.
+And here is a just a random fact -  **The fur of the binturong, also known as the "Asian Bear Cat," smells like popcorn. The scent is believed to come from a gland located near the tail**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
