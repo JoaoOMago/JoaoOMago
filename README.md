@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7923 days**.
 
-And here is a just a random fact -  **More than half the time spent in United States courts is cases that involve automobiles**.
+And here is a just a random fact -  **In 1998, approximately 1.6 billion tree seedlings were planted in the United States. This amounts to about five trees per American**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
