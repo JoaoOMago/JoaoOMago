@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7922 days**.
 
-And here is a just a random fact -  **Acorns were used as a coffee substitute during the American Civil War**.
+And here is a just a random fact -  **Anti-American demonstrators protesting in Bangladesh after the September 11, 2001 terrorist attacks carried posters of Osama bin Laden sitting alongside Bert, a beloved Sesame Street Muppet character**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
