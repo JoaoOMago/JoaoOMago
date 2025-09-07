@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7923 days**.
 
-And here is a just a random fact -  **It was believed by Ancient Hindus that the world was a sphere and rested on the back of four elephants, which stood on a turtle**.
+And here is a just a random fact -  **The word Himalayas means the "home of snow."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
