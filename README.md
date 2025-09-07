@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7923 days**.
 
-And here is a just a random fact -  **In some parts of the Atacama Desert it has never rained**.
+And here is a just a random fact -  **Surveys indicate that the number one reason people play BINGO is for leisure**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
