@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7923 days**.
 
-And here is a just a random fact -  **Taco Bell serves over 35 million consumers each week in the USA**.
+And here is a just a random fact -  **There are dolphins that live in the Amazon River that are the colour pink**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
