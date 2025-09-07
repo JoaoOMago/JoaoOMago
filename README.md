@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7922 days**.
 
-And here is a just a random fact -  **On average, a whole chicken from the grocery store weighs 3 pounds 12 ounces**.
+And here is a just a random fact -  **500,000 kids in the US live in same sex households**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
