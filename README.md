@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7922 days**.
 
-And here is a just a random fact -  **Pluto was discovered on February 10, 1930 by Clyde Tombaugh**.
+And here is a just a random fact -  **One of the reasons marijuana is illegal today because cotton growers in the 30s lobbied against hemp farmers -- they saw it as competition. It is not chemically addictive as is nicotine, alcohol, or caffeine**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
