@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7924 days**.
 
-And here is a just a random fact -  **In the U.S. peanuts account for 66% of all snack nuts**.
+And here is a just a random fact -  **An octopus has three hearts**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
