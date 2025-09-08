@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7923 days**.
+Here is a random fact about me - I have been on this planet for **7924 days**.
 
-And here is a just a random fact -  **The accent that Mike Myers used for the character Shrek came from the accent that his mother would use when she was telling him bedtime stories when he was a child**.
+And here is a just a random fact -  **Studies show that couples that smoke during the time of conception have a higher chance of having a girl compared to couples that do not smoke**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
