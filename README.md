@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7924 days**.
 
-And here is a just a random fact -  **Studies show that couples that smoke during the time of conception have a higher chance of having a girl compared to couples that do not smoke**.
+And here is a just a random fact -  **In 2002, the most popular car color in North America was silver.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
