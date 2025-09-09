@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7925 days**.
 
-And here is a just a random fact -  **French artist, Michel Vienkot, uses cow dung as paint when he creates his pictures**.
+And here is a just a random fact -  **Each day Americans 15 and over spend an average of 55 minutes of driving**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
