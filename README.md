@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7925 days**.
 
-And here is a just a random fact -  **The sea cucumber spills its internal organs out as a defense mechanism**.
+And here is a just a random fact -  **The fat that comes from sheep, which is called tallow, can also be used to produce soap and candles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
