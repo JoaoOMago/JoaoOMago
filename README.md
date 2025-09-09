@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7925 days**.
 
-And here is a just a random fact -  **"Dreamt" is the only English word that ends in the letters "mt"**.
+And here is a just a random fact -  **Pepsi got its name from the ingredient pepsin, which is said to aid in digestion, however, it is not known**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
