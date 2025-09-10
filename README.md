@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7926 days**.
 
-And here is a just a random fact -  **The driest place on earth is Calama, in the Atacama Desert in Chile**.
+And here is a just a random fact -  **Americans write approximately 50 billion checks a year making it the second most frequent payment method used after cash**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
