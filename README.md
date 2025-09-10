@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7925 days**.
 
-And here is a just a random fact -  **The Lion King is the top grossing Disney movie of all-time with domestic gross intake of $312 million**.
+And here is a just a random fact -  **It takes about three hours for food to be broken down in the human stomach**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
