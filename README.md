@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7925 days**.
 
-And here is a just a random fact -  **Cost of raising a medium-size dog to the age of eleven: $6,400**.
+And here is a just a random fact -  **When opossums are playing 'possum, they are not "playing." Theyactually pass out from sheer terror.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
