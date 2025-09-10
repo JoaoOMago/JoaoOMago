@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7926 days**.
 
-And here is a just a random fact -  **In 1992, approximately 750 deaths occurred in the United States due to workplace violence**.
+And here is a just a random fact -  **Wherever a person is standing in the state of Michigan in the United States, they are within 85 miles of one of the Great Lakes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
