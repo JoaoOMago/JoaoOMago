@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7926 days**.
 
-And here is a just a random fact -  **Americans write approximately 50 billion checks a year making it the second most frequent payment method used after cash**.
+And here is a just a random fact -  **The concept of Boxing Day, which is on December 26th, was to give boxes of food and clothing to the poor. It is now viewed in some countries as a time to get merchandise from stores at reduced prices**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
