@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7926 days**.
 
-And here is a just a random fact -  **In the U.S., the sport that causes the most injuries among the age group of 15-24 is basketball**.
+And here is a just a random fact -  **A "hairbreadth away" is 1/48 of an inch**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
