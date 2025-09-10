@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7925 days**.
 
-And here is a just a random fact -  **The Danish company Lego, which began in 1932, first manufactured ironing boards, and stepladders**.
+And here is a just a random fact -  **Urophobia is the fear of urine or urinating**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
