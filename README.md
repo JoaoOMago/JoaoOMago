@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7925 days**.
 
-And here is a just a random fact -  **The first commercial chewing gum was sold in 1848 by John B. Curtis, who also made the gum. He called the gum "State of Maine Pure Spruce Gum."**.
+And here is a just a random fact -  **The Lion King is the top grossing Disney movie of all-time with domestic gross intake of $312 million**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 09 Sep, 2025.</sub>
+<sub>Last updated by Github Actions on 10 Sep, 2025.</sub>
