@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7926 days**.
 
-And here is a just a random fact -  **Michael Jordan makes more money from Nike annually than all of the Nike factory workers in Malaysia combined**.
+And here is a just a random fact -  **The human heart beast roughly 35 million times a year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
