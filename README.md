@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7927 days**.
 
-And here is a just a random fact -  **The laundry detergent Tide, has a market share of about forty percent market**.
+And here is a just a random fact -  **With winds of 50 miles per hour, The Statue of Liberty sways three inches and the torch sways five inches**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
