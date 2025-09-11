@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7927 days**.
 
-And here is a just a random fact -  **With winds of 50 miles per hour, The Statue of Liberty sways three inches and the torch sways five inches**.
+And here is a just a random fact -  **An average city dog lives approximately three years longer than an average country dog**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
