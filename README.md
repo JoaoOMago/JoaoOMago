@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7926 days**.
 
-And here is a just a random fact -  **Throughout the South, peanuts were known as "Monkey Nuts," and "Goober peas," before the civil war**.
+And here is a just a random fact -  **The majority of burglaries occur during the daytime when people are not home**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
