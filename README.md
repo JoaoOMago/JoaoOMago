@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7927 days**.
 
-And here is a just a random fact -  **Wham-O manufactured twenty-thousand hula-hoops a day at the peak of hula-hoop popularity in 1958**.
+And here is a just a random fact -  **Popeye is 34 years old, weighs 158 lbs, and is 5 feet 6 inches tall**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
