@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7927 days**.
 
-And here is a just a random fact -  **Printed on the tablet being held by the Statue of Liberty is July IV, MDCCLXXVI**.
+And here is a just a random fact -  **Researchers have developed odourless socks. The sock fabric is made by attaching molecules that contain chlorine called halamines to textile fibers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
