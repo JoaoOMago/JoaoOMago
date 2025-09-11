@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7927 days**.
 
-And here is a just a random fact -  **If all the strawberries produced in California annually were put side by side, they would wrap around the Earth fifteen times**.
+And here is a just a random fact -  **The flatulation from domesticated cows produce about 30% of the methane on this planet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
