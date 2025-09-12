@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7928 days**.
 
-And here is a just a random fact -  **Constipation is caused when too much water is absorbed in the large intestine and the feces become dry**.
+And here is a just a random fact -  **Stinging insects kills approximately 25 people annually in the U.S**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
