@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7927 days**.
 
-And here is a just a random fact -  **The Eisenhower interstate system requires that one mile in every fivemust be straight. These straight sections are usable as airstrips intimes ofwar or other emergencies.**.
+And here is a just a random fact -  **In 1848, the first American pasta factory opened in Brooklyn, New York. The name of the man that opened it was Antoine Zerega**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
