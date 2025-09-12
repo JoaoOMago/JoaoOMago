@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7928 days**.
 
-And here is a just a random fact -  **On average, the Pentagon uses 666 rolls of toilet paper in one day**.
+And here is a just a random fact -  **Psychokinesis refers to the ability of moving objects through psychic power**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
