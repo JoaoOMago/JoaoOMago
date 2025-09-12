@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7928 days**.
 
-And here is a just a random fact -  **In Belgium, there is a museum that is just for strawberries**.
+And here is a just a random fact -  **The scarlet tanager, a songbird native to Illinois, can eat as many as 2,100 gypsy-moth caterpillars in one hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
