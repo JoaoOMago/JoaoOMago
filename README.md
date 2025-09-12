@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7928 days**.
 
-And here is a just a random fact -  **JELL-O was declared The "Official State Snack" of Utah in January 2001**.
+And here is a just a random fact -  **Finnish folklore states that when Santa comes to Finland to deliver gifts, he leaves his sleigh behind and rides on a goat named Ukko instead**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
