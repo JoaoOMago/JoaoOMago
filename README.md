@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7928 days**.
 
-And here is a just a random fact -  **An adult esophagus can range from 10 to 14 inches in length and is one inch in diameter**.
+And here is a just a random fact -  **Dolphins sleep with one eye open**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
