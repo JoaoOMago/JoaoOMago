@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7928 days**.
 
-And here is a just a random fact -  **The sentence "the quick brown fox jumps over the lazy dog" uses every letter in the english language**.
+And here is a just a random fact -  **An adult esophagus can range from 10 to 14 inches in length and is one inch in diameter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
