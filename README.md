@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7929 days**.
 
-And here is a just a random fact -  **Pretzels were originally invented for Christian Lent. The twists of the pretzels are to resemble arms crossed in prayer**.
+And here is a just a random fact -  **A chicken with red earlobes will produce brown eggs, and a chicken with white earlobes will produce white eggs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
