@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7929 days**.
 
-And here is a just a random fact -  **Swiss engineer George de Mestral, who got the idea after noticing burrs were sticking to his pants after his regular walks through the woods, invented Velcro.**.
+And here is a just a random fact -  **Annually, an Australian eats 15 kg of bananas, which comes out to 27 meters of bananas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
