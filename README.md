@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7928 days**.
 
-And here is a just a random fact -  **In the 1960 movie "Psycho" by Alfred Hitchcock, chocolate syrup was used to show the blood in the shower scene**.
+And here is a just a random fact -  **Mardi Gras means "Fat Tuesday." This is the festival that New Orleans, Louisiana is famous for having every year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
