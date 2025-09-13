@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7928 days**.
 
-And here is a just a random fact -  **If all the cars from the U.S. were taken and lined up from bumper to bumper, there would be enough cars to go to the moon from earth and back.**.
+And here is a just a random fact -  **Thomas Edison, the inventor of the light bulb was afraid of the dark**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
