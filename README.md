@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7929 days**.
 
-And here is a just a random fact -  **A species of dolphin is born naturally blind in the Indus and Ganges rivers in South Asia. These dolphins have a highly sophisticated sonar system and swim on only one side of their body**.
+And here is a just a random fact -  **The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is one of the few places in the world where a boat can sail under a train driving under a car driving under an airplane**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
