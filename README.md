@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7929 days**.
 
-And here is a just a random fact -  **The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is one of the few places in the world where a boat can sail under a train driving under a car driving under an airplane**.
+And here is a just a random fact -  **In the summer of 1858, the smell of the sewage in the Thames River in London was so bad that the Members of Parliament had to leave from the chamber of the House of Commons. This was a result of two million people dumping all their sewage into the river**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
