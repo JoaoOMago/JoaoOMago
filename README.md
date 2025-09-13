@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7928 days**.
 
-And here is a just a random fact -  **A rose imprint that was fossilized in a slate was discovered in Florisant, Colorado, which is said to be thirty-five million years old**.
+And here is a just a random fact -  **Hippos drink as much as 250 litres of water in any given 24 hour period**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
