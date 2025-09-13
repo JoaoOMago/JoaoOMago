@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7929 days**.
 
-And here is a just a random fact -  **It would take twenty new mid-size cars to generate the same amount of pollution that a mid-size 1960's car did.**.
+And here is a just a random fact -  **In Johannesburg, the average car will be involved in an accident once every four years.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
