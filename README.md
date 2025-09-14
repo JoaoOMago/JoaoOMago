@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7930 days**.
 
-And here is a just a random fact -  **The country with the highest consumption of chocolate per capita is Switzerland, with 22 pounds per person, per year**.
+And here is a just a random fact -  **In 1747, the first American mention of the Christmas tree occurred. However, it was a not a tree but instead a pyramid made out of wood and decorated with apples and evergreen boughs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
