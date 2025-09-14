@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7930 days**.
 
-And here is a just a random fact -  **Kermit the Frog was named after Kermit Scott, a childhood friend of creator Jim Henson, who became a professor of philosophy at Purdue University**.
+And here is a just a random fact -  **While still in college, Bill Gates and Paul Allen once built a special purpose machine called "Traff-O-Data." It was a machine that would analyze information gathered by traffic monitors. They never found any buyers.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
