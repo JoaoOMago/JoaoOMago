@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7929 days**.
+Here is a random fact about me - I have been on this planet for **7930 days**.
 
-And here is a just a random fact -  **Cotton crops can be sprayed up to 40 times a year making it the most chemical-intensive crop in the world**.
+And here is a just a random fact -  **There are about 34,000 species of spiders**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
