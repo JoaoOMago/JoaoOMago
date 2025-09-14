@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7929 days**.
 
-And here is a just a random fact -  **Before air conditioning was invented, white cotton slipcovers were put on furniture to keep the air cool.**.
+And here is a just a random fact -  **The music band UB40 got its name from an unemployment form in England**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
