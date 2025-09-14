@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7929 days**.
 
-And here is a just a random fact -  **There is a species of bird, Antpitta avis canis Ridgley, that barks like a dog**.
+And here is a just a random fact -  **In 1958, the Crayola crayon color "Prussian Blue" was changed to "Midnight Blue" by the request of teachers as kids could not relate to Prussian history**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
