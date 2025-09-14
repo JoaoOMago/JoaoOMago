@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7929 days**.
 
-And here is a just a random fact -  **During World War II, the 2nd Polish Corps had a brown bear named Wojtek, who helped move boxes of ammunition during the battle of Monte Cassino**.
+And here is a just a random fact -  **Most dust particles in your house are made from dead skin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
