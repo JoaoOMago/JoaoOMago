@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7929 days**.
 
-And here is a just a random fact -  **Detroit, Michigan has more registered bowlers than any other city in the USA**.
+And here is a just a random fact -  **The term "the whole 9 yards" came from WWII fighter pilots in thePacific. When arming their airplanes on the ground, the .50 calibermachine gunammo belts measured exactly 27 feet, before being loaded into thefuselage. If the pilots fired all their ammo at a target, it got "the whole 9yards."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
