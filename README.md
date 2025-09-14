@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7929 days**.
 
-And here is a just a random fact -  **A snake charmer in Bangladesh once found 3,500 poisonous cobras and their eggs hidden underneath the floors of two suburban homes**.
+And here is a just a random fact -  **Whooping cranes are born with blue eyes that change to bright gold by the time they six months old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
