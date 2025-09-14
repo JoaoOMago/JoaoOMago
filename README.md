@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7930 days**.
 
-And here is a just a random fact -  **An artist from Chicago named Dwight Kalb created a statue of Madonna made out of 180 pounds of ham**.
+And here is a just a random fact -  **No NFL team which plays its home games in a domed stadium has ever won a Superbowl**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
