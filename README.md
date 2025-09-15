@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7931 days**.
 
-And here is a just a random fact -  **The largest employer in Central Florida is Walt Disney World. There are approximately 50,000 people working there**.
+And here is a just a random fact -  **St. Patrick explained the Holy Trinity to King Laoghaire, using the shamrock to illustrate the trinity**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
