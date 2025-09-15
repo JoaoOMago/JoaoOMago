@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7931 days**.
 
-And here is a just a random fact -  **When blue whales are first born, they gain as much as 200 pounds a day while they are calves**.
+And here is a just a random fact -  **It takes about three hours for food to be broken down in the human stomach**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
