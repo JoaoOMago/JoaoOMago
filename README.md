@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7930 days**.
 
-And here is a just a random fact -  **The actual smallest sovereign entity in the world is the Sovereign Military Order of Malta (S.M.O.M.). It is located in the city of Rome, Italy, has an area of two tennis courts, and as of 2001 has a population of 80, 20 less people than the Vatican. It is a sovereign entity under international law, just as the Vatican is**.
+And here is a just a random fact -  **The average person changes their career every 13 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 14 Sep, 2025.</sub>
+<sub>Last updated by Github Actions on 15 Sep, 2025.</sub>
