@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7930 days**.
 
-And here is a just a random fact -  **The beeswax that is produced by Honey bees comes from eight paired glands that are located on the underside of their stomach**.
+And here is a just a random fact -  **There are some types of chocolates that are actually good for the arteries and heart**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
