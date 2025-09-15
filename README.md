@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7930 days**.
 
-And here is a just a random fact -  **Approximately 18 billion disposable diapers end up in landfills each year. These diapers can takes as long as 500 years to finally decompose**.
+And here is a just a random fact -  **Sharks are capable of going at least 6 weeks without eating; the record observed in an aquarium is 15 months by a species of shark known as the swell sharks)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
