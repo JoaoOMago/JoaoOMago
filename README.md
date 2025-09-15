@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7931 days**.
 
-And here is a just a random fact -  **Scientists have discovered a way to make biodegradable plastic from plants by using genetic engineering.**.
+And here is a just a random fact -  **The Roman emperor Commodus was at one time going to change the name of Rome to Colonia Commodiana**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
