@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7932 days**.
 
-And here is a just a random fact -  **The IRS employees tax manual has instructions for collecting taxes after a nuclear war**.
+And here is a just a random fact -  **In 1970, Chip maker Intel purchased a pear orchard to build their corporate headquarters on**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
