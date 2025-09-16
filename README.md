@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7932 days**.
 
-And here is a just a random fact -  **If an identical twin grows up without having a certain tooth, the other twin will most likely also grow up with that tooth missing**.
+And here is a just a random fact -  **In the U.S. there are approximately 65.8 million cats**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
