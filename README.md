@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7931 days**.
 
-And here is a just a random fact -  **Research indicates that babies who suck on pacifiers are more prone to ear aches**.
+And here is a just a random fact -  **In one gram of soil, about ten million bacteria live in it**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
