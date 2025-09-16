@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7931 days**.
 
-And here is a just a random fact -  **A pregnant goldfish is called a twit**.
+And here is a just a random fact -  **LSD is made from lysergic acid, which is found in ergot, a type of fungus**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
