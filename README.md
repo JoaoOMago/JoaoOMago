@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7931 days**.
+Here is a random fact about me - I have been on this planet for **7932 days**.
 
-And here is a just a random fact -  **Actress Jamie Lee Curtis invented a special diaper for babies that has a pocket**.
+And here is a just a random fact -  **Pollsters say that 40 percent of dog and cat owners carry pictures of the pets in their wallets**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
