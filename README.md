@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7932 days**.
 
-And here is a just a random fact -  **Ukrainian people celebrate Christmas on January 7th, which is the Orthodox Christmas Day**.
+And here is a just a random fact -  **A B-25 bomber airplane crashed into the 79th floor of the Empire State Building on July 28, 1945**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
