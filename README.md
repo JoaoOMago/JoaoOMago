@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7933 days**.
 
-And here is a just a random fact -  **In 1992, when EuroDisney first opened in France, the public beat some of the park characters because at the time most people had been against the park being built**.
+And here is a just a random fact -  **Each nostril of a human being register smell in a different way. Smells that are made from the right nostril are more pleasant than the left. However, smells can be detected more accurately when made by the left nostril**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
