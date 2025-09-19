@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7934 days**.
 
-And here is a just a random fact -  **A mole can dig a tunnel three hundred feet long in a single night**.
+And here is a just a random fact -  **The body of the average baby is 75% water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
