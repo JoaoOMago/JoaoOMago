@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7934 days**.
 
-And here is a just a random fact -  **The most recycled product in the world is the automobile.**.
+And here is a just a random fact -  **If a raisin is dropped into a glass of champagne it will bounce up and down in the glass**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
