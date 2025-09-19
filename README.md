@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7934 days**.
+Here is a random fact about me - I have been on this planet for **7935 days**.
 
-And here is a just a random fact -  **The Toronto Maple Leafs used to be called the Toronto Arenas, then the St. Patricks and finally the Maple Leafs**.
+And here is a just a random fact -  **The nickname for a Japanese businessmen is "Salarymen."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
