@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7935 days**.
 
-And here is a just a random fact -  **7-Eleven was the first convenience store to have television advertising. The animated commercial ran in 1949 and had a singing rooster and owl**.
+And here is a just a random fact -  **Influenza caused over twenty-one million deaths in 1918**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
