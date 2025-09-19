@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7935 days**.
 
-And here is a just a random fact -  **There are approximately 2,700 different species of mosquitoes**.
+And here is a just a random fact -  **In 1917, Margaret Sanger was jailed for one month for establishing the first birth control clinic**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
