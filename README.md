@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7936 days**.
 
-And here is a just a random fact -  **Olives, which grow on trees, were first cultivated 5,000 years ago in Syria**.
+And here is a just a random fact -  **Tohru Iwatani, the inventor of the video game Pac-Man, came up with the idea when he saw a pizza with a slice missing at a dinner party**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
