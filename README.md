@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7935 days**.
+Here is a random fact about me - I have been on this planet for **7936 days**.
 
-And here is a just a random fact -  **Whale oil was used in some car transmissions until 1973**.
+And here is a just a random fact -  **The turkey was once nominated to be the official bird of the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
