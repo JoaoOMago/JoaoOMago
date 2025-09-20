@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7935 days**.
 
-And here is a just a random fact -  **Water that is safe to drink is referred to as POTABLE**.
+And here is a just a random fact -  **After the Krakatoa volcano eruption in 1883 in Indonesia, many people reported that, because of the dust, the sunset appeared green and the moon blue. The moon was said to appear blue for almost two years.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 19 Sep, 2025.</sub>
+<sub>Last updated by Github Actions on 20 Sep, 2025.</sub>
