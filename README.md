@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7936 days**.
 
-And here is a just a random fact -  **The labels for Crayola crayons come in 18 different colors**.
+And here is a just a random fact -  **Finland is also known as "the land of of the thousand lakes," because of the over 188,000 lakes found in this country**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
