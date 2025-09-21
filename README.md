@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7937 days**.
 
-And here is a just a random fact -  **Before soccer referees started using whistles in 1878, they used to rely on waving a handkerchief**.
+And here is a just a random fact -  **The sole purpose of a drone bee is to mate with the queen bee**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
