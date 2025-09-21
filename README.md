@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7937 days**.
 
-And here is a just a random fact -  **Robert Southey wrote the story "Goldilocks and the Three Bears" in 1834**.
+And here is a just a random fact -  **There is a muppet named Kami that appears on the South African version of the T.V. show "Sesame Street" that is HIV-positive**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
