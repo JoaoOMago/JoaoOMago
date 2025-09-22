@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7938 days**.
 
-And here is a just a random fact -  **Boeing completed more than 15,000 hours of wind-tunnel testing on the first 747**.
+And here is a just a random fact -  **The heart of an adult giraffe weighs on average 26 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
