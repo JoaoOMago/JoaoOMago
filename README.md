@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7937 days**.
 
-And here is a just a random fact -  **Bird droppings are the chief export of Nauru, an island nation in the Western Pacific**.
+And here is a just a random fact -  **The King Cobra has enough venom in its bite that it can kill up to 13 adults**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
