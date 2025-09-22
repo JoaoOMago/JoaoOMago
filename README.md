@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7937 days**.
 
-And here is a just a random fact -  **The word racecar and kayak are the same whether they are read left to right or right to left**.
+And here is a just a random fact -  **In an average lifetime, a person will spend 4 years travelling in an automobile and six months waiting at a red light.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
