@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7938 days**.
 
-And here is a just a random fact -  **The Faberge, "Winter Egg" was sold in 1994 for $5.6 million. This is the most expensive decorative egg that has ever been sold**.
+And here is a just a random fact -  **The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
