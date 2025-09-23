@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7939 days**.
 
-And here is a just a random fact -  **The only animal, besides humans that can get leprosy is the Armadillo**.
+And here is a just a random fact -  **The largest school in the world is City Montessori School in India and has over 25,000 students in grade levels ranging from kindergarten to college**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
