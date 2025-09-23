@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7938 days**.
 
-And here is a just a random fact -  **Robert Wadlow is the tallest man recorded in history. He grew to be eight feet and eleven inches and weighed 490 pounds when he died**.
+And here is a just a random fact -  **A galactic year is 250 million Earth-years. This is the time it takes for our solar system to make one revolution around the Milky Way Galaxy.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
