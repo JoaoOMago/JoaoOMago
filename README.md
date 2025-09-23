@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7939 days**.
 
-And here is a just a random fact -  **Hundreds of years ago, only the wealthy people used to wear underwear**.
+And here is a just a random fact -  **Every day, the average person swallows about a quart of snot**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
