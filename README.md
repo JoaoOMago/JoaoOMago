@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7939 days**.
 
-And here is a just a random fact -  **Termites do more damage in the U.S. ever year than all the fires, storms and earthquakes combined. They do an average of $750 million in damage annually**.
+And here is a just a random fact -  **There are 336 dimples on a regulation golf ball**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
