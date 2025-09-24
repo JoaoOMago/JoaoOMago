@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7939 days**.
 
-And here is a just a random fact -  **A Connecticut Toy maker, Herobuilders, sells action figures of President George W. Bush, Islamic militant Osama bin Laden, New York Mayor Rudolph Giuliani and British Prime Minister Tony Blair, which are all major figures tied to the September 11, 2001 WTC attacks**.
+And here is a just a random fact -  **A 13-year-old boy in India produced winged beetles in his urine after hatching the eggs in his body**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
