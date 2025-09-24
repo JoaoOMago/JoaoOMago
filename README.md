@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7939 days**.
 
-And here is a just a random fact -  **Mars is the home of Olympus Mons, the largest known volcano in our solar system**.
+And here is a just a random fact -  **There was a molasses flood in Boston on January 15, 1919 that killed 21 people and injured 150 people**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
