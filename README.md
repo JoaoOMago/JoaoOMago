@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7940 days**.
 
-And here is a just a random fact -  **NASA scientists have concluded that the state of California is moving north and will collide with the state of Alaska in roughly 150 million years**.
+And here is a just a random fact -  **Average age of top GM executives in 1994: 49.8 years. Average age ofthe Rolling Stones: 50.6.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
