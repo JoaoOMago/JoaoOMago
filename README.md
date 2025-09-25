@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7940 days**.
 
-And here is a just a random fact -  **Coffee beans were chewed for more than 400 years before the first cup of coffee was brewed**.
+And here is a just a random fact -  **Another name for licorice is "Sweet Wood" or "Spanish Juice."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
