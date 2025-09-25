@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7941 days**.
 
-And here is a just a random fact -  **Franklin Pierce was the first U.S. President to have a Christmas tree in the White House**.
+And here is a just a random fact -  **The only English place that has a name that ends with an exclamation mark is "Westward Ho!"**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
