@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7940 days**.
 
-And here is a just a random fact -  **"Pomology" is the science of growing an apple**.
+And here is a just a random fact -  **The fastest shark is the "Shortfin Mako," which can swim as fast as sixty miles per hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Sep, 2025.</sub>
+<sub>Last updated by Github Actions on 25 Sep, 2025.</sub>
