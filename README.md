@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7942 days**.
 
-And here is a just a random fact -  **In Australia, a dust-devil is called a "willy-willy**.
+And here is a just a random fact -  **Turkeys have a wingspan of approximately 4.5 feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
