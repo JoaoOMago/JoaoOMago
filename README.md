@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7942 days**.
 
-And here is a just a random fact -  **Ringo Starr appeared in a Japanese advertisement for apple sauce. Ironically his name means "apple sauce" in Japanese**.
+And here is a just a random fact -  **The only 15 letter word that can be spelled without repeating a letter is "uncopyrightable."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
