@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7941 days**.
 
-And here is a just a random fact -  **The world record for donut eating is held by John Haight, who ate 29 donuts (52 ounces) in a little over six minutes**.
+And here is a just a random fact -  **The temperature of lightning bolts is sometimes hotter than the surface of the sun.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Sep, 2025.</sub>
+<sub>Last updated by Github Actions on 26 Sep, 2025.</sub>
