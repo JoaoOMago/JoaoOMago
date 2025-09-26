@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7942 days**.
 
-And here is a just a random fact -  **Jewelers Tiffany & Co., based in New York, are responsible for making the Super Bowl trophy**.
+And here is a just a random fact -  **People that suffer from gum disease are twice as likely to have a stroke or heart attack**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
