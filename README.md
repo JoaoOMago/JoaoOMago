@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7942 days**.
 
-And here is a just a random fact -  **Brazil is the largest producers of oranges in the world**.
+And here is a just a random fact -  **The average office document gets copied 19 times**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
