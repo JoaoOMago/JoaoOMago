@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7943 days**.
 
-And here is a just a random fact -  **Fat is important for the development of children and normal growth**.
+And here is a just a random fact -  **Parts of the Dead Sea Scrolls appeared for sale in the June 1, 1954 issue of the Wall Street Journal**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
