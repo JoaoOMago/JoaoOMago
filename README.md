@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7943 days**.
 
-And here is a just a random fact -  **Parts of the Dead Sea Scrolls appeared for sale in the June 1, 1954 issue of the Wall Street Journal**.
+And here is a just a random fact -  **The city of Nottingham in England was the first city to have Braille signs (signs for the blind) in its shopping malls for the blind**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
