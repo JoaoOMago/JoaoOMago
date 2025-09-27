@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7943 days**.
 
-And here is a just a random fact -  **Eating 11 pounds of apples will make you gain one pound of weight**.
+And here is a just a random fact -  **Each day, anywhere from 35-150 species of life go extinct**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
