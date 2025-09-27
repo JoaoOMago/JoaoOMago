@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7942 days**.
 
-And here is a just a random fact -  **In Czechhoslovakia, there is a church that has a chandelier made of human bones**.
+And here is a just a random fact -  **In one day, the Tootsie Roll Industry makes over 16 million lollipops**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
