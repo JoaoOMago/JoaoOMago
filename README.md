@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7944 days**.
 
-And here is a just a random fact -  **Archeologists report that cannabis was most likely the first plant cultivated by humans. Cannabis was used for linen, paper, and garments**.
+And here is a just a random fact -  **A flea can jump 150 times its size. That is the same as a person able to jump up 1,000 feet in the air**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
