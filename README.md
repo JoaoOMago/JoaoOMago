@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7944 days**.
 
-And here is a just a random fact -  **Post-It Notes, which are adhesive notes, were invented while looking for a way to improve the acrylate adhesive found in tapes**.
+And here is a just a random fact -  **An average city dog lives approximately three years longer than an average country dog**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
