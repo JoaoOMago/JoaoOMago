@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7945 days**.
 
-And here is a just a random fact -  **The average number of pillowcases washed a day at the MGM Grand Hotel in Las Vegas is 15,000**.
+And here is a just a random fact -  **The most common name in the world is Mohammed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
