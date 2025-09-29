@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7945 days**.
 
-And here is a just a random fact -  **Ninety-nine percent of pumpkins sold in the United States are for the sole purpose of decoration**.
+And here is a just a random fact -  **The odds of having quadruplets are 1 in 729,000**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
