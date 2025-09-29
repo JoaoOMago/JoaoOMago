@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7945 days**.
 
-And here is a just a random fact -  **An elephant in the wild can eat anywhere from 100 - 1000 pounds of vegetation in a 16 hour period**.
+And here is a just a random fact -  **A U.S. company came out with a toilet night-light that sends out a green warning beacon when the seat is up**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
