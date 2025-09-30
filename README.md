@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7945 days**.
 
-And here is a just a random fact -  **The Chihuahua Desert is the largest desert in North America, and is over 200,000 square miles**.
+And here is a just a random fact -  **The reason firehouses have circular stairways is from the days of yorewhen the engines were pulled by horses. The horses were stabled on theground floor and figured out how to walk up straight staircases.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
