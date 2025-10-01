@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7947 days**.
 
-And here is a just a random fact -  **After twenty-seven years, Betty Rubble made her debut as a Flintstones Vitamin in 1996**.
+And here is a just a random fact -  **Buffalo wings, got their name because the spicy chicken wings originated in Buffalo, New York**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
