@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7947 days**.
 
-And here is a just a random fact -  **Many years ago, a fish was caught that was 33 inches long and seemed to be heavier than it should. When they cut the fish, fishermen found a full of bottle of ale inside it**.
+And here is a just a random fact -  **On September 7, 1997, the first flight of the F-22a occurred.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
