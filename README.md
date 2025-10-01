@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7947 days**.
 
-And here is a just a random fact -  **Owls swallow their prey whole because they have no teeth. After approximately 12 hours they cough up the feathers, bones, and fur in a shape of a football pellet**.
+And here is a just a random fact -  **The biggest religious building in the world is a Hindu Temple, Angkor Wat, located in Cambodia. It was built at the end of the 11th century**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
