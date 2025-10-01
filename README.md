@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7946 days**.
 
-And here is a just a random fact -  **Ellen Macarthur, yachtswoman, had a total of 891 naps in 94 days that were each 36 minutes long while on her Vendee Round the Globe yacht race**.
+And here is a just a random fact -  **When Coca-Cola began to be sold in China, they used characters that would sound like "Coca-Cola" when spoken. Unfortunately, what they turned out to mean was "Bite the wax tadpole". It did not sell well**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
