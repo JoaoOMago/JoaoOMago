@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7947 days**.
 
-And here is a just a random fact -  **Due to the deforestation of the forests in North China, over one million tons of sands blows into Beijing from the Gobi desert. It sometimes causes the sky to turn yellow.**.
+And here is a just a random fact -  **An airplane mechanic invented Slinky while he was playing with engine parts and realized the possible secondary use for the springs. Barbie was invented by Ruth Handler after watching her daughter play with baby dolls imagining then in grown up roles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
