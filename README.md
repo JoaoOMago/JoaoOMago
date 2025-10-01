@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7947 days**.
 
-And here is a just a random fact -  **St. Louis, Missouri was the first U.S. city to host the summer Olympics in 1904**.
+And here is a just a random fact -  **Paul Hunn holds the record for the loudest burp, which was 118.1 decibels, which is as loud as a chainsaw**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
