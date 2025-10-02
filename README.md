@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7947 days**.
 
-And here is a just a random fact -  **The worlds tallest free fall rollercoaster is The Giant Drop located in Australia. The drops is 120 meters which is equivalent to a 39 storey building**.
+And here is a just a random fact -  **The word "umbrella" is derived from the Latin root word "umbra", which means shade or shadow**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Oct, 2025.</sub>
+<sub>Last updated by Github Actions on 02 Oct, 2025.</sub>
