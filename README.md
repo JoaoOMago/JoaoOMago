@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7948 days**.
 
-And here is a just a random fact -  **Orcas (killer whales), when traveling in groups, breathe in unison**.
+And here is a just a random fact -  **Milton Bradley originally wanted to name the game Twister, Pretzel; but he could not since the name was copyrighted**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
