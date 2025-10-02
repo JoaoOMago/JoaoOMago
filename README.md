@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7948 days**.
 
-And here is a just a random fact -  **Tobacco contains over 50 chemicals that can cause cancer**.
+And here is a just a random fact -  **Bats always turn left when exiting a cave**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
