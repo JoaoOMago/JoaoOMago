@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7947 days**.
 
-And here is a just a random fact -  **The first World Series baseball playoffs occurred in 1903**.
+And here is a just a random fact -  **In 1905, the first pizzeria in the U.S. opened in New York City**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
