@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7949 days**.
 
-And here is a just a random fact -  **In the first century, people used to drink goats milk to sweeten their breath**.
+And here is a just a random fact -  **In the United States, 8.5 million cosmetic surgical and non-surgical procedures were done in the year 2001**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
