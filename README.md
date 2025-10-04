@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7950 days**.
 
-And here is a just a random fact -  **The biggest hamburger that was served was 8,266 pounds. It was made at the Burger Fest in Seymour, Wisconsin**.
+And here is a just a random fact -  **In most advertisements, including newspapers, the time displayed on a watch is 10:10**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
