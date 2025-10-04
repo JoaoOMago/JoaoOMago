@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7950 days**.
 
-And here is a just a random fact -  **An olive tree can live up to 1500 years**.
+And here is a just a random fact -  **The biggest hamburger that was served was 8,266 pounds. It was made at the Burger Fest in Seymour, Wisconsin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
