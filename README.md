@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7949 days**.
 
-And here is a just a random fact -  **The three best-known western names in China: Jesus Christ, Richard Nixon, and Elvis Presley**.
+And here is a just a random fact -  **For more than 3,000 years, Carpenter ants have been used to close wounds in India, Asia and South America**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
