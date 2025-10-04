@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7950 days**.
 
-And here is a just a random fact -  **In 1989, twenty-three people were hired in Jacksonville Florida just to flush toilets so the pipes would not freeze**.
+And here is a just a random fact -  **Chili Powder was invented in the 19th century in the American Southwest**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
