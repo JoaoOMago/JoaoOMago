@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7950 days**.
 
-And here is a just a random fact -  **There was once a country called Prussia. After World War II, it was divided among Poland, Germany, and the USSR**.
+And here is a just a random fact -  **The longest punt return for a touchdown was 103 yards**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
