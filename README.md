@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7951 days**.
 
-And here is a just a random fact -  **About 1 in 5,000 North Atlantic lobsters are born bright blue**.
+And here is a just a random fact -  **The first state to give the right to women to vote was Wyoming**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
