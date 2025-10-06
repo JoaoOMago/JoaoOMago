@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7951 days**.
 
-And here is a just a random fact -  **At the White House, president John Adams was said to be the first to display fireworks there**.
+And here is a just a random fact -  **People of Ancient China believed that swinging your arms could cure a headache**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
