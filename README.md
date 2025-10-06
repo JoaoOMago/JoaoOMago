@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7952 days**.
 
-And here is a just a random fact -  **Racecar driver Lee Petty once left a pitstop and did a full lap at Nascar with a pit crew member still on the hood**.
+And here is a just a random fact -  **There are more recreational golfers per capita in Canada than any other country in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
