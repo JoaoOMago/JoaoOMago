@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7952 days**.
 
-And here is a just a random fact -  **Some farmers in Japan have learned to grow their watermelons into a square shape. They did this to conserve shelf space**.
+And here is a just a random fact -  **The width of a tornado can range from less than ten yards to more than a mile.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
