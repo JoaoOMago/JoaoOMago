@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7952 days**.
 
-And here is a just a random fact -  **The reason why the Canadian Arctic is called the "Land of the Midnight Sun" is because during the summer many communities have light 24 hours of the day. Many people have to cover their windows with tin foil to keep the light out when they sleep**.
+And here is a just a random fact -  **A duck's quack doesn't echo, and no one knows why**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
