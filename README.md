@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7952 days**.
 
-And here is a just a random fact -  **The only commercial aircraft that is able to break the sound barrier is the Concorde.**.
+And here is a just a random fact -  **Canada is the only country not to win a gold medal in the Summer Olympic games while hosting the event**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
