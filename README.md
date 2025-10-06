@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7951 days**.
+Here is a random fact about me - I have been on this planet for **7952 days**.
 
-And here is a just a random fact -  **The cartoon character Popeye was actually based on a real person named Frank "Rocky" Fiegel who was a tough guy who was quite similar to Popeye physically**.
+And here is a just a random fact -  **Frozen food can be just as nutritious as fresh food**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
