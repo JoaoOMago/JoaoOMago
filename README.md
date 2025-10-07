@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7953 days**.
 
-And here is a just a random fact -  **Colonel Sanders original white suit was auctioned off for $80,000 in February 2002**.
+And here is a just a random fact -  **In the 1985 Boise, Idaho mayoral election, there were four write-in votes for Mr. Potato Head**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
