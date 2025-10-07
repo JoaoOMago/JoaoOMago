@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7953 days**.
 
-And here is a just a random fact -  **The first American president to deliver a speech over the radio was Warren G. Harding**.
+And here is a just a random fact -  **Mangos are known throughout the world as the "King of Fruits."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
