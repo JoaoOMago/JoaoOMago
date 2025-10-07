@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7952 days**.
 
-And here is a just a random fact -  **Bananas contain a natural chemical which can make a person happy. This same chemical is found in Prozac**.
+And here is a just a random fact -  **Approximately 71% of American chocolate eaters prefer to eat milk chocolate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
