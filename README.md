@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7952 days**.
 
-And here is a just a random fact -  **Research has indicated that a tie that is on too tight can increase the risk of glaucoma in men**.
+And here is a just a random fact -  **The longest fangs of a snake are found on the Gaboon Viper (Bitis gabonica), and can reach over 2 inches in length**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 06 Oct, 2025.</sub>
+<sub>Last updated by Github Actions on 07 Oct, 2025.</sub>
