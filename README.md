@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7953 days**.
 
-And here is a just a random fact -  **Lemon juice can aid in reducing the swelling caused by insect bites**.
+And here is a just a random fact -  **Three consecutive strikes in bowling is called a turkey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
