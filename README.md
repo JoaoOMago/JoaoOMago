@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7953 days**.
 
-And here is a just a random fact -  **People who meet their calcium need reduce their risk of developing kidney stones**.
+And here is a just a random fact -  **At one time the group "Grateful Dead" were called "The Warlocks."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
