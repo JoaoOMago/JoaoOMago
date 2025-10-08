@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7954 days**.
 
-And here is a just a random fact -  **Close to fifty percent of Internet shoppers spend over five hours a week online**.
+And here is a just a random fact -  **Approximately 25% of all scald burns to children are from hot tap water and is associated with more deaths than with any other liquid**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
