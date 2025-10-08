@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7954 days**.
 
-And here is a just a random fact -  **The company Chanel claims that every 30 seconds, somewhere in the world, a bottle of Chanel No 5 is sold**.
+And here is a just a random fact -  **The Tonle Sap River in Cambodia flows north for almost half the year and then south for the rest of the year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
