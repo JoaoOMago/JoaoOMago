@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7953 days**.
 
-And here is a just a random fact -  **The TV show "Saturday Night Live" made its debut on October 11, 1975**.
+And here is a just a random fact -  **The Montreal Canadians hockey team has won the most Stanley Cups with 24**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
