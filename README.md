@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7953 days**.
+Here is a random fact about me - I have been on this planet for **7954 days**.
 
-And here is a just a random fact -  **American novelist Mark Twain was the first known author to submit a typed manuscript**.
+And here is a just a random fact -  **The ostrich has two toes on each feet which gives it greater speed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
