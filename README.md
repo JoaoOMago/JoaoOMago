@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7953 days**.
 
-And here is a just a random fact -  **3000 children die every day in Africa because of malaria**.
+And here is a just a random fact -  **More than 260,000 people have been killed by volcanic activity since 1700 AD.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
