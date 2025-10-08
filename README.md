@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7954 days**.
 
-And here is a just a random fact -  **Each year there are approximately 20 billion coconuts produced worldwide**.
+And here is a just a random fact -  **The typical lead pencil can draw a line that is thirty five miles long**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
