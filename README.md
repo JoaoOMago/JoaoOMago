@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7954 days**.
 
-And here is a just a random fact -  **The highest recorded speed of a sneeze is 165 km per hour**.
+And here is a just a random fact -  **Even though the rose does not bear any fruit, the rose hips have more Vitamin C than most vegetables and fruits**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
