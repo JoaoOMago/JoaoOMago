@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7954 days**.
+Here is a random fact about me - I have been on this planet for **7955 days**.
 
-And here is a just a random fact -  **During World War II, Kit Kat was unavailable due to milk shortages, so the chocolate bar was made without milk**.
+And here is a just a random fact -  **During World War II, the very first bomb dropped on Berlin by the Allies killed the only elephant in the Berlin Zoo**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
