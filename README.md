@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7955 days**.
 
-And here is a just a random fact -  **The Super Bowl is broadcast to over 182 countries in the world**.
+And here is a just a random fact -  **Water expands 9% when it is frozen**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
