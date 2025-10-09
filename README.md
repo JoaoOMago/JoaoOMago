@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7955 days**.
 
-And here is a just a random fact -  **In 2002, dogs have killed more people in the U.S. than the Great White shark has killed in the past 100 years**.
+And here is a just a random fact -  **The only commercial aircraft that is able to break the sound barrier is the Concorde.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
