@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7954 days**.
 
-And here is a just a random fact -  **Fourteen people die each day from asthma in the United States**.
+And here is a just a random fact -  **The letter J does not appear anywhere on the periodic table of the elements**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
