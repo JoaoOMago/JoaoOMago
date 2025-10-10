@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7955 days**.
 
-And here is a just a random fact -  **The first spacecraft to visit the planet Venus was Mariner 2 in 1962.**.
+And here is a just a random fact -  **The largest diamond found in the United States was a 40.23 carat white diamond. It was found in 1924 and nicknamed the "Uncle Sam."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
