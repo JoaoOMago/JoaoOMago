@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7955 days**.
 
-And here is a just a random fact -  **In 1845, inventor Thomas Adams started the world's first chewing gum factory.**.
+And here is a just a random fact -  **It can take up to a month for a rattlesnake to re-supply its venom**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
