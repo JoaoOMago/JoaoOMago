@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7956 days**.
 
-And here is a just a random fact -  **Ramses II, a pharaoh of Egypt died in 1225 B.C. At the time of his death, he had fathered 96 sons and 60 daughters**.
+And here is a just a random fact -  **The most diners per capita in the world are located in the U.S. state New Jersey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
