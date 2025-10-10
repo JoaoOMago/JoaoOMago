@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7956 days**.
 
-And here is a just a random fact -  **A piece of French toast that was partially eaten by Justin Timberlake sold on eBay**.
+And here is a just a random fact -  **Ukrainian people celebrate Christmas on January 7th, which is the Orthodox Christmas Day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
