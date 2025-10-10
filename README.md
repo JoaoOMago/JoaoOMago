@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7955 days**.
 
-And here is a just a random fact -  **You can send a postcard from Hell. There is a small town located in the Cayman Islands called "Hell." They even have a post office**.
+And here is a just a random fact -  **Ed Cox from San Francisco invented the pot scrubbing S.O.S. pads in 1917. His wife came up with the name, which stands for "Save Our Saucepans."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
