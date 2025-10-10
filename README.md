@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7956 days**.
 
-And here is a just a random fact -  **Basketball was invented by Canadian James Naismith in 1891**.
+And here is a just a random fact -  **Male owls weigh less and are smaller than female owls**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
