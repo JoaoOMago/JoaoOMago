@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7956 days**.
 
-And here is a just a random fact -  **The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes**.
+And here is a just a random fact -  **On November 29, 2000, Pope John Paul II was named an "Honorary Harlem Globetrotter."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
