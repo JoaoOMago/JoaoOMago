@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7957 days**.
 
-And here is a just a random fact -  **Japan has approximately 200 volcanoes and is home to 10% of the active volcanoes in the world**.
+And here is a just a random fact -  **Alexander Graham Bell, the inventor of the telephone, never telephoned his wife or mother because they were both deaf**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
