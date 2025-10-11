@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7957 days**.
 
-And here is a just a random fact -  **In Greece, the climate is so warm that many of the cinemas do not even have roofs**.
+And here is a just a random fact -  **When an orange is shown in any of the "Godfather" movies, this means that someone is about to die or a close call is to occur.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
