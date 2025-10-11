@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7956 days**.
+Here is a random fact about me - I have been on this planet for **7957 days**.
 
-And here is a just a random fact -  **Approximately 10.5 gallons of water is used in a dishwasher. Washing the dishes by hand can use up to 20 gallons of water**.
+And here is a just a random fact -  **In Spain, it is common to pour chocolate milk or cafe au lait on cereal for breakfast**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
