@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7956 days**.
 
-And here is a just a random fact -  **Eating about twenty tart cherries a day could reduce inflammatory pain and headache pain**.
+And here is a just a random fact -  **The greatest snowfall ever in a single storm was 189 inches at the Mount Shasta Ski Bowl in February, 1959.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
