@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7957 days**.
 
-And here is a just a random fact -  **Singer Alice Cooper once had a live chicken thrown at him during a concert in Toronto. He threw the chicken back at the crowd and all the publicity surrounding the incident skyrocketed his singing career**.
+And here is a just a random fact -  **The only poisonous birds in the world are the three species of Pitohui. The Hooded Pitohui from Papua New Guinea is the most deadliest out of the three**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
