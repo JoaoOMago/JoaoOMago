@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7958 days**.
 
-And here is a just a random fact -  **An ostrich's eye is bigger that it's brain.**.
+And here is a just a random fact -  **The largest hamburger cooked in the world weighed in at 6,040 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
