@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7958 days**.
 
-And here is a just a random fact -  **Mosquitoes have teeth**.
+And here is a just a random fact -  **On average, Americans spend 33% of their life sleeping**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
