@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7957 days**.
 
-And here is a just a random fact -  **41% of women apply body or hand moisturizer a minimum three times a day**.
+And here is a just a random fact -  **In Haiti, only 1 out of every 200 people own a car. This is ironic considering approximately 33% of the country's budget on import is spent on equipment for fuel and transportation.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Oct, 2025.</sub>
+<sub>Last updated by Github Actions on 12 Oct, 2025.</sub>
