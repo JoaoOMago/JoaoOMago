@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7958 days**.
 
-And here is a just a random fact -  **Olives, which grow on trees, were first cultivated 5,000 years ago in Syria**.
+And here is a just a random fact -  **The ant can lift 50 times its own weight, can pull 30 times its own weight, and always falls over on its right side when intoxicated**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
