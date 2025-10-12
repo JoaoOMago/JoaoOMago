@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7958 days**.
 
-And here is a just a random fact -  **In an episode of the 1962 cartoon The Jestons, Jane Jetson is talking through a video phone. The phone number of The Jetsons was VENUS-1234**.
+And here is a just a random fact -  **Octopi change colours when they become frightened. Normally they are a brownish colour, but can change to green or blue when fear sets in**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
