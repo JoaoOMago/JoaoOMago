@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7959 days**.
 
-And here is a just a random fact -  **Pearls are rarely found in North American oysters**.
+And here is a just a random fact -  **A cubic yard of air weighs about 2 pounds at sea level.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
