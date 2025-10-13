@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7958 days**.
 
-And here is a just a random fact -  **The word "dexterity", to do with skill is related to the right hand. The opposite of the word "deter" is "sinister", to do with evil, it is related to the left hand**.
+And here is a just a random fact -  **Huge Moore, the inventor of Dixie cups got the idea for the name from a neighboring factory, the Dixie Doll Company**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Oct, 2025.</sub>
+<sub>Last updated by Github Actions on 13 Oct, 2025.</sub>
