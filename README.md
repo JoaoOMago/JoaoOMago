@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7959 days**.
 
-And here is a just a random fact -  **Queen Elizabeth I always wore a necklace with a little perfume bottle attached everywhere she went**.
+And here is a just a random fact -  **Women smile more than men do**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
