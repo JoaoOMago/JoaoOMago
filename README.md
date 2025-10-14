@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7959 days**.
 
-And here is a just a random fact -  **There are about 61,300 pizza restaurants in the United States of America**.
+And here is a just a random fact -  **From 1967-1976, the town of Tororo located in Uganda had thunder 251 out of the 365 days in a year for those years.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
