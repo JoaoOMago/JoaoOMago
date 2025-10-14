@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7959 days**.
 
-And here is a just a random fact -  **Desert snails can stay in their shell for up to three years**.
+And here is a just a random fact -  **Keeping your car tuned up is a good way to save on gas. A car that is tuned up is 9% more efficient on gasoline.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
