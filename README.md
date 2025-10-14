@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7960 days**.
 
-And here is a just a random fact -  **The green ring that is formed around the yolk of eggs that have been cooked too long is formed by the chemical reaction from the iron in the yolk and the sulphur in the white part of the egg**.
+And here is a just a random fact -  **The world record for the number of body piercings on one individual is 702, which is held by Canadian Brent Moffat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
