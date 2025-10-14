@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7960 days**.
 
-And here is a just a random fact -  **Men can read smaller print than women; women can hear better**.
+And here is a just a random fact -  **The official state tree of Illinois is The White Oak**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
