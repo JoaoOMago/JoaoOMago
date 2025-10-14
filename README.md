@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7960 days**.
 
-And here is a just a random fact -  **Children who are breast fed tend to have an IQ seven points higher than children who are not**.
+And here is a just a random fact -  **On November 29, 2000, Pope John Paul II was named an "Honorary Harlem Globetrotter."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
