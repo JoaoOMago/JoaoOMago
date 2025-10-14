@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7960 days**.
 
-And here is a just a random fact -  **Other than London, Liverpool is the most filmed British city, and was used to film more than 140 films in 2002**.
+And here is a just a random fact -  **There are over three trillion craters on the moon, with some being having a diameter over three feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
