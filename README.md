@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7959 days**.
 
-And here is a just a random fact -  **A cubic yard of air weighs about 2 pounds at sea level.**.
+And here is a just a random fact -  **The Faberge, "Winter Egg" was sold in 1994 for $5.6 million. This is the most expensive decorative egg that has ever been sold**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 13 Oct, 2025.</sub>
+<sub>Last updated by Github Actions on 14 Oct, 2025.</sub>
