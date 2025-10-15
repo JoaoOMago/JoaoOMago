@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7961 days**.
 
-And here is a just a random fact -  **In 1961, Italian artist Piero Manzoni packed his feces in cans, signed and mounted them, and then sold them as art**.
+And here is a just a random fact -  **In 1978, the World Water Speed record was made by Ken Warby from Australia. His average speed was 317.6 mph, and his jet-powered hydroplane was 27 feet long called "Spirit of Australia." Warby built the boat himself in his back yard**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
