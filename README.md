@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7960 days**.
 
-And here is a just a random fact -  **Queen Lydia Liliuokalani was the last reigning monarch of the Hawaiian Islands. She was also the only Queen the United States ever had**.
+And here is a just a random fact -  **There have been close to 200 coups and counter-coups in the country of Bolivia**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
