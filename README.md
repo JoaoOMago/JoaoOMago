@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7961 days**.
 
-And here is a just a random fact -  **In 1825, the first toilet was installed in the White House**.
+And here is a just a random fact -  **Coca-cola used to use the slogan "Good to the last drop," in 1908. This slogan was later used by Maxwell House**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
