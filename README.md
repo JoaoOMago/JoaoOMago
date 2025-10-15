@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7961 days**.
 
-And here is a just a random fact -  **Left-handed people are better at sports that require good spatial judgment and fast reaction, compared to right-handed individuals**.
+And here is a just a random fact -  **Ray Kroc bought McDonalds for $2.7 million in 1961 from the McDonald brothers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
