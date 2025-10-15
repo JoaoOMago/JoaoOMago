@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7960 days**.
 
-And here is a just a random fact -  **The most popular American city for Kool-Aid sales is St. Louis, Missouri**.
+And here is a just a random fact -  **A Canadian, Troy Hurtubise, spent $100,000 and almost went bankrupt building a RoboCop style suit so that he could withstand a bear attack**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 14 Oct, 2025.</sub>
+<sub>Last updated by Github Actions on 15 Oct, 2025.</sub>
