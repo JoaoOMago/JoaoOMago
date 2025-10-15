@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7961 days**.
 
-And here is a just a random fact -  **Wheel of Fortune star Vanna White holds the record for putting her hands together approximately 140,000 times to clap**.
+And here is a just a random fact -  **On September 7, 1997, the first flight of the F-22a occurred.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
