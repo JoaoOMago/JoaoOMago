@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7962 days**.
 
-And here is a just a random fact -  **Montreal is the second largest French speaking city after Paris**.
+And here is a just a random fact -  **Over half the textile fibers that are used in the world are cotton**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
