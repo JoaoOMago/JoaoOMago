@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7962 days**.
 
-And here is a just a random fact -  **Since the United Nations was founded in 1945, there have been 140 wars**.
+And here is a just a random fact -  **There is a town in Norway called "Hell"**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
