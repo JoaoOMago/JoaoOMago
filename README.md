@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7961 days**.
 
-And here is a just a random fact -  **Bats can detect food up to 18 feet away and what type of insect the food may be using their sense of echolocation**.
+And here is a just a random fact -  **Pineapples were first called "anana", which is Caribbean for "excellent fruit."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
