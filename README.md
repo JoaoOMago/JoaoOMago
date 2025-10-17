@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7962 days**.
+Here is a random fact about me - I have been on this planet for **7963 days**.
 
-And here is a just a random fact -  **About two hundred years before the birth of Christ, the Druids used mistletoe to celebrate that winter was approaching**.
+And here is a just a random fact -  **Platypuses mate in the water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
