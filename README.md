@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7963 days**.
 
-And here is a just a random fact -  **The Indian election in 1984 was the largest election of any country. Over 379,000,000 voters were eligible to vote at over 480,000 polling stations**.
+And here is a just a random fact -  **The largest LEGO castle that was ever built was built with 400,000 LEGO bricks and was 4.45 m x 5.22 m**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
