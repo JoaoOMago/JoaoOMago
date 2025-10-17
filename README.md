@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7962 days**.
 
-And here is a just a random fact -  **William Taft who was the U.S. president between 1909-1913 once got stuck in the White House bathtub**.
+And here is a just a random fact -  **There are over one hundred billion galaxies with each galaxy having billions of stars**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
