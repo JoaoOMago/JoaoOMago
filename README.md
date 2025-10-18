@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7964 days**.
 
-And here is a just a random fact -  **A famous bullfighter, Lagarijo, killed 4,867 bulls in the 19th century.**.
+And here is a just a random fact -  **Pepper was sold as individual grains during the Elizabethan times. The guards at the London docks had to sew up their pockets so they would not steal any of the pepper**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
