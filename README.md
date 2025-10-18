@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7963 days**.
+Here is a random fact about me - I have been on this planet for **7964 days**.
 
-And here is a just a random fact -  **Great White sharks have about 3,000 teeth**.
+And here is a just a random fact -  **The first tattoo machine was invented by Samuel O'Reilly. He did this by using equipment that Thomas Edison used to engrave hard surfaces.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
