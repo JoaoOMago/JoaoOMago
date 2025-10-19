@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7964 days**.
 
-And here is a just a random fact -  **Swiss engineer George de Mestral, who got the idea after noticing burrs were sticking to his pants after his regular walks through the woods, invented Velcro.**.
+And here is a just a random fact -  **Milk and cheese can aid in the reduction of tooth decay**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 18 Oct, 2025.</sub>
+<sub>Last updated by Github Actions on 19 Oct, 2025.</sub>
