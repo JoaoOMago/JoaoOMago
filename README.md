@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7965 days**.
 
-And here is a just a random fact -  **The Chihuahua was named after the Mexican state where they were discovered**.
+And here is a just a random fact -  **In November 1999, two women were killed by a lightning bolt. The underwire located in their bras acted as a electrical conductors, and when the lightning bolt hit the bra they left burn marks on their chest**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
