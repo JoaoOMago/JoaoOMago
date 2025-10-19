@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7964 days**.
 
-And here is a just a random fact -  **Bernd Eilts, a German artist, turns dried cow manure into wall clocks and small sculptures. He is now expanding his business to include cow dung wrist watches**.
+And here is a just a random fact -  **The Simpsons is the longest running prime-time animated series on television history**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
