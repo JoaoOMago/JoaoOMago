@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7964 days**.
 
-And here is a just a random fact -  **In WWII, when allied armies reached the Rhine River the first thing men did was pee in it. This was pretty universal from the lowest private to Winston Churchill (who made a big show of it). Gen. Patton had himself photographed in the act**.
+And here is a just a random fact -  **Brazil is the largest producers of oranges in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
