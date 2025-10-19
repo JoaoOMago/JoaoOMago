@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7965 days**.
 
-And here is a just a random fact -  **The beeswax that is produced by Honey bees comes from eight paired glands that are located on the underside of their stomach**.
+And here is a just a random fact -  **On average, a Canadian girl owns seven Barbie dolls, whereas an American girl owns eight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
