@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7965 days**.
 
-And here is a just a random fact -  **During the era of Louis XIV, women used lemons to redden their lips**.
+And here is a just a random fact -  **Ian Fleming named his character "James Bond" after real-life ornithologist and author**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
