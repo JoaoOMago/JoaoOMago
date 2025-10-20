@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7966 days**.
 
-And here is a just a random fact -  **A newborn kangaroo weighs approximately 0.03 ounces and is small enough to fit in a teaspoon**.
+And here is a just a random fact -  **Males account for 60% of toy injuries that occur in the U.S**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
