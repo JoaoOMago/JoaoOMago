@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7966 days**.
 
-And here is a just a random fact -  **The most common rock on Earth is basalt**.
+And here is a just a random fact -  **The substance that gives red wine and dark beer its color is said to have a positive effects on cholesterol and blood pressure**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
