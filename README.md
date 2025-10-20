@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7965 days**.
 
-And here is a just a random fact -  **In India, pickled ginger, minced mutton and a cottage cheese like substance are popular pizza toppings**.
+And here is a just a random fact -  **The oldest documented footwear found was a 8,000 year-old sandal found in a cave located in Missouri, USA**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
