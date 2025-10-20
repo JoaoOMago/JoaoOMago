@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7965 days**.
+Here is a random fact about me - I have been on this planet for **7966 days**.
 
-And here is a just a random fact -  **Scientists have discovered that the longer the ring finger is in boys the less chance they have of having a heart attack**.
+And here is a just a random fact -  **The largest ketchup bottle in the world is a 170 feet tall and is located in Collinsville, Illinois, USA. It was built in 1949 by the W.E. Caldwell Company as a water tower**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
