@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7966 days**.
 
-And here is a just a random fact -  **A female ferret can die if she goes into heat and cannot find a mate**.
+And here is a just a random fact -  **Apple seeds are poisonous as they contain a cyanide compound**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
