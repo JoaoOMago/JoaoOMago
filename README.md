@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7966 days**.
 
-And here is a just a random fact -  **Males account for 60% of toy injuries that occur in the U.S**.
+And here is a just a random fact -  **A house cat spends 70% of its time sleeping**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
