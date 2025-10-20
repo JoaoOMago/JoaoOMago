@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7965 days**.
 
-And here is a just a random fact -  **In L.A., U.S.A., a man may legally beat his wife with a leather strap, as long as it is less than 2 inches wide**.
+And here is a just a random fact -  **The male praying mantis cannot copulate while its head is attached to its body. The female initiates sex by ripping the males head off**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
