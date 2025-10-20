@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7966 days**.
 
-And here is a just a random fact -  **Just like fingerprints, every cats nose pad is different**.
+And here is a just a random fact -  **British scientists have found evidence that heart attacks increase significantly for people who watch soccer penalty shoot-outs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
