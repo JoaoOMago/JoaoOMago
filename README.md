@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7968 days**.
 
-And here is a just a random fact -  **"Bookkeeper" is the only word in English language with three consecutive double letters**.
+And here is a just a random fact -  **In World War II, the German submarine U-120 was sunk by a malfunctioning toilet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
