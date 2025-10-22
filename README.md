@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7967 days**.
+Here is a random fact about me - I have been on this planet for **7968 days**.
 
-And here is a just a random fact -  **In 1755, the first Canadian post office opened in Halifax, Nova Scotia. The fist Deputy Postmaster General was American inventor Benjamin Franklin who was later dismissed for sympathizing with the American revolutionary cause**.
+And here is a just a random fact -  **There are some ice creams that are 75% air**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
