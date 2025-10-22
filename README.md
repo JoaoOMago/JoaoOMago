@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7968 days**.
 
-And here is a just a random fact -  **Ninety-nine percent of pumpkins sold in the United States are for the sole purpose of decoration**.
+And here is a just a random fact -  **The Tonle Sap River in Cambodia flows north for almost half the year and then south for the rest of the year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
