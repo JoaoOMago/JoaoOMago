@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7968 days**.
 
-And here is a just a random fact -  **The Spring peeper (a frog) can survive the winter season with 65% of its body water as ice**.
+And here is a just a random fact -  **The "Mexican Hat Dance" is the official dance of Mexico**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
