@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7969 days**.
 
-And here is a just a random fact -  **There are more than 1,000 chemicals in a cup of coffee. Of these, only 26 have been tested, and half-caused cancer in rats**.
+And here is a just a random fact -  **In Australia, the average person uses 876 gallons of water daily. In Switzerland they use only 77 gallons of water per person daily**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
