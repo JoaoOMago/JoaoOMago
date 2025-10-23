@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7968 days**.
+Here is a random fact about me - I have been on this planet for **7969 days**.
 
-And here is a just a random fact -  **Intelligent people have more zinc and copper in their hair**.
+And here is a just a random fact -  **The citric acid found in lemon juice is said to be able to dissolve a pearl**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
