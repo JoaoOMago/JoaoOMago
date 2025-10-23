@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7969 days**.
 
-And here is a just a random fact -  **The number one cause of blindness in adults in the United States is diabetes**.
+And here is a just a random fact -  **In his youth, United States president George W. Bush used to play for the Midland (Texas) Central Little League. He played the position of the catcher**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
