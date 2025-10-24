@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7970 days**.
 
-And here is a just a random fact -  **Neptune was the first planet in our solar system to be discovered by mathematics**.
+And here is a just a random fact -  **In 1998, Ten Speed Press publishing company published a book, "The Eat A Bug Cookbook" by David George Gordon that contains over 33 bug recipes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
