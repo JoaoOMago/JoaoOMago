@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7969 days**.
 
-And here is a just a random fact -  **The worlds tallest free fall rollercoaster is The Giant Drop located in Australia. The drops is 120 meters which is equivalent to a 39 storey building**.
+And here is a just a random fact -  **The skeleton of a spider is located on the outside of the body. The name for this is exoskelton**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
