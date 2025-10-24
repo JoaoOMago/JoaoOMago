@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7969 days**.
 
-And here is a just a random fact -  **Mangos are valued for their reputation as an aphrodisiac in countries such as Guatemala and India**.
+And here is a just a random fact -  **The worlds tallest free fall rollercoaster is The Giant Drop located in Australia. The drops is 120 meters which is equivalent to a 39 storey building**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 23 Oct, 2025.</sub>
+<sub>Last updated by Github Actions on 24 Oct, 2025.</sub>
