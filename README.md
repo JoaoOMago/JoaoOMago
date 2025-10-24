@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7970 days**.
 
-And here is a just a random fact -  **Montreal is actually located on an island**.
+And here is a just a random fact -  **In 1971, the postal code was introduced in Ottawa, Ontario**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
