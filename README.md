@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7969 days**.
 
-And here is a just a random fact -  **Warner Brothers Corset Company created the bra cup sizing system, which is now used universally used by manufacturers**.
+And here is a just a random fact -  **Another word to refer to old age is senectitude**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
