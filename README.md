@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7969 days**.
 
-And here is a just a random fact -  **If you fart consistently for 6 years and 9 months, enough gas is produced to create the energy of an atomic bomb**.
+And here is a just a random fact -  **In July 1874, a swarm of Rocky Mountain locusts flew over Nebraska covering an area estimated at 198,600 square miles. It is estimated that the swarm contained about 12.5 trillion insects. These insects became extinct thirty years later**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
