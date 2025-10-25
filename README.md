@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7971 days**.
 
-And here is a just a random fact -  **The driest place on earth is Calama, in the Atacama Desert in Chile**.
+And here is a just a random fact -  **To make one glass of orange juice, 50 glasses of water are needed to grow enough oranges to make the juice**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
