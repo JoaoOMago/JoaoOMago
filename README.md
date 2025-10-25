@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7971 days**.
 
-And here is a just a random fact -  **The vegetable that is eaten most by Americans is potatoes. On average, a person eats about 140 pounds of potatoes annually**.
+And here is a just a random fact -  **Oral-B were the first toothbrushes to go to the moon when they were aboard the Apollo 11 mission**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
