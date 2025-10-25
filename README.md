@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7971 days**.
 
-And here is a just a random fact -  **There is a substance in the skin of the African clawed frog that helps in fighting infection**.
+And here is a just a random fact -  **In one day, adult lungs move about 10,000 litres of air**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
