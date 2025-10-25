@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7970 days**.
 
-And here is a just a random fact -  **Studies have shown that classical music helps cows produce more milk**.
+And here is a just a random fact -  **When playing competitive darts the player must be 7 feet 9 1/4 inches back from the dartboard. Also the board must be 5 feet 8 inches above the floor**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
