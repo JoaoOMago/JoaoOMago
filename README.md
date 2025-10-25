@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7971 days**.
 
-And here is a just a random fact -  **Uranus is the only planet that rotates on its side**.
+And here is a just a random fact -  **It takes about 63,000 trees to make the newsprint for the average Sunday edition of The New York Times**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
