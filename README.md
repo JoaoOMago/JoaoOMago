@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7970 days**.
 
-And here is a just a random fact -  **In New York City there are 6,374.6 miles of streets**.
+And here is a just a random fact -  **The movie that grossed the most money that was adapted from a T.V. cartoon is Scooby-Doo**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
