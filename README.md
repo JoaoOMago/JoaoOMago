@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7971 days**.
 
-And here is a just a random fact -  **ABBA got their name by taking the first letter from each of their names (Agnetha, Bjorn, Benny, Anni-frid.)**.
+And here is a just a random fact -  **Cat's urine glows under a blacklight.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
