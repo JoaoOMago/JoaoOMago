@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7971 days**.
 
-And here is a just a random fact -  **All dogs are the descendant of the wolf. These wolves lived in eastern Asia about 15,000 years ago**.
+And here is a just a random fact -  **The sport Lacrosse was initially played by Native American Indians. They played the sport to prepare for war**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
