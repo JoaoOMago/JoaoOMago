@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7972 days**.
 
-And here is a just a random fact -  **The skeleton of a spider is located on the outside of the body. The name for this is exoskelton**.
+And here is a just a random fact -  **Eating about twenty tart cherries a day could reduce inflammatory pain and headache pain**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
