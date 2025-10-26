@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7971 days**.
 
-And here is a just a random fact -  **The five Olympic rings represent the five continents linked together in friendship**.
+And here is a just a random fact -  **An olive tree can live up to 1500 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
