@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7972 days**.
 
-And here is a just a random fact -  **Research indicates that people prefer the colour blue for their casual clothing**.
+And here is a just a random fact -  **St. Patrick never really drove out any snakes from Ireland. This story was an analogy of how he drove paganism out of Ireland**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
