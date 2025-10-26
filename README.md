@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7972 days**.
 
-And here is a just a random fact -  **Every year, Burger King restaurants prepare over 950,000 pounds of bacon for their breakfast customers**.
+And here is a just a random fact -  **From all the vegetables, beets contain the most sugar**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
