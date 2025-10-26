@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7972 days**.
 
-And here is a just a random fact -  **Instead of a Birthday Cake, many Russian children are given a Birthday Pie**.
+And here is a just a random fact -  **In 1893, the first mosque in the United States was built**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
