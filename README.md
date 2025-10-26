@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7972 days**.
 
-And here is a just a random fact -  **There are some species of snails that are venomous. Their venom can be fatal to humans**.
+And here is a just a random fact -  **A maple tree is usually tapped when the tree is at least 45 years old and has a diameter of 12 inches**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
