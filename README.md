@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7971 days**.
 
-And here is a just a random fact -  **One pound of maple syrup can make eight pounds of candy or sugar**.
+And here is a just a random fact -  **There is no element on Mendeleev's (the current) periodic table of elements abbreviated, either partially, or fully, with the letter J.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Oct, 2025.</sub>
+<sub>Last updated by Github Actions on 26 Oct, 2025.</sub>
