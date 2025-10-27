@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7972 days**.
 
-And here is a just a random fact -  **Tacoma Narrows Bridge which was located in Washington was nicknamed "Galloping Gertie" because of the unusual way it twisted and swayed with even with the slightest winds when people would drive on it. The bridge collapsed on November 7, 1940, fortunately no humans died, except for a dog**.
+And here is a just a random fact -  **The biggest bug in the world is the Goliath Beetle which can weigh up to 3.5 ounces and be 4.5 inches long**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
