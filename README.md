@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7972 days**.
 
-And here is a just a random fact -  **The CN Tower, in Toronto, is the tallest freestanding structure in the world with a height of about 553 metres**.
+And here is a just a random fact -  **Tacoma Narrows Bridge which was located in Washington was nicknamed "Galloping Gertie" because of the unusual way it twisted and swayed with even with the slightest winds when people would drive on it. The bridge collapsed on November 7, 1940, fortunately no humans died, except for a dog**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Oct, 2025.</sub>
+<sub>Last updated by Github Actions on 27 Oct, 2025.</sub>
