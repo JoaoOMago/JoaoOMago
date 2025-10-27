@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7972 days**.
 
-And here is a just a random fact -  **Wild turkeys can run at speeds of up to 25 miles per hour**.
+And here is a just a random fact -  **Kermit the frog delivered the commencement address at Southampton College located in the state of New York in 1996**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
