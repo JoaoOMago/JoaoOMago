@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7973 days**.
 
-And here is a just a random fact -  **The word "lethologica" describes the state of not being able to remember the word you want**.
+And here is a just a random fact -  **Talc was used by cavemen 15,000 years ago as an ingredient added to make paint**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
