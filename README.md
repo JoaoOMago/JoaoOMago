@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7974 days**.
 
-And here is a just a random fact -  **Harley Proctor got the idea to name the soap "Ivory" while he was listening to a bible reading at a church in 1879**.
+And here is a just a random fact -  **Passion fruits have a tranquilizing effect on the body**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
