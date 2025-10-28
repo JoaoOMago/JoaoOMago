@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7974 days**.
 
-And here is a just a random fact -  **Studies indicate that surgeons who listen to music while they operate improve in their performance**.
+And here is a just a random fact -  **Leonardo da Vinci was dyslexic, and he often wrote backwards**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
