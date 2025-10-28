@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7974 days**.
 
-And here is a just a random fact -  **Once a human reaches the age of 35, he/she will start losing approximately 7,000 brain cells a day. The cells will never be replaced**.
+And here is a just a random fact -  **There are about 6,800 languages in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
