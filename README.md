@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7973 days**.
 
-And here is a just a random fact -  **On average, 350 squirts are needed from milking a cow to make a gallon of milk**.
+And here is a just a random fact -  **Your right lung takes in more air than your left one does**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
