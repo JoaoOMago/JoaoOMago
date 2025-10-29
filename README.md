@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7974 days**.
 
-And here is a just a random fact -  **The Great Comet of 1843 had a tail that was over 300 kilometres long.**.
+And here is a just a random fact -  **Beethoven used to take hay baths to remedy the swelling he used to get in his legs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
