@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7974 days**.
 
-And here is a just a random fact -  **The eye of a human can distinguish 500 shades of the gray**.
+And here is a just a random fact -  **The most common seasonings found in American homes are chili powder, cinnamon, and seasoned salts**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
