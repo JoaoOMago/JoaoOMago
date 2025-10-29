@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7975 days**.
 
-And here is a just a random fact -  **In the world, the Netherlands has the highest concentration of museums in the world. Just in Amsterdam alone there are 42 museums**.
+And here is a just a random fact -  **Panthers are known as black leopards, as they are the same species of leopard. If looked at closely, black spots can be seen on a panther**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
