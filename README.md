@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7976 days**.
 
-And here is a just a random fact -  **The first toilet ever seen on television was on "Leave It To Beaver"**.
+And here is a just a random fact -  **Robert Wadlow is the tallest man recorded in history. He grew to be eight feet and eleven inches and weighed 490 pounds when he died**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
