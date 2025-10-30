@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7975 days**.
 
-And here is a just a random fact -  **In 1945, a seven ounce bathroom cup was the first item Tupperware marketed**.
+And here is a just a random fact -  **Corned beef got its name because this beef was preserved with pellets of salt that were the size of corn kernels, which was also referred to as "corns" of salt**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
