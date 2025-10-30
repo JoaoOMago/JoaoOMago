@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7976 days**.
 
-And here is a just a random fact -  **In twins, there is a great chance that one will be left handed**.
+And here is a just a random fact -  **The biggest candy eaters are the Dutch, who average 65 pounds of candy per person in a year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
