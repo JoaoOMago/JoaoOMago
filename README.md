@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7976 days**.
 
-And here is a just a random fact -  **The average ice berg weighs 20,000,000 tons**.
+And here is a just a random fact -  **The largest cereal company in the world is Quaker Oats, located in Cedar Rapids, Iowa, USA**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
