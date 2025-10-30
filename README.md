@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7975 days**.
+Here is a random fact about me - I have been on this planet for **7976 days**.
 
-And here is a just a random fact -  **Due to eating habits in the USA, one in three children born in the year 2000 have a chance of getting type II diabetes**.
+And here is a just a random fact -  **The cost to build the Empire State Building was $40,948,900**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
