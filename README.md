@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7976 days**.
 
-And here is a just a random fact -  **Annually, an Australian eats 15 kg of bananas, which comes out to 27 meters of bananas**.
+And here is a just a random fact -  **Ever year, Americans spend close to $25 billion on beer**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
