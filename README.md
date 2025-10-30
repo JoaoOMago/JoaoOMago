@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7975 days**.
 
-And here is a just a random fact -  **In order to scare away predators, Giant petrels, a type of seabird, throw up all over the intruder**.
+And here is a just a random fact -  **There are more than 40 million Americans that have "chronic halitosis," which is bad breath that never goes away**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
