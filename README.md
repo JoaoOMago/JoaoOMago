@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7976 days**.
 
-And here is a just a random fact -  **Dolphins sleep with one eye open**.
+And here is a just a random fact -  **Of all the golfers in Canada, 71.4% golfers are male, 28.6% are female**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 Oct, 2025.</sub>
+<sub>Last updated by Github Actions on 31 Oct, 2025.</sub>
