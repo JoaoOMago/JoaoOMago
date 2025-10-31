@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7977 days**.
 
-And here is a just a random fact -  **It has been suggested that shepherds are responsible for inventing the game golf. It is said that they used to use their staffs to hit the stones**.
+And here is a just a random fact -  **Due to sugar shortages to make candy during World War II, movie theatre owners turned to popcorn, which is now the best selling snack at movie theatres today**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
