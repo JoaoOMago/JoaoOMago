@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7977 days**.
 
-And here is a just a random fact -  **Little Miss Muffet was a girl from the 16th century whose name was really Patience**.
+And here is a just a random fact -  **There have been 191 coops in Bolivia since it became a sovereign country in 1825**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
