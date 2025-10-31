@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7976 days**.
 
-And here is a just a random fact -  **The University of Plymouth was the first university to offer a degree in surfing**.
+And here is a just a random fact -  **JELL-O was declared The "Official State Snack" of Utah in January 2001**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
