@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7977 days**.
 
-And here is a just a random fact -  **One bushel of wheat can make enough sandwiches that you could eat three sandwiches a day for over six months**.
+And here is a just a random fact -  **The small intestine in the human body is about 2 inches around, and 22 feet long**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
