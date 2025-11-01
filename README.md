@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7978 days**.
 
-And here is a just a random fact -  **Men are more likely to be colorblind than women. About one of out of 12 men are colorblind**.
+And here is a just a random fact -  **98% of brown bears in the United States are in Alaska**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
