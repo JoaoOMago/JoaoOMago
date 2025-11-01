@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7978 days**.
 
-And here is a just a random fact -  **In the year 2000, there were approximately 11,000 injuries that were treated in a hospital in the U.S. that resulted from fireworks**.
+And here is a just a random fact -  **The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is one of the few places in the world where a boat can sail under a train driving under a car driving under an airplane**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
