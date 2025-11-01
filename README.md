@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7978 days**.
 
-And here is a just a random fact -  **Forty percent of Americans iron their clothes while wearing their underwear or being completely naked**.
+And here is a just a random fact -  **A group of tigers is called a streak**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
