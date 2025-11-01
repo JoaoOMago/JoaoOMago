@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7978 days**.
 
-And here is a just a random fact -  **There are an average of 178 sesame seeds on a McDonald's Big Mac bun.**.
+And here is a just a random fact -  **The sex of a baby crocodile is determined by the temperature in the nest and how deeply the eggs are buried**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
