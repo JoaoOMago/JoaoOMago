@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7977 days**.
 
-And here is a just a random fact -  **If a cockroach breaks a leg it can grow another one**.
+And here is a just a random fact -  **The New Zealand Kiwi bird cannot fly**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
