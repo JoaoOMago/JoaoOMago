@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7978 days**.
 
-And here is a just a random fact -  **Trees that are near street lights do not shed their leaves as fast as a tree that is in the country**.
+And here is a just a random fact -  **Approximately 850 peanuts make a 18 oz jar of peanut butter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
