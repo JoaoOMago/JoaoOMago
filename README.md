@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7979 days**.
 
-And here is a just a random fact -  **The largest fish in the world is the whale shark. It can weigh several tons and grow to more than fifty feet in length**.
+And here is a just a random fact -  **27 percent of U.S. male college students believe life is "a meaningless existential hell." (big surprise, eh?)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
