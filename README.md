@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7978 days**.
 
-And here is a just a random fact -  **The only flying saucer launch pad in the world is located in St. Paul, Alberta, Canada**.
+And here is a just a random fact -  **Arthur Giblin was the inventor of the first "flushable" toilet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Nov, 2025.</sub>
+<sub>Last updated by Github Actions on 02 Nov, 2025.</sub>
