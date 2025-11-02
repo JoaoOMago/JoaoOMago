@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7979 days**.
 
-And here is a just a random fact -  **When the First Lady, Eleanor Roosevelt, received an alarming number of threatening letters, soon after her husband became President at the height of the Depression, the Secret Service insisted that she carry a pistol in her purse**.
+And here is a just a random fact -  **Percentage of Africa that is wilderness: 28%. Percentage of North America that is wilderness: 38%**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
