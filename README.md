@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7979 days**.
 
-And here is a just a random fact -  **In Cleveland, Ohio, it's illegal to catch mice without a huntinglicense.**.
+And here is a just a random fact -  **There was an army general during the Liberia Civil War who used to lead his army into battle naked. His nickname was "General Butt Naked." Joshua Milton Blahyi (his real name) is now an evangelical preacher in Monrovia**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
