@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7979 days**.
 
-And here is a just a random fact -  **The first owner of the Marlboro Company, Wayne McLaren, died of lung cancer**.
+And here is a just a random fact -  **Pound for pound, hamburgers cost more than new cars.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
