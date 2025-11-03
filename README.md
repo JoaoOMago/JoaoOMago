@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7980 days**.
 
-And here is a just a random fact -  **When the volcano Krakatoa off the Java islands exploded in 1883, it was so loud that it woke some people up in South Australia**.
+And here is a just a random fact -  **The first episode of the popular television sitcom Happy Days was titled "All The Way."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
