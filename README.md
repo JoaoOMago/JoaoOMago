@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7980 days**.
 
-And here is a just a random fact -  **Smartest dogs: 1) Scottish border collie; 2) Poodle; 3) Golden retriever**.
+And here is a just a random fact -  **The dragonfly has not changed over the last 300 million years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
