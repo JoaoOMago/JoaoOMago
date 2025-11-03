@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7979 days**.
 
-And here is a just a random fact -  **In one day, a human sheds 10 billion skin flakes. This amounts to approximately two kilograms in a year**.
+And here is a just a random fact -  **In the United States, approximately 25,000 eye injuries occur that result in the person becoming totally blind**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
