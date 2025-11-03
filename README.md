@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7980 days**.
 
-And here is a just a random fact -  **Baskin Robbins once made ketchup ice cream. This was the only vegetable flavoured ice cream produced. However, they discontinued it since they thought it would not sell well**.
+And here is a just a random fact -  **Shridhar Chillal from India is known to have the record for the longest fingernails in the world, which were each at least three feet long**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
