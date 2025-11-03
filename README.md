@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7979 days**.
 
-And here is a just a random fact -  **Nutmeg is extremely poisonous if injected intraveinously.**.
+And here is a just a random fact -  **The reason the soft drink Dr Pepper is called that is because the inventor Wade Morrison named it after Dr. Charles Pepper who had given him his first job**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
