@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7980 days**.
 
-And here is a just a random fact -  **The country with the highest consumption of candy at 29.5 pounds annually per person is Denmark**.
+And here is a just a random fact -  **French artist, Michel Vienkot, uses cow dung as paint when he creates his pictures**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
