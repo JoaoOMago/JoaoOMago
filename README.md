@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7980 days**.
 
-And here is a just a random fact -  **Hens will produce larger eggs as they grow older**.
+And here is a just a random fact -  **MS-DOS was originally calle QDOS and was bought of the author by Microsoft for a small fee. The rest is history**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
