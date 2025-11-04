@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7980 days**.
 
-And here is a just a random fact -  **Every day 2,700 people die of heart disease**.
+And here is a just a random fact -  **On average, Americans spend five times more of their time in their cars than they do on vacation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 Nov, 2025.</sub>
+<sub>Last updated by Github Actions on 04 Nov, 2025.</sub>
