@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7981 days**.
 
-And here is a just a random fact -  **The only lizard that has a voice is the Gecko**.
+And here is a just a random fact -  **The longest hiccups on record was by an American pig farmer whose hiccups persisted from 1922 to 1987**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
