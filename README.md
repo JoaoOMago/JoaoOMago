@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7981 days**.
 
-And here is a just a random fact -  **The destruction of the Berlin Wall began when private citizens began to demolish entire sections of the Wall without interference from government officials on November 9, 1989**.
+And here is a just a random fact -  **Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
