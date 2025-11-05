@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7982 days**.
 
-And here is a just a random fact -  **When Sony introduced the walkman, it had a variety of different names in different countries. It was called "Soundabout" in the U.S., "Stowaway" in the U.K., and "Freestyle" in Australia**.
+And here is a just a random fact -  **The leading cause of deaths for children between the ages of 1 and 4 are motor vehicle crashes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
