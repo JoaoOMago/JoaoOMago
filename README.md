@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7982 days**.
 
-And here is a just a random fact -  **A crocodile can run up to a speed of 11 miles per hour**.
+And here is a just a random fact -  **Tropical rainforests cover about 7% of the Earth and receive over 80 inches of rain every year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
