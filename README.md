@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7982 days**.
 
-And here is a just a random fact -  **Approximately 18 billion disposable diapers end up in landfills each year. These diapers can takes as long as 500 years to finally decompose**.
+And here is a just a random fact -  **In approximately 18 months, the papaya tree can grow to be 20 feet tall**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
