@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7982 days**.
 
-And here is a just a random fact -  **A baseball will go farther in hot temperature than in cold temperature**.
+And here is a just a random fact -  **According to studies, an average roll of toilet paper lasts about five days in the bathroom**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
