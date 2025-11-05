@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7981 days**.
 
-And here is a just a random fact -  **Walt Disney holds the record for the most Oscar nominations with sixty-four**.
+And here is a just a random fact -  **There are dolphins that live in the Amazon River that are the colour pink**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 04 Nov, 2025.</sub>
+<sub>Last updated by Github Actions on 05 Nov, 2025.</sub>
