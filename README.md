@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7982 days**.
 
-And here is a just a random fact -  **The puma and the leopard are the highest jumping mammals. They are able to reach a height of 16.5 feet**.
+And here is a just a random fact -  **The first toilet ever seen on television was on "Leave It To Beaver"**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
