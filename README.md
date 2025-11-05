@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7982 days**.
 
-And here is a just a random fact -  **The state that grows the most cranberries is Wisconsin. More than 300 million pounds of cranberries are grown in Wisconsin**.
+And here is a just a random fact -  **Approximately 18 billion disposable diapers end up in landfills each year. These diapers can takes as long as 500 years to finally decompose**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
