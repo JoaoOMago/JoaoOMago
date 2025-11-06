@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7983 days**.
 
-And here is a just a random fact -  **The Sears Tower located in Chicago, Illinois is made up 76,000 tons of steel**.
+And here is a just a random fact -  **The same amount of calories are burned by doing 6 sessions that are 5 minutes each of an activity and doing 1 session of that activity for 30 minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
