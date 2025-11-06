@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7983 days**.
 
-And here is a just a random fact -  **By donating just one pint of blood, four lives can be saved**.
+And here is a just a random fact -  **Female alligators lay about 40 eggs that hatch in 60 - 70 days**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
