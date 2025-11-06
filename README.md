@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7982 days**.
 
-And here is a just a random fact -  **In humans, the epidermal layer of skin, which consists of many layers of skin regenerates every 27 days**.
+And here is a just a random fact -  **Used in art the word "sfumato" refers to the subtle blending of an outline by gradually blending one tone into another**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
