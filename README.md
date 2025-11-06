@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7983 days**.
 
-And here is a just a random fact -  **In one trip, a honey bee visits about 75 flowers**.
+And here is a just a random fact -  **In the 1985 Boise, Idaho mayoral election, there were four write-in votes for Mr. Potato Head**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
