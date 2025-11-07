@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7984 days**.
 
-And here is a just a random fact -  **There is a muppet named Kami that appears on the South African version of the T.V. show "Sesame Street" that is HIV-positive**.
+And here is a just a random fact -  **A small drip from a faucet can waste up to 50 gallons of water daily, which is enough water to run a dishwasher twice on a full cycle**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
