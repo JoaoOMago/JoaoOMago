@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7983 days**.
 
-And here is a just a random fact -  **Elizabeth Taylor has appeared on the cover of Life magazine more than anyone else**.
+And here is a just a random fact -  **There are more than 2,000 different varieties of cheese in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
