@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7984 days**.
 
-And here is a just a random fact -  **Sheep can survive for up to two weeks buried in snow drifts.Click Here For More Details**.
+And here is a just a random fact -  **The colours yellow, red, and orange are used in fast food restaraunts because those are the colours that stimulate hunger**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
