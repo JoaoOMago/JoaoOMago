@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7983 days**.
 
-And here is a just a random fact -  **The Basenji dog is the only dog that is not able to bark**.
+And here is a just a random fact -  **There was a book written fourteen years before the sinking of the Titanic happened titled "Futility" by Morgan Robertson. This book was remarkably similar to the tragedy that happened to the Titanic in 1912**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
