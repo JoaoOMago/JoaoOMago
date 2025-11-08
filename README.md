@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7985 days**.
 
-And here is a just a random fact -  **The leading cause of poisoning for children under the age of six in the home is liquid dish soap**.
+And here is a just a random fact -  **The real name of actress Whoopi Goldberg is Caryn Elaine Johnson**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
