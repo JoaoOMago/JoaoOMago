@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7984 days**.
 
-And here is a just a random fact -  **A sheep, a duck, and a rooster were the first passengers in a hot air balloon**.
+And here is a just a random fact -  **The wheelbarrow was invented by the Chinese.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 07 Nov, 2025.</sub>
+<sub>Last updated by Github Actions on 08 Nov, 2025.</sub>
