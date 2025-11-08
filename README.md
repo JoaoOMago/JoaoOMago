@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7985 days**.
 
-And here is a just a random fact -  **The smoke that is produced by a fire kills more people than a burn does because of carbon monoxide and other dangerous gases**.
+And here is a just a random fact -  **In 1958, the United States Coast Guard off western Greenland measured the tallest known iceberg at five hundred and fifty feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
