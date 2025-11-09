@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7986 days**.
 
-And here is a just a random fact -  **The most popular vacation destinations for Americans in 1956 was Niagara Falls**.
+And here is a just a random fact -  **The microwave oven was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
