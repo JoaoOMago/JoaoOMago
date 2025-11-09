@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7985 days**.
 
-And here is a just a random fact -  **A snake charmer in Bangladesh once found 3,500 poisonous cobras and their eggs hidden underneath the floors of two suburban homes**.
+And here is a just a random fact -  **Beethoven used to take hay baths to remedy the swelling he used to get in his legs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
