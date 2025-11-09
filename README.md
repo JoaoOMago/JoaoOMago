@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7986 days**.
 
-And here is a just a random fact -  **Actress Sally Field was paid $4,000 a week for her role in the TV show The Flying Nun**.
+And here is a just a random fact -  **Coffee beans were chewed for more than 400 years before the first cup of coffee was brewed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
