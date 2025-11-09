@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7985 days**.
+Here is a random fact about me - I have been on this planet for **7986 days**.
 
-And here is a just a random fact -  **New Jersey has a spoon museum that has over 5,400 spoons from across the world**.
+And here is a just a random fact -  **Fido means faithful in Latin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
