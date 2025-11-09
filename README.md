@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7985 days**.
 
-And here is a just a random fact -  **In February 1878, the first telephone book was published in New Haven, Connecticut. The book was one page long and had fifty names in it.**.
+And here is a just a random fact -  **Sales of antacids increase by as much as 20% the day after the Superbowl**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
