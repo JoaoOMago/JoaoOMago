@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7986 days**.
 
-And here is a just a random fact -  **In Haiti, only 1 out of every 200 people own a car. This is ironic considering approximately 33% of the country's budget on import is spent on equipment for fuel and transportation.**.
+And here is a just a random fact -  **Japan has approximately 200 volcanoes and is home to 10% of the active volcanoes in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
