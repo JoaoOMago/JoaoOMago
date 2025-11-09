@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7985 days**.
 
-And here is a just a random fact -  **About two hundred years before the birth of Christ, the Druids used mistletoe to celebrate that winter was approaching**.
+And here is a just a random fact -  **On September 9, 1950 dubbed laughter was used for the first time on television. It was used for the sitcom "The Hank McCune Show."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
