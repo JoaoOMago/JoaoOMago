@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7986 days**.
 
-And here is a just a random fact -  **On May 9, 1999 approximately 600,000 gallons of whiskey flowed into the Kentucky River during a fire at Wild Turkey Distillery in Lawrenceburg**.
+And here is a just a random fact -  **The Eisenhower interstate system requires that one-mile in every five must be straight. These straight sections are usable as airstrips in times of war or other emergencies**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
