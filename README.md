@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7987 days**.
 
-And here is a just a random fact -  **Approximately 55% of movies released are Rated R**.
+And here is a just a random fact -  **Keeping Warm With an Axe, is the title of a real how-to book. Click Here For More Details**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
