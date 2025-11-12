@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7989 days**.
 
-And here is a just a random fact -  **Iguanas can stay under water for up to thirty minutes**.
+And here is a just a random fact -  **A turtle can breathe through its butt.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
