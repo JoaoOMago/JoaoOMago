@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7989 days**.
 
-And here is a just a random fact -  **In a year, there are 60,000 trampoline injuries that occur in the U.S**.
+And here is a just a random fact -  **Maine is the only state whose name is just one syllable**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Nov, 2025.</sub>
+<sub>Last updated by Github Actions on 13 Nov, 2025.</sub>
