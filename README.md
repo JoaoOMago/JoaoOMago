@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7989 days**.
 
-And here is a just a random fact -  **Japan uses the most energy per year than any other country.**.
+And here is a just a random fact -  **In 1958 the United States sent three mice into space named, Mia, Laska and Benji**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
