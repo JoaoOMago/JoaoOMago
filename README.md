@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7991 days**.
 
-And here is a just a random fact -  **The most expensive spice in the world is saffron**.
+And here is a just a random fact -  **The Dutch people are known to be the tallest people in Europe**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
