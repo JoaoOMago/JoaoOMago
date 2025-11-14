@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7991 days**.
 
-And here is a just a random fact -  **Tropical rainforests cover about 7% of the Earth and receive over 80 inches of rain every year**.
+And here is a just a random fact -  **Teflon was accidently discovered by scientist Dr. Roy Plunkett while he was conducting a coolant gas experiment in 1938**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
