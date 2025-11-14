@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7991 days**.
 
-And here is a just a random fact -  **Richard Millhouse Nixon was the first US president whose name contains all the letters from the word "criminal." The second? William Jefferson Clinton**.
+And here is a just a random fact -  **A piece of French toast that was partially eaten by Justin Timberlake sold on eBay**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
