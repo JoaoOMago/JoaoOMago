@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7991 days**.
 
-And here is a just a random fact -  **Common pesticides such as roach, termite and flea insecticide can be found in the bodies of majority of Americans**.
+And here is a just a random fact -  **An artist from Chicago named Dwight Kalb created a statue of Madonna made out of 180 pounds of ham**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
