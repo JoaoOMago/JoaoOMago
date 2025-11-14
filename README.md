@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7991 days**.
 
-And here is a just a random fact -  **The Dutch people are known to be the tallest people in Europe**.
+And here is a just a random fact -  **Tropical rainforests cover about 7% of the Earth and receive over 80 inches of rain every year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
