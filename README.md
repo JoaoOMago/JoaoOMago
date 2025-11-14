@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7990 days**.
 
-And here is a just a random fact -  **Diamonds were first discovered in the riverbeds of the Golconda region of India over 4,000 years ago.**.
+And here is a just a random fact -  **There are approximately 2,700 different species of mosquitoes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
