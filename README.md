@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7990 days**.
 
-And here is a just a random fact -  **The eye of a human can distinguish 500 shades of the gray**.
+And here is a just a random fact -  **Decaffeinated coffee is not 100% caffeine free. When coffee is being decaffeinated, 2% of the caffeine still remains in it**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 13 Nov, 2025.</sub>
+<sub>Last updated by Github Actions on 14 Nov, 2025.</sub>
