@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7992 days**.
 
-And here is a just a random fact -  **It takes seven to ten days to make a jelly belly jellybean**.
+And here is a just a random fact -  **The largest employer in Central Florida is Walt Disney World. There are approximately 50,000 people working there**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
