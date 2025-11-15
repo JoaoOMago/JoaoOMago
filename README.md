@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7992 days**.
 
-And here is a just a random fact -  **Penguins can jump as high as 6 feet in the air**.
+And here is a just a random fact -  **There is an organization called SCROOGE in Charlottesville, Virginia that stands for Society to Curtail Ridiculous, Outrageous, and Ostentatious Gift Exchanges. This was formed to keep gift giving affordable and simple**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
