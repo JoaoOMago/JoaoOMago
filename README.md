@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7992 days**.
 
-And here is a just a random fact -  **In Italy, Santa Claus is known by the name Babbo Natale**.
+And here is a just a random fact -  **Of all the golfers in Canada, 71.4% golfers are male, 28.6% are female**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
