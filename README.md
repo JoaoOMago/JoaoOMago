@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7993 days**.
 
-And here is a just a random fact -  **The waste produced by one chicken in its lifetime can supply enough electricity to run a 100-watt bulb for five hours**.
+And here is a just a random fact -  **Every day, over 1,300 babies are born prematurely in the USA**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
