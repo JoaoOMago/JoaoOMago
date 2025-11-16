@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7993 days**.
 
-And here is a just a random fact -  **It is estimated that by the end of 2000, there has been 142,600 tonnes of gold mined in the world**.
+And here is a just a random fact -  **The first Ford cars had Dodge engines**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
