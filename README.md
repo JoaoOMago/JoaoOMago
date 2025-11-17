@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7994 days**.
 
-And here is a just a random fact -  **A common drink for Tibetans is Butter Tea which is made out of butter, salt, and brick tea**.
+And here is a just a random fact -  **Canada beat Denmark 47-0 at the 1949 world hockey championships. new**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
