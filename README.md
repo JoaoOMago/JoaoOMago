@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7994 days**.
 
-And here is a just a random fact -  **The most popular jelly belly jellybean flavour is buttered popcorn**.
+And here is a just a random fact -  **Billie Jean by Michael Jackson was the first video to air on MTV by a black artist**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
