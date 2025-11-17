@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7993 days**.
 
-And here is a just a random fact -  **Studies indicate that surgeons who listen to music while they operate improve in their performance**.
+And here is a just a random fact -  **According to the American Institute of Stress, job stress approximately costs the U.S. industry over $300 billion dollars per year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
