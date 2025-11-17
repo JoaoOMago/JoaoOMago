@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7994 days**.
 
-And here is a just a random fact -  **The U.S. army packs Tabasco pepper sauce in every ration kit that they give to soldiers**.
+And here is a just a random fact -  **The murder rate in the United States is about four times greater than in Japan. In Japan, no private citizen can buy a handgun legally**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
