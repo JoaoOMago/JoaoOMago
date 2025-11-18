@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7995 days**.
 
-And here is a just a random fact -  **Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.**.
+And here is a just a random fact -  **US Dollar bills are made out of cotton and linen.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
