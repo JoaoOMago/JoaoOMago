@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7995 days**.
 
-And here is a just a random fact -  **A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."**.
+And here is a just a random fact -  **Abraham Lincoln’s ghost is said to haunt the White House.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
