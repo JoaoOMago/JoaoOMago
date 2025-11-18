@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7995 days**.
 
-And here is a just a random fact -  **The average chocolate bar has 8 insects’ legs melted into it.**.
+And here is a just a random fact -  **The average American works 24,000 hours in their lifetime just to pay their taxes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
