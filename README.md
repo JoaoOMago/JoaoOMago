@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7995 days**.
 
-And here is a just a random fact -  **There are 122 pebbles per square inch on a Spalding basketball**.
+And here is a just a random fact -  **Some farmers in Japan have learned to grow their watermelons into a square shape. They did this to conserve shelf space**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
