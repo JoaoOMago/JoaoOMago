@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7995 days**.
 
-And here is a just a random fact -  **Americans on average use about 580 pounds of paper per year per person**.
+And here is a just a random fact -  **Kiwis are the only known bird to have nostrils located at the tip of their beak**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
