@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7996 days**.
 
-And here is a just a random fact -  **The biggest disco ball in the world has a diameter of 2.41 meters and 137.89 kilograms. It also has 6,900 mirror squares on it**.
+And here is a just a random fact -  **There is a large brass statue of Winnie-the-Pooh in Lima, Peru**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
