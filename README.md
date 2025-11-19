@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7995 days**.
+Here is a random fact about me - I have been on this planet for **7996 days**.
 
-And here is a just a random fact -  **During World War II, condoms were used to cover rifle barrels from being damaged by salt water as the soldiers swam to shore**.
+And here is a just a random fact -  **The human body has approximately 37,000 miles of capillaries**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
