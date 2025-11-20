@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7996 days**.
 
-And here is a just a random fact -  **Whale oil was used in some car transmissions until 1973**.
+And here is a just a random fact -  **Americans did not commonly use forks until after the Civil War**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
