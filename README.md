@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7997 days**.
 
-And here is a just a random fact -  **The food that people crave the most is cheese**.
+And here is a just a random fact -  **A dragonfly has a lifespan of for to seven weeks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
