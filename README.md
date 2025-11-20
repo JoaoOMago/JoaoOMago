@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7997 days**.
 
-And here is a just a random fact -  **A dragonfly has a lifespan of for to seven weeks**.
+And here is a just a random fact -  **Alexandre Gustave Eiffel, the man who designed the Eiffel Tower, also designed the inner structure of the Statue of Liberty in New York Harbour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
