@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7997 days**.
 
-And here is a just a random fact -  **Painting a house yellow or having a yellow trim helps in selling a house faster**.
+And here is a just a random fact -  **Uranus? winter and summer seasons last the equivalent of 21 Earth years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
