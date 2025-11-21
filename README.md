@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **7997 days**.
+Here is a random fact about me - I have been on this planet for **7998 days**.
 
-And here is a just a random fact -  **Humans and dolphins are the only species that have sex for pleasure**.
+And here is a just a random fact -  **The human liver performs over 500 functions**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
