@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7997 days**.
 
-And here is a just a random fact -  **Eighty percent of 10 year old girls in the USA go on a diet**.
+And here is a just a random fact -  **Studies indicate that weightlifters working out in blue gyms can handle heavier weights**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
