@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7998 days**.
 
-And here is a just a random fact -  **Sharks are capable of surviving on average six weeks without eating. The record observed in an aquarium is fifteen months by a species of shark known as the "swell shark."**.
+And here is a just a random fact -  **A 27 year old heir to a sausage empire was handed a ticket for 116,000 pounds for driving at 80 km/hr in a 40 km/hr zone. This is because the speeding tickets in Finland are based on how much money a person makes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
