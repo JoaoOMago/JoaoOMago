@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7999 days**.
 
-And here is a just a random fact -  **The largest shopping mall in the world is the West Edmonton Mall located in Edmonton, Alberta, Canada**.
+And here is a just a random fact -  **In 1917, Margaret Sanger was jailed for one month for establishing the first birth control clinic**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
