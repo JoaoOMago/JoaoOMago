@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7998 days**.
 
-And here is a just a random fact -  **The revenue that is generated from gambling is more than the revenue that comes from movies, cruise ships, recorded music, theme parks, and spectator sports combined**.
+And here is a just a random fact -  **During his entire life, Vincent Van Gogh sold exactly one painting, Red Vineyard at Arles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
