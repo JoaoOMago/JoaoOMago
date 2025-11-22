@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7999 days**.
 
-And here is a just a random fact -  **Ironically, watermelons, which are 92% water, originated from the Kalahari Desert in Africa**.
+And here is a just a random fact -  **The only two days of the year in which there are no professional sports games (MLB, NBA, NHL, or NFL) are the day before and the day after the Major League all-stars Game**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
