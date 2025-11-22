@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7999 days**.
 
-And here is a just a random fact -  **NASA scientists have concluded that the state of California is moving north and will collide with the state of Alaska in roughly 150 million years**.
+And here is a just a random fact -  **In 1281, the Mongol army of Kublai Khan tried to invade Japan but were ravaged by a hurricane that destroyed their fleet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
