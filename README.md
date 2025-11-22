@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7998 days**.
 
-And here is a just a random fact -  **Instead of a Birthday Cake, many Russian children are given a Birthday Pie**.
+And here is a just a random fact -  **Between 1902 and 1907, the same tiger killed 434 people in India**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
