@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7998 days**.
 
-And here is a just a random fact -  **"Bookkeeper" is the only word in English language with three consecutive double letters**.
+And here is a just a random fact -  **The Apollo 17 crew were the last men on the moon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
