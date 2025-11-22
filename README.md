@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7998 days**.
 
-And here is a just a random fact -  **During World War II, the very first bomb dropped on Berlin by the Allies killed the only elephant in the Berlin Zoo**.
+And here is a just a random fact -  **Instead of a Birthday Cake, many Russian children are given a Birthday Pie**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 21 Nov, 2025.</sub>
+<sub>Last updated by Github Actions on 22 Nov, 2025.</sub>
