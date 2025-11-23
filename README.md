@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8000 days**.
 
-And here is a just a random fact -  **The Angel Falls in Venezuela were named after an American pilot, Jimmy Angel, whose plane got stuck on top of the mountain while searching for gold**.
+And here is a just a random fact -  **There was a time in Japan where a wife being left handed was a ground for divorce**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
