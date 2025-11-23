@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8000 days**.
 
-And here is a just a random fact -  **Some Ribbon worm will eat themselves if they cannot find food. This type of worm can still survive after eating up to 95% of its body weight**.
+And here is a just a random fact -  **More than half the time spent in United States courts is cases that involve automobiles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
