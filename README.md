@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7999 days**.
 
-And here is a just a random fact -  **An individual coral animal is called a polyp**.
+And here is a just a random fact -  **The first theatre to show motion pictures was the Nickelodeon on June 19, 1905 in Pittsburgh, Pennsylvania. It was opened by Harry Davis on Smithfield Street**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
