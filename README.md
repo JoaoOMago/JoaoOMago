@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **7999 days**.
 
-And here is a just a random fact -  **Catfish have tastebuds located on their whiskers**.
+And here is a just a random fact -  **Finland has 187,888 lakes and 179,584 islands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
