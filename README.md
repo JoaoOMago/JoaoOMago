@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8000 days**.
 
-And here is a just a random fact -  **Research has indicated that indoor pollution is 10 times more toxic than outdoor pollution**.
+And here is a just a random fact -  **In 1685, New France used playing cards as currency because of the shortage of coins**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
