@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8001 days**.
 
-And here is a just a random fact -  **Amongst pre-schoolers, Caillou is the fastest-ever-growing television show and is seen in close to 97% of U.S. households**.
+And here is a just a random fact -  **The average America online user spends 70 minutes day online**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
