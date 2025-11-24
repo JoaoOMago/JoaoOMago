@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8001 days**.
 
-And here is a just a random fact -  **One of the most dangerous insect in the world is the common housefly. They carry and transmit more diseases than any other animal in the world**.
+And here is a just a random fact -  **The DNA of humans is closer to a rat than a cat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
