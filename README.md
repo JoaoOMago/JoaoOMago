@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8001 days**.
 
-And here is a just a random fact -  **Bats emit ultrasonic sounds to communicate with each other**.
+And here is a just a random fact -  **Lady Bugs really are not bugs. They are actually beetles and their correct name is The Ladybird Beetle**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
