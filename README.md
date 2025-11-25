@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8002 days**.
 
-And here is a just a random fact -  **The average US worker toils for two hours and 47 minutes of each working day just to pay income tax. Indeed, the average American pays more in taxes than for food, clothing and shelter put together**.
+And here is a just a random fact -  **New Jersey has a spoon museum that has over 5,400 spoons from across the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
