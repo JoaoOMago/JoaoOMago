@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8003 days**.
 
-And here is a just a random fact -  **When Nylons first went on sale in the United States in 1940, four million pairs were sold in only a few days**.
+And here is a just a random fact -  **The smallest frog is the "Brazilian baby frog", which is smaller than a dime**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
