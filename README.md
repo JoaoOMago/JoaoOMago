@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8002 days**.
 
-And here is a just a random fact -  **The airplane Buddy Holly died in was the "American Pie." (Thus the nameof the Don McLean song.)**.
+And here is a just a random fact -  **Five percent of the people who use personal ads for dating are already married**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
