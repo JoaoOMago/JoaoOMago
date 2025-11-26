@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8002 days**.
 
-And here is a just a random fact -  **The "Star Spangled Banner" did not become a national anthem until 1931. It was designated by an Act of Congress**.
+And here is a just a random fact -  **The airplane Buddy Holly died in was the "American Pie." (Thus the nameof the Don McLean song.)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
