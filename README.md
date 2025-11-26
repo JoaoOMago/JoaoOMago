@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8003 days**.
 
-And here is a just a random fact -  **Walmart-mart sells more apparel a year than all the other competing department stores combined**.
+And here is a just a random fact -  **The TV show "Saturday Night Live" made its debut on October 11, 1975**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
