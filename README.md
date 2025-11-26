@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8002 days**.
 
-And here is a just a random fact -  **The first British ship to use the SOS distress signal was the Titanic**.
+And here is a just a random fact -  **Polar bears are left-handed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Nov, 2025.</sub>
+<sub>Last updated by Github Actions on 26 Nov, 2025.</sub>
