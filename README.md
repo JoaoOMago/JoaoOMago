@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8003 days**.
 
-And here is a just a random fact -  **A sheep, a duck and a rooster were the first passengers in a hot air balloon**.
+And here is a just a random fact -  **From 1526 to 1707, the first six Mogul emperors of India ruled in unbroken succession from father to son**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
