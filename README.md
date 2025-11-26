@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8002 days**.
 
-And here is a just a random fact -  **In order to mate, a male deep sea anglerfish will bite a female when he finds her. The male will never let go and will eventually merge his body into the female and spend the rest of his life inside the female mate. The males internal organs will disappear apart from the testes that are needed to for breeding**.
+And here is a just a random fact -  **Using recycled aluminum cans and making news cans out of them saves 75% energy compared to making it from new material.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
