@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8002 days**.
 
-And here is a just a random fact -  **Five percent of the people who use personal ads for dating are already married**.
+And here is a just a random fact -  **Niagara Falls actually stopped flowing back in 1848 for about 20 hours because there was ice that was blocking the Niagara River**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
