@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8003 days**.
 
-And here is a just a random fact -  **1 out of every 4 kids in the USA is overweight**.
+And here is a just a random fact -  **Diabetes is the fourth leading cause of death in the U.S., accounting for about 180,000 deaths per year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
