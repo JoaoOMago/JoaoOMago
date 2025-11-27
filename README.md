@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8003 days**.
+Here is a random fact about me - I have been on this planet for **8004 days**.
 
-And here is a just a random fact -  **The airplane Buddy Holly died in was the "American Pie." (Thus the nameof the Don McLean song.)**.
+And here is a just a random fact -  **Approximately 100,000 people get married in Las Vegas each year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
