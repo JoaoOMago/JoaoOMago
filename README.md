@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8003 days**.
 
-And here is a just a random fact -  **In the dry valleys region of Antarctica, it has not rained in 2 million years according to scientists**.
+And here is a just a random fact -  **On average Americans spend 18% of their income on transportation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
