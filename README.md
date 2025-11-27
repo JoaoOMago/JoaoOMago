@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8004 days**.
 
-And here is a just a random fact -  **American actor Jack Nicholson, and American singer Bobby Darrin were raised believing their grandmothers were their mothers and their mothers were their older sisters**.
+And here is a just a random fact -  **In ancient Rome, lead poisoning was a prevalent disease amongst the wealthy because of their extensive use of lead. Many Roman women died because of lead poisoning caused by the use of make-up that contained lead**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
