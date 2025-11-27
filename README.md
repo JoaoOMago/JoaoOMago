@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8004 days**.
 
-And here is a just a random fact -  **American women, on average, spend 55 minutes per day getting showered, dressed, and groomed**.
+And here is a just a random fact -  **Approximately 55% of movies released are Rated R**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
