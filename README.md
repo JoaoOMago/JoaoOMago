@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8003 days**.
 
-And here is a just a random fact -  **A person would have to drink more than 12 cups of hot cocoa to equal the amount of caffeine found in one cup of coffee**.
+And here is a just a random fact -  **It takes 72 minutes for the restaurant at the top of the CN Tower to make one revolution**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Nov, 2025.</sub>
+<sub>Last updated by Github Actions on 27 Nov, 2025.</sub>
