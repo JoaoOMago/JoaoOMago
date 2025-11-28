@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8004 days**.
 
-And here is a just a random fact -  **A person infected with the SARS virus, has a 95-98% chance of recovery**.
+And here is a just a random fact -  **The name of the award given to honor the best sites on the Internet is called "The Webby Award."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
