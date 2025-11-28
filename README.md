@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8005 days**.
 
-And here is a just a random fact -  **In 1903, there were originally only eight Crayola crayons in a box and they sold for five cents**.
+And here is a just a random fact -  **The word "walkman" was included in the Oxford English Dictionary in 1986**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
