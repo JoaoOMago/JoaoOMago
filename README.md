@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8004 days**.
 
-And here is a just a random fact -  **When baby sharks are born, they swim away from their mothers right away and are on there own. In fact, their mothers might see them as prey**.
+And here is a just a random fact -  **In Canada, men are three times more likely than women to have seen a doctor in the last year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
