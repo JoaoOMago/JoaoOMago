@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8005 days**.
 
-And here is a just a random fact -  **Montreal is the second largest French speaking city after Paris**.
+And here is a just a random fact -  **Benjamin Franklin invented the rocking chair.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
