@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8004 days**.
 
-And here is a just a random fact -  **A cow has four compartments in its stomach**.
+And here is a just a random fact -  **The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
