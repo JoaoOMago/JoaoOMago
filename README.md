@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8005 days**.
 
-And here is a just a random fact -  **An alligator has about 80 teeth in its mouth at one time. An alligator can go through 3,000 teeth in a lifetime**.
+And here is a just a random fact -  **The honey badger can withstand hundreds of bee stings that would otherwise kill another animal**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
