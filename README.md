@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8005 days**.
 
-And here is a just a random fact -  **Heinz first started making ketchup in 1876 and the recipe has remained the same ever since**.
+And here is a just a random fact -  **Slugs have 4 noses**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
