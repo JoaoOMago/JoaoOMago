@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8006 days**.
 
-And here is a just a random fact -  **Archeologists report that cannabis was most likely the first plant cultivated by humans. Cannabis was used for linen, paper, and garments**.
+And here is a just a random fact -  **Uranus is the only planet that rotates on its side**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
