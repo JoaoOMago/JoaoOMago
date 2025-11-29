@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8005 days**.
+Here is a random fact about me - I have been on this planet for **8006 days**.
 
-And here is a just a random fact -  **The sport of surfing originated in Hawaii**.
+And here is a just a random fact -  **The Bank of America was originally called the Bank of Italy until the founder, Amedeo Giannini, changed the name in 1930**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
