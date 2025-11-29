@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8006 days**.
 
-And here is a just a random fact -  **The state of California has more 7-Eleven stores than any other state. There are approximately 1,200 stores**.
+And here is a just a random fact -  **The largest chicken egg ever laid weighed a pound and had a double yolk and shell**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
