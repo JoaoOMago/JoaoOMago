@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8006 days**.
 
-And here is a just a random fact -  **Each year approximately half of billions dollars is spent on bubble gum by the kids in North America**.
+And here is a just a random fact -  **The town with the most stop signs per capita than any other in the US: LaConner, Washington**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
