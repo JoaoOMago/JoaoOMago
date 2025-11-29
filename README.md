@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8005 days**.
 
-And here is a just a random fact -  **The cigarette lighter was invented before the match.**.
+And here is a just a random fact -  **The average American eats 35,000 cookies in his/her lifetime**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 28 Nov, 2025.</sub>
+<sub>Last updated by Github Actions on 29 Nov, 2025.</sub>
