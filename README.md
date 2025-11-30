@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8006 days**.
 
-And here is a just a random fact -  **In Japan, by the time man reaches the age of 60, he is commemorated with a special ceremony. This ceremony features the man wearing a red kimono, which denotes that he no longer has the responsibilities of being a mature adult**.
+And here is a just a random fact -  **Humans and dolphins are the only species that have sex for pleasure**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 29 Nov, 2025.</sub>
+<sub>Last updated by Github Actions on 30 Nov, 2025.</sub>
