@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8006 days**.
+Here is a random fact about me - I have been on this planet for **8007 days**.
 
-And here is a just a random fact -  **By recycling just one glass bottle, the amount of energy that is being saved is enough to light a 100 watt bulb for four hours**.
+And here is a just a random fact -  **The giant squid has the largest eyes in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
