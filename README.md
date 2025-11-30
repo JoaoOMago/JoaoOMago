@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8006 days**.
 
-And here is a just a random fact -  **The word "diamond" comes from the Greek word "adamas," which means "unconquerable."**.
+And here is a just a random fact -  **To tell if a egg is fully cooked or raw, just spin it. If the egg wobbles then it is still raw, and if it easily spins it is fully cooked**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
