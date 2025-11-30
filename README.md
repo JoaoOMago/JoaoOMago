@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8007 days**.
 
-And here is a just a random fact -  **Tycho Brahe, a 16th century astronomer, lost his nose in a duel with one of his students over a mathematical computation. He wore a silver replacement nose for the rest of his life**.
+And here is a just a random fact -  **There is no tipping in Iceland**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
