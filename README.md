@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8006 days**.
 
-And here is a just a random fact -  **Annually, fires that occur at home kill more Americans than all natural disasters combined**.
+And here is a just a random fact -  **In 1992, approximately 750 deaths occurred in the United States due to workplace violence**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
