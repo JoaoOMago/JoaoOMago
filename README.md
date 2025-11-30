@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8006 days**.
 
-And here is a just a random fact -  **In the 1985 Boise, Idaho mayoral election, there were four write-in votes for Mr. Potato Head**.
+And here is a just a random fact -  **Beethoven used to take hay baths to remedy the swelling he used to get in his legs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
