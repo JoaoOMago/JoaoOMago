@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8008 days**.
 
-And here is a just a random fact -  **The popular chocolate bar "Three Musketeers" got its name because when it was first introduced in 1932 there were three individual bars. The flavours were strawberry, chocolate, and vanilla**.
+And here is a just a random fact -  **A volcano has enough power to shoot ash as high as 50 km into the atmosphere**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
