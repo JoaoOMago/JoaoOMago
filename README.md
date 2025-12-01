@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8007 days**.
 
-And here is a just a random fact -  **Pigs have no sweat glands, which is why they stay in water or mud to keep cool**.
+And here is a just a random fact -  **In 1958 the United States sent three mice into space named, Mia, Laska and Benji**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
