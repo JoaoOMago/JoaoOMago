@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8008 days**.
 
-And here is a just a random fact -  **Elvis Presley was obsessed with brushing his teeth**.
+And here is a just a random fact -  **The total volume of mail that went through the Canadian postal system in 1950 was 1,362,310,155 items**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
