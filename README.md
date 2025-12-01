@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8007 days**.
+Here is a random fact about me - I have been on this planet for **8008 days**.
 
-And here is a just a random fact -  **The first owner of the Marlboro Company died of lung cancer**.
+And here is a just a random fact -  **In 1865, the U.S. Secret Service was first established for the specific purpose to combat the counterfeiting of money**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
