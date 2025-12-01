@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8008 days**.
 
-And here is a just a random fact -  **The biggest candy eaters are the Dutch, who average 65 pounds of candy per person in a year**.
+And here is a just a random fact -  **Over 40 million Americans have chronic bad breath**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
