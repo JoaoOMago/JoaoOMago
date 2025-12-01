@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8008 days**.
 
-And here is a just a random fact -  **The average height of an NBA basketball player is 6 feet 7 inches**.
+And here is a just a random fact -  **In India, pickled ginger, minced mutton and a cottage cheese like substance are popular pizza toppings**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
