@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8007 days**.
 
-And here is a just a random fact -  **Soy crayons have been invented to replace wax crayons and one acre of soybeans can produce over 80,000 crayons**.
+And here is a just a random fact -  **Elizabeth Taylor has appeared on the cover of Life magazine more than anyone else**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
