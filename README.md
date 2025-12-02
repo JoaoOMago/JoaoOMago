@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8009 days**.
 
-And here is a just a random fact -  **Frog-eating bats identify edible frogs from poisonous ones by listening to the mating calls of male frogs. Frogs counter this by hiding and using short, difficult to locate calls**.
+And here is a just a random fact -  **Panthers are known as black leopards, as they are the same species of leopard. If looked at closely, black spots can be seen on a panther**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
