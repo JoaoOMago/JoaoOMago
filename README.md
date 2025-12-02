@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8009 days**.
 
-And here is a just a random fact -  **The smallest man ever was Gul Mohammed (1957-1997) of India, who measured 1 feet, 10? inches**.
+And here is a just a random fact -  **Most fleas do not live past a year old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
