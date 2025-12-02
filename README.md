@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8009 days**.
 
-And here is a just a random fact -  **A person that is struck by lightning has a greater chance of developing motor neurone disease**.
+And here is a just a random fact -  **Harley Proctor got the idea to name the soap "Ivory" while he was listening to a bible reading at a church in 1879**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
