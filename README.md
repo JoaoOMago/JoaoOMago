@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8008 days**.
 
-And here is a just a random fact -  **The seventeenth president of the United States, Andrew Johnson did not know how to read until he was 17 years old**.
+And here is a just a random fact -  **From the age of thirty, humans gradually begin to shrink in size**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
