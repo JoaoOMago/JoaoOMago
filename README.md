@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8009 days**.
 
-And here is a just a random fact -  **The average stay for a prisoner on Alcatraz, when it was used as a prison, was five years**.
+And here is a just a random fact -  **A person that is struck by lightning has a greater chance of developing motor neurone disease**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
