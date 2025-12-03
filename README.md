@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8010 days**.
 
-And here is a just a random fact -  **A species of dolphin is born naturally blind in the Indus and Ganges rivers in South Asia. These dolphins have a highly sophisticated sonar system and swim on only one side of their body**.
+And here is a just a random fact -  **The state of Tennessee was known as Franklin before 1796**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
