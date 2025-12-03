@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8010 days**.
 
-And here is a just a random fact -  **The first Ford cars had Dodge engines**.
+And here is a just a random fact -  **In 1888, an Egyptian peasant discovered an estimated three hundred thousand mummified cats in Beni Hassan, Egypt. Of the cats that were not stolen once, the find was made public, the remaining mummified cats were shipped to Great Britain to be used as agricultural fertilizer**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
