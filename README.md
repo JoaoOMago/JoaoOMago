@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8010 days**.
 
-And here is a just a random fact -  **The dragonfly has not changed over the last 300 million years**.
+And here is a just a random fact -  **Lake Baikal is the oldest freshwater lake on Earth, having formed between 20 and 25 million years ago**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
