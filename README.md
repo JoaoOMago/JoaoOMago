@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8011 days**.
 
-And here is a just a random fact -  **Taipan snakes have 50 times more toxic than a cobra snake**.
+And here is a just a random fact -  **The average life span of a peasant during the medieval ages was 25 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
