@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8011 days**.
 
-And here is a just a random fact -  **Once a human reaches the age of 35, he/she will start losing approximately 7,000 brain cells a day. The cells will never be replaced**.
+And here is a just a random fact -  **Abdul Kassam Ismael, Grand Vizier of Persia in the tenth century, carried his library with him wherever he went. Four hundred camels carried the 117,000 volumes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
