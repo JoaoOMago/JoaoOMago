@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8011 days**.
 
-And here is a just a random fact -  **Men sweat more than women. This is because women can better regulate the amount of water they lose**.
+And here is a just a random fact -  **Minnows have teeth located on a bone in their throat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
