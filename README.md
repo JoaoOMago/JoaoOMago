@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8011 days**.
 
-And here is a just a random fact -  **Dipsomania refers to an insatiable craving for alcoholic beverages**.
+And here is a just a random fact -  **Sharks have upper and lower eyelids, but they do not blink**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
