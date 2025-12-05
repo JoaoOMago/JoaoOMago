@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8012 days**.
 
-And here is a just a random fact -  **The Hundred Years War lasted for 116 years**.
+And here is a just a random fact -  **The city of Nottingham in England was the first city to have Braille signs (signs for the blind) in its shopping malls for the blind**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
