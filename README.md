@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8012 days**.
 
-And here is a just a random fact -  **A woman has approximately 4.5 litres of blood in her body, while men have 5.6 litres**.
+And here is a just a random fact -  **The famous Christmas song "Jingle Bells" was written for a Thanksgiving program in 1857 by James Pierpont. At the time, the song was called "The One-Horse Open Sleigh."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
