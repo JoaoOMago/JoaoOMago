@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8012 days**.
 
-And here is a just a random fact -  **In 1693, the postage rate of a letter was determined by how much light went through the letter. The less the light went through the letter the more expensive the rate would be. This technique was referred to as candling**.
+And here is a just a random fact -  **In the past 60 years, the groundhog has only predicted the weather correctly 28% of the time. The rushing back and forth from burrows is believed to indicate sexual activity, not shadow seeking**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
