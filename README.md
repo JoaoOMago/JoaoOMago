@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8012 days**.
+Here is a random fact about me - I have been on this planet for **8013 days**.
 
-And here is a just a random fact -  **George Washington had teeth made out of hippopotamus ivory**.
+And here is a just a random fact -  **The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
