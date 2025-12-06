@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8013 days**.
 
-And here is a just a random fact -  **The two top toys in 1950 were Silly Putty which sold for $1, and Crayola crayons which sold for 50 cents**.
+And here is a just a random fact -  **The average Hostess Twinkie is 68 percent air as measured by volume according to university researchers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
