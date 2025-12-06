@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8013 days**.
 
-And here is a just a random fact -  **The name of the award given to honor the best sites on the Internet is called "The Webby Award."**.
+And here is a just a random fact -  **The chances of making two holes-in-one in a round of golf are one in 67 million**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
