@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8012 days**.
 
-And here is a just a random fact -  **Studies have shown that the scent of Rosemary can help in better mental performance and make individuals feel more alert**.
+And here is a just a random fact -  **George Washington had to borrow money to go to his own inauguration**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Dec, 2025.</sub>
+<sub>Last updated by Github Actions on 06 Dec, 2025.</sub>
