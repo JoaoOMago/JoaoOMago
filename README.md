@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8014 days**.
 
-And here is a just a random fact -  **In China, pancakes are generally served as side dishes. They are stuffed with meat, bean sprouts, and other vegetables**.
+And here is a just a random fact -  **The biggest hamburger that was served was 8,266 pounds. It was made at the Burger Fest in Seymour, Wisconsin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
