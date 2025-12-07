@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8014 days**.
 
-And here is a just a random fact -  **There are 691 drinking fountains in the Pentagon**.
+And here is a just a random fact -  **On average, 100 people choke to death on ballpoint pens every year.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
