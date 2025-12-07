@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8013 days**.
 
-And here is a just a random fact -  **The postage rate for a letter in 1693 was determined through how much light could pass through the letter. The postage rate would be more expensive if less light went through, and this process was called candling**.
+And here is a just a random fact -  **A galactic year is 250 million Earth-years. This is the time it takes for our solar system to make one revolution around the Milky Way Galaxy.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
