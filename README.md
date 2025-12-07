@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8013 days**.
 
-And here is a just a random fact -  **About 30% of Canadians rely on getting their water from the ground for their domestic use**.
+And here is a just a random fact -  **During the Gold Rush in 1849, some people paid as much as $100 for a simple glass of water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 06 Dec, 2025.</sub>
+<sub>Last updated by Github Actions on 07 Dec, 2025.</sub>
