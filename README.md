@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8013 days**.
 
-And here is a just a random fact -  **The actor who played the T-1000 in Terminator 2 (Robert Patrick) and the lead singer of Filter are brothers**.
+And here is a just a random fact -  **From the age of thirty, humans gradually begin to shrink in size**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
