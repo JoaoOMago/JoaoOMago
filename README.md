@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8015 days**.
 
-And here is a just a random fact -  **Seven percent of a humans body wieght is made up of blood**.
+And here is a just a random fact -  **Five thousandths of a millimeter is the tolerance of accuracy at the LEGO mould factories**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
