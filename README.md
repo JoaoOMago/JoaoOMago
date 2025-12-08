@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8015 days**.
 
-And here is a just a random fact -  **Dill seeds are so small that approximately 10,000 dill seeds would be required to make an ounce**.
+And here is a just a random fact -  **Since 1978, at least 37 people have died as a result of shaking vending machines, in an attempt to get free merchandise. More than 100 people have been injured**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
