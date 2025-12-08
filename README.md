@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8015 days**.
 
-And here is a just a random fact -  **The tridacna clam can grow up to four feet long and weigh up to 500 pounds**.
+And here is a just a random fact -  **The 3 most valuable brand names on earth: Marlboro, Coca-Cola, andBudweiser, in that order.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
