@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8016 days**.
 
-And here is a just a random fact -  **Cashew nuts contain oil in the shell that is very irritating to the skin**.
+And here is a just a random fact -  **In Ivrea, Italy, thousands of citizens celebrate the beginning of Lent by throwing oranges at one another**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
