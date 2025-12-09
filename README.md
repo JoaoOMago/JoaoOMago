@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8016 days**.
 
-And here is a just a random fact -  **Many hamsters only blink one eye at a time**.
+And here is a just a random fact -  **The brain of an ant has about 250,000 brain cells**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
