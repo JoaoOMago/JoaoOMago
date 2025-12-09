@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8016 days**.
 
-And here is a just a random fact -  **Stannous fluoride, which is the cavity fighter found in toothpaste is made from recycled tin**.
+And here is a just a random fact -  **The word Lethologica describes the state of not remembering the word you want to say**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
