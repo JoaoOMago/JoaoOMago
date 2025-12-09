@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8016 days**.
 
-And here is a just a random fact -  **The flatulation from domesticated cows produce about 30% of the methane on this planet**.
+And here is a just a random fact -  **Termites are roasted and eaten like popcorn in South Africa**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
