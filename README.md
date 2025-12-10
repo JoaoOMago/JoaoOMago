@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8017 days**.
 
-And here is a just a random fact -  **The official state mammal of Texas is the armadillo**.
+And here is a just a random fact -  **A housefly can only ingest liquid material. They regurgitate their food to liquify the food that they are going to eat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
