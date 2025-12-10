@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8017 days**.
 
-And here is a just a random fact -  **Wood frogs can be frozen solid and then thawed, and continue living. They use the glucose in their body to protect their vital organs while they are in a frozen state**.
+And here is a just a random fact -  **In 1988, the largest ice cream sundae in history was made. It was made in Edmonton, Alberta, Canada, and weighed in at over 24 tons**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
