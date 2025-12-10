@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8017 days**.
 
-And here is a just a random fact -  **For more than 3,000 years, Carpenter ants have been used to close wounds in India, Asia and South America**.
+And here is a just a random fact -  **In 1845, inventor Thomas Adams started the world's first chewing gum factory.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
