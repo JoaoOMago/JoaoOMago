@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8017 days**.
 
-And here is a just a random fact -  **In a day, kids in the U.S. that are between the ages of 2 - 8 spend 28 minutes of their time coloring**.
+And here is a just a random fact -  **Belize is the only country in the world with a jaguar preserve**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
