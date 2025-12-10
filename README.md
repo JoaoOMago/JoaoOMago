@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8017 days**.
 
-And here is a just a random fact -  **Hair will fall out faster on a person that is on a crash diet**.
+And here is a just a random fact -  **Toronto was the first city in the world with a computerized traffic signal system**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
