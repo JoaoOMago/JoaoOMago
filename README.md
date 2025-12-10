@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8016 days**.
 
-And here is a just a random fact -  **The reason why bubble gum is pink is because the inventor only had pink colouring left. Ever since then, the colour of bubble gum has been predominantly pink**.
+And here is a just a random fact -  **The sentence "The quick brown fox jumps over the lazy dog." uses everyletter in the alphabet. (Developed by Western Union to Test telex/twxcommunications)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
