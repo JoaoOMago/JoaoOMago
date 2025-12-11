@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8017 days**.
 
-And here is a just a random fact -  **The only predator that polar bears have are humans**.
+And here is a just a random fact -  **JELL-O was declared The "Official State Snack" of Utah in January 2001**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Dec, 2025.</sub>
+<sub>Last updated by Github Actions on 11 Dec, 2025.</sub>
