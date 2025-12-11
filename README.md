@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8017 days**.
 
-And here is a just a random fact -  **The snow leopard protects itself from extreme cold when it sleeps by wrapping its 3-foot-long tail around its nose**.
+And here is a just a random fact -  **In 1755, the first Canadian post office opened in Halifax, Nova Scotia. The fist Deputy Postmaster General was American inventor Benjamin Franklin who was later dismissed for sympathizing with the American revolutionary cause**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
