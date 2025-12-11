@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8017 days**.
 
-And here is a just a random fact -  **In 1755, the first Canadian post office opened in Halifax, Nova Scotia. The fist Deputy Postmaster General was American inventor Benjamin Franklin who was later dismissed for sympathizing with the American revolutionary cause**.
+And here is a just a random fact -  **There is a "cemetery town" in California named Colma. Concerns about the public health, crime, and the need for space forced the city of San Francisco to outlaw burials in 1902. The city of Colma, which is five miles south of San Francisco, was established to bury the dead. The ratio of dead to living people is 750 to 1**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
