@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8018 days**.
 
-And here is a just a random fact -  **Some birds have been know to put ants into their feathers because the ants squirt formic acid, which kills parasites**.
+And here is a just a random fact -  **A person will burn 7 percent more calories if they walk on hard dirt compared to pavement**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
