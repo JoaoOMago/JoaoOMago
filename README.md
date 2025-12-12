@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8018 days**.
 
-And here is a just a random fact -  **Approximately 97.35618329% of all statistics are made up**.
+And here is a just a random fact -  **Nutmeg is extremely poisonous if injected intraveinously.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Dec, 2025.</sub>
+<sub>Last updated by Github Actions on 12 Dec, 2025.</sub>
