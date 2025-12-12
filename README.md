@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8019 days**.
 
-And here is a just a random fact -  **Chef Boyardee is actually a real person. His real name is Hector Boiardi and he was born in northern Italy in 1898**.
+And here is a just a random fact -  **Eating chocolate three times a month helps people live longer as opposed to people who overeat chocolate or do not eat chocolate at all**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
