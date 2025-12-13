@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8019 days**.
 
-And here is a just a random fact -  **Approximately 25% of all scald burns to children are from hot tap water and is associated with more deaths than with any other liquid**.
+And here is a just a random fact -  **Air is passed through the nose at a speed of 100 miles per hour when a person sneezes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Dec, 2025.</sub>
+<sub>Last updated by Github Actions on 13 Dec, 2025.</sub>
