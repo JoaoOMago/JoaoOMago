@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8020 days**.
 
-And here is a just a random fact -  **Even if you eat food standing on your head, the food will still end up in your stomach**.
+And here is a just a random fact -  **The all-time most nominated Grammy artist with 77 nominations is Quincy Jones**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
