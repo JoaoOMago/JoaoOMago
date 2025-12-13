@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8020 days**.
 
-And here is a just a random fact -  **Border collies are the most intelligent breed of dog**.
+And here is a just a random fact -  **Edinburgh has more booksellers per head of population than any other city in Britain**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
