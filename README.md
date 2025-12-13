@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8020 days**.
 
-And here is a just a random fact -  **Strawberries are a member of the rose family**.
+And here is a just a random fact -  **In 1938, Cliquot Club ginger ale was the first soft drink to be canned**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
