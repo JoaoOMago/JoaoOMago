@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8020 days**.
 
-And here is a just a random fact -  **There are no two zebras who have stripes that are exactly the same**.
+And here is a just a random fact -  **Weatherman Willard Scott was the first Ronald McDonald**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
