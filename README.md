@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8020 days**.
+Here is a random fact about me - I have been on this planet for **8021 days**.
 
-And here is a just a random fact -  **People over the age of fifty will start to lose their dislike for foods that taste bitter**.
+And here is a just a random fact -  **There is an area located off the south-eastern Atlantic coast of the United States called the "Bermuda Triangle." It is known for a high rate of unexplained losses of ships, small boats, and aircraft, which has led some people to believe that this triangle has supernatural powers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
