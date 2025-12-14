@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8021 days**.
 
-And here is a just a random fact -  **The Hollywood sign was first erected in 1923. It was first erected as "Hollywoodland."**.
+And here is a just a random fact -  **There are over 1,800 known species of fleas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
