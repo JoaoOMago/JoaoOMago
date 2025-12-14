@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8021 days**.
 
-And here is a just a random fact -  **The stomach of an adult can hold 1.5 liters of material**.
+And here is a just a random fact -  **In a year approximately 900 million trees are cut down to make the raw materials needed for American pulp mills and paper**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
