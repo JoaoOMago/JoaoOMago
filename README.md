@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8021 days**.
 
-And here is a just a random fact -  **One in five Americans move homes every year**.
+And here is a just a random fact -  **Many hamsters only blink one eye at a time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
