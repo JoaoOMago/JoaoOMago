@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8021 days**.
 
-And here is a just a random fact -  **There is a Harley-Davidson that was designed as an exact replica of a hamburger**.
+And here is a just a random fact -  **In 1936, the first practical helicopter was invented. It was the German Focke-Wulf Fw 61.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
