@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8021 days**.
 
-And here is a just a random fact -  **Many hamsters only blink one eye at a time**.
+And here is a just a random fact -  **It is estimated that 93% of American children will go out trick or treating for Halloween**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
