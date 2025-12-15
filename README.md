@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8022 days**.
 
-And here is a just a random fact -  **The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet**.
+And here is a just a random fact -  **In 1903 Mary Anderson invented the windshield wipers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
