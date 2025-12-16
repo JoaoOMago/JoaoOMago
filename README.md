@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8022 days**.
+Here is a random fact about me - I have been on this planet for **8023 days**.
 
-And here is a just a random fact -  **There are over 600 different pasta shapes**.
+And here is a just a random fact -  **The heart of an adult giraffe weighs on average 26 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
