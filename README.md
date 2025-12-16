@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8022 days**.
 
-And here is a just a random fact -  **The average office document gets copied 19 times**.
+And here is a just a random fact -  **People that smoke have 10 times as many wrinkles as a person that does not smoke**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
