@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8023 days**.
 
-And here is a just a random fact -  **People who have eaten beetles say that it tastes like apples**.
+And here is a just a random fact -  **American President John Tyler had 15 children**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
