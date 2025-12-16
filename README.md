@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8023 days**.
 
-And here is a just a random fact -  **To manufacture a new car approximately 148,000 liters of water is needed.**.
+And here is a just a random fact -  **Popped popcorn should be stored in the freezer or refrigerator as this way it can stay crunchy for up to three weeks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
