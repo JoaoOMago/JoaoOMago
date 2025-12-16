@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8022 days**.
 
-And here is a just a random fact -  **There are approximately 9,000 taste buds on the tongue**.
+And here is a just a random fact -  **A drink used to be made by the Aztecs for the gods which had the ingredients of ground cocoa mixed in with spices and corn**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
