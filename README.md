@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8022 days**.
 
-And here is a just a random fact -  **The Bible was written by over 40 authors over a period of 1500 years**.
+And here is a just a random fact -  **In an year, an average person makes 1,140 phone calls**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
