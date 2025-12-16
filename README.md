@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8022 days**.
 
-And here is a just a random fact -  **The term "The Big Apple" was coined by touring jazz musicians of the 1930s who used the slang expression "apple" for any town or city. Therefore, to play New York City is to play the big time - The Big Apple**.
+And here is a just a random fact -  **During the holiday season, approximately $220 million worth of Poinsettias are sold**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 15 Dec, 2025.</sub>
+<sub>Last updated by Github Actions on 16 Dec, 2025.</sub>
