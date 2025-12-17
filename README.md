@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8023 days**.
 
-And here is a just a random fact -  **The founder of JC Penny had the middle name of Cash**.
+And here is a just a random fact -  **The word Cotton originates from the Arabic word "Qutun."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
