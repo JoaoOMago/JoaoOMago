@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8024 days**.
 
-And here is a just a random fact -  **The windiest place in the world is Mount Washington, New Hampshire, USA. The highest wind was on April 12, 1934 when it reached 231 mph.**.
+And here is a just a random fact -  **When Burger King introduced the Whopper Sandwich in 1957, it cost only thirty-seven cents**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
