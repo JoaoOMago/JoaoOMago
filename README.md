@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8023 days**.
 
-And here is a just a random fact -  **Medical reports show that about 18% of the population are prone to sleepwalking**.
+And here is a just a random fact -  **The first episode of the popular television sitcom Happy Days was titled "All The Way."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
