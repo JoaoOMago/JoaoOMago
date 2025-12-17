@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8023 days**.
 
-And here is a just a random fact -  **Mr. Butts invented the game SCRABBLE. The game was originally called "Criss Cross Words."**.
+And here is a just a random fact -  **Every year Alaska has about 5,000 earthquakes, 1,000 of which measure above 3.5 on the Richter scale**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
