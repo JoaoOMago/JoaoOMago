@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8023 days**.
 
-And here is a just a random fact -  **Researches have discovered that eating five or more apples a week is linked to better functioning of the lungs**.
+And here is a just a random fact -  **About twenty-five percent of the population sneeze when they are exposed to light**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
