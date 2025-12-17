@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8023 days**.
+Here is a random fact about me - I have been on this planet for **8024 days**.
 
-And here is a just a random fact -  **The first episode of the popular television sitcom Happy Days was titled "All The Way."**.
+And here is a just a random fact -  **In 1825, the first toilet was installed in the White House**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
