@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8025 days**.
 
-And here is a just a random fact -  **Actor Sylvester Stallone once had a job as a lion cage cleaner**.
+And here is a just a random fact -  **Melba toast is named after an Australian opera singer Dame Nellie Melba**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
