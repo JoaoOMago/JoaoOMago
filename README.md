@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8024 days**.
 
-And here is a just a random fact -  **Chocolate can be fatal to dogs. Chocolate contains a chemical theobromine, which is poisonous to dogs**.
+And here is a just a random fact -  **The tallest woman that ever lived was Zeng Jinlian who was 8 feet 2 inches tall of China. Shed died at the age of 17**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
