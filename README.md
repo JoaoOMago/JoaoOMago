@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8025 days**.
 
-And here is a just a random fact -  **By weight, the sun is 70% hydrogen, 28% helium, 1.5% carbon, nitrogen, and oxygen, and 0.5% all other elements.**.
+And here is a just a random fact -  **The term "The Big Apple" was coined by touring jazz musicians of the 1930s who used the slang expression "apple" for any town or city. Therefore, to play New York City is to play the big time - The Big Apple**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
