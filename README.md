@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8025 days**.
 
-And here is a just a random fact -  **The first person to die in the electric chair was William Kemmler, an ax murderer from New York on August 6, 1890**.
+And here is a just a random fact -  **The long fibres that are found in bananas are excellent in making paper. The long fibres that are found in the banana plant can make the banana fibre paper approximately 3000 times stronger than regular paper**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
