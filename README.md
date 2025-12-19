@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8025 days**.
 
-And here is a just a random fact -  **Every single hamster in the United States today comes from a single litter captured in Syria in 1930**.
+And here is a just a random fact -  **Ukrainian monk, Dionysius Exiguus, created the modern day Christian calendar**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 18 Dec, 2025.</sub>
+<sub>Last updated by Github Actions on 19 Dec, 2025.</sub>
