@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8026 days**.
 
-And here is a just a random fact -  **The first hot air balloon flight traveled for 5.5 miles over Paris and lasted for 23 minutes**.
+And here is a just a random fact -  **Chili Powder was invented in the 19th century in the American Southwest**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
