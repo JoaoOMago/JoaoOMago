@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8025 days**.
 
-And here is a just a random fact -  **There are three golf balls sitting on the moon**.
+And here is a just a random fact -  **A dime has 118 ridges around the edge**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
