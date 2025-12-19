@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8025 days**.
+Here is a random fact about me - I have been on this planet for **8026 days**.
 
-And here is a just a random fact -  **After the death of the genius, Albert Einstein, his brain was removed by a pathologist and put in a jar for future study**.
+And here is a just a random fact -  **In one gram of soil, about ten million bacteria live in it**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
