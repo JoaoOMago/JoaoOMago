@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8026 days**.
 
-And here is a just a random fact -  **Halifax, Nova Scotia, Canada has the largest bar per capita than anywhere else in the world**.
+And here is a just a random fact -  **For the blockbuster movie "The Terminator," O.J. Simpson was considered to play the role of the Terminator, but producers did not choose him as they thought he would not be taken seriously**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
