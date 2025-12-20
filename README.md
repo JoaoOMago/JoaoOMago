@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8027 days**.
 
-And here is a just a random fact -  **On average, a person will spend about five years eating during their lifetime**.
+And here is a just a random fact -  **People in France own more pets in the world per person than any other country**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
