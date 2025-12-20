@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8027 days**.
 
-And here is a just a random fact -  **The rarest coffee in the world is Kopi Luwak, which is found in Indonesia. It cost about $300 a pound**.
+And here is a just a random fact -  **The phrase "Often a bridesmaid, but never a bride," actually originates from an advertisement for Listerine mouthwash from 1924**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
