@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8026 days**.
 
-And here is a just a random fact -  **Cow is a Japanese brand of shaving foam**.
+And here is a just a random fact -  **Most American women have their first baby when they are 24.3 years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
