@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8027 days**.
 
-And here is a just a random fact -  **In the 1985 Boise, Idaho mayoral election, there were four write-in votes for Mr. Potato Head**.
+And here is a just a random fact -  **Kiwis are the only known bird to have nostrils located at the tip of their beak**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
