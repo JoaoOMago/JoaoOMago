@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8027 days**.
 
-And here is a just a random fact -  **Chocolate can be fatal to dogs. Chocolate contains a chemical theobromine, which is poisonous to dogs**.
+And here is a just a random fact -  **The world record for time without sleep is 264 hours (11 days) by Randy Gardner in 1965**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
