@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8026 days**.
 
-And here is a just a random fact -  **In 1890, Scott Paper produced the first toilet paper to be available on a roll**.
+And here is a just a random fact -  **In 1391, China began producing toliet paper for use by its Emperors**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
