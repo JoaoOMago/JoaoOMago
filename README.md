@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8027 days**.
 
-And here is a just a random fact -  **Approximately 7.5% of all office documents get lost**.
+And here is a just a random fact -  **Approximately 200 pets are buried in a pet cemetery out of the thousands of pets that die each day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
