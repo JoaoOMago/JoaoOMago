@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8028 days**.
 
-And here is a just a random fact -  **Battle Creek, Michigan is referred to as the "Cereal Bowl of America." The city produces the most breakfast cereals than any other city in the world**.
+And here is a just a random fact -  **The brain of an ant has about 250,000 brain cells**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
