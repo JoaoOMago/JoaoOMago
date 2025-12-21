@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8028 days**.
 
-And here is a just a random fact -  **In 1972, a gorilla by the name of "Koko" was taught ASL (American Sign Language) for the deaf. By the year 2000, the gorilla could understand approximately 2,000 English words**.
+And here is a just a random fact -  **Due to sugar shortages to make candy during World War II, movie theatre owners turned to popcorn, which is now the best selling snack at movie theatres today**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
