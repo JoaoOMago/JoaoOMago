@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8028 days**.
 
-And here is a just a random fact -  **People in low-income homes spend 50% more time playing video games than people in high-income homes**.
+And here is a just a random fact -  **Cost of raising a medium-size dog to the age of eleven: $6,400**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
