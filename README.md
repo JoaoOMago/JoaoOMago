@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8028 days**.
 
-And here is a just a random fact -  **Eating chocolate three times a month helps people live longer as opposed to people who overeat chocolate or do not eat chocolate at all**.
+And here is a just a random fact -  **Talc was used by cavemen 15,000 years ago as an ingredient added to make paint**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
