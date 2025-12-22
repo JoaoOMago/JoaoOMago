@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8029 days**.
 
-And here is a just a random fact -  **Forty-one percent of women apply body and hand moisturizer at least three times a day**.
+And here is a just a random fact -  **On average a business document is copied 19 times**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
