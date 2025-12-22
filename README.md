@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8029 days**.
 
-And here is a just a random fact -  **Spartacus led the revolt of the Roman slaves and gladiators in 73 B.C**.
+And here is a just a random fact -  **The Indian election in 1984 was the largest election of any country. Over 379,000,000 voters were eligible to vote at over 480,000 polling stations**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
