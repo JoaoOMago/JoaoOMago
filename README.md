@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8030 days**.
 
-And here is a just a random fact -  **In 1657, the first chocolate house was opened in London, England**.
+And here is a just a random fact -  **The stringy thing that is seen in egg whites is called "chalazae."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
