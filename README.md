@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8030 days**.
 
-And here is a just a random fact -  **Since the United Nations was founded in 1945, there have been 140 wars**.
+And here is a just a random fact -  **No one in Greece has memorized all 158 verses**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
