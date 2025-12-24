@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8030 days**.
 
-And here is a just a random fact -  **The last land battle of the U.S. Civil War was fought in Texas**.
+And here is a just a random fact -  **Due to eating habits in the USA, one in three children born in the year 2000 have a chance of getting type II diabetes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 23 Dec, 2025.</sub>
+<sub>Last updated by Github Actions on 24 Dec, 2025.</sub>
