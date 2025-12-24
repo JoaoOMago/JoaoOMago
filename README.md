@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8031 days**.
 
-And here is a just a random fact -  **Some dolphins can swim up to 40 kilometers an hour**.
+And here is a just a random fact -  **In their lifetime, house cats spend approximately 10,950 hours purring**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
