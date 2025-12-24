@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8030 days**.
 
-And here is a just a random fact -  **On average, 81% of Americans 16 years of age and older watch television at least once in a day**.
+And here is a just a random fact -  **A butterfly can see the colors red, green, and yellow**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
