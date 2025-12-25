@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8032 days**.
 
-And here is a just a random fact -  **Bill Gates donated close to $100 million to fight AIDS in India. As a percent of his total wealth, this would be comparable to him donating ten cents if he only had $60**.
+And here is a just a random fact -  **Percentage of American men who say they would marry the same woman if they had it to do all over again: 80%**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
