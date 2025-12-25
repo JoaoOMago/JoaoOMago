@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8032 days**.
 
-And here is a just a random fact -  **In America, approximately 25% of kids aged 6-14 have a magaznie subscription**.
+And here is a just a random fact -  **Bill Gates donated close to $100 million to fight AIDS in India. As a percent of his total wealth, this would be comparable to him donating ten cents if he only had $60**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
