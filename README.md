@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8032 days**.
 
-And here is a just a random fact -  **The world's first underground was the London Underground in1863. It has 275 stations and 253 miles of track.**.
+And here is a just a random fact -  **A study indicates that smokers are likely to die on average six and a half years earlier than non-smokers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
