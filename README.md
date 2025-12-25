@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8032 days**.
 
-And here is a just a random fact -  **The American Automobile association was formed in 1905 for the sole purpose of warning motorists of police speed traps**.
+And here is a just a random fact -  **A female ferret can die if she goes into heat and cannot find a mate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
