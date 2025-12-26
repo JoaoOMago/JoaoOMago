@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8033 days**.
 
-And here is a just a random fact -  **Basketball was invented by Canadian James Naismith in 1891**.
+And here is a just a random fact -  **A woman has approximately 4.5 litres of blood in her body, while men have 5.6 litres**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
