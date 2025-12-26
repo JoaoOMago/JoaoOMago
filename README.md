@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8032 days**.
 
-And here is a just a random fact -  **The silkworm moth has lost the ability to fly ever since it has been domesticated**.
+And here is a just a random fact -  **There have been 191 coops in Bolivia since it became a sovereign country in 1825**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
