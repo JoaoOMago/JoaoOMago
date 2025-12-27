@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8033 days**.
 
-And here is a just a random fact -  **The first Valentine candy box was invented by Richard Cadbury in the 1800's.**.
+And here is a just a random fact -  **Atari had to bury millions of unsold "E.T." game cartridges in a New Mexico desert landfill in 1982**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
