@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8033 days**.
+Here is a random fact about me - I have been on this planet for **8034 days**.
 
-And here is a just a random fact -  **If you were standing on Mercury, the Sun would appear 2.5 times larger than it appears from Earth**.
+And here is a just a random fact -  **The snow leopard protects itself from extreme cold when it sleeps by wrapping its 3-foot-long tail around its nose**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
