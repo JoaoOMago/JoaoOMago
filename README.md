@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8034 days**.
 
-And here is a just a random fact -  **Japan has approximately 200 volcanoes and is home to 10% of the active volcanoes in the world**.
+And here is a just a random fact -  **Spartacus led the revolt of the Roman slaves and gladiators in 73 B.C**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
