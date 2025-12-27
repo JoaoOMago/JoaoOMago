@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8034 days**.
 
-And here is a just a random fact -  **The oldest inhabited house in Scotland is the Traquair Castle. The castle has had 27 kings as visitors**.
+And here is a just a random fact -  **The total mileage driven by all U-Haul trucks in a year is enough to move a person from the Earth to the moon five times a day for an entire year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
