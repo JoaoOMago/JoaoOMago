@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8034 days**.
 
-And here is a just a random fact -  **Iguanas can stay under water for up to thirty minutes**.
+And here is a just a random fact -  **Alcohol beverages have all 13 minerals necessary for human life**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
