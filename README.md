@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8035 days**.
 
-And here is a just a random fact -  **On average, he ratio of yellow kernels to white kernals in a bag of popcorn is 9:1**.
+And here is a just a random fact -  **Coca-cola used to use the slogan "Good to the last drop," in 1908. This slogan was later used by Maxwell House**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
