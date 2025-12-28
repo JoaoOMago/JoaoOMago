@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8035 days**.
 
-And here is a just a random fact -  **The sport Lacrosse was initially played by Native American Indians. They played the sport to prepare for war**.
+And here is a just a random fact -  **To make butter more attractive in colour, carrot juice was used by people in the Middle Ages**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
