@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8034 days**.
 
-And here is a just a random fact -  **From 1526 to 1707, the first six Mogul emperors of India ruled in unbroken succession from father to son**.
+And here is a just a random fact -  **Over 100,000 birds and sea animals are killed every year due to plastic garbage**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
