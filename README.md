@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8035 days**.
 
-And here is a just a random fact -  **Blood is such a good stain that Native Americans used it for paint**.
+And here is a just a random fact -  **Before soccer referees started using whistles in 1878, they used to rely on waving a handkerchief**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
