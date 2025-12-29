@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8036 days**.
 
-And here is a just a random fact -  **Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, Diamonds - Julius Caesar**.
+And here is a just a random fact -  **The Liberty Bell was the first mechanical slot machine, which was invented by Charles Fey, a car mechanic in 1895.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
