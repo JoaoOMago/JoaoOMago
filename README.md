@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8036 days**.
+Here is a random fact about me - I have been on this planet for **8037 days**.
 
-And here is a just a random fact -  **Stalks of sugar cane can reach up to 30 feet**.
+And here is a just a random fact -  **On August 21st, 1911, someone stole the Mona Lisa, the most famous painting in the world, from the Louvre Museum. It was recovered two years later**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
