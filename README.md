@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8037 days**.
 
-And here is a just a random fact -  **There are 336 dimples on a regulation golf ball**.
+And here is a just a random fact -  **Dill seeds are so small that approximately 10,000 dill seeds would be required to make an ounce**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
