@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8037 days**.
 
-And here is a just a random fact -  **Walter Hunt patented the safety pin in 1849. He later sold the patent rights for only $400.**.
+And here is a just a random fact -  **There is no element on Mendeleev's (the current) periodic table of elements abbreviated, either partially, or fully, with the letter J.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
