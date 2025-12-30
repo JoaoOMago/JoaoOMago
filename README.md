@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8036 days**.
 
-And here is a just a random fact -  **The Tonle Sap River in Cambodia flows north for almost half the year and then south for the rest of the year**.
+And here is a just a random fact -  **Nose prints are used to identify dogs, much like humans use fingerprints**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
