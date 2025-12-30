@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8037 days**.
 
-And here is a just a random fact -  **Adolf Hitler was one of the people that was responsible in the creation of the Volkswagen Beetle. He came up with the idea of producing a car that was cheap enough for the average German working man to afford.**.
+And here is a just a random fact -  **The most expensive perfume in the world is Parfum VI, which was made by Arthur Burnham. A 4 inch bottle which is covered with diamonds and 24-carat gold costs $71,380**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
