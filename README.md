@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8038 days**.
 
-And here is a just a random fact -  **There are over 1,000,000 swimming pools in Florida, eventhough the ocean is no farther than 80 miles away**.
+And here is a just a random fact -  **Energy is being wasted if a toaster is left plugged in after use**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
