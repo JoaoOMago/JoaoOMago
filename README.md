@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8038 days**.
 
-And here is a just a random fact -  **The largest type of penguin is the Emperor Penguin which can stand to be almost 3.5 feet tall and weigh more than 90 pounds**.
+And here is a just a random fact -  **The name Wendy was made up for the book "Peter Pan."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
