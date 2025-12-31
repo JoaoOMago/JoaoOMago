@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8038 days**.
 
-And here is a just a random fact -  **Arnold Palmer was the first player to win $1 million on the PGA Tour**.
+And here is a just a random fact -  **The name Jeep came from the abbreviation used in the army for the "General Purpose" vehicle, G.P**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
