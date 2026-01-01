@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8039 days**.
 
-And here is a just a random fact -  **Ninety percent of the population has an innie belly button**.
+And here is a just a random fact -  **Manitoulin Island is the largest island in a fresh water lake. It is located in Canadian Lake Superior**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
