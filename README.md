@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8038 days**.
 
-And here is a just a random fact -  **Air is passed through the nose at a speed of 100 miles per hour when a person sneezes**.
+And here is a just a random fact -  **The largest cultivated crop in the United States is corn**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
