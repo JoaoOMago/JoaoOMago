@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8039 days**.
 
-And here is a just a random fact -  **Lighthouse keepers were nicknamed "wickies" because they tended the lamps wick**.
+And here is a just a random fact -  **The highest bridge in the world is located in the Himalyan mountains. It was built by the Indian Army, in 1982, and is about 5,600 metres above sea level**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
