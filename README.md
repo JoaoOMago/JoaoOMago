@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8039 days**.
 
-And here is a just a random fact -  **The "naked recreation and travel" industry has grown by 233% in the past decade**.
+And here is a just a random fact -  **The first drug to be sold in the form of a tablet is Aspirin**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
