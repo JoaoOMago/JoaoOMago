@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8039 days**.
 
-And here is a just a random fact -  **In 1565 In St. Augustine, Florida the first orange trees were planted**.
+And here is a just a random fact -  **The Sanskrit word for "war" means "desire for more cows."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
