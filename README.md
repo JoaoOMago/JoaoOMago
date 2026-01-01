@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8039 days**.
 
-And here is a just a random fact -  **A chicken loses its feathers when it becomes stressed**.
+And here is a just a random fact -  **French astronomer Adrien Auzout had once considered building a telescope that was 1,000 feet long in the 1600s. He thought the magnification would be so great, he would see animals on the moon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
