@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8039 days**.
 
-And here is a just a random fact -  **In Israel, religious law forbids picking your nose on Sabbath**.
+And here is a just a random fact -  **The deepest cave in the world is the "Lamprechtsofen-Vogelshacht" cave which can be found in Salzburg, Austria. The cave is 5,354 feet deep**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
