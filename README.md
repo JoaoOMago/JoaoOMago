@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8040 days**.
 
-And here is a just a random fact -  **The phrase "rule of thumb" is derived from an old English law whichstated that you couldn't beat your wife with anything wider than yourthumb.**.
+And here is a just a random fact -  **Ironically, watermelons, which are 92% water, originated from the Kalahari Desert in Africa**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
