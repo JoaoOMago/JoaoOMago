@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8040 days**.
 
-And here is a just a random fact -  **A small drip from a faucet can waste up to 50 gallons of water daily, which is enough water to run a dishwasher twice on a full cycle**.
+And here is a just a random fact -  **Close to 80% of people who watch the Super Bowl on television, only do so to view the commercials**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
