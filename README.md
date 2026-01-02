@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8039 days**.
+Here is a random fact about me - I have been on this planet for **8040 days**.
 
-And here is a just a random fact -  **Actress Michelle Pfeiffer was the first choice to play Clarice Starling in the movie "Silence of the Lambs." She turned down the role because she found it too scary**.
+And here is a just a random fact -  **Colgate faced a big obstacle marketing toothpaste in Spanish speaking countries. Colgate translates into the command "go hang yourself."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
