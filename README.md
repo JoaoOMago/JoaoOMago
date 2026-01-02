@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8040 days**.
 
-And here is a just a random fact -  **Racecar driver Lee Petty once left a pitstop and did a full lap at Nascar with a pit crew member still on the hood**.
+And here is a just a random fact -  **Research has indicated that approximately eleven minutes are cut off the life of an average male smoker from each cigarette smoked**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
