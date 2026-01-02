@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8040 days**.
 
-And here is a just a random fact -  **Research has indicated that approximately eleven minutes are cut off the life of an average male smoker from each cigarette smoked**.
+And here is a just a random fact -  **The largest shopping mall in the world is the West Edmonton Mall located in Edmonton, Alberta, Canada**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
