@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8040 days**.
 
-And here is a just a random fact -  **Colgate faced a big obstacle marketing toothpaste in Spanish speaking countries. Colgate translates into the command "go hang yourself."**.
+And here is a just a random fact -  **Ancient Egyptians believed that onions would keep evil spirits away**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
