@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8040 days**.
 
-And here is a just a random fact -  **When Coca-Cola was invented, American tourists that visited Spain were surprised to see that Coke was three times as expensive as a glass of brandy**.
+And here is a just a random fact -  **No piece of paper can be folded in half more than 7 times**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
