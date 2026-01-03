@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8041 days**.
 
-And here is a just a random fact -  **People that use mobile phones are 2.5 time more likely to develop cancer in areas of the brain that are adjacent to the ear they use to talk on the mobile phone**.
+And here is a just a random fact -  **The thickness of the Arctic ice sheet is on average 10 feet. There are some areas that are thick as 65 feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
