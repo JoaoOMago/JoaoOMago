@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8040 days**.
+Here is a random fact about me - I have been on this planet for **8041 days**.
 
-And here is a just a random fact -  **27% of female lottery winners hid their winning ticket in their bras**.
+And here is a just a random fact -  **Canada is the only country not to win a gold medal in the Summer Olympic games while hosting the event**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
