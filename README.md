@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8041 days**.
 
-And here is a just a random fact -  **Alexander the Great was an epileptic**.
+And here is a just a random fact -  **Lake Malawi has the largest number of fish species in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
