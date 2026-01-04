@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8041 days**.
 
-And here is a just a random fact -  **The Planters Peanut Company mascot, Mr. Peanut, was created during a contest for schoolchildren in 1916**.
+And here is a just a random fact -  **The oldest bird on record was Cocky, a cockatoo, who died in the London Zoo at the age of 82**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
