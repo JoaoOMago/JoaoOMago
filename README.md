@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8041 days**.
 
-And here is a just a random fact -  **Lake Malawi has the largest number of fish species in the world**.
+And here is a just a random fact -  **The Planters Peanut Company mascot, Mr. Peanut, was created during a contest for schoolchildren in 1916**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
