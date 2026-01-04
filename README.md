@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8042 days**.
 
-And here is a just a random fact -  **There was a book written fourteen years before the sinking of the Titanic happened titled "Futility" by Morgan Robertson. This book was remarkably similar to the tragedy that happened to the Titanic in 1912**.
+And here is a just a random fact -  **Everyday, more money is printed for Monopoly than the U.S. Treasury**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
