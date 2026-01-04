@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8042 days**.
 
-And here is a just a random fact -  **Wild turkeys can run at speeds of up to 25 miles per hour**.
+And here is a just a random fact -  **In the original movie "101 Dalmatians," there are exactly 6,469,952 spots on all 101 Dalmatians as they are shown in 113,760 frames of the film combined**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
