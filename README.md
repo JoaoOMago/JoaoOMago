@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8042 days**.
 
-And here is a just a random fact -  **The name of the first menthol cigarette in the United States was "Spud."**.
+And here is a just a random fact -  **An average person laughs about 15 times a day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
