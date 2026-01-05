@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8043 days**.
 
-And here is a just a random fact -  **The Sanskrit word for "war" means "desire for more cows."**.
+And here is a just a random fact -  **Some farmers in Japan have learned to grow their watermelons into a square shape. They did this to conserve shelf space**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
