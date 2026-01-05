@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8042 days**.
 
-And here is a just a random fact -  **The TV show Doctor Who, when it was popular, had an audience of 110 million people**.
+And here is a just a random fact -  **The eye of a human can distinguish 500 shades of the gray**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
