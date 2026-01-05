@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8043 days**.
 
-And here is a just a random fact -  **Atari had to bury millions of unsold "E.T." game cartridges in a New Mexico desert landfill in 1982**.
+And here is a just a random fact -  **Approximately 25% of all scald burns to children are from hot tap water and is associated with more deaths than with any other liquid**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
