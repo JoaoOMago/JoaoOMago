@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8043 days**.
 
-And here is a just a random fact -  **The tallest woman in the world is American Sandy Allen who is 7 feet 7 inches**.
+And here is a just a random fact -  **The three most valuable brand names on earth: Marlboro, Coca Cola, and Budweiser, in that order**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 06 Jan, 2026.</sub>
