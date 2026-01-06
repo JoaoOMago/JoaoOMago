@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8043 days**.
+Here is a random fact about me - I have been on this planet for **8044 days**.
 
-And here is a just a random fact -  **The Koala bear is not really a bear, but is really related to the kangaroo and the wombat.**.
+And here is a just a random fact -  **The reason why golf balls have dimples on them is because it helps in the ball to move a farther distance by reducing drag**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
