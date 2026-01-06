@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8044 days**.
 
-And here is a just a random fact -  **NASDAQ stand for, "National Association of Securities Dealers Automated Quotations."**.
+And here is a just a random fact -  **Approximately 87% of dog owners say that when they watch T.V. their dog curls up beside them or at their feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
