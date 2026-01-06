@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8044 days**.
 
-And here is a just a random fact -  **Baskin Robbins plain vanilla ice cream is the number one selling flavour and accounts for a quarter of their sales**.
+And here is a just a random fact -  **The average medium size piano has about 230 strings**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
