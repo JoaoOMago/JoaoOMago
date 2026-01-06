@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8044 days**.
 
-And here is a just a random fact -  **In New York City, approximately 1,600 people are bitten by other humans annually**.
+And here is a just a random fact -  **500,000 tons of dog excrement are dumped annually on the streets of Paris**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
