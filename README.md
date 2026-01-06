@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8044 days**.
 
-And here is a just a random fact -  **Bo Jackson set a Monday Night Football record by rushing for 222 yards in one game against the Seattle Seahawks, including a 91-yard TD run**.
+And here is a just a random fact -  **In America, approximately 25% of kids aged 6-14 have a magaznie subscription**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
