@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8044 days**.
 
-And here is a just a random fact -  **Wild turkeys can run at speeds of up to 25 miles per hour**.
+And here is a just a random fact -  **Eating eight strawberries will provide you with more Vitamin C than an orange**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
