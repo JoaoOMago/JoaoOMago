@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8044 days**.
 
-And here is a just a random fact -  **Pepsi originally contained pepsin, (the same stuff in pepcid AC) thus the name**.
+And here is a just a random fact -  **In L.A., U.S.A., a man may legally beat his wife with a leather strap, as long as it is less than 2 inches wide**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
