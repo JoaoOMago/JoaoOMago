@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8044 days**.
 
-And here is a just a random fact -  **Dogs can be trained to detect an upcoming epileptic seizure**.
+And here is a just a random fact -  **The Eisenhower interstate system requires that one-mile in every five must be straight. These straight sections are usable as airstrips in times of war or other emergencies**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 06 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 07 Jan, 2026.</sub>
