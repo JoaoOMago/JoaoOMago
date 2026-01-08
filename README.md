@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8046 days**.
 
-And here is a just a random fact -  **Kiwis are the only known bird to have nostrils located at the tip of their beak**.
+And here is a just a random fact -  **In the Netherlands, there are special traffic lanes for bicycles. There are approximately 17,000 kms of cycle lanes with special bicycle traffic lights.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
