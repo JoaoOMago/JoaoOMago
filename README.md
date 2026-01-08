@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8046 days**.
 
-And here is a just a random fact -  **The only two days of the year in which there are no professional sportsgames (MLB, NBA, NHL, or NFL) are the day before and the day after theMajorLeague All-Star Game.**.
+And here is a just a random fact -  **In Italy, Santa Claus is known by the name Babbo Natale**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
