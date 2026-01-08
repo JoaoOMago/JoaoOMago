@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8045 days**.
+Here is a random fact about me - I have been on this planet for **8046 days**.
 
-And here is a just a random fact -  **Rats can survive up to 14 days without any food**.
+And here is a just a random fact -  **Kiwis are the only known bird to have nostrils located at the tip of their beak**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
