@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8046 days**.
 
-And here is a just a random fact -  **The Central African raffia palm is known to have the longest leaves. The leaves can measure up to 82.5 feet long.**.
+And here is a just a random fact -  **During a typical human life span, the human heart will beat approximately 2.5 billion times**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
