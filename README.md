@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8046 days**.
 
-And here is a just a random fact -  **Gases that build up in your large intestine cause flatulence. It usually takes about 30 to 45 minutes for these gases to pass through your system**.
+And here is a just a random fact -  **The 1988 move "Big" which was directed by Penny Marshall was the first movie by a female director to gross over $100 million domestically**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
