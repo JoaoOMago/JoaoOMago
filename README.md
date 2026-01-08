@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8046 days**.
 
-And here is a just a random fact -  **Antarctica is the only land on our planet that is not owned by any country**.
+And here is a just a random fact -  **In 1980, there was only one country in the world with no telephones - Bhutan**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
