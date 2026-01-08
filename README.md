@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8046 days**.
 
-And here is a just a random fact -  **Ironically, watermelons, which are 92% water, originated from the Kalahari Desert in Africa**.
+And here is a just a random fact -  **Over 250 million Slinky toys have been sold since its debut in 1946**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
