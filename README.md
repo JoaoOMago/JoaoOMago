@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8045 days**.
 
-And here is a just a random fact -  **Even if you eat food standing on your head, the food will still end up in your stomach**.
+And here is a just a random fact -  **TYPEWRITER, is one of the longest words that can be made using the letters only one row of the keyboard**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
