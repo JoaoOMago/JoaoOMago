@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8047 days**.
 
-And here is a just a random fact -  **Maine is the only state whose name is just one syllable**.
+And here is a just a random fact -  **Cows can detect odors up to five miles away**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
