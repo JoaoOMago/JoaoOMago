@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8047 days**.
 
-And here is a just a random fact -  **An orca whale can hold its breath for up to 15 minutes**.
+And here is a just a random fact -  **More than 100 professional cyclists participate in the Tour de France every year and the race is over 3,200 kilometers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
