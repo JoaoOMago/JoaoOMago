@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8047 days**.
 
-And here is a just a random fact -  **In 1832, in Paisley, Scotland the first municipal water filtration works was opened**.
+And here is a just a random fact -  **When the female grasshopper lays eggs, she covers her eggs with a pasty liquid that protects the eggs throughout the winter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
