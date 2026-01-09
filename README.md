@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8046 days**.
 
-And here is a just a random fact -  **Baby robins eat 14 feet of earthworms every day**.
+And here is a just a random fact -  **In Japan, by the time man reaches the age of 60, he is commemorated with a special ceremony. This ceremony features the man wearing a red kimono, which denotes that he no longer has the responsibilities of being a mature adult**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 08 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 09 Jan, 2026.</sub>
