@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8046 days**.
+Here is a random fact about me - I have been on this planet for **8047 days**.
 
-And here is a just a random fact -  **There are approximately 75,000,000 horses in the world**.
+And here is a just a random fact -  **The town of Olney, Illinois celebrates a "Squirrel Day" festival to honour the 200 albino squirrels that live in the town. The festival includes a squirrel blessing by a priest**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
