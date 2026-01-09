@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8046 days**.
 
-And here is a just a random fact -  **It was during World War II that clothes with elastic waists were introduced. This is because the metal used in zippers was badly needed for the war**.
+And here is a just a random fact -  **Germany produces more than 5,000 varieties of beer and has about 1,300 breweries in country**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
