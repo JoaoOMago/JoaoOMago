@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8048 days**.
 
-And here is a just a random fact -  **Native Indians have been known to paint their doors blue, which they believe keeps the bad spirits out**.
+And here is a just a random fact -  **American President Calvin Coolidge (1923-1929) used to like Vaseline being rubbed on his head while he ate breakfast in bed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
