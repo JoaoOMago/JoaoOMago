@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8048 days**.
 
-And here is a just a random fact -  **Approximately 850 peanuts make a 18 oz jar of peanut butter**.
+And here is a just a random fact -  **Basketball great Wilt Chamberlain never fouled out of a game**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
