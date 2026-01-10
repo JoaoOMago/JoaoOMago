@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8048 days**.
 
-And here is a just a random fact -  **The act of stretching and yawning is referred to as pandiculation**.
+And here is a just a random fact -  **William Taft who was the U.S. president between 1909-1913 once got stuck in the White House bathtub**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
