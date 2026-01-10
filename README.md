@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8047 days**.
 
-And here is a just a random fact -  **In 10 minutes, a hurricane releases more energy than all the world'snuclear weapons combined.**.
+And here is a just a random fact -  **The Kraft company produces enough Cool Whip, a brand of whipping cream, in one year to fill the entire Grand Canyon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 09 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 10 Jan, 2026.</sub>
