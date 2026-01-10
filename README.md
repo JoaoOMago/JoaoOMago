@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8048 days**.
 
-And here is a just a random fact -  **Male rabbits are called "bucks," females are "does."**.
+And here is a just a random fact -  **The word vaccine comes from the Latin word "vacca," which means cow. This name was chosen beacause the first vaccination was derived from cowpox which was given to a boy**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
