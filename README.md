@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8048 days**.
 
-And here is a just a random fact -  **In 1976, fourteen banks merged to form a bank credit card called "Mastercharge." This was later renamed to what is now know as "Mastercard."**.
+And here is a just a random fact -  **American novelist Mark Twain was the first known author to submit a typed manuscript**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
