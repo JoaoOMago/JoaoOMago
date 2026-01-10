@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8047 days**.
 
-And here is a just a random fact -  **Amish people do not believe in the use of aerosal air fresheners**.
+And here is a just a random fact -  **Another name for licorice is "Sweet Wood" or "Spanish Juice."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
