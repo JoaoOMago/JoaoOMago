@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8049 days**.
 
-And here is a just a random fact -  **When a polar bear cub is born, it can not see or hear. It takes approximately a month for the cub to start to see and hear**.
+And here is a just a random fact -  **A cockroach can change directions up to 25 times in a second**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
