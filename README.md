@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8048 days**.
 
-And here is a just a random fact -  **The most frequent season for most suicides to occur is in the spring. The winter months have the lowest number of suicides**.
+And here is a just a random fact -  **The Super Bowl is so popular that it is the number on at-home party event of the year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
