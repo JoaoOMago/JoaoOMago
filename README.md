@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8048 days**.
+Here is a random fact about me - I have been on this planet for **8049 days**.
 
-And here is a just a random fact -  **The Super Bowl is so popular that it is the number on at-home party event of the year**.
+And here is a just a random fact -  **Many people in parts of China eat insects. Some common insects are bean worms, scoprions, and locusts**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
