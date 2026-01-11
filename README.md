@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8049 days**.
 
-And here is a just a random fact -  **The first lighthouse built in the USA was in Boston, MA in 1716**.
+And here is a just a random fact -  **The sport Lacrosse was initially played by Native American Indians. They played the sport to prepare for war**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
