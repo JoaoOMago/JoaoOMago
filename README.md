@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8049 days**.
 
-And here is a just a random fact -  **Every second, 8000 Coca-Cola Company products are consumed in the world**.
+And here is a just a random fact -  **On average 1,668 gallons of water are used by each person in the United States daily**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
