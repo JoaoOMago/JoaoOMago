@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8048 days**.
 
-And here is a just a random fact -  **Thirty to 40 gallons of sugar maple sap must be boiled down to make just one gallon of maple syrup**.
+And here is a just a random fact -  **A sheep, a duck, and a rooster were the first passengers in a hot air balloon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
