@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8049 days**.
 
-And here is a just a random fact -  **Bhutan issued a stamp in 1973 that looked like a record and actually would play the Bhutanese national anthem if placed on a record player**.
+And here is a just a random fact -  **Kellogg?s started selling their most famous product, Corn Flakes, in 1906**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
