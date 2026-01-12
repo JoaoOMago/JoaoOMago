@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8049 days**.
 
-And here is a just a random fact -  **Kellogg?s started selling their most famous product, Corn Flakes, in 1906**.
+And here is a just a random fact -  **The majority of American models are skinnier than 98% of American women**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
