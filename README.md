@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8050 days**.
 
-And here is a just a random fact -  **The more a person struggles to get out of quicksand the faster they will sink. Staying still, and being calm will actually make the body float in the quicksand because the body is less dense than the quicksand is**.
+And here is a just a random fact -  **Frog-eating bats identify edible frogs from poisonous ones by listening to the mating calls of male frogs. Frogs counter this by hiding and using short, difficult to locate calls**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
