@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8050 days**.
 
-And here is a just a random fact -  **Arnold Palmer was the first player to win $1 million on the PGA Tour**.
+And here is a just a random fact -  **Cheetahs are the fastest land animal and can reach speeds up to 72mph**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
