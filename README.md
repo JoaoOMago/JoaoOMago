@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8049 days**.
 
-And here is a just a random fact -  **In America, the most common mental illness is Anxiety Disorders**.
+And here is a just a random fact -  **Natural gas does not have any odor. In order to detect a gas leak, some gas companies add a chemical that smells similar like rotten eggs.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
