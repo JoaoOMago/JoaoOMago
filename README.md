@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8051 days**.
 
-And here is a just a random fact -  **The Hundred Years War lasted for 116 years**.
+And here is a just a random fact -  **In 1955, only 330 Volkswagen Beetle's were sold at a price of $1800 each in the United States.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
