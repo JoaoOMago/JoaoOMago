@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8051 days**.
 
-And here is a just a random fact -  **In the United States, the most frequent month for a tornado to occur is in May.**.
+And here is a just a random fact -  **After twenty-seven years, Betty Rubble made her debut as a Flintstones Vitamin in 1996**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
