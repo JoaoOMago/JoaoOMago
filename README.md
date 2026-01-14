@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8052 days**.
 
-And here is a just a random fact -  **The Nobel prize was first awarded in 1901**.
+And here is a just a random fact -  **Reptiles do not perspire, and do not have any oil glands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
