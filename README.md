@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8051 days**.
+Here is a random fact about me - I have been on this planet for **8052 days**.
 
-And here is a just a random fact -  **Not all polar bears hibernate; only pregnant females polar bears do**.
+And here is a just a random fact -  **After the Krakatoa volcano eruption in 1883 in Indonesia, many people reported that, because of the dust, the sunset appeared green and the moon blue. The moon was said to appear blue for almost two years.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
