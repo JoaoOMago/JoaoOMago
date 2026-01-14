@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8052 days**.
 
-And here is a just a random fact -  **In the Pacific Islands when people get burns they often use a banana leaf as treatment**.
+And here is a just a random fact -  **In Hong Kong, delivery times are primarily influenced by traffic conditions on elevators. It often takes drivers longer to travel vertically than horizontally, as access to elevators is so congested during "high peak" hours. This is due to the volume of people residing in high rises**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
