@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8052 days**.
 
-And here is a just a random fact -  **Bamboo plants can grow up to 36 inches in a day.**.
+And here is a just a random fact -  **In the Pacific Islands when people get burns they often use a banana leaf as treatment**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
