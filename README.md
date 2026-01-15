@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8053 days**.
 
-And here is a just a random fact -  **The tallest freestanding sculpture in the world is Chief Crazy Horse in South Dakota, USA**.
+And here is a just a random fact -  **Levan, which is located in Utah, got its name from "navel" which is levan spelt backwards. It was named this because it is in the center of Utah**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
