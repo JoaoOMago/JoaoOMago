@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8053 days**.
 
-And here is a just a random fact -  **The first box of Crayola that was ever sold had the same eight colours that are sold in the box today consisting of red, blue, yellow, green, violet, orange, black and brown. The box was sold for a nickel in 1903**.
+And here is a just a random fact -  **Central Park located in New York has 125 drinking fountains**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
