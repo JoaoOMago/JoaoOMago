@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8052 days**.
 
-And here is a just a random fact -  **In 1998, approximately 1.6 billion tree seedlings were planted in the United States. This amounts to about five trees per American**.
+And here is a just a random fact -  **The word "dexterity", to do with skill is related to the right hand. The opposite of the word "deter" is "sinister", to do with evil, it is related to the left hand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
