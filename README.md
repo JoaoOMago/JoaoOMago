@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8053 days**.
 
-And here is a just a random fact -  **There is enough concrete in the Hoover Dam to pave a two lane highway from San Francisco to New York**.
+And here is a just a random fact -  **The world record for donut eating is held by John Haight, who ate 29 donuts (52 ounces) in a little over six minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
