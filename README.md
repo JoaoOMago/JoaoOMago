@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8052 days**.
 
-And here is a just a random fact -  **To make butter more attractive in colour, carrot juice was used by people in the Middle Ages**.
+And here is a just a random fact -  **Babies that are exposed to cats and dogs in their first year of life have a lower chance of developing allergies when they grow older**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
