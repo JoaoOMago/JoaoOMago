@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8054 days**.
 
-And here is a just a random fact -  **A regulation baseball has exactly 108 stitches**.
+And here is a just a random fact -  **A sneeze can travel as fast as one hundred miles per hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
