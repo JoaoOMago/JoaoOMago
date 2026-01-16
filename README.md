@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8054 days**.
 
-And here is a just a random fact -  **In 1893, the first mosque in the United States was built**.
+And here is a just a random fact -  **The CN Tower, in Toronto, is the tallest freestanding structure in the world with a height of about 553 metres**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
