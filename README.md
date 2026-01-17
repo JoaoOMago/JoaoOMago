@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8055 days**.
 
-And here is a just a random fact -  **Honey is used sometimes for antifreeze mixtures and in the center of golf balls**.
+And here is a just a random fact -  **The first spacecraft to visit the planet Venus was Mariner 2 in 1962.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
