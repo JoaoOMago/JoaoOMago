@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8055 days**.
 
-And here is a just a random fact -  **A surfer once sued another surfer for "stealing his wave." The case was thrown out because the court was unable to put a price on "pain and suffering" endured by the surfer watching someone else ride "his" wave**.
+And here is a just a random fact -  **Alexandre Gustave Eiffel, the man who designed the Eiffel Tower, also designed the inner structure of the Statue of Liberty in New York Harbour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
