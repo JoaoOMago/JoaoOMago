@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8054 days**.
 
-And here is a just a random fact -  **The male praying mantis cannot copulate while its head is attached to its body. The female initiates sex by ripping the males head off**.
+And here is a just a random fact -  **Approximately 7.5% of all office documents get lost**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
