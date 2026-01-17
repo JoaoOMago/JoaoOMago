@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8055 days**.
 
-And here is a just a random fact -  **Lightning strikes the Empire States Building about seven times a year**.
+And here is a just a random fact -  **Canada is an Indian word meaning "village" or "settlement."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
