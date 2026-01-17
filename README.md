@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8054 days**.
 
-And here is a just a random fact -  **Baby donkeys or baby mules are also known as "Foals."**.
+And here is a just a random fact -  **Hydrogen solid is the most dense substance in the world, at 70.6g/cc**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 16 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 17 Jan, 2026.</sub>
