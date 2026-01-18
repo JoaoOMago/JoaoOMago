@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8056 days**.
 
-And here is a just a random fact -  **Totally Hair Barbie is the best selling Barbie of all time. It sold over ten million units**.
+And here is a just a random fact -  **Author Dr. Seuss wrote the book "Green Eggs and Ham" because the editor made him a bet that he could not write a book, which contained less than fifty words**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
