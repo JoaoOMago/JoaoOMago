@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8056 days**.
 
-And here is a just a random fact -  **Buffalo wings, got their name because the spicy chicken wings originated in Buffalo, New York**.
+And here is a just a random fact -  **An artificial Christmas tree last up to six years in a home**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
