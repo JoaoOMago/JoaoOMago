@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8055 days**.
+Here is a random fact about me - I have been on this planet for **8056 days**.
 
-And here is a just a random fact -  **Hippos can live up to 40 years in the wild**.
+And here is a just a random fact -  **Ed Cox from San Francisco invented the pot scrubbing S.O.S. pads in 1917. His wife came up with the name, which stands for "Save Our Saucepans."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
