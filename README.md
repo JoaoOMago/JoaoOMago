@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8055 days**.
 
-And here is a just a random fact -  **Constipation is caused when too much water is absorbed in the large intestine and the feces become dry**.
+And here is a just a random fact -  **In 1953, racecar driver Tim Flock raced at Nascar with a monkey in the seat beside him**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 17 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 18 Jan, 2026.</sub>
