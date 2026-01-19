@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8057 days**.
 
-And here is a just a random fact -  **Pineapples were first called "anana", which is Caribbean for "excellent fruit."**.
+And here is a just a random fact -  **The word "limelight" that is used in theatre to refer to the performers on the stage originated because before electricity was available lime was burned in a lamp, which created a white light that was directed at the performers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
