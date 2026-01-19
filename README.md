@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8057 days**.
 
-And here is a just a random fact -  **No NFL team which plays its home games in a domed stadium has ever won a Superbowl**.
+And here is a just a random fact -  **During World War II, the very first bomb dropped on Berlin by the Allies killed the only elephant in the Berlin Zoo**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
