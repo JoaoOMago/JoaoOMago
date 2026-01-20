@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8058 days**.
 
-And here is a just a random fact -  **The Arctic Tern, which is a small bird, can fly a round trip from the Arctic to the Antarctic and back. This can be as long as twenty thousand miles per year. This is the longest migration for a bird**.
+And here is a just a random fact -  **Unlike other four legged mammals, kangaroos cannot walk backwards**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
