@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8058 days**.
 
-And here is a just a random fact -  **The only king without a moustache in a deck of cards is the king of hearts**.
+And here is a just a random fact -  **Of all the restaurants that are opened, 90% of them fail in the first year. Of the remaining ones that survive, 90% of those fail in the second year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
