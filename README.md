@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8058 days**.
+Here is a random fact about me - I have been on this planet for **8059 days**.
 
-And here is a just a random fact -  **Charles Darwin spent 39 years studying earthworms**.
+And here is a just a random fact -  **Kissing can aid in reducing tooth decay. This is because the extra saliva helps in keeping the mouth clean**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
