@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8058 days**.
 
-And here is a just a random fact -  **The temperature of milk when it leaves the body of a cow is 101 degrees Fahrenheit. The milk is then quickly chilled and stored at a temperature of 40 degrees Fahrenheit**.
+And here is a just a random fact -  **Charles Darwin spent 39 years studying earthworms**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
