@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8058 days**.
 
-And here is a just a random fact -  **Whooping cranes are born with blue eyes that change to bright gold by the time they six months old**.
+And here is a just a random fact -  **A butterfly has to have a body temperature greater than 86 degrees to be able to fly**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
