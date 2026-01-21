@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8058 days**.
 
-And here is a just a random fact -  **Central Park located in New York has 125 drinking fountains**.
+And here is a just a random fact -  **The word "toy" comes from an old English word that means "tool."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
