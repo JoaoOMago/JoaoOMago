@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8060 days**.
 
-And here is a just a random fact -  **Over 100 million birds die annually by crashing into glass windows in the United States**.
+And here is a just a random fact -  **In approximately 18 months, the papaya tree can grow to be 20 feet tall**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
