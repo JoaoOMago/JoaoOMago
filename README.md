@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8059 days**.
 
-And here is a just a random fact -  **It takes the Hubble telescope about 97 minutes to complete an orbit of the Earth. On average, the Hubble uses the equivilent amount of energy as 30 household lightbulbs to complete an orbit.**.
+And here is a just a random fact -  **The longer white infants from low-income families are breast-fed, the less likely they will be overweight as young children, researchers said on Monday**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
