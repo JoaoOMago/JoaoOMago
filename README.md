@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8059 days**.
+Here is a random fact about me - I have been on this planet for **8060 days**.
 
-And here is a just a random fact -  **The rhinoceros beetle can carry up to 850 times its weight on its back. This is equivalent to a person carrying over 50 mini-vans on their back**.
+And here is a just a random fact -  **Hang On Sloopy is the official rock song of Ohio.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
