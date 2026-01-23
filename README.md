@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8060 days**.
 
-And here is a just a random fact -  **The Kraft company produces enough Cool Whip, a brand of whipping cream, in one year to fill the entire Grand Canyon**.
+And here is a just a random fact -  **There are two credit cards for every person in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
