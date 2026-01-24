@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8062 days**.
 
-And here is a just a random fact -  **An airplane mechanic invented Slinky while he was playing with engine parts and realized the possible secondary use for the springs. Barbie was invented by Ruth Handler after watching her daughter play with baby dolls imagining then in grown up roles**.
+And here is a just a random fact -  **A fetus starts to develop fingerprints at the age of eight weeks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
