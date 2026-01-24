@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8062 days**.
 
-And here is a just a random fact -  **A fetus starts to develop fingerprints at the age of eight weeks**.
+And here is a just a random fact -  **The sap of a banana plant leaves serious stains on hands and clothes that is extremely hard to remove**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
