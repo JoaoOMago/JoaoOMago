@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8063 days**.
 
-And here is a just a random fact -  **4% of an apples is made up of minerals and vitamins, and over 80% is made up of water**.
+And here is a just a random fact -  **False Bay, on the southern tip of Africa and close to Cape Town, South Africa, is a breeding ground for great white sharks, which feed off the thousands of seals in the bay. However, it is the only area in the known world in which these sharks are known to breach - they attack the seals by coming up vertically, often leaping clear of the water with their prey in their mouths**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
