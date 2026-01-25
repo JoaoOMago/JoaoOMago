@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8062 days**.
+Here is a random fact about me - I have been on this planet for **8063 days**.
 
-And here is a just a random fact -  **The Welwitschia plant can live up to 1,000 years**.
+And here is a just a random fact -  **Quality standards for pasta were set in the 13th century by the Pope**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
