@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8063 days**.
 
-And here is a just a random fact -  **Bats emit ultrasonic sounds to communicate with each other**.
+And here is a just a random fact -  **There is a law in the state of Idaho that does not permit one citizen to give another citizen a box of candy that is heavier than 50 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
