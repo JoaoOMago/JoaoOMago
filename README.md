@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8062 days**.
 
-And here is a just a random fact -  **There are over 2,000 different types of cheese in the world**.
+And here is a just a random fact -  **Eating parsley after eating an onion can help in getting rid of onion breath**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 25 Jan, 2026.</sub>
