@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8063 days**.
 
-And here is a just a random fact -  **James Bond is also known as Mr. Kiss-Kiss-Bang-Bang**.
+And here is a just a random fact -  **New Jersey has a spoon museum that has over 5,400 spoons from across the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
