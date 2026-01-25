@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8063 days**.
 
-And here is a just a random fact -  **Superman The Escape rollercoaster, located in California at Six Flags Magic Mountain, goes from 0 to 100 miles per hour in only 7 seconds**.
+And here is a just a random fact -  **Due to the deforestation of the forests in North China, over one million tons of sands blows into Beijing from the Gobi desert. It sometimes causes the sky to turn yellow.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
