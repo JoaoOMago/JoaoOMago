@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8063 days**.
 
-And here is a just a random fact -  **The country of Fiji is made up of 332 islands**.
+And here is a just a random fact -  **Corned beef got its name because this beef was preserved with pellets of salt that were the size of corn kernels, which was also referred to as "corns" of salt**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 26 Jan, 2026.</sub>
