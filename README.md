@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8065 days**.
 
-And here is a just a random fact -  **On average, 150 couples get married in Las Vegas each day**.
+And here is a just a random fact -  **Sheep can detect other sheep faces like humans do. They can remember up to 50 sheep faces**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
