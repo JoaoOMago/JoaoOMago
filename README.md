@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8064 days**.
 
-And here is a just a random fact -  **The puma and the leopard are the highest jumping mammals. They are able to reach a height of 16.5 feet**.
+And here is a just a random fact -  **The reason why bubbles are round is because this is the most efficient shape that the soap film can take for the amount of air trapped inside**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 27 Jan, 2026.</sub>
