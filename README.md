@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8066 days**.
 
-And here is a just a random fact -  **Jackrabbits can reach a speed of fifty miles per hour and can leap as far as twenty feet**.
+And here is a just a random fact -  **Oscar Wilde and his friends came up the with the word "dude." It came from the words "duds" and "attitude."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
