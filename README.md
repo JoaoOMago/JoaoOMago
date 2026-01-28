@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8066 days**.
 
-And here is a just a random fact -  **Each year the Pentagon estimates their computer network is hacked about 250,000 times annually**.
+And here is a just a random fact -  **Twelve men have landed on and explored the moon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
