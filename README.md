@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8067 days**.
 
-And here is a just a random fact -  **The length of brink of the Canadian "Horseshoe" Falls located in Niagara Falls, Ontario, Canada is 2600 feet**.
+And here is a just a random fact -  **There is a doggy disco held in Italy every year where owners can dance with their dogs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
