@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8067 days**.
 
-And here is a just a random fact -  **Over 90% of poison exposures occur in homes**.
+And here is a just a random fact -  **The American Airlines Center in Dallas has more toilets per capita than any other sports and entertainment venue in the country**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
