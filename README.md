@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8067 days**.
 
-And here is a just a random fact -  **The United States Mint once considered producing donut-shaped coins.**.
+And here is a just a random fact -  **The length of brink of the Canadian "Horseshoe" Falls located in Niagara Falls, Ontario, Canada is 2600 feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
