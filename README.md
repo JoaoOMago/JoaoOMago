@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8068 days**.
+Here is a random fact about me - I have been on this planet for **8069 days**.
 
-And here is a just a random fact -  **During the female orgasm, endorphines are released, which are powerful painkillers. So headaches are in fact a bad excuse not to have sex**.
+And here is a just a random fact -  **The reason why the Mexican sombrero hat is so wide is to provide shade for the entire body**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
