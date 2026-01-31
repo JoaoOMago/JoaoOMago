@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8069 days**.
 
-And here is a just a random fact -  **There are an equivalent number of cows and people in Friesland, Netherlands**.
+And here is a just a random fact -  **A group of crows is called a murder**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
