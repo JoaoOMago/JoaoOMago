@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8068 days**.
 
-And here is a just a random fact -  **Marie Curie, the Nobel prize winning scientist who discovered radium, died of radiation poisoning**.
+And here is a just a random fact -  **The airplane Buddy Holly died in was the "American Pie." (Thus the nameof the Don McLean song.)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 31 Jan, 2026.</sub>
