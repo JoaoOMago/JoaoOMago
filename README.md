@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8069 days**.
 
-And here is a just a random fact -  **A one kilogram packet of sugar will have about 5 million grains of sugar**.
+And here is a just a random fact -  **There are an average of 178 sesame seeds on a McDonald's Big Mac bun.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
