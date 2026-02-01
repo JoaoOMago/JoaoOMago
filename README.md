@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8069 days**.
 
-And here is a just a random fact -  **The game rugby was originated at Rugby school located in England in 1823. This happened when William Webb Ellis, while playing soccer, picked the ball up in his hands and started running with it**.
+And here is a just a random fact -  **In Johannesburg, the average car will be involved in an accident once every four years.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
