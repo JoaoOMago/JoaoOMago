@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8070 days**.
 
-And here is a just a random fact -  **The largest apple pie ever baked was forty by twenty three feet**.
+And here is a just a random fact -  **Elvis Presley was obsessed with brushing his teeth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
