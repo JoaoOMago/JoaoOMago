@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8070 days**.
 
-And here is a just a random fact -  **A group of crows is called a murder**.
+And here is a just a random fact -  **An average driver spends approximately 2 hours and 14 minutes kissing in their car in a lifetime**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
