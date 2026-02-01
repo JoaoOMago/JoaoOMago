@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8070 days**.
 
-And here is a just a random fact -  **Jim Bristoe, an American, invented a 30-foot-long, 2-ton pumpkin cannon that can fire pumpkins up to five miles.**.
+And here is a just a random fact -  **Constipation is caused when too much water is absorbed in the large intestine and the feces become dry**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
