@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8069 days**.
 
-And here is a just a random fact -  **Dentyne gum was invented in 1899 by a druggist from New York named Franklin V. Canning**.
+And here is a just a random fact -  **Irish Wolfhound dogs have a short lifespan and live about 7-8 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 31 Jan, 2026.</sub>
+<sub>Last updated by Github Actions on 01 Feb, 2026.</sub>
