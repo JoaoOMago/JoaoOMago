@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8070 days**.
+Here is a random fact about me - I have been on this planet for **8071 days**.
 
-And here is a just a random fact -  **January is named for the Roman god Janus. Janus was a temple god who could look forward and backward at the same time**.
+And here is a just a random fact -  **The reason the soft drink Dr Pepper is called that is because the inventor Wade Morrison named it after Dr. Charles Pepper who had given him his first job**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
