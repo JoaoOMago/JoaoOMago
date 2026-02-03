@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8071 days**.
+Here is a random fact about me - I have been on this planet for **8072 days**.
 
-And here is a just a random fact -  **Every single hamster in the United States today comes from a single litter captured in Syria in 1930**.
+And here is a just a random fact -  **On November 29, 2000, Pope John Paul II was named an "Honorary Harlem Globetrotter."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
