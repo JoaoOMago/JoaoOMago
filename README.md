@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8071 days**.
 
-And here is a just a random fact -  **The highest bridge in the world is located in the Himalyan mountains. It was built by the Indian Army, in 1982, and is about 5,600 metres above sea level**.
+And here is a just a random fact -  **On average, 100 people choke to death on ballpoint pens every year.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 02 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 03 Feb, 2026.</sub>
