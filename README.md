@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8072 days**.
 
-And here is a just a random fact -  **The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns**.
+And here is a just a random fact -  **Other than London, Liverpool is the most filmed British city, and was used to film more than 140 films in 2002**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
