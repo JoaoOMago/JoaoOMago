@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8071 days**.
 
-And here is a just a random fact -  **Many cancer patients that are treated with chemotherapy lose their hair. For some when the hair grows back, it can grow back a different colour, or be curly or straight**.
+And here is a just a random fact -  **Ancient Romans at one time used human urine as an ingredient in their toothpaste**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
