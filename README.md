@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8073 days**.
 
-And here is a just a random fact -  **In France, the Big Dipper is called the "casserole."**.
+And here is a just a random fact -  **Some African tribes refer to themselves as "motherhoods" instead of families**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
