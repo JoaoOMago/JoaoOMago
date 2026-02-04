@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8072 days**.
 
-And here is a just a random fact -  **As an iceberg melts, it makes a fizzing sound because of the compressed air bubbles popping in the ice**.
+And here is a just a random fact -  **There is a Harley-Davidson that was designed as an exact replica of a hamburger**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 04 Feb, 2026.</sub>
