@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8073 days**.
 
-And here is a just a random fact -  **At one time, pumpkins were recommended for removing freckles**.
+And here is a just a random fact -  **The strongest gust of wind was recorded at the Mount Washington Observatory on April 12th, 1934, and measured 231 miles per hour.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
