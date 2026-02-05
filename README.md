@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8074 days**.
 
-And here is a just a random fact -  **In the United States, six tubs of Cool Whip, a brand of whipping cream, are sold every second**.
+And here is a just a random fact -  **Children grow faster in the springtime than any other season during the year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
