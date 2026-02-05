@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8074 days**.
 
-And here is a just a random fact -  **Donkeys kill more people annually than plane crashes**.
+And here is a just a random fact -  **In 1982, a cactus in Phoenix, Arizona killed a man. David Grundman fired two shotgun blasts at a giant saguaro cactus that ended up falling on top of him**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
