@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8074 days**.
 
-And here is a just a random fact -  **American actor Jack Nicholson, and American singer Bobby Darrin were raised believing their grandmothers were their mothers and their mothers were their older sisters**.
+And here is a just a random fact -  **On April 4, 1974, John Massis of Belgium pulled two New York Long Island railroad passenger cars totaling 80 tons with a thick rope, with a small bit attached, using only his teeth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
