@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8074 days**.
 
-And here is a just a random fact -  **Popeye is 34 years old, weighs 158 lbs, and is 5 feet 6 inches tall**.
+And here is a just a random fact -  **American actor Jack Nicholson, and American singer Bobby Darrin were raised believing their grandmothers were their mothers and their mothers were their older sisters**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
