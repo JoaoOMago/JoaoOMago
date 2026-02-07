@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8075 days**.
 
-And here is a just a random fact -  **When the are in danger, kangaroos will beat the ground loudly with their hind feet**.
+And here is a just a random fact -  **After twenty-seven years, Betty Rubble made her debut as a Flintstones Vitamin in 1996**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 06 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 07 Feb, 2026.</sub>
