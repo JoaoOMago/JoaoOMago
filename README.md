@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8075 days**.
+Here is a random fact about me - I have been on this planet for **8076 days**.
 
-And here is a just a random fact -  **Clans of long ago that wanted to get rid of their unwanted peoplewithout killing them used to burn their houses down - hence theexpression "toget fired."**.
+And here is a just a random fact -  **At one time the group "Grateful Dead" were called "The Warlocks."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
