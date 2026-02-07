@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8076 days**.
 
-And here is a just a random fact -  **Archeologists report that cannabis was most likely the first plant cultivated by humans. Cannabis was used for linen, paper, and garments**.
+And here is a just a random fact -  **People from the United States eat the most chicken per person than anywhere else in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
