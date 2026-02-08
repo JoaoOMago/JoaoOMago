@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8076 days**.
 
-And here is a just a random fact -  **On average, it is estimated that females injure themselves ten time more than males do while playing sports**.
+And here is a just a random fact -  **In 1926, a waiter in Budapest committed suicide. He left his suicide note in the form of a crossword and the police had to get help from the public to solve it**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
