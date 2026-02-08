@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8077 days**.
 
-And here is a just a random fact -  **Roman emperors ate flamingo tongues which were considered a delicacy. Also parrotfish livers, and pheasant brains were feasted on**.
+And here is a just a random fact -  **There are more Subway restaurants in Canada than there are McDonald restaurants**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
