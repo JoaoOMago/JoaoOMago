@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8077 days**.
 
-And here is a just a random fact -  **The YKK that you see on zippers stands for Yoshida Kogyo Kabushiki Kaisha which is the name of the founder of the zipper manufacturing company in Japan**.
+And here is a just a random fact -  **Asparagus comes in three colors: green, white and purple**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
