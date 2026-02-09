@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8077 days**.
 
-And here is a just a random fact -  **The largest dog in the world is the Irish Wolfhound**.
+And here is a just a random fact -  **In Japan, tipping at restaurants is not a norm. However, some restaurants might add a 5 - 10 % service charge to the bill**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 08 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 09 Feb, 2026.</sub>
