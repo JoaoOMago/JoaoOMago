@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8078 days**.
 
-And here is a just a random fact -  **Approximately 40% of the U.S. paper currency in circulation was counterfeit by the end of the Civil War**.
+And here is a just a random fact -  **There is a dog museum in St. Louis, Missouri**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
