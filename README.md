@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8079 days**.
 
-And here is a just a random fact -  **Not all polar bears hibernate; only pregnant females polar bears do**.
+And here is a just a random fact -  **Over 50% of lottery players go back to work after winning the jackpot**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
