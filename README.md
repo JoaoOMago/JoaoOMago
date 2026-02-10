@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8079 days**.
 
-And here is a just a random fact -  **The best selling game in history for coin-operated machines is Pac-Man**.
+And here is a just a random fact -  **American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first class**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
