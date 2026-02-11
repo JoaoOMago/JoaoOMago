@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8080 days**.
 
-And here is a just a random fact -  **Corn Flakes were invented after Will Keith Kellogg and his brother Dr. John Harvey Kellogg set about developing a nutritious cereal for the patients of a health resort in 1890**.
+And here is a just a random fact -  **The Food and Drug Administration says the most common injury from cosmetics comes from scratching the eye with a mascara wand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
