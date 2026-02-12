@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8081 days**.
 
-And here is a just a random fact -  **Researchers have shot footage of Orcas (killer whales) attacking and killing great white sharks**.
+And here is a just a random fact -  **The mating call of a male toadfish, who are underwater, is so loud that it can be heard by humans above water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
