@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8081 days**.
 
-And here is a just a random fact -  **Initially golf balls were made out of wood. After that they were made out of leather which was stuffed with feathers**.
+And here is a just a random fact -  **The Roman emperor Commodus was at one time going to change the name of Rome to Colonia Commodiana**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
