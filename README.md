@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8081 days**.
 
-And here is a just a random fact -  **Asthma affects one in fifteen children under the age of eighteen**.
+And here is a just a random fact -  **Walt Disney holds the record for the most Oscar nominations with sixty-four**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
