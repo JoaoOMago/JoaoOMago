@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8081 days**.
 
-And here is a just a random fact -  **Oak trees do not produce acorns until they are fifty years of age or older**.
+And here is a just a random fact -  **There are approximately 9,000 taste buds on the tongue**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
