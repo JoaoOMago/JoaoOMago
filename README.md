@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8081 days**.
+Here is a random fact about me - I have been on this planet for **8082 days**.
 
-And here is a just a random fact -  **Mickey Mouse is known as "Topolino" in Italy**.
+And here is a just a random fact -  **Valentina Tereshkova was the first woman to enter space. She spent three days in space and completed forty-eight orbits of Earth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
