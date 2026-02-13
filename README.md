@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8081 days**.
 
-And here is a just a random fact -  **The mating call of a male toadfish, who are underwater, is so loud that it can be heard by humans above water**.
+And here is a just a random fact -  **A one ounce milk chocolate bar has 6 mg of caffeine**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 13 Feb, 2026.</sub>
