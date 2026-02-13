@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8082 days**.
 
-And here is a just a random fact -  **Pancakes are served for breakfast, lunch and dinner in Australia**.
+And here is a just a random fact -  **There are more than 50 different types of pumpkins. Some of them have names such as Munchkin, Funny Face, and Spooktacular**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
