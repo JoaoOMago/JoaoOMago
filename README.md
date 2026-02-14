@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8083 days**.
 
-And here is a just a random fact -  **The first flavour of a cheese ball was called "Cheddy Blue."**.
+And here is a just a random fact -  **Before toilet paper was invented, French royalty wiped their bottoms with fine linen**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
