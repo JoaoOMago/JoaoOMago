@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8082 days**.
+Here is a random fact about me - I have been on this planet for **8083 days**.
 
-And here is a just a random fact -  **The city of Nottingham in England was the first city to have Braille signs (signs for the blind) in its shopping malls for the blind**.
+And here is a just a random fact -  **The most expensive shoes in the world are ruby slippers located in Harrods in London, which cost $1.6 million, has a full time security guard. The shoes are made from platinum thread and has 642 rubies in them. It took over 700 hours to produce the shoe**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
