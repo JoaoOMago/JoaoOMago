@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8082 days**.
 
-And here is a just a random fact -  **An average home creates more pollution than does the average car**.
+And here is a just a random fact -  **"Go." is the shortest complete sentence in the English language**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 13 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 14 Feb, 2026.</sub>
