@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8083 days**.
 
-And here is a just a random fact -  **Forty-one percent of women apply body and hand moisturizer at least three times a day**.
+And here is a just a random fact -  **The word "umbrella" is derived from the Latin root word "umbra", which means shade or shadow**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
