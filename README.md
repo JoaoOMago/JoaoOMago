@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8082 days**.
 
-And here is a just a random fact -  **Iceland consumes more Coca-Cola per capita than any other nation**.
+And here is a just a random fact -  **Oak trees do not produce acorns until they are fifty years of age or older**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
