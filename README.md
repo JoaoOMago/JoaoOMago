@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8083 days**.
 
-And here is a just a random fact -  **The hormone replacement drug "Premarin" is made from the urine of pregnant horses**.
+And here is a just a random fact -  **The first flavour of a cheese ball was called "Cheddy Blue."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
