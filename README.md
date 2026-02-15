@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8083 days**.
+Here is a random fact about me - I have been on this planet for **8084 days**.
 
-And here is a just a random fact -  **Chances of a women getting breast cancer are increased by excesseive use of alcohol**.
+And here is a just a random fact -  **The desert tortoise can live without having to drink any water. It extracts the water it needs from the vegetation it eats**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
