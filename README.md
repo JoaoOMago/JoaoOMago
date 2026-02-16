@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8084 days**.
 
-And here is a just a random fact -  **The first American president to deliver a speech over the radio was Warren G. Harding**.
+And here is a just a random fact -  **The 20th president of the United States James Garfield could write Greek with one hand and Latin with the other at the same time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 15 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 16 Feb, 2026.</sub>
