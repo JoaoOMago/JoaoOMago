@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8084 days**.
+Here is a random fact about me - I have been on this planet for **8085 days**.
 
-And here is a just a random fact -  **The Taj Mahal, located in Agra, India, was actually built for use as a tomb by Mogul ruler Shah Jehan for his wife, Arjuman Banu Begum**.
+And here is a just a random fact -  **A man filed a lawsuit against his doctor because he survived longer than what the doctor had predicted**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
