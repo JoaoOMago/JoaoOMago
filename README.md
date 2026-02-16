@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8084 days**.
 
-And here is a just a random fact -  **The 20th president of the United States James Garfield could write Greek with one hand and Latin with the other at the same time**.
+And here is a just a random fact -  **The word Nike comes from Greek Mythology. Nike is the goddess of victory and was often depicted as a small winged figure whom the goddess Athene carried**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
