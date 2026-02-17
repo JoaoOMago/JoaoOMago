@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8085 days**.
 
-And here is a just a random fact -  **The longest fangs of a snake are found on the Gaboon Viper (Bitis gabonica), and can reach over 2 inches in length**.
+And here is a just a random fact -  **In 1992, approximately 750 deaths occurred in the United States due to workplace violence**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 16 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 17 Feb, 2026.</sub>
