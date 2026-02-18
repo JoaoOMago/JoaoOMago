@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8087 days**.
 
-And here is a just a random fact -  **A species of dolphin is born naturally blind in the Indus and Ganges rivers in South Asia. These dolphins have a highly sophisticated sonar system and swim on only one side of their body**.
+And here is a just a random fact -  **The reason why hair turns gray as we age is because the pigment cells in the hair follicle start to die, which is responsible for producing "melanin" which gives the hair colour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
