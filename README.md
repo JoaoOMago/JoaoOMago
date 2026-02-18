@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8086 days**.
 
-And here is a just a random fact -  **On average, a typical dairy cow lies down and stands up about 14 times a day**.
+And here is a just a random fact -  **The dumbest dog in the world is the Afghan Hounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
