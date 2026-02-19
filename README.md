@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8087 days**.
+Here is a random fact about me - I have been on this planet for **8088 days**.
 
-And here is a just a random fact -  **Scientists with high-speed cameras have discovered that rain drops are not tear shaped but rather look like hamburger buns.**.
+And here is a just a random fact -  **The feet have approximately 250,000 sweat glands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
