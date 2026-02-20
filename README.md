@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8089 days**.
 
-And here is a just a random fact -  **Mr. Butts invented the game SCRABBLE. The game was originally called "Criss Cross Words."**.
+And here is a just a random fact -  **Penguins can jump as high as 6 feet in the air**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
