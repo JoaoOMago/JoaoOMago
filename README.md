@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8090 days**.
 
-And here is a just a random fact -  **To manufacture a new car approximately 148,000 liters of water is needed.**.
+And here is a just a random fact -  **The revenue that is generated from gambling is more than the revenue that comes from movies, cruise ships, recorded music, theme parks, and spectator sports combined**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
