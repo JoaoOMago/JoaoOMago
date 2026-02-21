@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8090 days**.
 
-And here is a just a random fact -  **In 1988, the largest ice cream sundae in history was made. It was made in Edmonton, Alberta, Canada, and weighed in at over 24 tons**.
+And here is a just a random fact -  **The most common injury caused by cosmetics is to the eye by a mascara wand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
