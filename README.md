@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8089 days**.
 
-And here is a just a random fact -  **Walt Disney was afraid of mice**.
+And here is a just a random fact -  **In Las Vegas, casinos do not have any clocks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 20 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 21 Feb, 2026.</sub>
