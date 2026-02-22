@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8090 days**.
 
-And here is a just a random fact -  **The Apollo 17 crew were the last men on the moon**.
+And here is a just a random fact -  **The fastest shark is the "Shortfin Mako," which can swim as fast as sixty miles per hour**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 21 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 22 Feb, 2026.</sub>
