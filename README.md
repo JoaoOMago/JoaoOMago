@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8093 days**.
 
-And here is a just a random fact -  **In China, people eat a bar of chocolate for every 1,000 chocolate bars eaten by the British**.
+And here is a just a random fact -  **Sanskrit is considered as the mother of all higher languages. This is because it is the most precise, and therefore suitable language for computer software**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
