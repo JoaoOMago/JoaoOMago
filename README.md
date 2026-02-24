@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8093 days**.
 
-And here is a just a random fact -  **Sanskrit is considered as the mother of all higher languages. This is because it is the most precise, and therefore suitable language for computer software**.
+And here is a just a random fact -  **The tallest tree recorded is located in Humboldt Redwoods State Park, California. It is a coast redwood and has been measured at 117 metres high**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
