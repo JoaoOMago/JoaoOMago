@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8093 days**.
 
-And here is a just a random fact -  **The highest recorded speed of a sneeze is 165 km per hour**.
+And here is a just a random fact -  **Actress Sally Field was paid $4,000 a week for her role in the TV show The Flying Nun**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 25 Feb, 2026.</sub>
