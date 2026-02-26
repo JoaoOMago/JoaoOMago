@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8094 days**.
+Here is a random fact about me - I have been on this planet for **8095 days**.
 
-And here is a just a random fact -  **Before toilet paper was invented, French royalty wiped their bottoms with fine linen**.
+And here is a just a random fact -  **The CN Tower, in Toronto, is the tallest freestanding structure in the world with a height of about 553 metres**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
