@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8095 days**.
 
-And here is a just a random fact -  **The CN Tower, in Toronto, is the tallest freestanding structure in the world with a height of about 553 metres**.
+And here is a just a random fact -  **Bruce Lee was so fast, that they actually had to slow a film down so you could see his moves. That is the opposite of the norm**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
