@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8095 days**.
 
-And here is a just a random fact -  **The first couple to be shown on a sitcom sleeping in the same bed was "Mary Kay and Johnny."**.
+And here is a just a random fact -  **The dromedary camel can drink as much as 100 litres of water in just 10 minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
