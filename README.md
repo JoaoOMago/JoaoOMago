@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8094 days**.
 
-And here is a just a random fact -  **Each year 96 billion pounds of food is wasted in the U.S**.
+And here is a just a random fact -  **Gorillas are considered apes, not monkeys. The way to distinguish between an ape and a monkey is that apes do not have tails**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 26 Feb, 2026.</sub>
