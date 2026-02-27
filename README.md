@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8096 days**.
 
-And here is a just a random fact -  **Research indicates that plants grow healthier when they are stroked.**.
+And here is a just a random fact -  **The fastest growing tissue in the human body is hair**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
