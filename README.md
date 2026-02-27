@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8095 days**.
 
-And here is a just a random fact -  **Seventy-one percent of households report they have at least one snorer. Forty-five percent of those surveyed admit they snore, 35% said their partner snores, 12% said their child snores and 9% reported their pet snores**.
+And here is a just a random fact -  **The longest U.S. highway is Route 20, which is over 3,365 miles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Feb, 2026.</sub>
+<sub>Last updated by Github Actions on 27 Feb, 2026.</sub>
