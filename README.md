@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8096 days**.
 
-And here is a just a random fact -  **During the First World War, cigarettes were handed out to soldiers along with their rations**.
+And here is a just a random fact -  **The thickness of the Arctic ice sheet is on average 10 feet. There are some areas that are thick as 65 feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
