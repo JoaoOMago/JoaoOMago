@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8096 days**.
 
-And here is a just a random fact -  **The first president to ride in an airplane was Franklin Roosevelt**.
+And here is a just a random fact -  **An alligator has about 80 teeth in its mouth at one time. An alligator can go through 3,000 teeth in a lifetime**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
