@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8098 days**.
 
-And here is a just a random fact -  **U.S. bills are 2.61 inches wide, 6.14 inches long, and are .0043 inches thick and weigh 1 gram**.
+And here is a just a random fact -  **More than $1 billion is spent each year on neck ties in the United States**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
