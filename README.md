@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8098 days**.
 
-And here is a just a random fact -  **The total mileage driven by all U-Haul trucks in a year is enough to move a person from the Earth to the moon five times a day for an entire year**.
+And here is a just a random fact -  **Britons eat over 22,000 tonnes of french fries a week**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
