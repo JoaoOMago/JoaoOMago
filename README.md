@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8098 days**.
 
-And here is a just a random fact -  **You can only smell 1/20th as well as a dog**.
+And here is a just a random fact -  **U.S. bills are 2.61 inches wide, 6.14 inches long, and are .0043 inches thick and weigh 1 gram**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
