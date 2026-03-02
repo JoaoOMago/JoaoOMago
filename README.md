@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8099 days**.
 
-And here is a just a random fact -  **British scientists have found evidence that heart attacks increase significantly for people who watch soccer penalty shoot-outs**.
+And here is a just a random fact -  **One ragweed plant can release as many as a million grains of pollen in one day**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
