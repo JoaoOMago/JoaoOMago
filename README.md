@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8098 days**.
 
-And here is a just a random fact -  **There is cyanide in apple pips**.
+And here is a just a random fact -  **Contrary to popular beliefs, chocolate does not cause acne**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Mar, 2026.</sub>
+<sub>Last updated by Github Actions on 02 Mar, 2026.</sub>
