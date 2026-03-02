@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8098 days**.
 
-And here is a just a random fact -  **Contrary to popular beliefs, chocolate does not cause acne**.
+And here is a just a random fact -  **The temperature of lightning bolts is sometimes hotter than the surface of the sun.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
