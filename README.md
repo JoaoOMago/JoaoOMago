@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8099 days**.
 
-And here is a just a random fact -  **In 1986, a drunk fan got into a pace car at Talladega Superspeedway, and started joyriding on the track in front of a nationwide audience. The police cruisers who had to chase him around the track were not amused when they caught and arrested him**.
+And here is a just a random fact -  **In the movie "Gandhi" 300,000 extras appeared in the funeral scene. Of the 300,000, approximately 100,000 received a small fee, and the other 200,000 did it for free**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
