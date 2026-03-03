@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8100 days**.
 
-And here is a just a random fact -  **In a year, an average person uses the toilet 2500 times a year**.
+And here is a just a random fact -  **The first lighthouse built in the USA was in Boston, MA in 1716**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
