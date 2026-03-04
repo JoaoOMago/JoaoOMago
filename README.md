@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8101 days**.
 
-And here is a just a random fact -  **About 10% of the 100,000 thunderstorms that occur in the USA every year are classified as severe.**.
+And here is a just a random fact -  **The most popular meal ordered at restaurants in the U.S. is fried chicken**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
