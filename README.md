@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8100 days**.
 
-And here is a just a random fact -  **Approximately 200 pets are buried in a pet cemetery out of the thousands of pets that die each day**.
+And here is a just a random fact -  **January is named for the Roman god Janus. Janus was a temple god who could look forward and backward at the same time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 Mar, 2026.</sub>
+<sub>Last updated by Github Actions on 04 Mar, 2026.</sub>
