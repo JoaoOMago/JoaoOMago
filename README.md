@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8101 days**.
+Here is a random fact about me - I have been on this planet for **8102 days**.
 
-And here is a just a random fact -  **Florida has twice as many lightning injuries and deaths than any other state**.
+And here is a just a random fact -  **The food that is digested in your stomach is called "chyme."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
