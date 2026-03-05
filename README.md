@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8101 days**.
 
-And here is a just a random fact -  **In ancient Egypt, Priests plucked EVERY hair from their bodies including their eyebrows and eyelashes**.
+And here is a just a random fact -  **Egyptian pyramid builders used to eat a lot of garlic because they thought it would increase their strength**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 04 Mar, 2026.</sub>
+<sub>Last updated by Github Actions on 05 Mar, 2026.</sub>
