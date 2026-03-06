@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8103 days**.
 
-And here is a just a random fact -  **A man filed a lawsuit against his doctor because he survived longer than what the doctor had predicted**.
+And here is a just a random fact -  **One tree can filter up to sixty pounds of pollutants from the air each year.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
