@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8104 days**.
 
-And here is a just a random fact -  **The story of Mulan had been told in China for almost 1,500 years before Disney decided to make it into an animated movie**.
+And here is a just a random fact -  **Male koalas mark their territory by rubbing their chests on a tree. Male koalas have a dark scent gland in the middle of their chest**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
