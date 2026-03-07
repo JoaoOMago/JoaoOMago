@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8104 days**.
 
-And here is a just a random fact -  **The original meaning of the word grocer was referring to a person who traded food in wholesale. These people would usually sell in large quantities, or by the "gross."**.
+And here is a just a random fact -  **A jiffy is an actual unit of time for 1/100th of a second. Thus the saying, I will be there in a jiffy.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
