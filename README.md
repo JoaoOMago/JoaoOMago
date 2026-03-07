@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8104 days**.
 
-And here is a just a random fact -  **There were approximately 2,228 people on board the Titanic when it sank. Of this, only 706 people survived**.
+And here is a just a random fact -  **The original meaning of the word grocer was referring to a person who traded food in wholesale. These people would usually sell in large quantities, or by the "gross."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
