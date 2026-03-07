@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8104 days**.
 
-And here is a just a random fact -  **The word Popcorn is derived from the middle English word "poppe," which means "explosive sound"**.
+And here is a just a random fact -  **The size of a raindrop is around 0.5 mm - 2.5 mm, and they fall from the sky on average 21 feet per second.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
