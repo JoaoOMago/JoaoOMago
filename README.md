@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8105 days**.
 
-And here is a just a random fact -  **The skeleton of a spider is located on the outside of the body. The name for this is exoskelton**.
+And here is a just a random fact -  **A superstition in baseball is to never lend your bat to anyone or you will be jinxed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
