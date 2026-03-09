@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8106 days**.
 
-And here is a just a random fact -  **In a month, a fingernail grows an eighth of an inch**.
+And here is a just a random fact -  **Hockey pucks were originally made from frozen cow dung**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
