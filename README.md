@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8107 days**.
 
-And here is a just a random fact -  **A chicken once had its head cut off and survived for over eighteen months, headless**.
+And here is a just a random fact -  **Chameleons can move their eyes independently. One eye can be looking forward and one eye backward at the same time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
