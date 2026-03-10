@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8107 days**.
 
-And here is a just a random fact -  **The Sears Tower consists of nine framed tubes, which connects nine skyscrapers as one building**.
+And here is a just a random fact -  **More than half the time spent in United States courts is cases that involve automobiles**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
