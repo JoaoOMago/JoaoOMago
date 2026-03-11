@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8108 days**.
 
-And here is a just a random fact -  **It was during World War II that clothes with elastic waists were introduced. This is because the metal used in zippers was badly needed for the war**.
+And here is a just a random fact -  **Macadamia nuts are not sold in their shells because it takes 300 pounds per square inch of pressure to break the shell**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
