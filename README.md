@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8107 days**.
 
-And here is a just a random fact -  **In 1976, a Los Angeles secretary named Jannene Swift officially married a fifty pound rock. More than twenty people witnessed the ceremony**.
+And here is a just a random fact -  **The average American eats 35,000 cookies in his/her lifetime**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
