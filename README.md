@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8107 days**.
 
-And here is a just a random fact -  **The largest LEGO castle that was ever built was built with 400,000 LEGO bricks and was 4.45 m x 5.22 m**.
+And here is a just a random fact -  **If you yelled for 8 years, 7 months and 6 days, you would have produced enough sound energy to heat one cup of coffee**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
