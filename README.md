@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8108 days**.
 
-And here is a just a random fact -  **In a year, the average person walks four miles to make his or her bed**.
+And here is a just a random fact -  **When telephone companies first began hiring telephone operators, they chose teenage boys for the job. They switched to women because the teenage boys were wrestling instead of working and pulling pranks on callers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
