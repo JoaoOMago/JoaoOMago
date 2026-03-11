@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8108 days**.
 
-And here is a just a random fact -  **The first United States president to visit China was Richard Nixon**.
+And here is a just a random fact -  **It was during World War II that clothes with elastic waists were introduced. This is because the metal used in zippers was badly needed for the war**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
