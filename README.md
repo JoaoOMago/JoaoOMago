@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8107 days**.
 
-And here is a just a random fact -  **It is possible to get high by licking a toad. The Cane Toad produces a toxin called bufotenine to ward off predators. When licked, this toxin acts as a hallucinogen**.
+And here is a just a random fact -  **Albert Einstein was cremated and his ashes were spread over a river located in New Jersey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Mar, 2026.</sub>
+<sub>Last updated by Github Actions on 11 Mar, 2026.</sub>
