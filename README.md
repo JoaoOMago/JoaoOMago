@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8108 days**.
 
-And here is a just a random fact -  **Bruce Lee was so fast, that they actually had to slow a film down so you could see his moves. That is the opposite of the norm**.
+And here is a just a random fact -  **The best time for a person to buy shoes is in the afternoon. This is because the foot tends to swell a bit around this time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
