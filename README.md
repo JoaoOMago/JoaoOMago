@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8108 days**.
 
-And here is a just a random fact -  **Many insects can carry 50 times their own body weight**.
+And here is a just a random fact -  **93% of all greeting cards are purchased by women**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
