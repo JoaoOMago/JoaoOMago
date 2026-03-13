@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8109 days**.
+Here is a random fact about me - I have been on this planet for **8110 days**.
 
-And here is a just a random fact -  **The human heart can create enough pressure that it could squirt blood at a distance of thirty feet**.
+And here is a just a random fact -  **Roughly 44% of junk mail is thrown away unopened**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
