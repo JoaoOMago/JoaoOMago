@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8109 days**.
 
-And here is a just a random fact -  **The Bible has been translated into Klingon**.
+And here is a just a random fact -  **The citric acid found in lemon juice is said to be able to dissolve a pearl**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Mar, 2026.</sub>
+<sub>Last updated by Github Actions on 13 Mar, 2026.</sub>
