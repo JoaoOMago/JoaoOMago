@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8111 days**.
 
-And here is a just a random fact -  **The Canadian holiday Boxing Day got its name from the custom of giving. Servants were given boxes which had money hidden inside them from their employers. The servants would have to break the box into pieces to get the money**.
+And here is a just a random fact -  **When snakes are born with two heads, they fight each other for food**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
