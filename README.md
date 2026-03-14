@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8111 days**.
 
-And here is a just a random fact -  **David McConnell started the California Perfume Company (CPC) in 1886. Today the company is known as Avon, which he named after his favorite playwright William Shakespeare, and Stratford on Avon**.
+And here is a just a random fact -  **The biggest disco ball in the world has a diameter of 2.41 meters and 137.89 kilograms. It also has 6,900 mirror squares on it**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
