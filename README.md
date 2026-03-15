@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8112 days**.
 
-And here is a just a random fact -  **Approximately 850 peanuts make a 18 oz jar of peanut butter**.
+And here is a just a random fact -  **The city of Seoul has been the capital city of Korea for more than 600 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
