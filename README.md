@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8111 days**.
 
-And here is a just a random fact -  **In 2001, the five most valuable brand names in order were Coca-Cola, Microsoft, IBM, GE, and Nokia**.
+And here is a just a random fact -  **Although the outsides of a bone are hard, they are generally light and soft inside. They are about 75% water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
