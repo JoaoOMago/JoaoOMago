@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8112 days**.
 
-And here is a just a random fact -  **Kermit the Frog was named after Kermit Scott, a childhood friend of creator Jim Henson, who became a professor of philosophy at Purdue University**.
+And here is a just a random fact -  **Eating parsley after eating an onion can help in getting rid of onion breath**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 15 Mar, 2026.</sub>
+<sub>Last updated by Github Actions on 16 Mar, 2026.</sub>
