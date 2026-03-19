@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8116 days**.
 
-And here is a just a random fact -  **During World War II, the 2nd Polish Corps had a brown bear named Wojtek, who helped move boxes of ammunition during the battle of Monte Cassino**.
+And here is a just a random fact -  **A dog by the name of Laika was launched into space aboard the Russian spacecraft Sputnik 2 in 1957**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
