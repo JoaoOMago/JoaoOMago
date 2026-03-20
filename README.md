@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8117 days**.
 
-And here is a just a random fact -  **Emilio Marco Palma was the first person born in Antarctica in 1978**.
+And here is a just a random fact -  **Fat is important for the development of children and normal growth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
