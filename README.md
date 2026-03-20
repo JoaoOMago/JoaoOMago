@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8117 days**.
 
-And here is a just a random fact -  **The colour blue has a calming effect. It causes the brain to release calming hormones**.
+And here is a just a random fact -  **Every second there are 418 Kit Kat fingers eaten in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
