@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8117 days**.
 
-And here is a just a random fact -  **The stringy thing that is seen in egg whites is called "chalazae."**.
+And here is a just a random fact -  **The word "super" to a beekeeper refers to the hive box where the honey is stored**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
