@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8118 days**.
 
-And here is a just a random fact -  **Sales of antacids increase by as much as 20% the day after the Superbowl**.
+And here is a just a random fact -  **The world record for donut eating is held by John Haight, who ate 29 donuts (52 ounces) in a little over six minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
