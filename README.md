@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8118 days**.
 
-And here is a just a random fact -  **Retail sales for soft drinks in the United States in 2001 were more than sixty billion dollars**.
+And here is a just a random fact -  **Scallops have approximately 100 eyes around the edge of its shell**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
