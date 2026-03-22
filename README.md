@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8119 days**.
 
-And here is a just a random fact -  **It takes approximately 12 years for Jupiter to orbit the sun**.
+And here is a just a random fact -  **An average American eats approximately 60 hot dogs per year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
