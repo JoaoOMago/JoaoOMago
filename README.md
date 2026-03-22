@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8119 days**.
 
-And here is a just a random fact -  **The average person falls asleep in about 12 to 14 minutes**.
+And here is a just a random fact -  **In-vitro babies are born in Australia more than any other country in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
