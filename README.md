@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8119 days**.
 
-And here is a just a random fact -  **Women who are romance novel readers are reported to make love 74% more often with their partners than women who do not read romance novels.**.
+And here is a just a random fact -  **The word "walkman" was included in the Oxford English Dictionary in 1986**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
