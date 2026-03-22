@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8119 days**.
 
-And here is a just a random fact -  **Average age of top GM executives in 1994: 49.8 years. Average age ofthe Rolling Stones: 50.6.**.
+And here is a just a random fact -  **Teflon was accidently discovered by scientist Dr. Roy Plunkett while he was conducting a coolant gas experiment in 1938**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
