@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8120 days**.
 
-And here is a just a random fact -  **The CIA has made a disk camera that is as big as a quarter. This gadget can take many pictures at a time when the disk is opened.**.
+And here is a just a random fact -  **A chance of a woman having twins is increased after the age of 35. About 1 in 27 women will give birth to twins after this age. After 50 the chances of having twins is 1 in 9**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
