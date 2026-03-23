@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8119 days**.
 
-And here is a just a random fact -  **On April 4, 1974, John Massis of Belgium pulled two New York Long Island railroad passenger cars totaling 80 tons with a thick rope, with a small bit attached, using only his teeth**.
+And here is a just a random fact -  **In Kentucky, 50 percent of the people who get married for the first time are teenagers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
