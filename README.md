@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8120 days**.
 
-And here is a just a random fact -  **On April 6, 1925, the first in-flight movie was shown. It was a silent film and appeared on a Deutsche Luft Hansa flight**.
+And here is a just a random fact -  **Copper is the second most used metal in the world.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 23 Mar, 2026.</sub>
+<sub>Last updated by Github Actions on 24 Mar, 2026.</sub>
