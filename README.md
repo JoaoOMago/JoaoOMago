@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8122 days**.
 
-And here is a just a random fact -  **A cesium atom in an atomic clock that beats over nine billion times a second.**.
+And here is a just a random fact -  **The first product that Sony came out with was the rice cooker**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
