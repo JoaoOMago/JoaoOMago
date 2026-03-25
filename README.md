@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8121 days**.
+Here is a random fact about me - I have been on this planet for **8122 days**.
 
-And here is a just a random fact -  **While digging, an Armadillo can hold its breath for up to six minutes**.
+And here is a just a random fact -  **Great Britain has the highest consumption of ice cream than any other European nation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
