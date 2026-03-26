@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8123 days**.
 
-And here is a just a random fact -  **The banana was officially introduced in 1876 in the U.S. at the Philadelphia Centennial Exhibition. The bananas were wrapped in tinfoil and were sold for 10 cents each**.
+And here is a just a random fact -  **The size of a red blood cell is 708 microns. This is equivalent to one millionth of a meter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
