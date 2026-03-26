@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8122 days**.
 
-And here is a just a random fact -  **The Super Bowl is so popular that it is the number on at-home party event of the year**.
+And here is a just a random fact -  **The microwave oven was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Mar, 2026.</sub>
+<sub>Last updated by Github Actions on 26 Mar, 2026.</sub>
