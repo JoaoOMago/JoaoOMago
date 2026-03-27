@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8124 days**.
 
-And here is a just a random fact -  **Lady Bugs really are not bugs. They are actually beetles and their correct name is The Ladybird Beetle**.
+And here is a just a random fact -  **Close to 73% of girls in Bangladesh are married by age 18**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
