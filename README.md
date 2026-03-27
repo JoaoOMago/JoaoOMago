@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8123 days**.
+Here is a random fact about me - I have been on this planet for **8124 days**.
 
-And here is a just a random fact -  **The only real person to be a Pez head was Betsy Ross**.
+And here is a just a random fact -  **Women take three times longer than men when using the toilet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
