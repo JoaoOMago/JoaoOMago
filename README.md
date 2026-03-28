@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8124 days**.
 
-And here is a just a random fact -  **The greatest snowfall ever in a single storm was 189 inches at the Mount Shasta Ski Bowl in February, 1959.**.
+And here is a just a random fact -  **A dime has 118 ridges around the edge**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
