@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8125 days**.
 
-And here is a just a random fact -  **The Red Cross is called the Red Crescent in Arab countries**.
+And here is a just a random fact -  **The lifespan of a firefly is about seven days. During these days, they are busy trying to find a mate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
