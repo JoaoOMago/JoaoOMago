@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8124 days**.
+Here is a random fact about me - I have been on this planet for **8125 days**.
 
-And here is a just a random fact -  **Our eyes are always the same size from birth, but our nose and ears. never stop growing**.
+And here is a just a random fact -  **A B-25 bomber airplane crashed into the 79th floor of the Empire State Building on July 28, 1945**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
