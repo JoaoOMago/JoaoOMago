@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8125 days**.
 
-And here is a just a random fact -  **The name of the famous snack "Twinkies" was invented by seeing a billboard in St. Louis, that said "Twinkle Toe Shoes."**.
+And here is a just a random fact -  **As a defense mechanism, the North American Opossum closes its eyes and becomes totally limp. Basically it plays dead**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
