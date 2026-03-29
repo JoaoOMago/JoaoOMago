@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8125 days**.
 
-And here is a just a random fact -  **The three best-known western names in China: Jesus Christ, Richard Nixon, and Elvis Presley**.
+And here is a just a random fact -  **Basketball superstar Wilt Chamberlain holds 56 NBA records**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
