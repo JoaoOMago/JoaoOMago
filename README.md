@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8126 days**.
 
-And here is a just a random fact -  **Sylvia Plath was a famous poet who killed herself at age thirty-one by sticking her head into a gas oven**.
+And here is a just a random fact -  **The state of California has more 7-Eleven stores than any other state. There are approximately 1,200 stores**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
