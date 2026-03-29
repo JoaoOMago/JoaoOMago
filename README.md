@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8125 days**.
 
-And here is a just a random fact -  **Being lactose intolerant can cause chronic flatulence**.
+And here is a just a random fact -  **Ballroom dancing is a course at Brigham Young University in Utah**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
