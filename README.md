@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8127 days**.
 
-And here is a just a random fact -  **The average American eats 35,000 cookies in his/her lifetime**.
+And here is a just a random fact -  **The reason firehouses have circular stairways is from the days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
