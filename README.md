@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8127 days**.
 
-And here is a just a random fact -  **On August 21st, 1911, someone stole the Mona Lisa, the most famous painting in the world, from the Louvre Museum. It was recovered two years later**.
+And here is a just a random fact -  **In the United States, approximately 135 million cars travel every day on the streets, roads, and interstates.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
