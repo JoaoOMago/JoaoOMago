@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8127 days**.
 
-And here is a just a random fact -  **The first ice hotel was built in Swedish Lapland**.
+And here is a just a random fact -  **The rarest coffee in the world is Kopi Luwak, which is found in Indonesia. It cost about $300 a pound**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
