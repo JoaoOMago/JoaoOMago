@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8127 days**.
 
-And here is a just a random fact -  **Three years after a person quits smoking, there chance of having a heart attack is the same as someone who has never smoked before**.
+And here is a just a random fact -  **Former U.S. President Ronald Reagan once wore a Nazi uniform while acting in a film during his Hollywood days. The name of the movie was "Desperate Journey," which was filmed in 1942**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
