@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8127 days**.
+Here is a random fact about me - I have been on this planet for **8128 days**.
 
-And here is a just a random fact -  **Former U.S. President Ronald Reagan once wore a Nazi uniform while acting in a film during his Hollywood days. The name of the movie was "Desperate Journey," which was filmed in 1942**.
+And here is a just a random fact -  **A chicken loses its feathers when it becomes stressed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
