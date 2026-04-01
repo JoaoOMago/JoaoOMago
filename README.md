@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8129 days**.
 
-And here is a just a random fact -  **Soil that is heated by geysers are now making it possible to produce bananas in Iceland**.
+And here is a just a random fact -  **570 gallons of paint would be needed to paint the outside of the White House**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
