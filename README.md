@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8128 days**.
 
-And here is a just a random fact -  **On average men spend 51 minutes a day grooming themselves**.
+And here is a just a random fact -  **There was once a fish caught in Delaware Bay with a watch still ticking inside**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
