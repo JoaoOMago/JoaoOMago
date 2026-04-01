@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8129 days**.
 
-And here is a just a random fact -  **In 1848, the first American pasta factory opened in Brooklyn, New York. The name of the man that opened it was Antoine Zerega**.
+And here is a just a random fact -  **Peladophobia refers to the fear of bald people**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
