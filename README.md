@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8128 days**.
 
-And here is a just a random fact -  **The Flintstones cartoon was the first thirty-minute cartoon to be aired during prime time**.
+And here is a just a random fact -  **Ancient Egyptians believed that onions would keep evil spirits away**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
