@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8128 days**.
+Here is a random fact about me - I have been on this planet for **8129 days**.
 
-And here is a just a random fact -  **Pixie, a Siberian Husky, gave birth to 7 puppies, one of which was bright green**.
+And here is a just a random fact -  **A man filed a lawsuit against his doctor because he survived longer than what the doctor had predicted**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
