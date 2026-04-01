@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8129 days**.
 
-And here is a just a random fact -  **Goat meat contains up to 45 percent less saturated fat than chicken meat**.
+And here is a just a random fact -  **In the year 2000, there were approximately 11,000 injuries that were treated in a hospital in the U.S. that resulted from fireworks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
