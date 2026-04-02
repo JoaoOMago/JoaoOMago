@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8130 days**.
 
-And here is a just a random fact -  **The New York Stock Exchange started out as a coffee house**.
+And here is a just a random fact -  **You burn more calories sleeping than you do watching television**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
