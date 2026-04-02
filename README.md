@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8130 days**.
 
-And here is a just a random fact -  **7 out of 10 people believe in life after death**.
+And here is a just a random fact -  **There is a Harley-Davidson that was designed as an exact replica of a hamburger**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
