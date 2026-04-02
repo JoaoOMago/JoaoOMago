@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8129 days**.
 
-And here is a just a random fact -  **The average number of bridesmaids at a wedding is four**.
+And here is a just a random fact -  **A leech has 32 brains**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
