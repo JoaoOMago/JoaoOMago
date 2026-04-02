@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8129 days**.
 
-And here is a just a random fact -  **In the year 2000, there were approximately 11,000 injuries that were treated in a hospital in the U.S. that resulted from fireworks**.
+And here is a just a random fact -  **The average number of bridesmaids at a wedding is four**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 02 Apr, 2026.</sub>
