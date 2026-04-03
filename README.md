@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8131 days**.
 
-And here is a just a random fact -  **In 1945, the first "floating ice cream parlor" was built for sailors in the western Pacific. This "floating ice cream parlour" could produce ten gallons of ice cream every seven seconds**.
+And here is a just a random fact -  **In just one drop of liquid, 50 million bacteria can be present**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
