@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8131 days**.
+Here is a random fact about me - I have been on this planet for **8132 days**.
 
-And here is a just a random fact -  **Bhutan issued a stamp in 1973 that looked like a record and actually would play the Bhutanese national anthem if placed on a record player**.
+And here is a just a random fact -  **There are 691 drinking fountains in the Pentagon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
