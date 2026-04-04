@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8132 days**.
 
-And here is a just a random fact -  **In Australia, the average person uses 876 gallons of water daily. In Switzerland they use only 77 gallons of water per person daily**.
+And here is a just a random fact -  **All 50 states are listed across the top of the Lincoln Memorial on the back of the $5.00 bill**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
