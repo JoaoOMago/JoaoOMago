@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8133 days**.
 
-And here is a just a random fact -  **There are three golf balls sitting on the moon**.
+And here is a just a random fact -  **The highest toll paid by a ship to cross the Panama Canal was by the Crown Princess on May 2, 1993 in the amount of $141,349.97 U.S. funds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
