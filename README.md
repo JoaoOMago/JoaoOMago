@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8133 days**.
 
-And here is a just a random fact -  **The Dead Sea has been sinking for last several years**.
+And here is a just a random fact -  **The oldest major soft drink in America is Dr. Pepper, which originated in Waco, Texas in 1885**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
