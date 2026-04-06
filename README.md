@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8134 days**.
 
-And here is a just a random fact -  **Leaving the water running while brushing your teeth can waste four gallons of water in a minute**.
+And here is a just a random fact -  **On April 6, 1925, the first in-flight movie was shown. It was a silent film and appeared on a Deutsche Luft Hansa flight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
