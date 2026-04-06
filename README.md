@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8133 days**.
+Here is a random fact about me - I have been on this planet for **8134 days**.
 
-And here is a just a random fact -  **MS-DOS was originally calle QDOS and was bought of the author by Microsoft for a small fee. The rest is history**.
+And here is a just a random fact -  **The Sanskrit word for "war" means "desire for more cows."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
