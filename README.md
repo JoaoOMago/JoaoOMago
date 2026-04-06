@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8134 days**.
 
-And here is a just a random fact -  **The United Parcel Service shipped the killer whale Keiko (star of Disney movie "Free Willy") from Mexico City to Newport, Oregon in 1998**.
+And here is a just a random fact -  **Every year, an igloo hotel is built in Sweden that has the capacity to sleep 100 people**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
