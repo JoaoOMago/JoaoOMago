@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8133 days**.
 
-And here is a just a random fact -  **American President John Tyler had 15 children**.
+And here is a just a random fact -  **The largest ketchup bottle in the world is a 170 feet tall and is located in Collinsville, Illinois, USA. It was built in 1949 by the W.E. Caldwell Company as a water tower**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 06 Apr, 2026.</sub>
