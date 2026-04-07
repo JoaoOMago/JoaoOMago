@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8135 days**.
 
-And here is a just a random fact -  **Dandelion root can be roasted and ground as a coffee substitute**.
+And here is a just a random fact -  **Kissing can aid in reducing tooth decay. This is because the extra saliva helps in keeping the mouth clean**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
