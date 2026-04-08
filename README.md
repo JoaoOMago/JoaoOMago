@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8136 days**.
 
-And here is a just a random fact -  **Hair is made from the same substance as fingernails**.
+And here is a just a random fact -  **There are more chickens than people in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
