@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8135 days**.
+Here is a random fact about me - I have been on this planet for **8136 days**.
 
-And here is a just a random fact -  **The biggest candy eaters are the Dutch, who average 65 pounds of candy per person in a year**.
+And here is a just a random fact -  **On average men spend 51 minutes a day grooming themselves**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
