@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8136 days**.
+Here is a random fact about me - I have been on this planet for **8137 days**.
 
-And here is a just a random fact -  **The oldest documented footwear found was a 8,000 year-old sandal found in a cave located in Missouri, USA**.
+And here is a just a random fact -  **In 1923, the first neon sign was introduced in the U.S. Two neon signs were sold to a Packard car dealership for $24,000 which read, "Packard."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
