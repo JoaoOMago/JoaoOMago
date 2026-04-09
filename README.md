@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8137 days**.
 
-And here is a just a random fact -  **In 1923, the first neon sign was introduced in the U.S. Two neon signs were sold to a Packard car dealership for $24,000 which read, "Packard."**.
+And here is a just a random fact -  **Jim Bristoe, an American, invented a 30-foot-long, 2-ton pumpkin cannon that can fire pumpkins up to five miles.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
