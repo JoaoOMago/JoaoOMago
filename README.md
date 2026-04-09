@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8136 days**.
 
-And here is a just a random fact -  **In Japan, by the time man reaches the age of 60, he is commemorated with a special ceremony. This ceremony features the man wearing a red kimono, which denotes that he no longer has the responsibilities of being a mature adult**.
+And here is a just a random fact -  **The oldest documented footwear found was a 8,000 year-old sandal found in a cave located in Missouri, USA**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
