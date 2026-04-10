@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8137 days**.
 
-And here is a just a random fact -  **The human liver performs over 500 functions**.
+And here is a just a random fact -  **On November 29, 2000, Pope John Paul II was named an "Honorary Harlem Globetrotter."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
