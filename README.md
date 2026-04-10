@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8138 days**.
 
-And here is a just a random fact -  **In 1967, the first successful heart transplant was performed in Cape Town, South Africa**.
+And here is a just a random fact -  **A language becomes extinct in this world every two weeks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
