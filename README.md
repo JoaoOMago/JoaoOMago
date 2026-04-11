@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8138 days**.
+Here is a random fact about me - I have been on this planet for **8139 days**.
 
-And here is a just a random fact -  **Oscar Wilde and his friends came up the with the word "dude." It came from the words "duds" and "attitude."**.
+And here is a just a random fact -  **There are approximately 9,000 taste buds on the tongue**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
