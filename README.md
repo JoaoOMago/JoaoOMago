@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8138 days**.
 
-And here is a just a random fact -  **There are mirrors on the moon. Astronauts left them so that laser beams could be bounced off of them from Earth. These beams help give us the distance to the moon give or take a few metres.**.
+And here is a just a random fact -  **The reason why some people get a cowlick is because the growth of their hair is in a spiral pattern, which causes the hair to either stand straight up, or goes to a certain angle**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
