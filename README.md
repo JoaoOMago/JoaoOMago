@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8138 days**.
 
-And here is a just a random fact -  **The most popular grown bulbs are tulips**.
+And here is a just a random fact -  **Urine from men?s public urinals was sold as a commodity in Ancient Rome. It was used as a dye and for making clothes hard**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 11 Apr, 2026.</sub>
