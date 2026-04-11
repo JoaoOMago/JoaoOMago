@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8139 days**.
 
-And here is a just a random fact -  **In the early nineteenth century some advertisements claimed that riding the carousel was good for the circulation of blood**.
+And here is a just a random fact -  **The giant squid is the largest animal without a backbone**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
