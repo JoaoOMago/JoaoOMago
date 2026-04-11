@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8139 days**.
 
-And here is a just a random fact -  **"Bookkeeper" is the only word in English language with three consecutive double letters**.
+And here is a just a random fact -  **Every day, the Hubble telescope transmits enough data to fit 10,000 standard computer disks**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
