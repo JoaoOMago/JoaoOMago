@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8140 days**.
 
-And here is a just a random fact -  **The average lifespan of a human taste bud is ten days**.
+And here is a just a random fact -  **The average day is actually 23 hours, 56 minutes and 4.09 seconds. We have a leap year every four years to make up for this shortfall**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
