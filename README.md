@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8139 days**.
 
-And here is a just a random fact -  **The town with the most stop signs per capita than any other in the US: LaConner, Washington**.
+And here is a just a random fact -  **Found in Argentina, the ornate horned frog can eat an entire mouse with one swallow**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 12 Apr, 2026.</sub>
