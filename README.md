@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8141 days**.
 
-And here is a just a random fact -  **The theme song of the Harlem Globetrotters is "Sweet Georgia Brown."**.
+And here is a just a random fact -  **A newborn kangaroo weighs approximately 0.03 ounces and is small enough to fit in a teaspoon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
