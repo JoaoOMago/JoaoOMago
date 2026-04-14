@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8142 days**.
 
-And here is a just a random fact -  **Some of the other names that were thought of for the dwarfs in the Disney movie "Snow White" were Awful, Dirty, Shifty, Hotsy, and Jumpy**.
+And here is a just a random fact -  **In Greece, the climate is so warm that many of the cinemas do not even have roofs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
