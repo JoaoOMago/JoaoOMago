@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8142 days**.
 
-And here is a just a random fact -  **The word "Denim" comes from the French phrase "serge de Nimes" which is a fabric made in a town located in southern France**.
+And here is a just a random fact -  **During World War II, Kit Kat was unavailable due to milk shortages, so the chocolate bar was made without milk**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
