@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8143 days**.
 
-And here is a just a random fact -  **It requires 63 feet of wire to make a Slinky toy**.
+And here is a just a random fact -  **The most popular vacation destinations for Americans in 1956 was Niagara Falls**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
