@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8143 days**.
 
-And here is a just a random fact -  **The average US worker toils for two hours and 47 minutes of each working day just to pay income tax. Indeed, the average American pays more in taxes than for food, clothing and shelter put together**.
+And here is a just a random fact -  **The first American president to deliver a speech over the radio was Warren G. Harding**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 15 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 16 Apr, 2026.</sub>
