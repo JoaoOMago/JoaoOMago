@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8143 days**.
 
-And here is a just a random fact -  **The first American president to deliver a speech over the radio was Warren G. Harding**.
+And here is a just a random fact -  **The human body has approximately 37,000 miles of capillaries**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
