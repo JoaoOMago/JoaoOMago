@@ -6,7 +6,7 @@
 
 I am João, a  **control and automation engineering student** and **mechatronic technician** based in Brazil Br.
 
-Currently, I am studying as a **control and automation engineering** at [Unifei](https://unifei.edu.br) where I study python, C, C++, project management and Ai.
+Currently, I am studying as a **control and automation engineering** at [Unifei](https://unifei.edu.br) where I study python, C, Verilog, ASM, Ladder, project management and Ai.
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
