@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8146 days**.
 
-And here is a just a random fact -  **The Roman emperor Commodus was at one time going to change the name of Rome to Colonia Commodiana**.
+And here is a just a random fact -  **On average, Americans eat one hundred acres of pizza a day. This amounts to about three hundred fifty slices per second**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
