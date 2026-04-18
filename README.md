@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8145 days**.
 
-And here is a just a random fact -  **In the U.S. the most common excuse made to get out of paying a ticket is to say they missed the sign**.
+And here is a just a random fact -  **Mickey Mouse is known as "Topolino" in Italy**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
