@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8145 days**.
+Here is a random fact about me - I have been on this planet for **8146 days**.
 
-And here is a just a random fact -  **The stage were the television sitcom "Friends" is shot on is said to be haunted**.
+And here is a just a random fact -  **The most popular jelly belly jellybean flavour is buttered popcorn**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
