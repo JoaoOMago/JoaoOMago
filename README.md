@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8146 days**.
 
-And here is a just a random fact -  **Elvis Presley was obsessed with brushing his teeth**.
+And here is a just a random fact -  **Intelligent people have more zinc and copper in their hair**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
