@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8146 days**.
 
-And here is a just a random fact -  **The world record for rocking non-stop in a rocking chair is 480 hours held by Dennis Easterling, of Atlanta, Georgia**.
+And here is a just a random fact -  **Most snails are hermaphrodites, meaning they have both female and male reproductive organs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
