@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8146 days**.
 
-And here is a just a random fact -  **An armadillo can walk under water**.
+And here is a just a random fact -  **In a day, a mature oak tree can draw approximately 50 gallons of water**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 18 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 19 Apr, 2026.</sub>
