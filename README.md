@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8147 days**.
 
-And here is a just a random fact -  **The American Airlines Center in Dallas has more toilets per capita than any other sports and entertainment venue in the country**.
+And here is a just a random fact -  **Only 23% of New Zealand families have more than two children**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
