@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8147 days**.
 
-And here is a just a random fact -  **In a lifetime, the average driver will honk 15,250 times**.
+And here is a just a random fact -  **The first music video ever played on MTV Europe was by Dire Straits, "Money For Nothing."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
