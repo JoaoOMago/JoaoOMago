@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8146 days**.
 
-And here is a just a random fact -  **Cricket chirping can tell the temperature outside. Counting how many times a cricket chirps in 15 seconds and then adding 40 to that number will approximately tell you what the temperature is in Fahrenheit**.
+And here is a just a random fact -  **Bees can communicate with other bees by dancing. Their dance can alert other bees as to which direction and the distance nectar and pollen is located**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
