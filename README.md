@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8147 days**.
 
-And here is a just a random fact -  **The board game Scrabble was originally called "Criss Cross Words" by inventor Alfred Butts**.
+And here is a just a random fact -  **The tridacna clam can grow up to four feet long and weigh up to 500 pounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
