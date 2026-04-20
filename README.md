@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8147 days**.
 
-And here is a just a random fact -  **Bill Gates house was partially designed using a Macintosh computer. new**.
+And here is a just a random fact -  **Close to 80% of people who watch the Super Bowl on television, only do so to view the commercials**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 19 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 20 Apr, 2026.</sub>
