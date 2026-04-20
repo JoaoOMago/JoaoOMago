@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8148 days**.
 
-And here is a just a random fact -  **Amongst pre-schoolers, Caillou is the fastest-ever-growing television show and is seen in close to 97% of U.S. households**.
+And here is a just a random fact -  **Actor Charlie Chaplin made 81 movies over a career that spanned 50 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
