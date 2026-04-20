@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8147 days**.
+Here is a random fact about me - I have been on this planet for **8148 days**.
 
-And here is a just a random fact -  **The tridacna clam can grow up to four feet long and weigh up to 500 pounds**.
+And here is a just a random fact -  **Studies show that couples that smoke during the time of conception have a higher chance of having a girl compared to couples that do not smoke**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
