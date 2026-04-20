@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8148 days**.
 
-And here is a just a random fact -  **There are approximately one hundred million people in the United States that have a chronic illness**.
+And here is a just a random fact -  **Botanically a rhubarb is a vegetable. It was changed to a fruit in 1947 by a U.S. Custom Court**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
