@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8149 days**.
 
-And here is a just a random fact -  **In 1477, the first diamond engagement ring was given to Mary of Burgundy by Archduke Maximillian of Austria**.
+And here is a just a random fact -  **Broccoli was first introduced into France during the royal marriage of Catherine de Medici to Henry II of France**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
