@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8148 days**.
+Here is a random fact about me - I have been on this planet for **8149 days**.
 
-And here is a just a random fact -  **In Australia, the average person uses 876 gallons of water daily. In Switzerland they use only 77 gallons of water per person daily**.
+And here is a just a random fact -  **The largest shopping mall in the world is the West Edmonton Mall located in Edmonton, Alberta, Canada**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
