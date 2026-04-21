@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8149 days**.
 
-And here is a just a random fact -  **There is a Hamburger hall of fame in Seymour, Wisconsin**.
+And here is a just a random fact -  **The temperature of lightning bolts is sometimes hotter than the surface of the sun.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
