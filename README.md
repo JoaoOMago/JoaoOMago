@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8148 days**.
 
-And here is a just a random fact -  **The dot that appears over the letter "i" is called a tittle**.
+And here is a just a random fact -  **The longest town name in the world has 167 letters**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 20 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 21 Apr, 2026.</sub>
