@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8149 days**.
 
-And here is a just a random fact -  **In 1894, the carnival made its debut in North America**.
+And here is a just a random fact -  **In 1908, the first machine to make lollipops opened for business in New Haven, Connecticut**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
