@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8150 days**.
 
-And here is a just a random fact -  **Soy crayons have been invented to replace wax crayons and one acre of soybeans can produce over 80,000 crayons**.
+And here is a just a random fact -  **The laundry detergent Tide, has a market share of about forty percent market**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
