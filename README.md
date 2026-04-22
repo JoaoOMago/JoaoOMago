@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8149 days**.
 
-And here is a just a random fact -  **Broccoli was first introduced into France during the royal marriage of Catherine de Medici to Henry II of France**.
+And here is a just a random fact -  **The name "Muppet" was coined by Jim Henson. The word was made from a combination of the word "marionette" and "puppet."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 21 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 22 Apr, 2026.</sub>
