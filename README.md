@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8150 days**.
 
-And here is a just a random fact -  **Next to Warsaw, Chicago has the largest Polish population in the world**.
+And here is a just a random fact -  **In 1631, two London bible printers accidentally left the word "not" out of the seventh commandment, which then read, "Thou shalt commit adultery." This legendary book is now known as the "Wicked Bible."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 22 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 23 Apr, 2026.</sub>
