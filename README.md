@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8151 days**.
 
-And here is a just a random fact -  **The name Aspirin was invented from "A" in acetyl chloride. The "spir" comes from spiraea ulmaria which is the plant that they got the salicylic acid from, and the "in" was used because back then it was popular to end the name of medicines with "in."**.
+And here is a just a random fact -  **Bill Gates donated close to $100 million to fight AIDS in India. As a percent of his total wealth, this would be comparable to him donating ten cents if he only had $60**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 23 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 24 Apr, 2026.</sub>
