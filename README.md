@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8152 days**.
 
-And here is a just a random fact -  **The oldest major soft drink in America is Dr. Pepper, which originated in Waco, Texas in 1885**.
+And here is a just a random fact -  **Tiger Woods was introduced to golf at nine months of age by his father**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
