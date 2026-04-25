@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8152 days**.
 
-And here is a just a random fact -  **The average life span of a mosquito is two weeks**.
+And here is a just a random fact -  **The longest engagement lasted 67 years, and the couple ended up marrying when they were 82 years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
