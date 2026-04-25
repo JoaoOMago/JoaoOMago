@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8153 days**.
 
-And here is a just a random fact -  **The reason why hair turns gray as we age is because the pigment cells in the hair follicle start to die, which is responsible for producing "melanin" which gives the hair colour**.
+And here is a just a random fact -  **Tacoma Narrows Bridge which was located in Washington was nicknamed "Galloping Gertie" because of the unusual way it twisted and swayed with even with the slightest winds when people would drive on it. The bridge collapsed on November 7, 1940, fortunately no humans died, except for a dog**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
