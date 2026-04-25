@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8153 days**.
 
-And here is a just a random fact -  **The average Super Bowl party has 18 people**.
+And here is a just a random fact -  **Mary Hart, the co-anchor of Entertainment Tonight, has each of her legs insured for one million dollars**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
