@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8154 days**.
 
-And here is a just a random fact -  **Americans write approximately 50 billion checks a year making it the second most frequent payment method used after cash**.
+And here is a just a random fact -  **All of the Peking ducks in the United States are descendents from three ducks and one drake imported to Long Island, New York in 1873**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
