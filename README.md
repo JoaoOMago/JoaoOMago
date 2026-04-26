@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8153 days**.
 
-And here is a just a random fact -  **The Taj Mahal, located in Agra, India, was actually built for use as a tomb by Mogul ruler Shah Jehan for his wife, Arjuman Banu Begum**.
+And here is a just a random fact -  **The total number of episodes for the sitcom "I Love Lucy" was 180**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 26 Apr, 2026.</sub>
