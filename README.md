@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8153 days**.
 
-And here is a just a random fact -  **The total number of episodes for the sitcom "I Love Lucy" was 180**.
+And here is a just a random fact -  **The Dutch people are known to be the tallest people in Europe**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
