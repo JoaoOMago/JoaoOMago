@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8154 days**.
 
-And here is a just a random fact -  **The name Wendy was made up for the book "Peter Pan."**.
+And here is a just a random fact -  **There are over 500 different types of bananas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
