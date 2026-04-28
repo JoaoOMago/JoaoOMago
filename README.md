@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8155 days**.
 
-And here is a just a random fact -  **Teenage suicide is the second cause of death in the state of Wisconsin**.
+And here is a just a random fact -  **The king of hearts is the only king without a mustache**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 27 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 28 Apr, 2026.</sub>
