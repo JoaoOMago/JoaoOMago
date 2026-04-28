@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8155 days**.
+Here is a random fact about me - I have been on this planet for **8156 days**.
 
-And here is a just a random fact -  **The greatest snowfall ever in a single storm was 189 inches at the Mount Shasta Ski Bowl in February, 1959.**.
+And here is a just a random fact -  **In 1998, Ten Speed Press publishing company published a book, "The Eat A Bug Cookbook" by David George Gordon that contains over 33 bug recipes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
