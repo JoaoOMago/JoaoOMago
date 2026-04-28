@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8156 days**.
 
-And here is a just a random fact -  **In 1905, the first pizzeria in the U.S. opened in New York City**.
+And here is a just a random fact -  **The only lizard that has a voice is the Gecko**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
