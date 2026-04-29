@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8156 days**.
 
-And here is a just a random fact -  **Approximately 97.35618329% of all statistics are made up**.
+And here is a just a random fact -  **On average, Americans spend 33% of their life sleeping**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
