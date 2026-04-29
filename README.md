@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8156 days**.
+Here is a random fact about me - I have been on this planet for **8157 days**.
 
-And here is a just a random fact -  **On average, Americans spend 33% of their life sleeping**.
+And here is a just a random fact -  **18% of an Americans income is spent on transportation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
