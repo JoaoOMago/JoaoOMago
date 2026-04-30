@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8157 days**.
 
-And here is a just a random fact -  **In a survey conducted in 2000 by Kimberly-Clark, it was found that men prefer to fold their toilet paper, and women like to wad it**.
+And here is a just a random fact -  **Annually a thousand people are killed by scorpions in Mexico**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 29 Apr, 2026.</sub>
+<sub>Last updated by Github Actions on 30 Apr, 2026.</sub>
