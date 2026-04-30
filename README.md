@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8157 days**.
+Here is a random fact about me - I have been on this planet for **8158 days**.
 
-And here is a just a random fact -  **Coconuts kill more people in the world than sharks do**.
+And here is a just a random fact -  **During one seven year period, Thomas Edison obtained approximately three hundred patents. In is whole life he obtained over one thousand patents.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
