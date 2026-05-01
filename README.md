@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8158 days**.
+Here is a random fact about me - I have been on this planet for **8159 days**.
 
-And here is a just a random fact -  **Some of the titles that were considered for the hit T.V. show "Friends" were Six Of One, Across the Hall, and Insomnia Cafe**.
+And here is a just a random fact -  **India has the most post offices in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
