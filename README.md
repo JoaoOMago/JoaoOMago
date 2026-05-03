@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8160 days**.
+Here is a random fact about me - I have been on this planet for **8161 days**.
 
-And here is a just a random fact -  **A language becomes extinct in this world every two weeks**.
+And here is a just a random fact -  **Goats do not have upper front teeth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
