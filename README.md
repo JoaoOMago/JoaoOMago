@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8162 days**.
 
-And here is a just a random fact -  **In 1902, the coat hanger was invented Albert Parkhouse who was frustrated at the lack of hooks available to hang up his coat at work. His company thought it was a good idea and patented the invention and unfortunately, Parkhouse never received any money for his idea**.
+And here is a just a random fact -  **The first person to die in the electric chair was William Kemmler, an ax murderer from New York on August 6, 1890**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
