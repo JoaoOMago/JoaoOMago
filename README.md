@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8162 days**.
 
-And here is a just a random fact -  **Feb 1865 and Feb 1999 are the only months in recorded history not to have a full moon**.
+And here is a just a random fact -  **Spiders usually have eight eyes, but still they cannot see that well**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
