@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8163 days**.
 
-And here is a just a random fact -  **If you fart consistently for 6 years and 9 months, enough gas is produced to create the energy of an atomic bomb**.
+And here is a just a random fact -  **In Haiti, only 1 out of every 200 people own a car. This is ironic considering approximately 33% of the country's budget on import is spent on equipment for fuel and transportation.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
