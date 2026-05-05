@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8163 days**.
 
-And here is a just a random fact -  **During World War II, there was not enough sugar in the U.S. to make candy as it was sent to the troops overseas. At this time, popcorn was consumed three times more than its usual amount**.
+And here is a just a random fact -  **The A.A. Milne character of Winnie the Pooh made his animated film debut in 1966 in Winnie the Pooh and the Honey Tree**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
