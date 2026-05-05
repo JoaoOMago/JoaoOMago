@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8162 days**.
+Here is a random fact about me - I have been on this planet for **8163 days**.
 
-And here is a just a random fact -  **In order to scare away predators, Giant petrels, a type of seabird, throw up all over the intruder**.
+And here is a just a random fact -  **In China, September 20 is "Love Your Teeth Day."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
