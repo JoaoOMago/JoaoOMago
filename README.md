@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8163 days**.
 
-And here is a just a random fact -  **The snow leopard protects itself from extreme cold when it sleeps by wrapping its 3-foot-long tail around its nose**.
+And here is a just a random fact -  **Atari had to bury millions of unsold "E.T." game cartridges in a New Mexico desert landfill in 1982**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
