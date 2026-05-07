@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8164 days**.
 
-And here is a just a random fact -  **Only 5 to 10 percent of cheetah cubs make it to adulthood**.
+And here is a just a random fact -  **White-Out was invented by Bette Nesmith Graham, who is the mother of Michael Nesmith from the "The Monkees."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 06 May, 2026.</sub>
+<sub>Last updated by Github Actions on 07 May, 2026.</sub>
