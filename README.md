@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8165 days**.
 
-And here is a just a random fact -  **German immigrant, Louis Prang was the first to bring Christmas cards to America**.
+And here is a just a random fact -  **You can only smell 1/20th as well as a dog**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
