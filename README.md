@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8165 days**.
 
-And here is a just a random fact -  **In England, a cigarette is referred to as a fag**.
+And here is a just a random fact -  **Corals take a long time to grow. Some corals only grow one centimeter in one year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 07 May, 2026.</sub>
+<sub>Last updated by Github Actions on 08 May, 2026.</sub>
