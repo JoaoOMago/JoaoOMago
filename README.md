@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8165 days**.
+Here is a random fact about me - I have been on this planet for **8166 days**.
 
-And here is a just a random fact -  **Families who do turn off the television during meals tend to eat healthier. This was regardless of family income, or education**.
+And here is a just a random fact -  **The sentence "The quick brown fox jumps over the lazy dog." uses everyletter in the alphabet. (Developed by Western Union to Test telex/twxcommunications)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
