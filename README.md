@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8166 days**.
 
-And here is a just a random fact -  **In 75% of American households, women manage the money and pay the bills**.
+And here is a just a random fact -  **The only 15 letter word that can be spelled without repeating a letter is "uncopyrightable."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
