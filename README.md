@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8166 days**.
 
-And here is a just a random fact -  **About two hundred years before the birth of Christ, the Druids used mistletoe to celebrate that winter was approaching**.
+And here is a just a random fact -  **Scatologists are experts who study feces. (aka. crap, dung, dookie, dumps, feces, excrement, etc.)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
