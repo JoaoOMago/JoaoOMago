@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8166 days**.
 
-And here is a just a random fact -  **Canada beat Denmark 47-0 at the 1949 world hockey championships. new**.
+And here is a just a random fact -  **The chances of getting a cavity is higher if candy is eaten slowly throughout the day compared to eating it all at once and then brushing your teeth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
