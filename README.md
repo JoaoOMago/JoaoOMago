@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8166 days**.
+Here is a random fact about me - I have been on this planet for **8167 days**.
 
-And here is a just a random fact -  **The largest ice cream sundae was made with 4,667 gallons of ice cream, was 12 feet high and had 7000 pounds of toppings on it. This was made in Anaheim, California in 1985**.
+And here is a just a random fact -  **Alexander the Great made his troops eat onions as he believed it would prove their vitality**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
