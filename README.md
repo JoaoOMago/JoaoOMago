@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8166 days**.
 
-And here is a just a random fact -  **The average person falls asleep in about 12 to 14 minutes**.
+And here is a just a random fact -  **The largest ice cream sundae was made with 4,667 gallons of ice cream, was 12 feet high and had 7000 pounds of toppings on it. This was made in Anaheim, California in 1985**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
