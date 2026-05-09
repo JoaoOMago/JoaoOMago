@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8167 days**.
 
-And here is a just a random fact -  **7-Eleven was the first convenience store to have television advertising. The animated commercial ran in 1949 and had a singing rooster and owl**.
+And here is a just a random fact -  **Joseph Gayetty is credited for inventing toilet paper in 1857. Unfortunately, his invention failed and did not catch on until ten years later**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
