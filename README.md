@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8167 days**.
 
-And here is a just a random fact -  **There are 54 bones in your hands including the wrists**.
+And here is a just a random fact -  **People over the age of fifty will start to lose their dislike for foods that taste bitter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
