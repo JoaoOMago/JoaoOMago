@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8168 days**.
 
-And here is a just a random fact -  **According to legend, tea originated in China when tea leaves accidentally blew into a pot of boiling water**.
+And here is a just a random fact -  **If all the insects in the world were put on a scale, they would out weigh all creatures**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
