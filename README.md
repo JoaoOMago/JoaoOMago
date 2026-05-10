@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8167 days**.
 
-And here is a just a random fact -  **Eating eight strawberries will provide you with more Vitamin C than an orange**.
+And here is a just a random fact -  **The name of the first menthol cigarette in the United States was "Spud."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 09 May, 2026.</sub>
+<sub>Last updated by Github Actions on 10 May, 2026.</sub>
