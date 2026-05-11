@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8168 days**.
 
-And here is a just a random fact -  **Author Robert May considered the names of Reginald and Rollo before he settled on "Rudolph, the red-nosed reindeer."**.
+And here is a just a random fact -  **Male goats will pee on each other in order to attract mates**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 May, 2026.</sub>
+<sub>Last updated by Github Actions on 11 May, 2026.</sub>
