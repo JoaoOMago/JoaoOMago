@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8169 days**.
 
-And here is a just a random fact -  **A headache and inflammatory pain can be reduced by eating 20 tart cherries**.
+And here is a just a random fact -  **The music group Simply Red got its name from band member Mick Hucknall, who has red hair**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
