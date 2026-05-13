@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8170 days**.
 
-And here is a just a random fact -  **Clarence Crane the inventor of "Crane's Peppermint Life Savers" sold his rights to the popular candy for less than three thousand dollars.**.
+And here is a just a random fact -  **The more a person struggles to get out of quicksand the faster they will sink. Staying still, and being calm will actually make the body float in the quicksand because the body is less dense than the quicksand is**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 May, 2026.</sub>
+<sub>Last updated by Github Actions on 13 May, 2026.</sub>
