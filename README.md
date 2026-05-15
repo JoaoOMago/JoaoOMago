@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8173 days**.
 
-And here is a just a random fact -  **Mickey Mouse is known as "Topolino" in Italy**.
+And here is a just a random fact -  **Men are four times more likely to be struck by lightning than women**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
