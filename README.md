@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8173 days**.
 
-And here is a just a random fact -  **Snake venom is ninety percent protein**.
+And here is a just a random fact -  **Sheep can survive for up to two weeks buried in snow drifts.Click Here For More Details**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
