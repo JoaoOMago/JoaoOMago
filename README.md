@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8173 days**.
 
-And here is a just a random fact -  **The most popular Twizzler candy flavour is strawberry**.
+And here is a just a random fact -  **The largest known hailstone to have fallen was in Germany in 1925, which weighed close to four and a half pounds.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 15 May, 2026.</sub>
+<sub>Last updated by Github Actions on 16 May, 2026.</sub>
