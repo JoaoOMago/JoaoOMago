@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8175 days**.
 
-And here is a just a random fact -  **The incidents of immune system diseases has increased over 200% in the last five years**.
+And here is a just a random fact -  **One out of 20 people have an extra rib**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
