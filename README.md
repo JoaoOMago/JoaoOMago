@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8175 days**.
 
-And here is a just a random fact -  **Teenage cosmetic surgeries nearly doubled in the USA between 1996 and 1998**.
+And here is a just a random fact -  **The incidents of immune system diseases has increased over 200% in the last five years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
