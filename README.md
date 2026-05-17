@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8174 days**.
+Here is a random fact about me - I have been on this planet for **8175 days**.
 
-And here is a just a random fact -  **The term "the whole 9 yards" came from W.W.II fighter pilots in the South Pacific. When arming their airplanes on the ground, the .50 caliber machine gun ammo belts measured exactly 27 feet, before being loaded into the fuselage. If the pilots fired all their ammo at a target, it got "the whole 9 yards."**.
+And here is a just a random fact -  **Teenage cosmetic surgeries nearly doubled in the USA between 1996 and 1998**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
