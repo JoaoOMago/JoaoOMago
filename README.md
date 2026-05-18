@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8176 days**.
 
-And here is a just a random fact -  **Over 90% of diseases are caused or complicated by stress**.
+And here is a just a random fact -  **There is no tipping in Iceland**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
