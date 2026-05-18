@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8175 days**.
 
-And here is a just a random fact -  **Some farmers in Japan have learned to grow their watermelons into a square shape. They did this to conserve shelf space**.
+And here is a just a random fact -  **During World War II, Russians used dogs strapped with explosives to blow up German tanks. They trained the dogs to associate the tanks with food and ended up destroying about 25 German tanks using this method**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
