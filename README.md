@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8175 days**.
 
-And here is a just a random fact -  **In 1982, Larry Walters tied 24 weather balloons to his lawn chair in Los Angeles and climbed to an altitude of 16,000 feet**.
+And here is a just a random fact -  **Some farmers in Japan have learned to grow their watermelons into a square shape. They did this to conserve shelf space**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
