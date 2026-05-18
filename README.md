@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8175 days**.
+Here is a random fact about me - I have been on this planet for **8176 days**.
 
-And here is a just a random fact -  **During World War II, Russians used dogs strapped with explosives to blow up German tanks. They trained the dogs to associate the tanks with food and ended up destroying about 25 German tanks using this method**.
+And here is a just a random fact -  **Over 90% of diseases are caused or complicated by stress**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
