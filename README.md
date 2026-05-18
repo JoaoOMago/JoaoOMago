@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8176 days**.
 
-And here is a just a random fact -  **In Australia, a common "Boxing day" activity is surfing**.
+And here is a just a random fact -  **Polar bears can smell seal from 20 miles away**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
