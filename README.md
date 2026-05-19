@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8176 days**.
 
-And here is a just a random fact -  **The act of stretching and yawning is referred to as pandiculation**.
+And here is a just a random fact -  **98% of brown bears in the United States are in Alaska**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
