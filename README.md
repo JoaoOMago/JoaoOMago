@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8177 days**.
 
-And here is a just a random fact -  **On a Canadian two dollar bill, the flag flying over the Parliament building is an American flag**.
+And here is a just a random fact -  **Hockey pucks were originally made from frozen cow dung**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 19 May, 2026.</sub>
+<sub>Last updated by Github Actions on 20 May, 2026.</sub>
