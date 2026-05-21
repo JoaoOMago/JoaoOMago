@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8179 days**.
 
-And here is a just a random fact -  **The Hubble telescope is so powerful that it is like pointing a beam of light at a dime that is two hundred miles away.**.
+And here is a just a random fact -  **Hang On Sloopy is the official rock song of Ohio.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
