@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8180 days**.
 
-And here is a just a random fact -  **In one trip, a honey bee visits about 75 flowers**.
+And here is a just a random fact -  **The average life expectancy of an ant is about 90 days**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
