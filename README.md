@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8182 days**.
+Here is a random fact about me - I have been on this planet for **8183 days**.
 
-And here is a just a random fact -  **Over 90% of poison exposures occur in homes**.
+And here is a just a random fact -  **There are more than 250,000 rivers in the United States, which amounts to 3.5 million miles of rivers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
