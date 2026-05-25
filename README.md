@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8182 days**.
 
-And here is a just a random fact -  **Thomas Edison was afraid of the dark. (Hence, the light bulb?)**.
+And here is a just a random fact -  **Whooping cranes are born with blue eyes that change to bright gold by the time they six months old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 May, 2026.</sub>
+<sub>Last updated by Github Actions on 25 May, 2026.</sub>
