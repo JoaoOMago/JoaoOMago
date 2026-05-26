@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8183 days**.
+Here is a random fact about me - I have been on this planet for **8184 days**.
 
-And here is a just a random fact -  **Soldier Field is the oldest field in the NFL**.
+And here is a just a random fact -  **Annually a thousand people are killed by scorpions in Mexico**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
