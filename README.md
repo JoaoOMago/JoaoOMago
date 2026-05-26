@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8184 days**.
 
-And here is a just a random fact -  **Annually a thousand people are killed by scorpions in Mexico**.
+And here is a just a random fact -  **The word "vamp" is used to describe the upper front top of a shoe**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
