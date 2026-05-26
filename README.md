@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8183 days**.
 
-And here is a just a random fact -  **The longest game of Monopoly played underwater is 45 days**.
+And here is a just a random fact -  **Pilgrims did not eat with forks. They only used spoons, knives and their fingers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 May, 2026.</sub>
+<sub>Last updated by Github Actions on 26 May, 2026.</sub>
