@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8186 days**.
+Here is a random fact about me - I have been on this planet for **8187 days**.
 
-And here is a just a random fact -  **An apple, potato, and onion all taste the same if you eat them with your nose plugged. They all taste sweet**.
+And here is a just a random fact -  **India has a Bill of Rights for cows**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
