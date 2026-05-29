@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8186 days**.
 
-And here is a just a random fact -  **To be born on Sunday was considered a sign of great sin during the Puritan times**.
+And here is a just a random fact -  **There are 10 million bacteria at the place where you rest your hands at a desk**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 28 May, 2026.</sub>
+<sub>Last updated by Github Actions on 29 May, 2026.</sub>
