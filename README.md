@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8187 days**.
 
-And here is a just a random fact -  **In the last 30 years, only seven people have been killed by a polar bear in Canada**.
+And here is a just a random fact -  **Scientists have determined that having guilty feelings may actually damage your immune system**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 29 May, 2026.</sub>
+<sub>Last updated by Github Actions on 30 May, 2026.</sub>
