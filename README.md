@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8188 days**.
 
-And here is a just a random fact -  **Any animal that has skin hair or fur can get dandruff, but in animals it is called "dander."**.
+And here is a just a random fact -  **When a women is pregnant, her senses are all heightened**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 May, 2026.</sub>
+<sub>Last updated by Github Actions on 31 May, 2026.</sub>
