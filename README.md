@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8193 days**.
 
-And here is a just a random fact -  **Lake Ontario was originally named Lake St. Louis**.
+And here is a just a random fact -  **Goats do not have upper front teeth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
