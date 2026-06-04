@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8192 days**.
+Here is a random fact about me - I have been on this planet for **8193 days**.
 
-And here is a just a random fact -  **The most reproduced image in the world is Mickey Mouse, which can be found on over 7,500 different items**.
+And here is a just a random fact -  **There are 10 million bacteria at the place where you rest your hands at a desk**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
