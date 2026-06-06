@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8194 days**.
 
-And here is a just a random fact -  **If all the strawberries produced in California annually were put side by side, they would wrap around the Earth fifteen times**.
+And here is a just a random fact -  **99% of pumpkins that are sold are sold for decoration**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Jun, 2026.</sub>
+<sub>Last updated by Github Actions on 06 Jun, 2026.</sub>
