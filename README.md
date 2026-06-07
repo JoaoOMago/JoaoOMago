@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8195 days**.
+Here is a random fact about me - I have been on this planet for **8196 days**.
 
-And here is a just a random fact -  **Kiwis are the only known bird to have nostrils located at the tip of their beak**.
+And here is a just a random fact -  **The longest word in the English language is 1909 letters long and it refers to a distinct part of DNA**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
