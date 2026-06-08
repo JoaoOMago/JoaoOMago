@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8197 days**.
 
-And here is a just a random fact -  **The average North American car contains 300 pounds of plastics**.
+And here is a just a random fact -  **Only 55 percent of all Americans know that the sun is a star**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
