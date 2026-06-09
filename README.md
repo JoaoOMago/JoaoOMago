@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8198 days**.
 
-And here is a just a random fact -  **Navel oranges got their name because the bottom of this type of orange resembles a belly button or navel**.
+And here is a just a random fact -  **Many of the stars that were in the Poltergeist Trilogy had strange deaths**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
