@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8199 days**.
 
-And here is a just a random fact -  **Tasmania, Australia has the cleanest air in the inhabited world.**.
+And here is a just a random fact -  **The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
