@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8199 days**.
 
-And here is a just a random fact -  **By raising your legs slowly and lying on your back, you cannot sink into quicksand.**.
+And here is a just a random fact -  **Tasmania, Australia has the cleanest air in the inhabited world.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Jun, 2026.</sub>
+<sub>Last updated by Github Actions on 11 Jun, 2026.</sub>
