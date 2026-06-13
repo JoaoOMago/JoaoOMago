@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8201 days**.
 
-And here is a just a random fact -  **The rarest chocolate bar in the world is the Porcelana bar. There are only 20,000 of these bars produced a year, and they sell for $90 per pound**.
+And here is a just a random fact -  **The mother of famous astronomer Johannes Kepler was accused of being a witch**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Jun, 2026.</sub>
+<sub>Last updated by Github Actions on 13 Jun, 2026.</sub>
