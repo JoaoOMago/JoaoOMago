@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8201 days**.
+Here is a random fact about me - I have been on this planet for **8202 days**.
 
-And here is a just a random fact -  **Sex acts like a natural antihistamine, in can clear up a stuffy nose**.
+And here is a just a random fact -  **A catfish has about 100,000 taste buds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
