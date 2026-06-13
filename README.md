@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8202 days**.
 
-And here is a just a random fact -  **215 jeans can be made with one bale of cotton**.
+And here is a just a random fact -  **The Lion King is the top grossing Disney movie of all-time with domestic gross intake of $312 million**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
