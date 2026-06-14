@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8202 days**.
+Here is a random fact about me - I have been on this planet for **8203 days**.
 
-And here is a just a random fact -  **In 1989, the space shuttle Discovery carried 32 fertilized chicken eggs into orbit**.
+And here is a just a random fact -  **It would take 29 million years for a car travelling 100 miles per hour to reach the nearest star**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
