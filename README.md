@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8205 days**.
+Here is a random fact about me - I have been on this planet for **8206 days**.
 
-And here is a just a random fact -  **At the 1960 Winter Olympic Games, Walt Disney was head of the committee that organized the opening day ceremonies**.
+And here is a just a random fact -  **Mickey Mouse is known as "Topolino" in Italy**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
