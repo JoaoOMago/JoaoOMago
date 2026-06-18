@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8206 days**.
+Here is a random fact about me - I have been on this planet for **8207 days**.
 
-And here is a just a random fact -  **2.5 cans of Spam are consumed every second in the United States**.
+And here is a just a random fact -  **The highest bridge in the world is located in the Himalyan mountains. It was built by the Indian Army, in 1982, and is about 5,600 metres above sea level**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
