@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8209 days**.
 
-And here is a just a random fact -  **The song "Strawberry Fields Forever" sung by the Beatles refers to an orphanage located in Liverpool**.
+And here is a just a random fact -  **Two million red blood cells die every second**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
