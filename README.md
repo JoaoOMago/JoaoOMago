@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8208 days**.
 
-And here is a just a random fact -  **It is estimated that over fifty-four million people died in World War II, which was the bloodiest war in history**.
+And here is a just a random fact -  **Arabic numerals were not invented by Arabs, but were invented in India by the Hindus**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 19 Jun, 2026.</sub>
+<sub>Last updated by Github Actions on 20 Jun, 2026.</sub>
