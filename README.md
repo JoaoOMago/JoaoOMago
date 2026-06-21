@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8210 days**.
 
-And here is a just a random fact -  **The number one cause of blindness in adults in the United States is diabetes**.
+And here is a just a random fact -  **Cows are able to hear lower and higher frequencies better than human beings**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
