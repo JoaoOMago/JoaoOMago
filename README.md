@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8209 days**.
 
-And here is a just a random fact -  **If a statue in the park of a person on a horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes**.
+And here is a just a random fact -  **The highest point in France is Mont Blanc, located in the Alps.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 20 Jun, 2026.</sub>
+<sub>Last updated by Github Actions on 21 Jun, 2026.</sub>
