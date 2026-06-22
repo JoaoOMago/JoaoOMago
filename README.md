@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8211 days**.
 
-And here is a just a random fact -  **A barnacle has the largest penis of any other animal in relation to its size**.
+And here is a just a random fact -  **The longest hiccups on record was by an American pig farmer whose hiccups persisted from 1922 to 1987**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
