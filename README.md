@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8211 days**.
 
-And here is a just a random fact -  **In Ontario, an average household income of a golfer is greater than $60,000**.
+And here is a just a random fact -  **In 1783, the hot air balloon was invented in France.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 22 Jun, 2026.</sub>
+<sub>Last updated by Github Actions on 23 Jun, 2026.</sub>
