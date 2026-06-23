@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8211 days**.
+Here is a random fact about me - I have been on this planet for **8212 days**.
 
-And here is a just a random fact -  **The first penny candy to be wrapped in America was the Tootsie Roll in 1896**.
+And here is a just a random fact -  **In Belgium, there is a museum just for strawberries**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
