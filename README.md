@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8213 days**.
 
-And here is a just a random fact -  **Some dolphins can swim up to 40 kilometers an hour**.
+And here is a just a random fact -  **Over 4.5 billion sticks have Trident gum have been chewed. If the stick of gum were laid out end to end they could circle the globe approximately 1.8 times**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
