@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8215 days**.
 
-And here is a just a random fact -  **It costs about 3 cents to make a $1 bill in the United States**.
+And here is a just a random fact -  **Every year, an igloo hotel is built in Sweden that has the capacity to sleep 100 people**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
