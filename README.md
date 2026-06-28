@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8216 days**.
 
-And here is a just a random fact -  **After the death of the genius, Albert Einstein, his brain was removed by a pathologist and put in a jar for future study**.
+And here is a just a random fact -  **The first music video ever played on MTV Europe was by Dire Straits, "Money For Nothing."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 27 Jun, 2026.</sub>
+<sub>Last updated by Github Actions on 28 Jun, 2026.</sub>
