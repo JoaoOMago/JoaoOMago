@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8217 days**.
 
-And here is a just a random fact -  **The famous Christmas song "Jingle Bells" was written for a Thanksgiving program in 1857 by James Pierpont. At the time, the song was called "The One-Horse Open Sleigh."**.
+And here is a just a random fact -  **The first World Series baseball playoffs occurred in 1903**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
