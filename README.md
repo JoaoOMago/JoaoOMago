@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8216 days**.
+Here is a random fact about me - I have been on this planet for **8217 days**.
 
-And here is a just a random fact -  **In one day, a queen bee can lay up to 1500 eggs in one day**.
+And here is a just a random fact -  **Sanskrit is considered as the mother of all higher languages. This is because it is the most precise, and therefore suitable language for computer software**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
