@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8220 days**.
+Here is a random fact about me - I have been on this planet for **8221 days**.
 
-And here is a just a random fact -  **There are more than 640 muscles in the human body**.
+And here is a just a random fact -  **The word "America" comes from the European explorer "Amerigo Vespucci**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
