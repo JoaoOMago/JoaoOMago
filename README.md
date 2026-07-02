@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8221 days**.
 
-And here is a just a random fact -  **The word "America" comes from the European explorer "Amerigo Vespucci**.
+And here is a just a random fact -  **The hydra, which is related to the jellyfish, can grow its body back in a couple of days if it is cut in half**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
