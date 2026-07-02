@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8221 days**.
 
-And here is a just a random fact -  **The hydra, which is related to the jellyfish, can grow its body back in a couple of days if it is cut in half**.
+And here is a just a random fact -  **Soaking beans for twelve hours in water before they are cooked can reduce flatulence caused by beans**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
