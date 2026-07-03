@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8222 days**.
 
-And here is a just a random fact -  **Every U.S. bill regardless of denomination costs just 4 cents to make**.
+And here is a just a random fact -  **It takes a sloth up to six days to digest the food it eats**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
