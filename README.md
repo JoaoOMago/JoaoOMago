@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8222 days**.
+Here is a random fact about me - I have been on this planet for **8223 days**.
 
-And here is a just a random fact -  **The first TV commercial advertisement was by the Bulova Watch company on July 1, 1941. The watch company paid $9.00 for an announcement that was 10 seconds long**.
+And here is a just a random fact -  **Many cancer patients that are treated with chemotherapy lose their hair. For some when the hair grows back, it can grow back a different colour, or be curly or straight**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
