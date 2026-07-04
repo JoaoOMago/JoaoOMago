@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8222 days**.
 
-And here is a just a random fact -  **The Arctic Ocean covers an area of about 14,056,000 sq miles**.
+And here is a just a random fact -  **The first TV commercial advertisement was by the Bulova Watch company on July 1, 1941. The watch company paid $9.00 for an announcement that was 10 seconds long**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
