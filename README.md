@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8223 days**.
 
-And here is a just a random fact -  **The national anthem of Greece has 158 verses**.
+And here is a just a random fact -  **On average redheads have 90,000 hairs. People with black hair have about 110,000 hairs**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
