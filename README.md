@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8224 days**.
 
-And here is a just a random fact -  **The words moron, imbecile, and idiot are not interchangable. The one with the highest level of intelligence is a moron, followed, by an imbecile, and then idiot**.
+And here is a just a random fact -  **44% of kids watch television before they go to sleep**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Jul, 2026.</sub>
+<sub>Last updated by Github Actions on 06 Jul, 2026.</sub>
