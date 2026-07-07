@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8226 days**.
 
-And here is a just a random fact -  **In 1888, Hollywood was founded by Harvey and Daeida Wilcox, who named the city after their summer home in Chicago**.
+And here is a just a random fact -  **Elvis Presley was obsessed with brushing his teeth**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
