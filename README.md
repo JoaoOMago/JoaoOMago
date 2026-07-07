@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8225 days**.
+Here is a random fact about me - I have been on this planet for **8226 days**.
 
-And here is a just a random fact -  **Morihei Ueshiba, founder of Aikido, once pinned an opponent using only a single finger**.
+And here is a just a random fact -  **In 1888, Hollywood was founded by Harvey and Daeida Wilcox, who named the city after their summer home in Chicago**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
