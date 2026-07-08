@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8226 days**.
 
-And here is a just a random fact -  **There are places in Saskatchewan called Elbow, Eyebrow, and Drinkwater**.
+And here is a just a random fact -  **It takes eight and a half minutes for light to get from the sun to earth.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
