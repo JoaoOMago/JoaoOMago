@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8227 days**.
 
-And here is a just a random fact -  **Some snails live on branches in trees**.
+And here is a just a random fact -  **Chicago has the largest cookie factory, where Nabisco made over 4.6 billion "Oreo" cookies in 1997**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 08 Jul, 2026.</sub>
+<sub>Last updated by Github Actions on 09 Jul, 2026.</sub>
