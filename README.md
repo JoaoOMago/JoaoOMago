@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8229 days**.
 
-And here is a just a random fact -  **Gardening is said to be one of the best exercises for maintaining healthy bones**.
+And here is a just a random fact -  **Thirty percent of all bingo players are under the age of 35**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
