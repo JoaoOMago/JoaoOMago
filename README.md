@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8228 days**.
+Here is a random fact about me - I have been on this planet for **8229 days**.
 
-And here is a just a random fact -  **The same amount of calories are burned by doing 6 sessions that are 5 minutes each of an activity and doing 1 session of that activity for 30 minutes**.
+And here is a just a random fact -  **People over the age of fifty will start to lose their dislike for foods that taste bitter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
