@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8230 days**.
 
-And here is a just a random fact -  **Blueberries have more antioxidents than any other fruit or vegetables**.
+And here is a just a random fact -  **The CN Tower located in Toronto, Ontario Canada took a total construction time of 40 months to complete at an original cost of $63 million**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
