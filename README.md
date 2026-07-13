@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8232 days**.
 
-And here is a just a random fact -  **The first Tupperware item marketed was the seven-ounce bathroom cup in 1945**.
+And here is a just a random fact -  **Ketchup originated in China as a pickled fish sauce called ke-tsiap**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
