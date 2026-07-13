@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8231 days**.
 
-And here is a just a random fact -  **Annually, approximately 46 millions Cokes, five million pounds of french fries, and seven million hamburgers are consumed at Walt Disney World Resort**.
+And here is a just a random fact -  **Only one person in two billion will live to be 116 or older.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Jul, 2026.</sub>
+<sub>Last updated by Github Actions on 13 Jul, 2026.</sub>
