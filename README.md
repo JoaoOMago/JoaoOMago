@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8233 days**.
 
-And here is a just a random fact -  **Percentage of Africa that is wilderness: 28%. Percentage of North America that is wilderness: 38%**.
+And here is a just a random fact -  **In Britain, there are approximately 50,000 pubs with 17,000 different names**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
