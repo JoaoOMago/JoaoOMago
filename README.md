@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8233 days**.
 
-And here is a just a random fact -  **Approximately one out of four injuries by athletes involve the wrist and hand**.
+And here is a just a random fact -  **Percentage of Africa that is wilderness: 28%. Percentage of North America that is wilderness: 38%**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
