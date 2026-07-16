@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8234 days**.
+Here is a random fact about me - I have been on this planet for **8235 days**.
 
-And here is a just a random fact -  **There is now an ATM at McMurdo Station in Antarctica, which has a winter population of two hundred people**.
+And here is a just a random fact -  **The reason firehouses have circular stairways is from the days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
