@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8234 days**.
 
-And here is a just a random fact -  **Rice flour was used to strengthen some of the bricks that make up the Great Wall of China**.
+And here is a just a random fact -  **Some silkworms can spin cocoons that contain more than two miles of silk**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 15 Jul, 2026.</sub>
+<sub>Last updated by Github Actions on 16 Jul, 2026.</sub>
