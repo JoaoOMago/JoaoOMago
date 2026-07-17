@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8235 days**.
 
-And here is a just a random fact -  **Hang On Sloopy is the official rock song of Ohio.**.
+And here is a just a random fact -  **French astronomer Adrien Auzout had once considered building a telescope that was 1,000 feet long in the 1600s. He thought the magnification would be so great, he would see animals on the moon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 16 Jul, 2026.</sub>
+<sub>Last updated by Github Actions on 17 Jul, 2026.</sub>
