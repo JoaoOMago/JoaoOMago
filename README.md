@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8238 days**.
 
-And here is a just a random fact -  **The 1988 move "Big" which was directed by Penny Marshall was the first movie by a female director to gross over $100 million domestically**.
+And here is a just a random fact -  **On average, 749 pounds of paper products is used by an American individual annually**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
