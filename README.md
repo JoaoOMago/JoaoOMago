@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8237 days**.
+Here is a random fact about me - I have been on this planet for **8238 days**.
 
-And here is a just a random fact -  **The Sears Tower in Chicago contains enough steel to build 50,000 automobiles**.
+And here is a just a random fact -  **The markings that are found on dice are called "pips."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
