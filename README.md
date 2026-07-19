@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8238 days**.
 
-And here is a just a random fact -  **The markings that are found on dice are called "pips."**.
+And here is a just a random fact -  **Over 200 varieties of watermelons are grown in the U.S**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
