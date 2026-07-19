@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8238 days**.
 
-And here is a just a random fact -  **About twenty-five percent of the population sneeze when they are exposed to light**.
+And here is a just a random fact -  **A meteor has only destroyed one satellite, which was the European Space Agency's Olympus in 1993.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
