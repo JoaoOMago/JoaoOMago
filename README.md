@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8239 days**.
 
-And here is a just a random fact -  **The only species of turtle that lives in the open ocean is the sea turtle**.
+And here is a just a random fact -  **3000 children die every day in Africa because of malaria**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
