@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8238 days**.
+Here is a random fact about me - I have been on this planet for **8239 days**.
 
-And here is a just a random fact -  **There is a restaurant in Stockholm that only offers all-garlic products. They even have a garlic cheesecake**.
+And here is a just a random fact -  **The word "maverick" came into use after Samuel Maverick, a Texan, refused to brand his cattle. Eventually any unbranded calf became known as a Maverick**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
