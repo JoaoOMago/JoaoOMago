@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8238 days**.
 
-And here is a just a random fact -  **In 1958, the United States Coast Guard off western Greenland measured the tallest known iceberg at five hundred and fifty feet**.
+And here is a just a random fact -  **There is a restaurant in Stockholm that only offers all-garlic products. They even have a garlic cheesecake**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
