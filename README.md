@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8239 days**.
+Here is a random fact about me - I have been on this planet for **8240 days**.
 
-And here is a just a random fact -  **For the movie "Tootsie" actor Dustin Hoffman thought of the title. His mother used to call him that as a child**.
+And here is a just a random fact -  **The seventeenth president of the United States, Andrew Johnson did not know how to read until he was 17 years old**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
