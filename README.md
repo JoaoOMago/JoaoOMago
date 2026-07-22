@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8240 days**.
 
-And here is a just a random fact -  **Abdul Kassam Ismael, Grand Vizier of Persia in the tenth century, carried his library with him wherever he went. Four hundred camels carried the 117,000 volumes**.
+And here is a just a random fact -  **A cockroach can change directions up to 25 times in a second**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 21 Jul, 2026.</sub>
+<sub>Last updated by Github Actions on 22 Jul, 2026.</sub>
