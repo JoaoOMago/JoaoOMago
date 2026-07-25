@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8243 days**.
 
-And here is a just a random fact -  **Since the United Nations was founded in 1945, there have been 140 wars**.
+And here is a just a random fact -  **It is possible to get high by licking a toad. The Cane Toad produces a toxin called bufotenine to ward off predators. When licked, this toxin acts as a hallucinogen**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Jul, 2026.</sub>
+<sub>Last updated by Github Actions on 25 Jul, 2026.</sub>
