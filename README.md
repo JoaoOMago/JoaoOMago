@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8244 days**.
 
-And here is a just a random fact -  **215 jeans can be made with one bale of cotton**.
+And here is a just a random fact -  **There are more than 2,000 different varieties of cheese in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
