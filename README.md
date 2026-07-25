@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8243 days**.
+Here is a random fact about me - I have been on this planet for **8244 days**.
 
-And here is a just a random fact -  **There are approximately 75,000,000 horses in the world**.
+And here is a just a random fact -  **There are about 6,800 languages in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
