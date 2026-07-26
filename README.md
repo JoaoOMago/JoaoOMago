@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8244 days**.
 
-And here is a just a random fact -  **Humans and dolphins are the only species that have sex for pleasure**.
+And here is a just a random fact -  **Pikeville, Kentucky consumes the most Pepsi per capita then any other American city**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Jul, 2026.</sub>
+<sub>Last updated by Github Actions on 26 Jul, 2026.</sub>
