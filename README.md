@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8245 days**.
 
-And here is a just a random fact -  **Macadamia nuts are not sold in their shells because it takes 300 pounds per square inch of pressure to break the shell**.
+And here is a just a random fact -  **In 1980, a Las Vegas hospital suspended workers for betting on when patients would die**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
