@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8244 days**.
+Here is a random fact about me - I have been on this planet for **8245 days**.
 
-And here is a just a random fact -  **There are an average of 178 sesame seeds on a McDonald's Big Mac bun.**.
+And here is a just a random fact -  **The only desert in Canada is located in Osoyoos, British Columbia**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
