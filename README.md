@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8245 days**.
+Here is a random fact about me - I have been on this planet for **8246 days**.
 
-And here is a just a random fact -  **NASCAR stands for National Association for Stock Car Auto Racing**.
+And here is a just a random fact -  **In the past 60 years, the groundhog has only predicted the weather correctly 28% of the time. The rushing back and forth from burrows is believed to indicate sexual activity, not shadow seeking**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
