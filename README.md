@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8245 days**.
 
-And here is a just a random fact -  **In 1980, a Las Vegas hospital suspended workers for betting on when patients would die**.
+And here is a just a random fact -  **Nerve impulses for muscle position travel at a speed of up to 390 feet per second**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Jul, 2026.</sub>
+<sub>Last updated by Github Actions on 27 Jul, 2026.</sub>
