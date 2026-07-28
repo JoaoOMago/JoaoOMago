@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8247 days**.
 
-And here is a just a random fact -  **The property (ID, Facts) VALUES on the Monopoly game board are the same today as they were in 1935**.
+And here is a just a random fact -  **Canola oil is actually rapeseed oil but the name was changed in Canada for marketing reasons**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
