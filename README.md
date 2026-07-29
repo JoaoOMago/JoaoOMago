@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8247 days**.
+Here is a random fact about me - I have been on this planet for **8248 days**.
 
-And here is a just a random fact -  **Each honeycomb in Honeycomb cereal has seven holes**.
+And here is a just a random fact -  **Feb 1865 and Feb 1999 are the only months in recorded history not to have a full moon**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
