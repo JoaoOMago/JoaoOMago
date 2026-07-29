@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8247 days**.
 
-And here is a just a random fact -  **The sound made by the Victoria Falls in Zimbabwe is so loud that it can be heard 40 miles away**.
+And here is a just a random fact -  **Each honeycomb in Honeycomb cereal has seven holes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
