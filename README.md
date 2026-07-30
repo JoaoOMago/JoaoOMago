@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8249 days**.
 
-And here is a just a random fact -  **Only 23% of New Zealand families have more than two children**.
+And here is a just a random fact -  **The term "the whole 9 yards" came from W.W.II fighter pilots in the South Pacific. When arming their airplanes on the ground, the .50 caliber machine gun ammo belts measured exactly 27 feet, before being loaded into the fuselage. If the pilots fired all their ammo at a target, it got "the whole 9 yards."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
