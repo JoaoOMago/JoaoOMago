@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8248 days**.
+Here is a random fact about me - I have been on this planet for **8249 days**.
 
-And here is a just a random fact -  **Dueling is legal in Paraguay as long as both parties are registered blood donors**.
+And here is a just a random fact -  **If all the strawberries produced in California annually were put side by side, they would wrap around the Earth fifteen times**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
