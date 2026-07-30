@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8248 days**.
 
-And here is a just a random fact -  **Romans, in the third century, believed that the lemon was an antidote for all poisons**.
+And here is a just a random fact -  **In 1936, the first practical helicopter was invented. It was the German Focke-Wulf Fw 61.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 29 Jul, 2026.</sub>
+<sub>Last updated by Github Actions on 30 Jul, 2026.</sub>
