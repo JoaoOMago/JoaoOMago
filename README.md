@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8250 days**.
 
-And here is a just a random fact -  **Carolyn Shoemaker, famous astronomer, has discovered 32 comets and approximately 300 asteroids**.
+And here is a just a random fact -  **The all-time most nominated Grammy artist with 77 nominations is Quincy Jones**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
