@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8250 days**.
+Here is a random fact about me - I have been on this planet for **8251 days**.
 
-And here is a just a random fact -  **Taco Bell serves over 35 million consumers each week in the USA**.
+And here is a just a random fact -  **Over half the textile fibers that are used in the world are cotton**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
