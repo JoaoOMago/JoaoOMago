@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8251 days**.
 
-And here is a just a random fact -  **The smallest stamp in the world was issued in 1863 by the Columbian state of Bolivar and measured 9.5 x 8mm**.
+And here is a just a random fact -  **The two top toys in 1950 were Silly Putty which sold for $1, and Crayola crayons which sold for 50 cents**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
