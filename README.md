@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8251 days**.
 
-And here is a just a random fact -  **An olive tree can live up to 1500 years**.
+And here is a just a random fact -  **Penguins can jump as high as 6 feet in the air**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
