@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8251 days**.
+Here is a random fact about me - I have been on this planet for **8252 days**.
 
-And here is a just a random fact -  **Penguins can jump as high as 6 feet in the air**.
+And here is a just a random fact -  **Every day 2,700 people die of heart disease**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
