@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8253 days**.
 
-And here is a just a random fact -  **On average, Americans spend $1300 on utility bills annually**.
+And here is a just a random fact -  **Corned beef got its name because this beef was preserved with pellets of salt that were the size of corn kernels, which was also referred to as "corns" of salt**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
