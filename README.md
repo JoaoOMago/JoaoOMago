@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8255 days**.
 
-And here is a just a random fact -  **Slinkys were invented by an airplane mechanic; he was playing with engine parts and realized the possible secondary use of one of the springs**.
+And here is a just a random fact -  **The right lung of a human is larger than the left one. This is because of the space and placement of the heart**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
