@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8254 days**.
+Here is a random fact about me - I have been on this planet for **8255 days**.
 
-And here is a just a random fact -  **In ancient Rome, lead poisoning was a prevalent disease amongst the wealthy because of their extensive use of lead. Many Roman women died because of lead poisoning caused by the use of make-up that contained lead**.
+And here is a just a random fact -  **Amtrak is the combination of the words "American" and "Track"**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
