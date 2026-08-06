@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8255 days**.
 
-And here is a just a random fact -  **The parents of Albert Einstein were worried that he was mentally slow because it took him a long time to learn how to speak**.
+And here is a just a random fact -  **Even if you eat food standing on your head, the food will still end up in your stomach**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
