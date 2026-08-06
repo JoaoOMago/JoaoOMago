@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8255 days**.
+Here is a random fact about me - I have been on this planet for **8256 days**.
 
-And here is a just a random fact -  **Even if you eat food standing on your head, the food will still end up in your stomach**.
+And here is a just a random fact -  **The Welwitschia plant can live up to 1,000 years**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
