@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8258 days**.
 
-And here is a just a random fact -  **A glockenspiel is a musical instrument that is like a xylophone. It has a series of metal bars and is played with two hammers**.
+And here is a just a random fact -  **After the Eiffel Tower was built, one person was killed during the installation of the lifts. No one was killed during the actual construction of the tower**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
