@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8259 days**.
 
-And here is a just a random fact -  **An acre of trees can remove about 13 tons of dust and gases every year from the surrounding environment**.
+And here is a just a random fact -  **Play-Doh was introduced in 1956 by Hasbro Inc. The only color availabe was an off white, and it came in one size which a one and a half pound can**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
