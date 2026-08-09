@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8258 days**.
 
-And here is a just a random fact -  **Cow is a Japanese brand of shaving foam**.
+And here is a just a random fact -  **Adult earwigs can float in water for up to 24 hours**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 08 Aug, 2026.</sub>
+<sub>Last updated by Github Actions on 09 Aug, 2026.</sub>
