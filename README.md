@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8259 days**.
 
-And here is a just a random fact -  **The A.A. Milne character of Winnie the Pooh made his animated film debut in 1966 in Winnie the Pooh and the Honey Tree**.
+And here is a just a random fact -  **During the female orgasm, endorphines are released, which are powerful painkillers. So headaches are in fact a bad excuse not to have sex**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
