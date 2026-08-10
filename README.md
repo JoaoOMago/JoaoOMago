@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8259 days**.
 
-And here is a just a random fact -  **Vasaloppet, which is located in Sweden is the oldest, longest, and the biggest cross-country ski race in the world. Every year, 14,000 people compete in the race**.
+And here is a just a random fact -  **The largest member of the dolphin family are orcas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
