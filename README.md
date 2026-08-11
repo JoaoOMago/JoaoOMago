@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8260 days**.
+Here is a random fact about me - I have been on this planet for **8261 days**.
 
-And here is a just a random fact -  **The biggest hamburger that was served was 8,266 pounds. It was made at the Burger Fest in Seymour, Wisconsin**.
+And here is a just a random fact -  **There is a species of bird, Antpitta avis canis Ridgley, that barks like a dog**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
