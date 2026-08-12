@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8262 days**.
 
-And here is a just a random fact -  **Wild Flamingos are pink because they consume vast quantities of algae and brine shrimp**.
+And here is a just a random fact -  **The Olympics were originally held for the Greek god Zeus**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
