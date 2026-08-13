@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8262 days**.
 
-And here is a just a random fact -  **When Coca-Cola was invented, American tourists that visited Spain were surprised to see that Coke was three times as expensive as a glass of brandy**.
+And here is a just a random fact -  **You are more likely to be killed by a champagne cork than by a poisonous spider**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Aug, 2026.</sub>
+<sub>Last updated by Github Actions on 13 Aug, 2026.</sub>
