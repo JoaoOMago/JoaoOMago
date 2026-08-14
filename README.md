@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8263 days**.
 
-And here is a just a random fact -  **The fastest growing tissue in the human body is hair**.
+And here is a just a random fact -  **Americans, on average, spend 18% of his or her income on transportation as compared to only 13% spent on food**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 13 Aug, 2026.</sub>
+<sub>Last updated by Github Actions on 14 Aug, 2026.</sub>
