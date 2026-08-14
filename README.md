@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8264 days**.
 
-And here is a just a random fact -  **The six official languages of the United Nations are Arabic, Chinese, English, French, Russian, and Spanish**.
+And here is a just a random fact -  **There are approximately 1300 species of scorpion but only 25 of them are deadly**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
