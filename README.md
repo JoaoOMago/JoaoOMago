@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8263 days**.
 
-And here is a just a random fact -  **The earliest known example of an organized market for equities dates from Rome, second century B.C**.
+And here is a just a random fact -  **The Hawaiian alphabet only has 12 letters**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
