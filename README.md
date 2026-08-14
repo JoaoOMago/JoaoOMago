@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8263 days**.
 
-And here is a just a random fact -  **Americans, on average, spend 18% of his or her income on transportation as compared to only 13% spent on food**.
+And here is a just a random fact -  **In 1953, racecar driver Tim Flock raced at Nascar with a monkey in the seat beside him**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
