@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8264 days**.
 
-And here is a just a random fact -  **All of the clocks in the movie Pulp Fiction are stuck on 4:20**.
+And here is a just a random fact -  **There was a 19th century Native American tribal chief who went under the name, "Not Able to Fornicate."**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
