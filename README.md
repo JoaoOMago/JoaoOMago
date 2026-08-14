@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8264 days**.
 
-And here is a just a random fact -  **Basketball great Wilt Chamberlain never fouled out of a game**.
+And here is a just a random fact -  **People in low-income homes spend 50% more time playing video games than people in high-income homes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
