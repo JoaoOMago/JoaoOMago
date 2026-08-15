@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8264 days**.
 
-And here is a just a random fact -  **A maple tree is usually tapped when the tree is at least 45 years old and has a diameter of 12 inches**.
+And here is a just a random fact -  **When the Pez mint dispenser was first introduced it was meant to replace the activity of smoking**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
