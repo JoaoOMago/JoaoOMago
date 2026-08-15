@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8264 days**.
 
-And here is a just a random fact -  **People in low-income homes spend 50% more time playing video games than people in high-income homes**.
+And here is a just a random fact -  **People over the age of fifty will start to lose their dislike for foods that taste bitter**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 14 Aug, 2026.</sub>
+<sub>Last updated by Github Actions on 15 Aug, 2026.</sub>
