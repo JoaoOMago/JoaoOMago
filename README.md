@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8265 days**.
 
-And here is a just a random fact -  **The largest fish in the world is the whale shark. It can weigh several tons and grow to more than fifty feet in length**.
+And here is a just a random fact -  **Before its name was changed, the African Penguin used be called the Jackass Penguin because of its donkey-like braying call**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
