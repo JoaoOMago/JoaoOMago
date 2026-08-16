@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8265 days**.
 
-And here is a just a random fact -  **A single chocolate chip gives enough energy to a human being to walk 150 feet**.
+And here is a just a random fact -  **The only real person to be a Pez head was Betsy Ross**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
