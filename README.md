@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8265 days**.
 
-And here is a just a random fact -  **American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class**.
+And here is a just a random fact -  **The Canandian province of New Brunswick had a bloodless war with the US state of Maine in 1839.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
