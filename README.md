@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8265 days**.
+Here is a random fact about me - I have been on this planet for **8266 days**.
 
-And here is a just a random fact -  **The Canandian province of New Brunswick had a bloodless war with the US state of Maine in 1839.**.
+And here is a just a random fact -  **There are 50% more males that are left handed compared to females**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
