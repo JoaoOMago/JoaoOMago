@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8267 days**.
 
-And here is a just a random fact -  **98% of houses in the United States have at least one television set**.
+And here is a just a random fact -  **The Chinese politician Mao Zedong refused to ever brush his teeth and instead just washed his mouth with tea**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
