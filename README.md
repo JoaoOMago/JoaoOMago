@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8266 days**.
 
-And here is a just a random fact -  **The reason why some people get a cowlick is because the growth of their hair is in a spiral pattern, which causes the hair to either stand straight up, or goes to a certain angle**.
+And here is a just a random fact -  **Only one person in two billion will live to be 116 or older**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 16 Aug, 2026.</sub>
+<sub>Last updated by Github Actions on 17 Aug, 2026.</sub>
