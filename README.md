@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8266 days**.
 
-And here is a just a random fact -  **Everyday, U.S. business use enough paper to circle the Earth over 20 times**.
+And here is a just a random fact -  **Sports Illustrated has the largest sports magazine circulation**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
