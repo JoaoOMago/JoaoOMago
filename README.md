@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8268 days**.
 
-And here is a just a random fact -  **The quills of a porcupine are soft when they are born**.
+And here is a just a random fact -  **The silk that is produced by spiders is stronger than steel**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
