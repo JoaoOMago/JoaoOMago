@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8267 days**.
 
-And here is a just a random fact -  **A Russian man who wore a beard during the time of Peter the Great had to pay a special tax**.
+And here is a just a random fact -  **The first commercial microwave oven was called the "1161 Radarange" and was the size of a refrigerator**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
