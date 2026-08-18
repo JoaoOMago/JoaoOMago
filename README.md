@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8268 days**.
 
-And here is a just a random fact -  **In the United States, 80% of households have oatmeal in their kitchen**.
+And here is a just a random fact -  **On average, the American household consumes six pounds of peanut butter annually**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
