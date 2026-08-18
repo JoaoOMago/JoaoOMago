@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8267 days**.
 
-And here is a just a random fact -  **The cornea is the only living tissue in the human body that does not contain any blood vessels**.
+And here is a just a random fact -  **A Russian man who wore a beard during the time of Peter the Great had to pay a special tax**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
