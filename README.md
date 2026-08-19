@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8269 days**.
 
-And here is a just a random fact -  **Serving ice cream on cherry pie was once illegal in Kansas**.
+And here is a just a random fact -  **Next to Warsaw, Chicago has the largest Polish population in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
