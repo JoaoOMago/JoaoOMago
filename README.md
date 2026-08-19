@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8268 days**.
 
-And here is a just a random fact -  **Pigs have no sweat glands, which is why they stay in water or mud to keep cool**.
+And here is a just a random fact -  **Each day the sun causes about one trillion tons of water to evaporate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
