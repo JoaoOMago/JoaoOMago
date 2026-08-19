@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8269 days**.
 
-And here is a just a random fact -  **The Xerox company was initially called the Haloid Company**.
+And here is a just a random fact -  **The Stanley Cup originally was only seven and a half inches high**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
