@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8269 days**.
 
-And here is a just a random fact -  **The mythical Scottish town of Brigadoon appears for one day every one hundred years**.
+And here is a just a random fact -  **Swiss engineer George de Mestral, who got the idea after noticing burrs were sticking to his pants after his regular walks through the woods, invented Velcro.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
