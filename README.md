@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8269 days**.
 
-And here is a just a random fact -  **In a year approximately 900 million trees are cut down to make the raw materials needed for American pulp mills and paper**.
+And here is a just a random fact -  **One of the reasons marijuana is illegal today because cotton growers in the 30s lobbied against hemp farmers -- they saw it as competition. It is not chemically addictive as is nicotine, alcohol, or caffeine**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
