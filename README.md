@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8269 days**.
 
-And here is a just a random fact -  **The company Chanel claims that every 30 seconds, somewhere in the world, a bottle of Chanel No 5 is sold**.
+And here is a just a random fact -  **In a year approximately 900 million trees are cut down to make the raw materials needed for American pulp mills and paper**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
