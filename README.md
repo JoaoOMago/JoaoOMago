@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8270 days**.
 
-And here is a just a random fact -  **On a ship a toilet is called a head**.
+And here is a just a random fact -  **Scallops have approximately 100 eyes around the edge of its shell**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
