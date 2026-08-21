@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8271 days**.
 
-And here is a just a random fact -  **In one day, 230 marriage licenses are issued in Las Vegas**.
+And here is a just a random fact -  **Forty percent of Americans iron their clothes while wearing their underwear or being completely naked**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
