@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8270 days**.
 
-And here is a just a random fact -  **To make one pound of whole milk cheese, 10 pounds of whole milk is needed**.
+And here is a just a random fact -  **The name of the popular sports drink Gatorade was named for the University of Florida Gators where it was developed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
