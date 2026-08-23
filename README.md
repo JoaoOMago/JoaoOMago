@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8272 days**.
+Here is a random fact about me - I have been on this planet for **8273 days**.
 
-And here is a just a random fact -  **Four billion pounds of watermelon were grown in the United States in 1999**.
+And here is a just a random fact -  **Birds do not sweat, as they do not have sweat glands**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
