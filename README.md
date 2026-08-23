@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8273 days**.
 
-And here is a just a random fact -  **In 1965, the price for an issue of TV Guide was 15 cents**.
+And here is a just a random fact -  **Influenza caused over twenty-one million deaths in 1918**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
