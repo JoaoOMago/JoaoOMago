@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8272 days**.
 
-And here is a just a random fact -  **The Nike swoosh was invented by Caroline Davidson back in 1971. She received $35 for making the swoosh. The first shoe with the swoosh was introduced in 1972**.
+And here is a just a random fact -  **Ramses II, a pharaoh of Egypt died in 1225 B.C. At the time of his death, he had fathered 96 sons and 60 daughters**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
