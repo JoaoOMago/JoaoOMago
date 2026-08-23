@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8272 days**.
 
-And here is a just a random fact -  **The difference between horns and antlers is that horns never stop growing and antlers shed and grow every year**.
+And here is a just a random fact -  **In 1992, the Antarctic Ozone hole was larger than the continent of North America.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 22 Aug, 2026.</sub>
+<sub>Last updated by Github Actions on 23 Aug, 2026.</sub>
