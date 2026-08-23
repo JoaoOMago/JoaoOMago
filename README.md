@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8272 days**.
 
-And here is a just a random fact -  **The world record for time without sleep is 264 hours (11 days) by Randy Gardner in 1965**.
+And here is a just a random fact -  **The Nike swoosh was invented by Caroline Davidson back in 1971. She received $35 for making the swoosh. The first shoe with the swoosh was introduced in 1972**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
