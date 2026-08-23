@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8273 days**.
 
-And here is a just a random fact -  **White-Out was invented by Bette Nesmith Graham, who is the mother of Michael Nesmith from the "The Monkees."**.
+And here is a just a random fact -  **A 13-year-old boy in India produced winged beetles in his urine after hatching the eggs in his body**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
