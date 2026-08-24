@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8273 days**.
 
-And here is a just a random fact -  **In the movie Psycho by Alfred Hitchcock, chocolate syrup was used for blood in the shower scene**.
+And here is a just a random fact -  **The desert tortoise can live without having to drink any water. It extracts the water it needs from the vegetation it eats**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 23 Aug, 2026.</sub>
+<sub>Last updated by Github Actions on 24 Aug, 2026.</sub>
