@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8274 days**.
 
-And here is a just a random fact -  **The largest cereal company in the world is Quaker Oats, located in Cedar Rapids, Iowa, USA**.
+And here is a just a random fact -  **A jiffy is an actual unit of time for 1/100th of a second. Thus the saying, I will be there in a jiffy.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Aug, 2026.</sub>
+<sub>Last updated by Github Actions on 25 Aug, 2026.</sub>
