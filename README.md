@@ -10,9 +10,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8275 days**.
+Here is a random fact about me - I have been on this planet for **8276 days**.
 
-And here is a just a random fact -  **The only woman that has appeared on a U.S. paper currency is Martha Washington**.
+And here is a just a random fact -  **Sharks are so powerful that their bite can generate a force of up to 18 tons per square inch**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
