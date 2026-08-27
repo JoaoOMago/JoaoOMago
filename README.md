@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8276 days**.
 
-And here is a just a random fact -  **Every continent has a city called Rome**.
+And here is a just a random fact -  **The Food and Drug Administration says the most common injury from cosmetics comes from scratching the eye with a mascara wand**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Aug, 2026.</sub>
+<sub>Last updated by Github Actions on 27 Aug, 2026.</sub>
