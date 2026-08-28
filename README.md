@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8277 days**.
 
-And here is a just a random fact -  **The only commercial aircraft that is able to break the sound barrier is the Concorde.**.
+And here is a just a random fact -  **There is an area located off the south-eastern Atlantic coast of the United States called the "Bermuda Triangle." It is known for a high rate of unexplained losses of ships, small boats, and aircraft, which has led some people to believe that this triangle has supernatural powers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 27 Aug, 2026.</sub>
+<sub>Last updated by Github Actions on 28 Aug, 2026.</sub>
