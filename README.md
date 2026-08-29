@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8278 days**.
 
-And here is a just a random fact -  **A duck's quack doesn't echo, and no one knows why.**.
+And here is a just a random fact -  **Chances of a women getting breast cancer are increased by excesseive use of alcohol**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 28 Aug, 2026.</sub>
+<sub>Last updated by Github Actions on 29 Aug, 2026.</sub>
