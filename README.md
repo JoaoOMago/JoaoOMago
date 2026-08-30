@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8280 days**.
 
-And here is a just a random fact -  **On April 6, 1925, the first in-flight movie was shown. It was a silent film and appeared on a Deutsche Luft Hansa flight**.
+And here is a just a random fact -  **When baby sharks are born, they swim away from their mothers right away and are on there own. In fact, their mothers might see them as prey**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
