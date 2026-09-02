@@ -12,7 +12,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8283 days**.
 
-And here is a just a random fact -  **American novelist Mark Twain was the first known author to submit a typed manuscript**.
+And here is a just a random fact -  **Archeologists report that cannabis was most likely the first plant cultivated by humans. Cannabis was used for linen, paper, and garments**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
