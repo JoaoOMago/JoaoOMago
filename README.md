@@ -12,8 +12,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8282 days**.
 
-And here is a just a random fact -  **At lift off, US space shuttles weight about 4.5 million pounds.**.
+And here is a just a random fact -  **One out of 20 people have an extra rib**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 01 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 02 Sep, 2026.</sub>
