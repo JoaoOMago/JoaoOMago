@@ -1,3 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
-  <path d="M12 2a10 10 0 0 0-10 10c0 4.7 3.25 8.64 7.64 9.7l2.84-4.14a2.98 2.98 0 0 1-.48-.06l-3.3 1.37a5.52 5.52 0 0 1-1.2-8.37l4.03 1.68a3 3 0 0 1 5.47-1.18l4.47-1.87A10 10 0 0 0 12 2zm3 6a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm-5.63 7.85l2.42-1a2.98 2.98 0 0 1 1.71 1.7l-2.42 1a2.98 2.98 0 0 1-1.71-1.7z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <!-- Borda branca envolta do ícone -->
+  <rect x="1" y="1" width="22" height="22" rx="5" fill="none" stroke="#ffffff" stroke-width="1.5"/>
+  <!-- Ícone Steam -->
+  <g transform="translate(3.5, 3.5) scale(0.708)" fill="#ffffff">
+    <path d="M12 2a10 10 0 0 0-10 10c0 4.7 3.25 8.64 7.64 9.7l2.84-4.14a2.98 2.98 0 0 1-.48-.06l-3.3 1.37a5.52 5.52 0 0 1-1.2-8.37l4.03 1.68a3 3 0 0 1 5.47-1.18l4.47-1.87A10 10 0 0 0 12 2zm3 6a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm-5.63 7.85l2.42-1a2.98 2.98 0 0 1 1.71 1.7l-2.42 1a2.98 2.98 0 0 1-1.71-1.7z"/>
+  </g>
 </svg>
