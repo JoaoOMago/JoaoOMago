@@ -1,0 +1,109 @@
+[
+  {
+    "id": "cyber-strike",
+    "order": 1,
+    "status": "visible",
+    "date": "2026-06-15",
+    "title": {
+      "pt": "Cyber Strike: Neon Protocol",
+      "en": "Cyber Strike: Neon Protocol"
+    },
+    "summary": {
+      "pt": "Jogo de ação e tiro espacial tático em 2.5D, desenvolvido em WebGL puro com trilha sonora adaptativa e renderização em 60 FPS.",
+      "en": "Tactical 2.5D space action and combat game built with pure WebGL, featuring adaptive electronic soundtrack and smooth 60 FPS rendering."
+    },
+    "tags": [
+      "GameDev",
+      "WebGL",
+      "TypeScript",
+      "Canvas",
+      "WebAudio"
+    ],
+    "cover": "assets/projetos/cyber-strike/media/capa.svg",
+    "video": "assets/projetos/cyber-strike/media/demo.mp4",
+    "demoUrl": "https://example.com/cyber-strike",
+    "repoUrl": "https://github.com/example/cyber-strike",
+    "languages": [
+      "en",
+      "pt"
+    ]
+  },
+  {
+    "id": "data-sphere",
+    "order": 2,
+    "status": "visible",
+    "date": "2026-04-10",
+    "title": {
+      "pt": "DataSphere: Analytics & Realtime Visualizer",
+      "en": "DataSphere: Analytics & Realtime Visualizer"
+    },
+    "summary": {
+      "pt": "Dashboard interativo de alta performance para monitoramento de métricas e telemetria em tempo real com gráficos vetoriais e Dark Mode nativo.",
+      "en": "High-performance interactive dashboard for real-time telemetry and metric visualization, built with responsive vector charts and native Dark Mode."
+    },
+    "tags": [
+      "Dashboard",
+      "Analytics",
+      "DataViz",
+      "SVG",
+      "Performance"
+    ],
+    "cover": "assets/projetos/data-sphere/media/capa.svg",
+    "demoUrl": "https://example.com/datasphere",
+    "repoUrl": "https://github.com/example/datasphere",
+    "languages": [
+      "en",
+      "pt"
+    ]
+  },
+  {
+    "id": "retro-synth",
+    "order": 3,
+    "status": "visible",
+    "date": "2026-02-20",
+    "title": {
+      "pt": "RetroSynth: Polyphonic FM Synthesizer",
+      "en": "RetroSynth: Polyphonic FM Synthesizer"
+    },
+    "summary": {
+      "pt": "Sintetizador polifônico virtual de 8 vozes com síntese FM, filtros ladder e suporte a teclado MIDI via Web MIDI API.",
+      "en": "Virtual 8-voice polyphonic synthesizer featuring FM synthesis, resonant ladder filters, and plug-and-play Web MIDI API support."
+    },
+    "tags": [
+      "WebAudio",
+      "DSP",
+      "MusicTech",
+      "MIDI"
+    ],
+    "cover": "assets/projetos/retro-synth/media/capa.svg",
+    "demoUrl": "https://example.com/retrosynth",
+    "repoUrl": "https://github.com/example/retrosynth",
+    "languages": [
+      "en",
+      "pt"
+    ]
+  },
+  {
+    "id": "project-draft-test",
+    "order": 99,
+    "status": "hidden",
+    "date": "2026-01-01",
+    "title": {
+      "pt": "Projeto Experimental Oculto (Draft)",
+      "en": "Hidden Experimental Project (Draft)"
+    },
+    "summary": {
+      "pt": "Este projeto está com status 'hidden' no meta.json, portanto é ignorado e não aparece no feed público.",
+      "en": "This project has status 'hidden' in meta.json, so it is filtered out and will not show up in the public feed."
+    },
+    "tags": [
+      "Draft",
+      "WIP"
+    ],
+    "cover": "assets/icons/code.svg",
+    "languages": [
+      "pt",
+      "en"
+    ]
+  }
+]

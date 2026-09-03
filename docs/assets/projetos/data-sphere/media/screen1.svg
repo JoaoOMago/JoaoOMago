@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="100%" height="100%">
+  <rect width="600" height="340" fill="#101822" rx="8" stroke="rgba(102, 192, 244, 0.25)"/>
+  <!-- Topbar -->
+  <rect width="600" height="36" fill="#1b2838" rx="8 8 0 0"/>
+  <circle cx="20" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="36" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="52" cy="18" r="5" fill="#27c93f"/>
+  <text x="300" y="23" font-family="sans-serif" font-size="12" fill="#c7d5e0" text-anchor="middle">DataSphere - Cluster Topology &amp; RPS Monitor</text>
+  <!-- Content Cards -->
+  <rect x="20" y="52" width="170" height="80" rx="4" fill="#162230" stroke="#2a475e"/>
+  <text x="32" y="74" font-family="sans-serif" font-size="11" fill="#8f98a0">GLOBAL RPS</text>
+  <text x="32" y="112" font-family="sans-serif" font-size="24" font-weight="bold" fill="#66c0f4">42,850/s</text>
+
+  <rect x="210" y="52" width="170" height="80" rx="4" fill="#162230" stroke="#2a475e"/>
+  <text x="222" y="74" font-family="sans-serif" font-size="11" fill="#8f98a0">P99 LATENCY</text>
+  <text x="222" y="112" font-family="sans-serif" font-size="24" font-weight="bold" fill="#a4d007">14.2 ms</text>
+
+  <rect x="400" y="52" width="180" height="80" rx="4" fill="#162230" stroke="#2a475e"/>
+  <text x="412" y="74" font-family="sans-serif" font-size="11" fill="#8f98a0">ERROR BUDGET</text>
+  <text x="412" y="112" font-family="sans-serif" font-size="24" font-weight="bold" fill="#57cbde">99.98%</text>
+
+  <!-- Big Graph -->
+  <rect x="20" y="148" width="560" height="170" rx="4" fill="#162230" stroke="#2a475e"/>
+  <path d="M 30 280 L 80 250 L 140 270 L 200 210 L 260 230 L 320 180 L 380 200 L 440 165 L 500 190 L 560 170" fill="none" stroke="#66c0f4" stroke-width="3"/>
+  <path d="M 30 295 L 80 285 L 140 290 L 200 270 L 260 275 L 320 260 L 380 265 L 440 250 L 500 255 L 560 245" fill="none" stroke="#a4d007" stroke-width="2"/>
+</svg>

@@ -1,0 +1,24 @@
+<div class="modal-content-html">
+  <h2>Sobre o Projeto</h2>
+  <p>
+    <strong>Cyber Strike: Neon Protocol</strong> é um simulador de combate tático espacial arcade com estética cyberpunk retrô. Projetado para rodar diretamente nos navegadores modernos sem plugins adicionais ou dependências pesadas, atingindo sólidos 60 quadros por segundo mesmo em dispositivos intermediários.
+  </p>
+
+  <h3>Destaques e Funcionalidades</h3>
+  <ul>
+    <li><strong>Pipeline WebGL Customizado:</strong> Shaders de pós-processamento para efeito de bloom, aberração cromática e linhas de scan CRT opcionais.</li>
+    <li><strong>Trilha Sonora e Efeitos de Áudio Dinâmicos:</strong> Implementado via <code>Web Audio API</code> com sintetizadores sintetizados proceduralmente para lasers e explosões.</li>
+    <li><strong>Sistema de Física Arcade:</strong> Colisões vetoriais SAT (Separating Axis Theorem) e partículas com aceleração contínua.</li>
+    <li><strong>Suporte a Controles:</strong> Totalmente jogável via Teclado/Mouse ou Gamepads compatíveis (Xbox, DualShock).</li>
+  </ul>
+
+  <h3>Tecnologias Utilizadas</h3>
+  <p>
+    Construído utilizando <code>TypeScript</code>, <code>WebGL 2.0</code>, <code>GLSL Shaders</code>, <code>Web Audio API</code> e arquitetura modular ECS (Entity Component System) para escalabilidade dos inimigos e projéteis.
+  </p>
+
+  <h3>Desafios de Engenharia</h3>
+  <p>
+    O principal desafio foi manter a contagem de draw calls baixa em momentos de chuva de projéteis. Isso foi resolvido através de <em>instanced mesh rendering</em>, permitindo mais de 2.000 partículas ativas simultâneas com baixo uso de CPU.
+  </p>
+</div>

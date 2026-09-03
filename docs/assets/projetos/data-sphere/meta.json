@@ -1,0 +1,19 @@
+{
+  "id": "data-sphere",
+  "order": 2,
+  "status": "visible",
+  "date": "2026-04-10",
+  "title": {
+    "pt": "DataSphere: Analytics & Realtime Visualizer",
+    "en": "DataSphere: Analytics & Realtime Visualizer"
+  },
+  "summary": {
+    "pt": "Dashboard interativo de alta performance para monitoramento de métricas e telemetria em tempo real com gráficos vetoriais e Dark Mode nativo.",
+    "en": "High-performance interactive dashboard for real-time telemetry and metric visualization, built with responsive vector charts and native Dark Mode."
+  },
+  "tags": ["Dashboard", "Analytics", "DataViz", "SVG", "Performance"],
+  "cover": "assets/projetos/data-sphere/media/capa.svg",
+  "demoUrl": "https://example.com/datasphere",
+  "repoUrl": "https://github.com/example/datasphere",
+  "languages": ["pt", "en"]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "project-draft-test",
+  "order": 99,
+  "status": "hidden",
+  "date": "2026-01-01",
+  "title": {
+    "pt": "Projeto Experimental Oculto (Draft)",
+    "en": "Hidden Experimental Project (Draft)"
+  },
+  "summary": {
+    "pt": "Este projeto está com status 'hidden' no meta.json, portanto é ignorado e não aparece no feed público.",
+    "en": "This project has status 'hidden' in meta.json, so it is filtered out and will not show up in the public feed."
+  },
+  "tags": ["Draft", "WIP"],
+  "cover": "assets/icons/code.svg",
+  "languages": ["pt", "en"]
+}

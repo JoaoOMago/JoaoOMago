@@ -1,0 +1,19 @@
+{
+  "id": "retro-synth",
+  "order": 3,
+  "status": "visible",
+  "date": "2026-02-20",
+  "title": {
+    "pt": "RetroSynth: Polyphonic FM Synthesizer",
+    "en": "RetroSynth: Polyphonic FM Synthesizer"
+  },
+  "summary": {
+    "pt": "Sintetizador polifônico virtual de 8 vozes com síntese FM, filtros ladder e suporte a teclado MIDI via Web MIDI API.",
+    "en": "Virtual 8-voice polyphonic synthesizer featuring FM synthesis, resonant ladder filters, and plug-and-play Web MIDI API support."
+  },
+  "tags": ["WebAudio", "DSP", "MusicTech", "MIDI"],
+  "cover": "assets/projetos/retro-synth/media/capa.svg",
+  "demoUrl": "https://example.com/retrosynth",
+  "repoUrl": "https://github.com/example/retrosynth",
+  "languages": ["pt", "en"]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cyber-strike",
+  "order": 1,
+  "status": "visible",
+  "date": "2026-06-15",
+  "title": {
+    "pt": "Cyber Strike: Neon Protocol",
+    "en": "Cyber Strike: Neon Protocol"
+  },
+  "summary": {
+    "pt": "Jogo de ação e tiro espacial tático em 2.5D, desenvolvido em WebGL puro com trilha sonora adaptativa e renderização em 60 FPS.",
+    "en": "Tactical 2.5D space action and combat game built with pure WebGL, featuring adaptive electronic soundtrack and smooth 60 FPS rendering."
+  },
+  "tags": ["GameDev", "WebGL", "TypeScript", "Canvas", "WebAudio"],
+  "cover": "assets/projetos/cyber-strike/media/capa.svg",
+  "video": "assets/projetos/cyber-strike/media/demo.mp4",
+  "demoUrl": "https://example.com/cyber-strike",
+  "repoUrl": "https://github.com/example/cyber-strike",
+  "languages": ["pt", "en"]
+}

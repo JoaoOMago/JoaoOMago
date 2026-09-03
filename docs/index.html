@@ -1,62 +1,84 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meu Site - Teste</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Alex Silva // Steam Profile Portfolio</title>
+  <meta name="description" content="Portfólio interativo pessoal estilo Steam Profile. Desenvolvido em Vanilla HTML5, CSS3 e JavaScript para GitHub Pages." />
+  <meta name="theme-color" content="#101822" />
 
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      background: linear-gradient(135deg, #1e1e2f 0%, #2a2a40 100%);
-      color: #f5f5f5;
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 20px;
-    }
-
-    .container {
-      text-align: center;
-      max-width: 600px;
-    }
-
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 1rem;
-      background: linear-gradient(90deg, #7f5af0, #2cb67d);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-
-    p {
-      font-size: 1.1rem;
-      color: #b0b0c0;
-      margin-bottom: 1.5rem;
-    }
-
-    .badge {
-      display: inline-block;
-      padding: 8px 16px;
-      background: rgba(127, 90, 240, 0.15);
-      border: 1px solid #7f5af0;
-      border-radius: 20px;
-      font-size: 0.9rem;
-      color: #a78bfa;
-    }
-  </style>
+  <!-- Estilos CSS -->
+  <link rel="stylesheet" href="assets/css/base.css" />
+  <link rel="stylesheet" href="assets/css/themes.css" />
+  <link rel="stylesheet" href="assets/css/layout.css" />
+  <link rel="stylesheet" href="assets/css/components.css" />
 </head>
 <body>
-  <div class="container">
-    <h1>🚀 Funcionou!</h1>
-    <p>Este é o site de teste publicado com GitHub Pages, servido a partir da pasta <strong>docs </strong>.</p>
-    <span class="badge">index.html carregado com sucesso</span>
+
+  <!-- Fundo Atmosférico Steam (Visível nas laterais) -->
+  <div class="steam-backdrop" aria-hidden="true"></div>
+
+  <!-- Estrutura Principal da Página -->
+  <div class="page-wrapper">
+
+    <!-- Barra Utilitária Superior (Seletor de Idioma) -->
+    <header class="steam-top-bar" role="banner">
+      <div style="display: flex; align-items: center; gap: 8px; font-size: 0.85rem; color: var(--color-text-muted);">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-10 10c0 4.7 3.25 8.64 7.64 9.7l2.84-4.14a2.98 2.98 0 0 1-.48-.06l-3.3 1.37a5.52 5.52 0 0 1-1.2-8.37l4.03 1.68a3 3 0 0 1 5.47-1.18l4.47-1.87A10 10 0 0 0 12 2zm3 6a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm-5.63 7.85l2.42-1a2.98 2.98 0 0 1 1.71 1.7l-2.42 1a2.98 2.98 0 0 1-1.71-1.7z"/></svg>
+        <span>STEAM COMMUNITY // PROFILE</span>
+      </div>
+      <div id="lang-selector-container"></div>
+    </header>
+
+    <!-- Coluna Central com Transparência Configurável -->
+    <main id="steam-profile" class="steam-profile-container" role="main">
+      <div id="steam-profile-modules">
+        <!-- Módulos dinamicamente renderizados a partir do config.js (hero, about, skills, projects, contact) -->
+      </div>
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="steam-footer" role="contentinfo">
+      <p id="footer-copy">&copy; 2026 Alex Silva. Criado com HTML5, CSS3 e JavaScript puro. Hospedado no GitHub Pages.</p>
+    </footer>
+
   </div>
+
+  <!-- Modal de Detalhes do Projeto (Carregamento Sob Demanda de Mídias e Conteúdo) -->
+  <div id="project-modal" class="project-modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="modal-project-title">
+    <div class="project-modal-dialog">
+      <header class="project-modal-header">
+        <h2 id="modal-project-title"></h2>
+        <button id="btn-close-modal" class="btn-modal-close" aria-label="Fechar detalhes do projeto">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </header>
+      
+      <div class="project-modal-body">
+        <!-- Container de mídia sob demanda: vídeo só é injetado aqui -->
+        <div id="modal-project-media" class="modal-media-container"></div>
+
+        <!-- Tags e Links de Acesso -->
+        <div id="modal-project-tags" class="project-card-tags"></div>
+        <div id="modal-project-links" class="steam-socials-bar"></div>
+
+        <!-- Conteúdo em HTML do projeto no idioma resolvido -->
+        <div id="modal-project-content" class="modal-content-html"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts da Aplicação (Sem compilação, sem build step) -->
+  <script src="assets/js/config.js"></script>
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/lazy-media.js"></script>
+  <script src="assets/js/router.js"></script>
+  <script src="assets/js/projects-loader.js"></script>
+  <script src="assets/js/app.js"></script>
+
 </body>
 </html>

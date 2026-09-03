@@ -1,0 +1,714 @@
+/* ==========================================================================
+   Components CSS - Componentes Visuais do Perfil Steam
+   ========================================================================== */
+
+/* ==========================================================================
+   1. Cabeçalho do Perfil (Steam Header)
+   ========================================================================== */
+.steam-header-wrap {
+  position: relative;
+  width: 100%;
+  background: var(--color-panel-header-bg);
+  border-bottom: var(--border-panel);
+}
+
+.steam-header-banner {
+  height: 140px;
+  width: 100%;
+  background: linear-gradient(135deg, rgba(42, 71, 94, 0.8) 0%, rgba(27, 40, 56, 0.95) 50%, rgba(16, 24, 34, 0.95) 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.steam-header-banner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    45deg,
+    rgba(102, 192, 244, 0.03) 0,
+    rgba(102, 192, 244, 0.03) 10px,
+    transparent 10px,
+    transparent 20px
+  );
+}
+
+.steam-header-content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 0 36px 28px 36px;
+  margin-top: -50px;
+  position: relative;
+  z-index: 2;
+}
+
+/* Avatar com Moldura Steam */
+.steam-avatar-box {
+  position: relative;
+  flex-shrink: 0;
+}
+
+.steam-avatar-img {
+  width: 130px;
+  height: 130px;
+  border-radius: var(--radius-sm);
+  border: 3px solid var(--color-status-ingame);
+  box-shadow: var(--shadow-avatar);
+  object-fit: cover;
+  background-color: #101822;
+}
+
+.steam-avatar-box.is-online .steam-avatar-img {
+  border-color: var(--color-status-online);
+  box-shadow: 0 0 16px rgba(164, 208, 7, 0.4);
+}
+
+/* Informações do Usuário */
+.steam-user-meta {
+  flex: 1 1 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding-top: 54px;
+}
+
+.steam-user-title-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.steam-username {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--color-text-bright);
+}
+
+.steam-user-handle {
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+}
+
+.steam-status-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--color-status-ingame);
+}
+
+.steam-status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: currentColor;
+  box-shadow: 0 0 8px currentColor;
+  display: inline-block;
+  animation: pulse-dot 2.5s infinite;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(0.85); }
+}
+
+.steam-user-quote {
+  font-size: 0.92rem;
+  color: var(--color-text-main);
+  background: var(--color-panel-inner-box);
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--color-accent-blue);
+  margin-top: 4px;
+}
+
+/* Nível e Badges da Direita */
+.steam-user-level-col {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 12px;
+  padding-top: 54px;
+}
+
+.steam-level-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(0, 0, 0, 0.4);
+  border: 2px solid var(--color-status-ingame);
+  border-radius: var(--radius-pill);
+  padding: 4px 14px 4px 6px;
+  color: var(--color-text-bright);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.steam-level-circle {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #57cbde 0%, #1b2838 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 0.85rem;
+  box-shadow: 0 0 8px rgba(87, 203, 222, 0.6);
+}
+
+/* Barra de Redes Sociais */
+.steam-socials-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  background: rgba(42, 71, 94, 0.4);
+  border: 1px solid rgba(102, 192, 244, 0.25);
+  border-radius: var(--radius-sm);
+  color: var(--color-text-main);
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: var(--transition-normal);
+}
+
+.social-btn svg {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
+
+.social-btn:hover {
+  background: rgba(102, 192, 244, 0.25);
+  border-color: var(--color-accent-blue);
+  color: #ffffff;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* ==========================================================================
+   2. Título de Seções / Módulos
+   ========================================================================== */
+.module-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(102, 192, 244, 0.2);
+}
+
+.module-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.15rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-accent-blue);
+}
+
+.module-title::before {
+  content: "";
+  display: inline-block;
+  width: 4px;
+  height: 18px;
+  background-color: var(--color-accent-blue);
+  border-radius: 2px;
+  box-shadow: 0 0 8px var(--color-accent-blue);
+}
+
+.module-badge-counter {
+  font-size: 0.8rem;
+  color: var(--color-text-dim);
+  background: rgba(0, 0, 0, 0.3);
+  padding: 2px 8px;
+  border-radius: var(--radius-pill);
+}
+
+/* Caixa "Showcase" / Info Box */
+.steam-showcase-box {
+  background: var(--color-panel-card-bg);
+  border: var(--border-card);
+  border-radius: var(--radius-md);
+  padding: 20px 24px;
+  line-height: 1.7;
+}
+
+.steam-showcase-box p {
+  color: var(--color-text-main);
+  font-size: 0.95rem;
+}
+
+/* ==========================================================================
+   3. Vitrine de Projetos (Feed)
+   ========================================================================== */
+.projects-feed {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  gap: 20px;
+}
+
+.project-card {
+  background: var(--color-panel-card-bg);
+  border: var(--border-card);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: var(--transition-normal);
+  cursor: pointer;
+  position: relative;
+}
+
+.project-card:hover {
+  background: var(--color-panel-card-hover);
+  border-color: var(--color-accent-blue);
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-3px);
+}
+
+.project-card-media {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background-color: #0b1118;
+  position: relative;
+  overflow: hidden;
+}
+
+.project-card-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.project-card:hover .project-card-cover {
+  transform: scale(1.04);
+}
+
+.project-card-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(4px);
+  border: 1px solid var(--color-accent-blue);
+  color: var(--color-accent-blue);
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.project-card-badge svg {
+  width: 12px;
+  height: 12px;
+}
+
+.project-card-body {
+  padding: 18px 20px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.project-card-date {
+  font-size: 0.75rem;
+  color: var(--color-text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 6px;
+}
+
+.project-card-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--color-text-bright);
+  margin-bottom: 8px;
+  transition: color 0.2s ease;
+}
+
+.project-card:hover .project-card-title {
+  color: var(--color-accent-blue);
+}
+
+.project-card-summary {
+  font-size: 0.88rem;
+  color: var(--color-text-muted);
+  line-height: 1.5;
+  margin-bottom: 16px;
+  flex: 1;
+}
+
+.project-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+
+.project-tag {
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+  background: rgba(42, 71, 94, 0.4);
+  color: #8bb9d6;
+  border: 1px solid rgba(102, 192, 244, 0.15);
+}
+
+.project-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 12px;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.btn-steam-view {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #ffffff;
+  background: linear-gradient(90deg, #214361 0%, #193248 100%);
+  border: 1px solid rgba(102, 192, 244, 0.4);
+  border-radius: var(--radius-sm);
+  padding: 6px 14px;
+  transition: var(--transition-normal);
+}
+
+.project-card:hover .btn-steam-view {
+  background: linear-gradient(90deg, #2d5a83 0%, #20415d 100%);
+  border-color: var(--color-accent-blue);
+  box-shadow: 0 0 10px rgba(102, 192, 244, 0.3);
+}
+
+/* ==========================================================================
+   4. Habilidades / Badges (Steam Inventory / Badges Style)
+   ========================================================================== */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 14px;
+}
+
+.skill-badge-item {
+  background: var(--color-panel-card-bg);
+  border: var(--border-card);
+  border-radius: var(--radius-md);
+  padding: 12px 14px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  transition: var(--transition-normal);
+}
+
+.skill-badge-item:hover {
+  background: var(--color-panel-card-hover);
+  border-color: var(--color-accent-blue);
+  transform: translateY(-2px);
+}
+
+.skill-badge-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-sm);
+  background: rgba(42, 71, 94, 0.5);
+  border: 1px solid rgba(102, 192, 244, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-accent-blue);
+  font-weight: 700;
+  font-size: 0.95rem;
+  flex-shrink: 0;
+}
+
+.skill-badge-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.skill-badge-name {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-text-bright);
+}
+
+.skill-badge-level {
+  font-size: 0.75rem;
+  color: var(--color-badge-gold);
+}
+
+/* ==========================================================================
+   5. Contato / Comentários (Steam Guestbook Style)
+   ========================================================================== */
+.contact-comment-box {
+  background: var(--color-panel-card-bg);
+  border: var(--border-card);
+  border-radius: var(--radius-md);
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.contact-direct-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.contact-card-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  background: rgba(14, 20, 29, 0.6);
+  border: 1px solid rgba(102, 192, 244, 0.2);
+  border-radius: var(--radius-sm);
+  color: var(--color-text-bright);
+  transition: var(--transition-normal);
+}
+
+.contact-card-link:hover {
+  background: rgba(42, 71, 94, 0.4);
+  border-color: var(--color-accent-blue);
+  transform: translateY(-2px);
+}
+
+.contact-card-link svg {
+  width: 20px;
+  height: 20px;
+  color: var(--color-accent-blue);
+}
+
+/* ==========================================================================
+   6. Seletor de Idioma (i18n Switcher)
+   ========================================================================== */
+.lang-selector {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(102, 192, 244, 0.25);
+  border-radius: var(--radius-pill);
+  padding: 3px 6px;
+}
+
+.lang-btn {
+  padding: 4px 10px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: var(--radius-pill);
+  color: var(--color-text-muted);
+  transition: var(--transition-normal);
+}
+
+.lang-btn:hover {
+  color: #ffffff;
+}
+
+.lang-btn.active {
+  background: var(--color-accent-blue);
+  color: #0b1118;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(102, 192, 244, 0.4);
+}
+
+/* ==========================================================================
+   7. Modal / Página Detalhe do Projeto (Carregamento Sob Demanda)
+   ========================================================================== */
+.project-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(6, 10, 15, 0.88);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 16px;
+  overflow-y: auto;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+
+.project-modal-backdrop.is-open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.project-modal-dialog {
+  width: 100%;
+  max-width: 900px;
+  max-height: 90vh;
+  background-color: var(--color-panel-header-bg);
+  border: 1px solid var(--color-accent-blue);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.9), 0 0 30px rgba(102, 192, 244, 0.2);
+  border-radius: var(--radius-lg);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transform: translateY(20px);
+  transition: transform 0.25s ease;
+}
+
+.project-modal-backdrop.is-open .project-modal-dialog {
+  transform: translateY(0);
+}
+
+.project-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  background: rgba(14, 20, 29, 0.85);
+  border-bottom: 1px solid rgba(102, 192, 244, 0.2);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.btn-modal-close {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: var(--radius-sm);
+  background: rgba(42, 71, 94, 0.4);
+  color: var(--color-text-main);
+  border: 1px solid rgba(102, 192, 244, 0.2);
+  transition: var(--transition-normal);
+}
+
+.btn-modal-close:hover {
+  background: rgba(220, 53, 69, 0.8);
+  border-color: #ff6b6b;
+  color: #ffffff;
+}
+
+.btn-modal-close svg {
+  width: 18px;
+  height: 18px;
+}
+
+.project-modal-body {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* Área de Mídia Dinâmica (Vídeo injetado apenas aqui!) */
+.modal-media-container {
+  width: 100%;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background: #000000;
+  border: var(--border-card);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+  min-height: 240px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-media-container video {
+  width: 100%;
+  max-height: 480px;
+  background: #000000;
+}
+
+.modal-media-container img {
+  width: 100%;
+  max-height: 480px;
+  object-fit: contain;
+  background: #000000;
+}
+
+.modal-content-html {
+  font-size: 0.98rem;
+  line-height: 1.7;
+  color: var(--color-text-main);
+}
+
+.modal-content-html h2, .modal-content-html h3 {
+  color: var(--color-accent-blue);
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.modal-content-html ul {
+  list-style: disc;
+  margin-left: 24px;
+  margin-bottom: 16px;
+}
+
+.modal-content-html li {
+  margin-bottom: 6px;
+}
+
+.modal-content-html code {
+  background: rgba(0, 0, 0, 0.4);
+  padding: 2px 6px;
+  border-radius: 4px;
+  color: #e5c158;
+  font-family: monospace;
+}
+
+/* Responsividade de Componentes */
+@media (max-width: 768px) {
+  .steam-header-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 16px 20px 16px;
+  }
+
+  .steam-user-meta {
+    padding-top: 10px;
+    align-items: center;
+  }
+
+  .steam-user-title-row {
+    justify-content: center;
+  }
+
+  .steam-user-level-col {
+    padding-top: 0;
+    align-items: center;
+  }
+
+  .steam-socials-bar {
+    justify-content: center;
+  }
+
+  .project-modal-body {
+    padding: 16px;
+  }
+}

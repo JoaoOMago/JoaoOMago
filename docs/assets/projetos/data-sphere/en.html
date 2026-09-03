@@ -1,0 +1,25 @@
+<div class="modal-content-html">
+  <h2>DataSphere Overview</h2>
+  <p>
+    <strong>DataSphere</strong> is an engineering telemetry and real-time data streaming dashboard. Designed to ingest and display high-frequency events (thousands of data points per second), the platform visualizes distributed system metrics with zero perceived latency and fluid 60 FPS transitions.
+  </p>
+
+  <h3>Architecture & Core Capabilities</h3>
+  <ul>
+    <li><strong>Ultra-Fast Vector Rendering:</strong> Hybrid SVG and Canvas rendering for time-series area charts, heatmaps, and latency histograms.</li>
+    <li><strong>Live Bidirectional Streaming:</strong> Resilient WebSocket client with exponential backoff reconnection and SSE fallback.</li>
+    <li><strong>Non-Blocking Data Processing:</strong> Client-side aggregation executed inside dedicated Web Workers, preserving buttery 60 FPS UI interactions.</li>
+    <li><strong>Mission Control Aesthetic:</strong> Ergonomic dark palette engineered for NOC, DevOps, and SRE environments.</li>
+  </ul>
+
+  <h3>Screenshots</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 16px 0;">
+    <img src="assets/projetos/data-sphere/media/screen1.svg" alt="DataSphere Dashboard Overview" style="border-radius: 6px; border: 1px solid rgba(102, 192, 244, 0.3);" />
+    <img src="assets/projetos/data-sphere/media/screen2.svg" alt="DataSphere Telemetry Graph" style="border-radius: 6px; border: 1px solid rgba(102, 192, 244, 0.3);" />
+  </div>
+
+  <h3>Performance Impact</h3>
+  <p>
+    Achieved a 75% memory footprint reduction compared to conventional third-party charting libraries, with a sub-300ms initial paint time over standard 4G connections.
+  </p>
+</div>

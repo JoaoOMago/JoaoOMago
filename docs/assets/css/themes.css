@@ -1,0 +1,64 @@
+/* ==========================================================================
+   Themes CSS - Variáveis de Cores, Sombras e Opacidade Configurável
+   ========================================================================== */
+
+:root {
+  /* Controle de opacidade da coluna central (pode ser sobrescrito pelo config.js) */
+  --panel-opacity: 0.88;
+
+  /* Paleta Base - Estilo Steam */
+  --color-bg-deep: #0e141b;
+  --color-bg-ambient-top: #17212e;
+  --color-bg-ambient-bottom: #0b0f14;
+
+  /* Fundo da Coluna Central com Transparência Configurável */
+  --color-panel-base-rgb: 18, 26, 36;
+  --color-panel-bg: rgba(var(--color-panel-base-rgb), var(--panel-opacity, 0.88));
+  --color-panel-header-bg: rgba(26, 38, 54, calc(var(--panel-opacity, 0.88) * 0.95));
+  --color-panel-card-bg: rgba(22, 32, 46, calc(var(--panel-opacity, 0.88) * 0.9));
+  --color-panel-card-hover: rgba(30, 44, 63, calc(var(--panel-opacity, 0.88) * 0.95));
+  --color-panel-inner-box: rgba(14, 20, 29, 0.7);
+
+  /* Acentos Steam */
+  --color-accent-blue: #66c0f4;
+  --color-accent-blue-hover: #80cdff;
+  --color-accent-blue-deep: #1b2838;
+  --color-accent-secondary: #2a475e;
+  
+  /* Status Gamers */
+  --color-status-online: #a4d007;
+  --color-status-ingame: #57cbde;
+  --color-status-offline: #898989;
+  --color-badge-gold: #e5c158;
+  --color-badge-purple: #9b59b6;
+  --color-badge-silver: #a0a7ad;
+
+  /* Tipografia */
+  --color-text-bright: #ffffff;
+  --color-text-main: #c7d5e0;
+  --color-text-muted: #8f98a0;
+  --color-text-dim: #626b73;
+
+  /* Bordas e Divisores */
+  --border-panel: 1px solid rgba(102, 192, 244, 0.18);
+  --border-subtle: 1px solid rgba(255, 255, 255, 0.08);
+  --border-card: 1px solid rgba(42, 71, 94, 0.6);
+  --border-card-hover: 1px solid rgba(102, 192, 244, 0.45);
+  --border-glow: 0 0 12px rgba(102, 192, 244, 0.25);
+
+  /* Sombras e Iluminação */
+  --shadow-profile: 0 20px 50px rgba(0, 0, 0, 0.75), 0 0 40px rgba(14, 20, 29, 0.5);
+  --shadow-card: 0 8px 24px rgba(0, 0, 0, 0.35);
+  --shadow-card-hover: 0 12px 32px rgba(0, 0, 0, 0.5), 0 0 15px rgba(102, 192, 244, 0.2);
+  --shadow-avatar: 0 0 20px rgba(87, 203, 222, 0.4);
+
+  /* Raios e Espaçamentos */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+  --radius-pill: 9999px;
+
+  /* Largura Máxima da Coluna Central */
+  --container-max-width: 1020px;
+  --transition-normal: all 0.25s cubic-bezier(0.25, 0.8, 0.25, 1);
+}

@@ -1,0 +1,25 @@
+<div class="modal-content-html">
+  <h2>Visão Geral do DataSphere</h2>
+  <p>
+    O <strong>DataSphere</strong> é uma solução de engenharia voltada à visualização e agregação de dados em tempo real. Desenvolvido para lidar com alto volume de mensagens (milhares de pontos por segundo), o painel renderiza telemetria de microsserviços com latência imperceptível e animações suaves a 60 FPS.
+  </p>
+
+  <h3>Arquitetura e Recursos Chave</h3>
+  <ul>
+    <li><strong>Renderização Vetorial Ultra-Rápida:</strong> Uso de SVGs dinâmicos e Canvas para gráficos de dispersão, linhas temporais e matrizes de calor.</li>
+    <li><strong>Sincronização Bidirecional:</strong> Integração com WebSockets e fallback inteligente para SSE (Server-Sent Events).</li>
+    <li><strong>Filtros e Agrupamentos Instantâneos:</strong> Processamento em memória no cliente usando Web Workers para evitar travamentos na thread principal de renderização.</li>
+    <li><strong>Interface Estilo Mission Control:</strong> Paleta escura com foco ergonômico para operação prolongada por equipes de SRE e DevOps.</li>
+  </ul>
+
+  <h3>Galeria de Capturas de Tela</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin: 16px 0;">
+    <img src="assets/projetos/data-sphere/media/screen1.svg" alt="DataSphere Dashboard Overview" style="border-radius: 6px; border: 1px solid rgba(102, 192, 244, 0.3);" />
+    <img src="assets/projetos/data-sphere/media/screen2.svg" alt="DataSphere Telemetry Graph" style="border-radius: 6px; border: 1px solid rgba(102, 192, 244, 0.3);" />
+  </div>
+
+  <h3>Resultados Técnicos</h3>
+  <p>
+    Redução de 75% no consumo de memória em relação a soluções baseadas em bibliotecas pesadas de terceiros, com tempo de carregamento inicial menor que 300ms em conexões de banda média.
+  </p>
+</div>

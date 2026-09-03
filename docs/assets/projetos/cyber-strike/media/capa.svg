@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17"/>
+      <stop offset="50%" stop-color="#141c2b"/>
+      <stop offset="100%" stop-color="#06090e"/>
+    </linearGradient>
+    <linearGradient id="neon-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#4facfe"/>
+    </linearGradient>
+    <linearGradient id="neon-magenta" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff007f"/>
+      <stop offset="100%" stop-color="#7928ca"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="450" fill="url(#bg-grad)"/>
+
+  <!-- Perspective Grid Lines (Steam / Synthwave aesthetic) -->
+  <g opacity="0.35" stroke="#00f2fe" stroke-width="1.2">
+    <line x1="400" y1="220" x2="0" y2="450"/>
+    <line x1="400" y1="220" x2="100" y2="450"/>
+    <line x1="400" y1="220" x2="200" y2="450"/>
+    <line x1="400" y1="220" x2="300" y2="450"/>
+    <line x1="400" y1="220" x2="500" y2="450"/>
+    <line x1="400" y1="220" x2="600" y2="450"/>
+    <line x1="400" y1="220" x2="700" y2="450"/>
+    <line x1="400" y1="220" x2="800" y2="450"/>
+    <!-- Horizontals -->
+    <line x1="160" y1="340" x2="640" y2="340"/>
+    <line x1="80" y1="390" x2="720" y2="390"/>
+    <line x1="0" y1="440" x2="800" y2="440"/>
+  </g>
+
+  <!-- Cyberpunk Starship Graphic -->
+  <g transform="translate(400, 200)" filter="url(#glow)">
+    <!-- Wings & Thrusters -->
+    <polygon points="0,-70 -50,50 -20,40 0,60 20,40 50,50" fill="url(#neon-magenta)" opacity="0.9"/>
+    <polygon points="0,-60 -30,30 -10,25 0,40 10,25 30,30" fill="url(#neon-cyan)"/>
+    <!-- Core Cockpit -->
+    <polygon points="0,-40 -12,10 0,20 12,10" fill="#ffffff"/>
+    <!-- Laser Beam -->
+    <line x1="0" y1="-70" x2="0" y2="-220" stroke="#00f2fe" stroke-width="3" opacity="0.8"/>
+  </g>
+
+  <!-- Title Overlay -->
+  <text x="400" y="90" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="34" fill="#ffffff" text-anchor="middle" letter-spacing="4" filter="url(#glow)">
+    CYBER STRIKE
+  </text>
+  <text x="400" y="125" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="16" fill="#00f2fe" text-anchor="middle" letter-spacing="6">
+    NEON PROTOCOL // WEBGL
+  </text>
+
+  <!-- Badge indicator -->
+  <rect x="30" y="30" width="130" height="26" rx="4" fill="#ff007f" opacity="0.85"/>
+  <text x="95" y="48" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="1">
+    VIDEO DEMO
+  </text>
+</svg>

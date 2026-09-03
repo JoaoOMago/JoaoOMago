@@ -1,0 +1,24 @@
+<div class="modal-content-html">
+  <h2>About the Project</h2>
+  <p>
+    <strong>Cyber Strike: Neon Protocol</strong> is an arcade tactical space combat simulator featuring a retro cyberpunk aesthetic. Engineered to run natively in modern web browsers with zero external plugins or heavy engines, delivering a rock-solid 60 FPS experience even on mobile and mid-tier laptops.
+  </p>
+
+  <h3>Key Features & Highlights</h3>
+  <ul>
+    <li><strong>Custom WebGL Pipeline:</strong> Bespoke post-processing shaders for bloom, chromatic aberration, and optional CRT scanlines.</li>
+    <li><strong>Adaptive Audio Engine:</strong> Powered by the <code>Web Audio API</code> with procedurally synthesized sound effects for laser blasts, shields, and explosions.</li>
+    <li><strong>Arcade Physics Engine:</strong> Vector SAT (Separating Axis Theorem) collision detection and particle trails with velocity damping.</li>
+    <li><strong>Gamepad & Keyboard Controls:</strong> Seamless plug-and-play support for standard controllers and responsive keyboard/mouse mapping.</li>
+  </ul>
+
+  <h3>Tech Stack</h3>
+  <p>
+    Built using <code>TypeScript</code>, <code>WebGL 2.0</code>, <code>GLSL Shaders</code>, <code>Web Audio API</code>, and an internal Entity Component System (ECS) architecture designed for high projectile counts.
+  </p>
+
+  <h3>Engineering Highlights</h3>
+  <p>
+    The primary challenge was keeping draw calls to an absolute minimum during bullet-hell patterns. By implementing GPU instanced mesh rendering, the game easily manages over 2,000 active particles with negligible CPU overhead.
+  </p>
+</div>
