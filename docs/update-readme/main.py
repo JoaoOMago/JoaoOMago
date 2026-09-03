@@ -3,6 +3,9 @@ import io
 import nekos
 import requests
 from datetime import datetime, timedelta
+import random
+from PIL import Image
+
 
 
 def create_readme():
@@ -58,12 +61,63 @@ def get_last_updated():
     return datetime.strftime(now, '%d %b, %Y')
 
 
+def sortear_e_copiar_foto(valor_maximo):
+    """
+    Sorteia uma foto para o perfil do site.
+    Sempre salva o resultado em formato .jpeg,
+    ignorando qualquer subpasta dentro da pasta de origem.
+    """
+
+    nome_destino = "fotoperfilsite"
+    valor_minimo = 1
+    pasta_origem = "docs/assets/imagens"
+    pasta_destino = "docs/assets/imagens/imagem"
+
+    # 1. Sorteia o número
+    numero_sorteado = random.randint(valor_minimo, valor_maximo)
+    print(f"Número sorteado: {numero_sorteado}")
+
+    # 2. Procura na pasta de origem um ARQUIVO (ignora subpastas) que comece com esse número
+    arquivo_encontrado = None
+    for nome_arquivo in os.listdir(pasta_origem):
+        caminho_completo = os.path.join(pasta_origem, nome_arquivo)
+
+        # ignora qualquer pasta (inclusive a pasta destino, se estiver dentro da origem)
+        if not os.path.isfile(caminho_completo):
+            continue
+
+        nome_sem_extensao, extensao = os.path.splitext(nome_arquivo)
+        if nome_sem_extensao == str(numero_sorteado):
+            arquivo_encontrado = nome_arquivo
+            break
+
+    if arquivo_encontrado is None:
+        raise FileNotFoundError(
+            f"Nenhuma foto com o nome '{numero_sorteado}' foi encontrada em '{pasta_origem}'."
+        )
+
+    caminho_origem = os.path.join(pasta_origem, arquivo_encontrado)
+
+    # 3. Garante que a pasta de destino existe
+    os.makedirs(pasta_destino, exist_ok=True)
+
+    # 4. Monta o caminho final sempre com extensão .jpeg
+    nome_destino_final = nome_destino + ".jpeg"
+    caminho_destino = os.path.join(pasta_destino, nome_destino_final)
+
+    # 5. Abre a imagem original e salva como .jpeg, sobrescrevendo se já existir
+    imagem = Image.open(caminho_origem)
+    imagem = imagem.convert("RGB")  # necessário pois JPEG não suporta transparência (PNG/RGBA)
+    imagem.save(caminho_destino, "JPEG")
+
+
 def main():
     """
     Main function for the Module.
     """
 
     create_readme()
+    sortear_e_copiar_foto(5)
 
 
 #os.remove("README.md")
