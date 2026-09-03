@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   // 3. Renderiza os Módulos da Página de acordo com a ordem e visibilidade no config.js
   renderModules();
+  updateFooterText();
 
   // 4. Carrega o Índice de Projetos e renderiza o feed inicial
   await window.ProjectsLoader.fetchProjectsIndex();
@@ -158,10 +159,10 @@ function buildHeroModuleHtml(config) {
 
         <div class="steam-user-level-col">
           <div class="steam-level-badge">
-            <span class="steam-level-circle">${prof.level || 50}</span>
+            <span class="steam-level-circle">${prof.level !== undefined ? prof.level : 50}</span>
             <span>${window.I18N.t("level")}</span>
           </div>
-          <span style="font-size: 0.8rem; color: var(--color-badge-gold);">${prof.levelTitle || ""}</span>
+          <span style="font-size: 0.8rem; color: var(--color-badge-gold);">${typeof prof.levelTitle === "object" ? (prof.levelTitle[currentLang] || prof.levelTitle["en"] || prof.levelTitle["pt"] || "") : (prof.levelTitle || "")}</span>
         </div>
       </div>
     </div>
@@ -182,14 +183,40 @@ function buildAboutModuleHtml(config) {
     </header>
     <div class="steam-showcase-box">
       <p style="font-size: 1.05rem; margin-bottom: 12px; color: #ffffff;">
-        Bem-vindo(a) ao meu perfil interativo!
+        ${window.I18N.t("welcome_title")}
       </p>
       <p>${bio}</p>
       <p style="margin-top: 10px; color: var(--color-text-muted);">
-        Explore a vitrine abaixo para conhecer projetos recentes em produção, demonstrações interativas e experimentos criativos com WebGL, áudio e desenvolvimento web moderno.
+        ${window.I18N.t("showcase_explore")}
       </p>
     </div>
   `;
+}
+
+/**
+ * Funções auxiliares para traduzir nome e nível de habilidades
+ */
+function translateSkillName(name, lang) {
+  if (!name) return "";
+  if (typeof name === "object") return name[lang] || name["en"] || name["pt"] || "";
+  if (lang === "en") {
+    return name.replace(/HTML5 & CSS3 Moderno/gi, "Modern HTML5 & CSS3");
+  }
+  return name;
+}
+
+function translateSkillLevel(level, lang) {
+  if (!level) return "";
+  if (typeof level === "object") return level[lang] || level["en"] || level["pt"] || "";
+  if (lang === "en") {
+    return level
+      .replace(/Nível/gi, "Level")
+      .replace(/Avançado/gi, "Advanced")
+      .replace(/Proficiente/gi, "Proficient")
+      .replace(/Intermediário/gi, "Intermediate")
+      .replace(/Iniciante/gi, "Beginner");
+  }
+  return level;
 }
 
 /**
@@ -197,12 +224,13 @@ function buildAboutModuleHtml(config) {
  */
 function buildSkillsModuleHtml(config) {
   const skills = Array.isArray(config.skills) ? config.skills : [];
+  const currentLang = window.I18N.getLanguage();
   const skillsHtml = skills.map(skill => `
     <div class="skill-badge-item">
       <div class="skill-badge-icon">&lt;/&gt;</div>
       <div class="skill-badge-info">
-        <span class="skill-badge-name">${skill.name}</span>
-        <span class="skill-badge-level">${skill.level}</span>
+        <span class="skill-badge-name">${translateSkillName(skill.name, currentLang)}</span>
+        <span class="skill-badge-level">${translateSkillLevel(skill.level, currentLang)}</span>
       </div>
     </div>
   `).join("");
@@ -242,7 +270,7 @@ function buildContactModuleHtml(config) {
     </header>
     <div class="contact-comment-box">
       <p style="color: var(--color-text-main);">
-        Quer conversar sobre uma oportunidade, propor um projeto ou tirar dúvidas? Conecte-se comigo diretamente:
+        ${window.I18N.t("contact_intro")}
       </p>
       <div class="contact-direct-grid">
         ${socials.map(s => `
@@ -250,7 +278,7 @@ function buildContactModuleHtml(config) {
             <img src="${s.icon}" alt="" width="20" height="20" />
             <div>
               <strong style="display: block; font-size: 0.95rem;">${s.name}</strong>
-              <span style="font-size: 0.8rem; color: var(--color-accent-blue);">Abrir canal &rarr;</span>
+              <span style="font-size: 0.8rem; color: var(--color-accent-blue);">${window.I18N.t("open_channel")} &rarr;</span>
             </div>
           </a>
         `).join("")}
@@ -311,4 +339,17 @@ function setupRouter() {
 function updateUiTexts() {
   renderModules();
   window.ProjectsLoader.renderFeed();
+  updateFooterText();
+}
+
+/**
+ * Atualiza o texto de direitos autorais e créditos no rodapé
+ */
+function updateFooterText() {
+  const footer = document.getElementById("footer-copy");
+  if (footer) {
+    const config = window.PORTFOLIO_CONFIG || {};
+    const name = config.profile?.name || "João Pedro";
+    footer.innerHTML = `&copy; 2026 ${name}. ${window.I18N.t("footer_text")}`;
+  }
 }

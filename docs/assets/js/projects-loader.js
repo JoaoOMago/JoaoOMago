@@ -94,7 +94,7 @@ window.ProjectsLoader = (function() {
           <img class="project-card-cover" data-src="${cover}" alt="${title}" loading="lazy" />
           ${hasVideo ? `<span class="project-card-badge">
             <svg viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
-            Vídeo
+            ${window.I18N.t("video_badge")}
           </span>` : ""}
         </div>
         <div class="project-card-body">
@@ -186,7 +186,7 @@ window.ProjectsLoader = (function() {
 
     // 2. Busca o conteúdo HTML no idioma adequado com fallback
     if (modalContent) {
-      modalContent.innerHTML = `<p style="color: var(--color-text-dim);">Carregando conteúdo...</p>`;
+      modalContent.innerHTML = `<p style="color: var(--color-text-dim);">${window.I18N.t("loading_content")}</p>`;
       const projectBaseUrl = `assets/projetos/${project.id}`;
       const { html } = await window.I18N.fetchProjectContentWithFallback(projectBaseUrl, project.languages || []);
       modalContent.innerHTML = html;

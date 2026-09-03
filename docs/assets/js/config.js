@@ -17,7 +17,10 @@ window.PORTFOLIO_CONFIG = {
     name: "João Pedro",
     handle: "@Joao-O-Mago-O-Mago",
     level: "🗿",
-    levelTitle: "aspiring engineer and wizard",
+    levelTitle: {
+      pt: "Aspirante a engenheiro e mago",
+      en: "Aspiring engineer and wizard"
+    },
     status: "in-game", // "online", "in-game", ou "offline"
     statusText: {
       pt: "Ponderando : conjecturando novos projetos",
@@ -77,12 +80,36 @@ window.PORTFOLIO_CONFIG = {
 
   // Dados para o Módulo de Habilidades / Inventário (Badges)
   skills: [
-    { name: "JavaScript / TypeScript", level: "Nível 5 (Avançado)", category: "Frontend" },
-    { name: "HTML5 & CSS3 Moderno", level: "Nível 5 (Expert)", category: "Frontend" },
-    { name: "WebGL & Canvas", level: "Nível 4 (Proficiente)", category: "GameDev" },
-    { name: "Node.js & APIs", level: "Nível 4 (Proficiente)", category: "Backend" },
-    { name: "UI/UX & Steam Aesthetic", level: "Nível 5 (Expert)", category: "Design" },
-    { name: "Git & GitHub Pages", level: "Nível 5 (Avançado)", category: "DevOps" }
+    {
+      name: "JavaScript / TypeScript",
+      level: { pt: "Nível 5 (Avançado)", en: "Level 5 (Advanced)" },
+      category: "Frontend"
+    },
+    {
+      name: { pt: "HTML5 & CSS3 Moderno", en: "Modern HTML5 & CSS3" },
+      level: { pt: "Nível 5 (Expert)", en: "Level 5 (Expert)" },
+      category: "Frontend"
+    },
+    {
+      name: "WebGL & Canvas",
+      level: { pt: "Nível 4 (Proficiente)", en: "Level 4 (Proficient)" },
+      category: "GameDev"
+    },
+    {
+      name: "Node.js & APIs",
+      level: { pt: "Nível 4 (Proficiente)", en: "Level 4 (Proficient)" },
+      category: "Backend"
+    },
+    {
+      name: "UI/UX & Steam Aesthetic",
+      level: { pt: "Nível 5 (Expert)", en: "Level 5 (Expert)" },
+      category: "Design"
+    },
+    {
+      name: "Git & GitHub Pages",
+      level: { pt: "Nível 5 (Avançado)", en: "Level 5 (Advanced)" },
+      category: "DevOps"
+    }
   ],
 
   // Idioma padrão caso o navegador não informe ou não haja tradução

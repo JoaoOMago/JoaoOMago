@@ -33,7 +33,13 @@ window.I18N = (function() {
       no_content_available: "Conteúdo não disponível neste idioma para este projeto.",
       footer_text: "Desenvolvido com Vanilla HTML/CSS/JS. Hospedado no GitHub Pages.",
       badge_level_prefix: "Nível",
-      items_count: "itens"
+      items_count: "itens",
+      welcome_title: "Bem-vindo(a) ao meu perfil interativo!",
+      showcase_explore: "Explore a vitrine abaixo para conhecer projetos recentes em produção, demonstrações interativas e experimentos criativos com WebGL, áudio e desenvolvimento web moderno.",
+      contact_intro: "Quer conversar sobre uma oportunidade, propor um projeto ou tirar dúvidas? Conecte-se comigo diretamente:",
+      open_channel: "Abrir canal",
+      video_badge: "Vídeo",
+      loading_content: "Carregando conteúdo..."
     },
     en: {
       site_title: "João Pedro's Profile",
@@ -59,7 +65,13 @@ window.I18N = (function() {
       no_content_available: "Content not available in this language for this project.",
       footer_text: "Built with Vanilla HTML/CSS/JS. Hosted on GitHub Pages.",
       badge_level_prefix: "Level",
-      items_count: "items"
+      items_count: "items",
+      welcome_title: "Welcome to my interactive profile!",
+      showcase_explore: "Explore the showcase below to discover recent production projects, interactive demos, and creative experiments featuring WebGL, audio, and modern web development.",
+      contact_intro: "Want to discuss an opportunity, propose a project, or just chat? Feel free to reach out directly:",
+      open_channel: "Open channel",
+      video_badge: "Video",
+      loading_content: "Loading content..."
     }
   };
 
