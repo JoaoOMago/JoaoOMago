@@ -26,7 +26,7 @@ window.PORTFOLIO_CONFIG = {
       pt: "Ponderando : conjecturando novos projetos",
       en: "pondering: conjecturing new projects"
     },
-    avatar: "docs/assets/imagens/imagem/fotoperfilsite.jpeg",
+    avatar: "JoaoOMago/JoaoOMago/docs/assets/imagens/imagem/fotoperfilsite.jpeg",
     bioQuote: {
       pt: "Tecnico mecatronico, aspirante à engenharia de controle e automação, com uma alta fixação em reinventar a roda, só que mais maneira e descolada.",
       en: "Mechatronics technician and aspiring control and automation engineer, with a strong fixation on reinventing the wheel, only cooler and trendier."
