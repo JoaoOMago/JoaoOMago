@@ -21,7 +21,7 @@ def create_readme():
     last_updated_at = get_last_updated()
 
     readme = io.open('README.md', 'w+', encoding='UTF-8')
-    for line in io.open('readme.template.md', 'r', encoding='UTF-8'):
+    for line in io.open('docs/update-readme/readme.template.md', 'r', encoding='UTF-8'):
         line = line.replace('{{age}}', age)
         line = line.replace('{{fact}}', fact)
         line = line.replace('{{last_updated}}', last_updated_at)

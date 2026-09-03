@@ -1,8 +1,9 @@
 [LinkedIn](https://www.linkedin.com/in/joão-pedro-gozzoli-b95641301/) &bull;
 [Email](joaopedrogozzoli@gmail.com) &bull;
-[X](https://x.com/jpp12prado)
+[X](https://x.com/jpp12prado) &bull;
+[Site](https://JoaoOMago.github.io/JoaoOMago)
 
-# Welcome <img src="happy.gif" height="64px" /> <img src="wave.gif" height="32px" />
+# Welcome <img src="docs/update-readme/happy.gif" height="64px" /> <img src="docs/update-readme/wave.gif" height="32px" />
 
 I am João, a  **control and automation engineering student** and **mechatronic technician** based in Brazil Br.
 
