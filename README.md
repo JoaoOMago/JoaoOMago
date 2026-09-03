@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8284 days**.
 
-And here is a just a random fact -  **The word breakfast was coined due to the fact that after sleeping for hours, we are "breaking our fast."**.
+And here is a just a random fact -  **Ancient Romans at one time used human urine as an ingredient in their toothpaste**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
