@@ -26,7 +26,7 @@ window.PORTFOLIO_CONFIG = {
       pt: "Ponderando : conjecturando novos projetos",
       en: "pondering: conjecturing new projects"
     },
-    avatar: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%231b2838'/%3E%3Ccircle cx='50' cy='42' r='24' fill='%2366c0f4'/%3E%3Cellipse cx='50' cy='85' rx='36' ry='22' fill='%232a475e'/%3E%3C/svg%3E",
+    avatar: "docs/assets/imagens/imagem/fotoperfilsite.jpeg",
     bioQuote: {
       pt: "Tecnico mecatronico, aspirante à engenharia de controle e automação, com uma alta fixação em reinventar a roda, só que mais maneira e descolada.",
       en: "Mechatronics technician and aspiring control and automation engineer, with a strong fixation on reinventing the wheel, only cooler and trendier."
