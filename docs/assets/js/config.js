@@ -14,19 +14,19 @@ window.PORTFOLIO_CONFIG = {
 
   // Informações do Perfil (Estilo Steam)
   profile: {
-    name: "Alex 'Vortex' Silva",
-    handle: "@vortex_dev",
-    level: 42,
-    levelTitle: "Full-Stack & Game Developer",
+    name: "João Pedro",
+    handle: "@Joao-O-Mago-O-Mago",
+    level: 🗿,
+    levelTitle: "aspiring engineer and wizard",
     status: "in-game", // "online", "in-game", ou "offline"
     statusText: {
-      pt: "Em jogo: Desenvolvendo Novos Projetos Incríveis",
-      en: "In-Game: Crafting Next-Gen Web Experiences"
+      pt: "Ponderando : conjecturando novos projetos",
+      en: "pondering: conjecturing new projects"
     },
     avatar: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%231b2838'/%3E%3Ccircle cx='50' cy='42' r='24' fill='%2366c0f4'/%3E%3Cellipse cx='50' cy='85' rx='36' ry='22' fill='%232a475e'/%3E%3C/svg%3E",
     bioQuote: {
-      pt: "Engenheiro de Software focado em aplicações web modernas de alto desempenho, jogos e ferramentas interativas. Apaixonado pela cultura open-source e design imersivo.",
-      en: "Software Engineer focused on high-performance web applications, game dev, and interactive tools. Passionate about open-source culture and immersive design."
+      pt: "Tecnico mecatronico, aspirante à engenharia de controle e automação, com uma alta fixação em reinventar a roda, só que mais maneira e descolada.",
+      en: "Mechatronics technician and aspiring control and automation engineer, with a strong fixation on reinventing the wheel, only cooler and trendier."
     }
   },
 
@@ -36,31 +36,31 @@ window.PORTFOLIO_CONFIG = {
     {
       name: "GitHub",
       icon: "assets/icons/github.svg",
-      url: "https://github.com",
+      url: "https://github.com/JoaoOMago",
       visible: true
     },
     {
       name: "LinkedIn",
       icon: "assets/icons/linkedin.svg",
-      url: "https://linkedin.com",
+      url: "https://www.linkedin.com/in/jo%C3%A3o-pedro-gozzoli-b95641301/",
       visible: true
     },
     {
-      name: "Steam",
-      icon: "assets/icons/steam.svg",
-      url: "https://steamcommunity.com",
+      name: "lattes",
+      icon: "assets/icons/lattes.svg",
+      url: "https://lattes.cnpq.br/",
       visible: true
     },
     {
       name: "X / Twitter",
       icon: "assets/icons/twitter.svg",
-      url: "https://x.com",
+      url: "https://x.com/jpp12prado",
       visible: true
     },
     {
       name: "Email",
       icon: "assets/icons/email.svg",
-      url: "mailto:contato@exemplo.com",
+      url: "mailto:joaopedrogozzoli@gmail.com",
       visible: true
     }
   ],

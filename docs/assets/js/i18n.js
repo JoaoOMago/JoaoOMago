@@ -10,7 +10,7 @@ window.I18N = (function() {
   // Dicionário de traduções da interface de usuário
   const translations = {
     pt: {
-      site_title: "Perfil de Alex Silva",
+      site_title: "Perfil de Joao Pedro",
       level: "Nível",
       online: "Online",
       in_game: "Em jogo",
@@ -36,7 +36,7 @@ window.I18N = (function() {
       items_count: "itens"
     },
     en: {
-      site_title: "Alex Silva's Profile",
+      site_title: "João Pedro's Profile",
       level: "Level",
       online: "Online",
       in_game: "In-Game",
