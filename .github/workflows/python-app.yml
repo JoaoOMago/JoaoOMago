@@ -26,6 +26,8 @@ jobs:
 
     - name: Instalar dependências
       run: pip install nekos.py
+      run: pip install Pillow.py
+      
 
     - name: Executar main.py
       run: |
