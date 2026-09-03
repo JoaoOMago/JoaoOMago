@@ -1,8 +1,9 @@
 [LinkedIn](https://www.linkedin.com/in/joão-pedro-gozzoli-b95641301/) &bull;
 [Email](joaopedrogozzoli@gmail.com) &bull;
-[X](https://x.com/jpp12prado)
+[X](https://x.com/jpp12prado) &bull;
+[Site](https://JoaoOMago.github.io/JoaoOMago)
 
-# Welcome <img src="happy.gif" height="64px" /> <img src="wave.gif" height="32px" />
+# Welcome <img src="docs/update-readme/happy.gif" height="64px" /> <img src="docs/update-readme/wave.gif" height="32px" />
 
 I am João, a  **control and automation engineering student** and **mechatronic technician** based in Brazil Br.
 
@@ -10,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8283 days**.
+Here is a random fact about me - I have been on this planet for **8284 days**.
 
-And here is a just a random fact -  **St. Louis, Missouri was the first U.S. city to host the summer Olympics in 1904**.
+And here is a just a random fact -  **Approximately 20% of Americans have a passport**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
