@@ -16,7 +16,7 @@ window.PORTFOLIO_CONFIG = {
   profile: {
     name: "João Pedro",
     handle: "@Joao-O-Mago-O-Mago",
-    level: 🗿,
+    level: "🗿",
     levelTitle: "aspiring engineer and wizard",
     status: "in-game", // "online", "in-game", ou "offline"
     statusText: {
