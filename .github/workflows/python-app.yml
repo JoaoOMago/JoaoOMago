@@ -25,8 +25,9 @@ jobs:
         python-version: 3.8
 
     - name: Instalar dependências
-      run: pip install nekos.py
-      run: pip install Pillow.py
+      run: |
+           pip install nekos.py
+           pip install Pillow.py
       
 
     - name: Executar main.py
