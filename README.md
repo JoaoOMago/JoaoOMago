@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8284 days**.
 
-And here is a just a random fact -  **In a study conducted regarding toilet paper usage, Americans are said to use the most toilet paper per trip to the bathroom, which was seven sheets of toilet paper per trip**.
+And here is a just a random fact -  **The Baltimore Orioles opened the 1988 baseball season by losing the first 21 games and 107 altogether for the entire season**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
