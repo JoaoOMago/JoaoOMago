@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8284 days**.
 
-And here is a just a random fact -  **Ancient Romans at one time used human urine as an ingredient in their toothpaste**.
+And here is a just a random fact -  **In a study conducted regarding toilet paper usage, Americans are said to use the most toilet paper per trip to the bathroom, which was seven sheets of toilet paper per trip**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 04 Sep, 2026.</sub>
