@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8284 days**.
+Here is a random fact about me - I have been on this planet for **8285 days**.
 
-And here is a just a random fact -  **May babies are on average 200 grams heavier than babies born in other months**.
+And here is a just a random fact -  **In 1955, only 330 Volkswagen Beetle's were sold at a price of $1800 each in the United States.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
