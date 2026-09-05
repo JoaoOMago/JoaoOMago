@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8285 days**.
 
-And here is a just a random fact -  **The best selling chocolate syrup in the world is Hershey**.
+And here is a just a random fact -  **The average ice berg weighs 20,000,000 tons**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
