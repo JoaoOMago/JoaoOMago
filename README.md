@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8286 days**.
 
-And here is a just a random fact -  **The first music video ever played on MTV Europe was by Dire Straits, "Money For Nothing."**.
+And here is a just a random fact -  **The difference between horns and antlers is that horns never stop growing and antlers shed and grow every year**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 06 Sep, 2026.</sub>
