@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8289 days**.
 
-And here is a just a random fact -  **Owls swallow their prey whole because they have no teeth. After approximately 12 hours they cough up the feathers, bones, and fur in a shape of a football pellet**.
+And here is a just a random fact -  **During the high feeding season, it has been estimated that an adult blue whale can eat up to 40 million krill in one day. (Krill are shrimp like creatures)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
