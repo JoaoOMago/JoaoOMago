@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8288 days**.
 
-And here is a just a random fact -  **In the movie "Gandhi" 300,000 extras appeared in the funeral scene. Of the 300,000, approximately 100,000 received a small fee, and the other 200,000 did it for free**.
+And here is a just a random fact -  **A superstition in baseball is to never lend your bat to anyone or you will be jinxed**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 07 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 08 Sep, 2026.</sub>
