@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8292 days**.
+Here is a random fact about me - I have been on this planet for **8293 days**.
 
-And here is a just a random fact -  **Former U.S. President Abraham Lincoln suffered a nervous breakdown in 1836**.
+And here is a just a random fact -  **The only poisonous birds in the world are the three species of Pitohui. The Hooded Pitohui from Papua New Guinea is the most deadliest out of the three**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
