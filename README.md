@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8293 days**.
 
-And here is a just a random fact -  **The first known contraceptive was crocodile dung, used by Egyptians in 2000 B.C**.
+And here is a just a random fact -  **MS-DOS was originally calle QDOS and was bought of the author by Microsoft for a small fee. The rest is history**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 12 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 13 Sep, 2026.</sub>
