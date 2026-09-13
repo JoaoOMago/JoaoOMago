@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8293 days**.
+Here is a random fact about me - I have been on this planet for **8294 days**.
 
-And here is a just a random fact -  **In Britain, there are approximately 50,000 pubs with 17,000 different names**.
+And here is a just a random fact -  **In the 1920's, Q-Tips were invented by Leo Gerstenzang who got the idea after watching his wife clean their baby's ears with cotton stuck onto a toothpick.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
