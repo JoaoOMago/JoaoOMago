@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8294 days**.
 
-And here is a just a random fact -  **The Earth orbits the Sun at a speed of about 108,000 km per hour**.
+And here is a just a random fact -  **Approximately 71% of American chocolate eaters prefer to eat milk chocolate**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
