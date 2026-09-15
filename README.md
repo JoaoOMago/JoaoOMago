@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8295 days**.
 
-And here is a just a random fact -  **The famous Christmas song "Jingle Bells" was written for a Thanksgiving program in 1857 by James Pierpont. At the time, the song was called "The One-Horse Open Sleigh."**.
+And here is a just a random fact -  **Smartest dogs: 1) Scottish border collie; 2) Poodle; 3) Golden retriever**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 14 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 15 Sep, 2026.</sub>
