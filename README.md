@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8298 days**.
 
-And here is a just a random fact -  **The city of Argentia which is located on Newfoundland's southwest coast, is Canada's most fog-bound community. It has 206 days of fog each year.**.
+And here is a just a random fact -  **Monopoly is the best-selling board game in the world**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 17 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 18 Sep, 2026.</sub>
