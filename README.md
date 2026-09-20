@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8301 days**.
 
-And here is a just a random fact -  **The temperature of milk when it is coming out of a cow is about 36 degrees celsius**.
+And here is a just a random fact -  **Daytime dramas are called Soap Operas because they were originally used to advertise soap powder. In America in the early days of TV, advertisers would write stories around the use of their soap powder**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
