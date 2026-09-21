@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8301 days**.
+Here is a random fact about me - I have been on this planet for **8302 days**.
 
-And here is a just a random fact -  **Printed on the tablet being held by the Statue of Liberty is July IV, MDCCLXXVI**.
+And here is a just a random fact -  **Hippos drink as much as 250 litres of water in any given 24 hour period**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
