@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8303 days**.
 
-And here is a just a random fact -  **In-vitro babies are born in Australia more than any other country in the world**.
+And here is a just a random fact -  **Jackrabbits can reach a speed of fifty miles per hour and can leap as far as twenty feet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
