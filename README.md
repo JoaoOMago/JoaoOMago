@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8303 days**.
 
-And here is a just a random fact -  **A ear trumpet was used before the hearing aid was invented by people who had difficulty hearing**.
+And here is a just a random fact -  **In most advertisements, including newspapers, the time displayed on a watch is 10:10**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
