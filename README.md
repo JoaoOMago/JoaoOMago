@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8305 days**.
 
-And here is a just a random fact -  **In 1983, a Japanese artist, Tadahiko Ogawa, made a copy of the Mona Lisa completely out of ordinary toast**.
+And here is a just a random fact -  **In Ireland, a prime minister is a called a Taoiseach**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 25 Sep, 2026.</sub>
