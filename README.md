@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8306 days**.
 
-And here is a just a random fact -  **Back in 1919, the Russian transplant pioneer Serge Voronoff made headlines by grafting monkey testicles onto human males.**.
+And here is a just a random fact -  **Tug of war was an Olympic event from 1900-1920**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
