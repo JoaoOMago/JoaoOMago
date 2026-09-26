@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8306 days**.
 
-And here is a just a random fact -  **The real name of Toto the dog in "The Wizard Of Oz" was Terry**.
+And here is a just a random fact -  **Back in 1919, the Russian transplant pioneer Serge Voronoff made headlines by grafting monkey testicles onto human males.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 25 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 26 Sep, 2026.</sub>
