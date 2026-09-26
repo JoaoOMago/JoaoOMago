@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8306 days**.
+Here is a random fact about me - I have been on this planet for **8307 days**.
 
-And here is a just a random fact -  **Baskin Robbins plain vanilla ice cream is the number one selling flavour and accounts for a quarter of their sales**.
+And here is a just a random fact -  **The Eiffel Tower weight is approximately 9441 tons**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
