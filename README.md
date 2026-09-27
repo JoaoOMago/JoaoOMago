@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8307 days**.
 
-And here is a just a random fact -  **Many insects can carry 50 times their own body weight**.
+And here is a just a random fact -  **There are more than 250,000 rivers in the United States, which amounts to 3.5 million miles of rivers**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 27 Sep, 2026.</sub>
