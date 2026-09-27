@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8308 days**.
 
-And here is a just a random fact -  **There are 336 dimples on a regulation golf ball**.
+And here is a just a random fact -  **The world camel population is close to 19 million**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
