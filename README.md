@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8309 days**.
 
-And here is a just a random fact -  **A common custom in Spain is to eat one grape for each of the last 12 seconds of every year for good luck**.
+And here is a just a random fact -  **There are over 500 different types of bananas**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 28 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 29 Sep, 2026.</sub>
