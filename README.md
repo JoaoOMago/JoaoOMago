@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8311 days**.
 
-And here is a just a random fact -  **Peaches were once known as Persian apples**.
+And here is a just a random fact -  **The Flintstones cartoon was the first thirty-minute cartoon to be aired during prime time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 30 Sep, 2026.</sub>
+<sub>Last updated by Github Actions on 01 Oct, 2026.</sub>
