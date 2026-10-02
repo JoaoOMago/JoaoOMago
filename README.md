@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8313 days**.
 
-And here is a just a random fact -  **The sentence "The quick brown fox jumps over the lazy dog." uses everyletter in the alphabet. (Developed by Western Union to Test telex/twxcommunications)**.
+And here is a just a random fact -  **Tomato ketchup is a good conditioner for the hair. It also helps get the greenish tinge that some blonde haired people get after swimming in water with chlorine in it**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
