@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8313 days**.
 
-And here is a just a random fact -  **Tomato ketchup is a good conditioner for the hair. It also helps get the greenish tinge that some blonde haired people get after swimming in water with chlorine in it**.
+And here is a just a random fact -  **A common drink for Tibetans is Butter Tea which is made out of butter, salt, and brick tea**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 02 Oct, 2026.</sub>
+<sub>Last updated by Github Actions on 03 Oct, 2026.</sub>
