@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8314 days**.
 
-And here is a just a random fact -  **One in five Americans move homes every year**.
+And here is a just a random fact -  **The first toilet stall in a public washroom is the least likely to be used. It is also the cleanest**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 Oct, 2026.</sub>
+<sub>Last updated by Github Actions on 04 Oct, 2026.</sub>
