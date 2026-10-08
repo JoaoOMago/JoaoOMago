@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8318 days**.
+Here is a random fact about me - I have been on this planet for **8319 days**.
 
-And here is a just a random fact -  **If the population of China walked past you in single file, the line would never end because of the rate of reproduction**.
+And here is a just a random fact -  **Male owls weigh less and are smaller than female owls**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
