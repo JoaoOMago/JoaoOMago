@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8319 days**.
+Here is a random fact about me - I have been on this planet for **8320 days**.
 
-And here is a just a random fact -  **A common name for pincurls is also spitcurls because woman sometimes wet their hair with their saliva before curling it**.
+And here is a just a random fact -  **Lighthouse keepers were nicknamed "wickies" because they tended the lamps wick**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
