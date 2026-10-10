@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8320 days**.
+Here is a random fact about me - I have been on this planet for **8321 days**.
 
-And here is a just a random fact -  **Since 1950, over 230 million eggs of Silly Putty have been sold**.
+And here is a just a random fact -  **The first hot air balloon flight traveled for 5.5 miles over Paris and lasted for 23 minutes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
