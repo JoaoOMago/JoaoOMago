@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8320 days**.
 
-And here is a just a random fact -  **There are an estimated 2,500 collisions between birds and planes each year in the US**.
+And here is a just a random fact -  **On December 17 1991, the Cleveland Cavaliers beat the Miami Heat 148-80, the largest margin of victory in an NBA game**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 09 Oct, 2026.</sub>
+<sub>Last updated by Github Actions on 10 Oct, 2026.</sub>
