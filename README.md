@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8321 days**.
 
-And here is a just a random fact -  **The first ice hotel was built in Swedish Lapland**.
+And here is a just a random fact -  **The world record for rocking non-stop in a rocking chair is 480 hours held by Dennis Easterling, of Atlanta, Georgia**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Oct, 2026.</sub>
+<sub>Last updated by Github Actions on 11 Oct, 2026.</sub>
