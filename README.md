@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8322 days**.
 
-And here is a just a random fact -  **Racecar driver Lee Petty once left a pitstop and did a full lap at Nascar with a pit crew member still on the hood**.
+And here is a just a random fact -  **Only President to win a Pulitzer: John F. Kennedy for "Profiles in Courage"**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 11 Oct, 2026.</sub>
+<sub>Last updated by Github Actions on 12 Oct, 2026.</sub>
