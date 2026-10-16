@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8326 days**.
+Here is a random fact about me - I have been on this planet for **8327 days**.
 
-And here is a just a random fact -  **Actress Jamie Lee Curtis invented a special diaper for babies that has a pocket**.
+And here is a just a random fact -  **Archipelago is the word to describe a large group of islands that are located close together**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
