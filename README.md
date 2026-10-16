@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8326 days**.
 
-And here is a just a random fact -  **The sun is approximately 149 million kilometres from the earth**.
+And here is a just a random fact -  **Actress Jamie Lee Curtis invented a special diaper for babies that has a pocket**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
