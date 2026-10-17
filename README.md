@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8327 days**.
 
-And here is a just a random fact -  **Casey Kasem is the voice of Shaggy on the cartoon show "Scooby-Doo." Casey Kasem, being a strict vegetarian, also requested that Shaggy follow the same diet on the show**.
+And here is a just a random fact -  **Annually 7 million tons of textiles and clothing is thrown out. Out of this, only 12% is used again or recycled**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
