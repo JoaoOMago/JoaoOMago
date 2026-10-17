@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8327 days**.
 
-And here is a just a random fact -  **Slinkys were invented by an airplane mechanic; he was playing with engine parts and realized the possible secondary use of one of the springs**.
+And here is a just a random fact -  **One ounce of chocolate has about 20 mg of caffeine in it**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 16 Oct, 2026.</sub>
+<sub>Last updated by Github Actions on 17 Oct, 2026.</sub>
