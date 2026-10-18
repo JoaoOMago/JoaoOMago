@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8329 days**.
 
-And here is a just a random fact -  **The fat from sheep, which is called tallow can be used to make soap and candles**.
+And here is a just a random fact -  **Central air conditioners use 98% more energy than ceiling fans.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
