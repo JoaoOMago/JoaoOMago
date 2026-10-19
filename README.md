@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8329 days**.
+Here is a random fact about me - I have been on this planet for **8330 days**.
 
-And here is a just a random fact -  **Diabetes is the fourth leading cause of death in the U.S., accounting for about 180,000 deaths per year**.
+And here is a just a random fact -  **The water displacement product, WD-40, can be found in 80% of American homes**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
