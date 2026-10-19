@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8330 days**.
 
-And here is a just a random fact -  **There are an estimated 2,500 collisions between birds and planes each year in the US**.
+And here is a just a random fact -  **An apple, potato, and onion all taste the same if you eat them with your nose plugged. They all taste sweet**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
