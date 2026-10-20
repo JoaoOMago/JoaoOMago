@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8330 days**.
 
-And here is a just a random fact -  **It cost the soft drink industry $100 million a year for thefts committed involving vending machines**.
+And here is a just a random fact -  **The cross bow was invented by the Chinese and records of its usage goes back to as far as the Three Kingdom Period (220 a.d.-280 a.d.).**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
