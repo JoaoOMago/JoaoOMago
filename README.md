@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8331 days**.
 
-And here is a just a random fact -  **About 26 per cent of all indoor water used by households in Sydney, Australia are for laundry**.
+And here is a just a random fact -  **France, Switzerland, United Kingdom, Greece, and Australia have always been in the modern Olympics since it began in 1896**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
