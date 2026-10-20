@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8331 days**.
 
-And here is a just a random fact -  **France, Switzerland, United Kingdom, Greece, and Australia have always been in the modern Olympics since it began in 1896**.
+And here is a just a random fact -  **Over 4.5 billion sticks have Trident gum have been chewed. If the stick of gum were laid out end to end they could circle the globe approximately 1.8 times**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
