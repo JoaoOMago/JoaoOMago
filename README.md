@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8331 days**.
 
-And here is a just a random fact -  **Over 4.5 billion sticks have Trident gum have been chewed. If the stick of gum were laid out end to end they could circle the globe approximately 1.8 times**.
+And here is a just a random fact -  **Being lactose intolerant can cause chronic flatulence**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 20 Oct, 2026.</sub>
+<sub>Last updated by Github Actions on 21 Oct, 2026.</sub>
