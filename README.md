@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8332 days**.
+Here is a random fact about me - I have been on this planet for **8333 days**.
 
-And here is a just a random fact -  **In a day 34,000 children die every day from causes that are related to poverty and hunger**.
+And here is a just a random fact -  **The largest hotel in the world is the MGM Grand, which has 5,034 rooms and is located in Las Vegas, Nevada**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
