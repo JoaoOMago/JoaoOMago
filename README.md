@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8333 days**.
+Here is a random fact about me - I have been on this planet for **8334 days**.
 
-And here is a just a random fact -  **The largest spider ever was the Megarachne which had a diameter of 50 cm. The fossil was found in Argentina**.
+And here is a just a random fact -  **Instead of a birthday cake, many children in Russia are given a birthday pie**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
