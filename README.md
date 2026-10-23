@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8333 days**.
 
-And here is a just a random fact -  **Thailand used to be called Siam**.
+And here is a just a random fact -  **A starfish can turn its stomach inside out**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 22 Oct, 2026.</sub>
+<sub>Last updated by Github Actions on 23 Oct, 2026.</sub>
