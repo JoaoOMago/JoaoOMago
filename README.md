@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8335 days**.
 
-And here is a just a random fact -  **African Baobab tree's circumference can reach 180 feet. If the trunk is hollow, 20 people would be able to fit inside of it.**.
+And here is a just a random fact -  **In 1970, Chip maker Intel purchased a pear orchard to build their corporate headquarters on**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
