@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8334 days**.
+Here is a random fact about me - I have been on this planet for **8335 days**.
 
-And here is a just a random fact -  **Bruce Lee was so fast, that they actually had to slow a film down so you could see his moves. That is the opposite of the norm**.
+And here is a just a random fact -  **African Baobab tree's circumference can reach 180 feet. If the trunk is hollow, 20 people would be able to fit inside of it.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
