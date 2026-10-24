@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8335 days**.
 
-And here is a just a random fact -  **Studies have shown that classical music helps cows produce more milk**.
+And here is a just a random fact -  **The human body has approximately 37,000 miles of capillaries**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
