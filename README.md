@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8335 days**.
 
-And here is a just a random fact -  **38% of Americans eat breakfast everyday**.
+And here is a just a random fact -  **The Canadian province of New Brunswick had a bloodless war with the US state of Maine in 1839**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 24 Oct, 2026.</sub>
+<sub>Last updated by Github Actions on 25 Oct, 2026.</sub>
