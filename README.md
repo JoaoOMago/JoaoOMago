@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8335 days**.
+Here is a random fact about me - I have been on this planet for **8336 days**.
 
-And here is a just a random fact -  **All 50 states are listed across the top of the Lincoln Memorial on the back of the $5.00 bill**.
+And here is a just a random fact -  **The best time for a person to buy shoes is in the afternoon. This is because the foot tends to swell a bit around this time**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
