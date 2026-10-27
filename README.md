@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8337 days**.
 
-And here is a just a random fact -  **Bamboo plants can grow up to 36 inches in a day.**.
+And here is a just a random fact -  **The Nobel Peace prize was first awarded in 1901 to Jean Henry Dunant, who was the founder of the Swiss Red Cross**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Oct, 2026.</sub>
+<sub>Last updated by Github Actions on 27 Oct, 2026.</sub>
