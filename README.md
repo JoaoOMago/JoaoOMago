@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8340 days**.
+Here is a random fact about me - I have been on this planet for **8341 days**.
 
-And here is a just a random fact -  **In 1992, when EuroDisney first opened in France, the public beat some of the park characters because at the time most people had been against the park being built**.
+And here is a just a random fact -  **The Chinese politician Mao Zedong refused to ever brush his teeth and instead just washed his mouth with tea**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
