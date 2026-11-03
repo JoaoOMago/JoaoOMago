@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8344 days**.
+Here is a random fact about me - I have been on this planet for **8345 days**.
 
-And here is a just a random fact -  **Racecar driver Lee Petty once left a pitstop and did a full lap at Nascar with a pit crew member still on the hood**.
+And here is a just a random fact -  **The dumbest dog in the world is the Afghan Hounds**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
