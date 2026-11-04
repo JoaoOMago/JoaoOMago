@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8345 days**.
 
-And here is a just a random fact -  **It is physically impossible for pigs to look up into the sky**.
+And here is a just a random fact -  **A cockroach can change directions up to 25 times in a second**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 03 Nov, 2026.</sub>
+<sub>Last updated by Github Actions on 04 Nov, 2026.</sub>
