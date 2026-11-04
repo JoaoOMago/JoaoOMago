@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8345 days**.
+Here is a random fact about me - I have been on this planet for **8346 days**.
 
-And here is a just a random fact -  **The mythical Scottish town of Brigadoon appears for one day every one hundred years**.
+And here is a just a random fact -  **The Liberty Bell was the first mechanical slot machine, which was invented by Charles Fey, a car mechanic in 1895.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
