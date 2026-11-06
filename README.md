@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8347 days**.
 
-And here is a just a random fact -  **There are more than 50 different types of pumpkins. Some of them have names such as Munchkin, Funny Face, and Spooktacular**.
+And here is a just a random fact -  **From 1526 to 1707, the first six Mogul emperors of India ruled in unbroken succession from father to son**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 05 Nov, 2026.</sub>
+<sub>Last updated by Github Actions on 06 Nov, 2026.</sub>
