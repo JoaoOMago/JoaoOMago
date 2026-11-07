@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8348 days**.
 
-And here is a just a random fact -  **Hydrogen is the most common atom in the universe**.
+And here is a just a random fact -  **Minnows have teeth located on a bone in their throat**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 06 Nov, 2026.</sub>
+<sub>Last updated by Github Actions on 07 Nov, 2026.</sub>
