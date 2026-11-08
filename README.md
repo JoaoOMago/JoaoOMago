@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8349 days**.
 
-And here is a just a random fact -  **Honolulu, Hawaii boasts the only royal palace in the United States of America**.
+And here is a just a random fact -  **More than 3000 years ago children played with circular hoops made with grape vines. This toy was swung around the waist. Years later this toy was made by company called Wham-O and the Hula-Hoop was invented in 1958**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 07 Nov, 2026.</sub>
+<sub>Last updated by Github Actions on 08 Nov, 2026.</sub>
