@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8350 days**.
+Here is a random fact about me - I have been on this planet for **8351 days**.
 
-And here is a just a random fact -  **The only commercial aircraft that is able to break the sound barrier is the Concorde.**.
+And here is a just a random fact -  **On average, a person will spend about five years eating during their lifetime**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
