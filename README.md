@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8352 days**.
 
-And here is a just a random fact -  **On average, an American home has 3-10 gallons of hazardous materials**.
+And here is a just a random fact -  **A famous bullfighter, Lagarijo, killed 4,867 bulls in the 19th century.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 10 Nov, 2026.</sub>
+<sub>Last updated by Github Actions on 11 Nov, 2026.</sub>
