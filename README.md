@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8354 days**.
+Here is a random fact about me - I have been on this planet for **8355 days**.
 
-And here is a just a random fact -  **More than 3000 years ago children played with circular hoops made with grape vines. This toy was swung around the waist. Years later this toy was made by company called Wham-O and the Hula-Hoop was invented in 1958**.
+And here is a just a random fact -  **In 1477, the first diamond engagement ring was given to Mary of Burgundy by Archduke Maximillian of Austria**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
