@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8355 days**.
 
-And here is a just a random fact -  **In 1477, the first diamond engagement ring was given to Mary of Burgundy by Archduke Maximillian of Austria**.
+And here is a just a random fact -  **By weight, the sun is 70% hydrogen, 28% helium, 1.5% carbon, nitrogen, and oxygen, and 0.5% all other elements.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
