@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8355 days**.
+Here is a random fact about me - I have been on this planet for **8356 days**.
 
-And here is a just a random fact -  **Herbert Hoover, who was the 31st president of the United Stated, turned over all the Federal salary checks he received to charity during the 47 years he was in government**.
+And here is a just a random fact -  **If an identical twin grows up without having a certain tooth, the other twin will most likely also grow up with that tooth missing**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
