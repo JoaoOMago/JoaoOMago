@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8356 days**.
 
-And here is a just a random fact -  **David Rice Atchinson was President of the United States for exactly one day. This happened due to a glitch in American law at the time. new**.
+And here is a just a random fact -  **The longest recorded duration of a total solar eclipse was 7.5 minutes.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
