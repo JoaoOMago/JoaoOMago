@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8356 days**.
 
-And here is a just a random fact -  **If an identical twin grows up without having a certain tooth, the other twin will most likely also grow up with that tooth missing**.
+And here is a just a random fact -  **David Rice Atchinson was President of the United States for exactly one day. This happened due to a glitch in American law at the time. new**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
