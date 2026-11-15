@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8356 days**.
+Here is a random fact about me - I have been on this planet for **8357 days**.
 
-And here is a just a random fact -  **The average person changes their career every 13 years**.
+And here is a just a random fact -  **Scatologists are experts who study feces. (aka. crap, dung, dookie, dumps, feces, excrement, etc.)**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
