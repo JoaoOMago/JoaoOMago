@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8360 days**.
+Here is a random fact about me - I have been on this planet for **8361 days**.
 
-And here is a just a random fact -  **Some arthritis medications contain gold salts, which is used as an anti-inflammatory**.
+And here is a just a random fact -  **65% of the candy that is produced in an year is consumed by American adults 18 years and older**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
