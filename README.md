@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8362 days**.
 
-And here is a just a random fact -  **A dog by the name of Laika was launched into space aboard the Russian spacecraft Sputnik 2 in 1957**.
+And here is a just a random fact -  **Most cows give more milk when they listen to music**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
