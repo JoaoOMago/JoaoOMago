@@ -13,7 +13,7 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8364 days**.
 
-And here is a just a random fact -  **On average people fear spiders more than they do death**.
+And here is a just a random fact -  **There was an army general during the Liberia Civil War who used to lead his army into battle naked. His nickname was "General Butt Naked." Joshua Milton Blahyi (his real name) is now an evangelical preacher in Monrovia**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
