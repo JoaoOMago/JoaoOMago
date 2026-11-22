@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8363 days**.
 
-And here is a just a random fact -  **Over 1,600 people in North America have been victims of trunk entrapment (being locked inside of a car trunk)**.
+And here is a just a random fact -  **85% of weddings are held in a synagogue or church**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 21 Nov, 2026.</sub>
+<sub>Last updated by Github Actions on 22 Nov, 2026.</sub>
