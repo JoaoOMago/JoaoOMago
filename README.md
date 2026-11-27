@@ -13,8 +13,8 @@ I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic tec
 
 Here is a random fact about me - I have been on this planet for **8368 days**.
 
-And here is a just a random fact -  **A group of crows is called a murder**.
+And here is a just a random fact -  **There are more plastic flamingos in America than real ones**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
-<sub>Last updated by Github Actions on 26 Nov, 2026.</sub>
+<sub>Last updated by Github Actions on 27 Nov, 2026.</sub>
