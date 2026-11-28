@@ -11,9 +11,9 @@ Currently, I am studying as a **control and automation engineering** at [Unifei]
 
 I did my high school education at ETEC Pedro Ferreira alves as a Mechatronic technician in Mogi Mirim.
 
-Here is a random fact about me - I have been on this planet for **8369 days**.
+Here is a random fact about me - I have been on this planet for **8370 days**.
 
-And here is a just a random fact -  **Some of the titles that were considered for the hit T.V. show "Friends" were Six Of One, Across the Hall, and Insomnia Cafe**.
+And here is a just a random fact -  **If all the gold sitting in the oceans and seas were mined, every person on this plant would get about 20 kilograms of gold each.**.
 
 ![JoãoOMago's GitHub Profile View Count](https://komarev.com/ghpvc/?username=JoaoOMago)
 
